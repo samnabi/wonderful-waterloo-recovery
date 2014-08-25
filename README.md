@@ -8,10 +8,10 @@ How can I help?
 
 **Upload pages/images from your local cache**. If you visited WonderfulWaterloo.com recently before it was taken offline, you may have local copies of those pages saved in your browser's cache. Use one of the methods below to save *anything you can* related to `wonderfulwaterloo.com`. Even if it seems irrelevant, don't delete it.
 
-    - Chrome - use this cache viewing tool: http://www.sensefulsolutions.com/2012/01/viewing-chrome-cache-easy-way.html
-    - Firefox - use this extension: https://addons.mozilla.org/en-US/firefox/addon/cacheviewer/
-    - Internet Explorer - go to `Tools` > `Internet Options` > `General` tab > `Temporary Internet Files` > `Settings` button > `View Files` button
-    - Safari - use this app: http://echoone.com/filejuicer/
+- Chrome - use this cache viewing tool: http://www.sensefulsolutions.com/2012/01/viewing-chrome-cache-easy-way.html
+- Firefox - use this extension: https://addons.mozilla.org/en-US/firefox/addon/cacheviewer/
+- Internet Explorer - go to `Tools` > `Internet Options` > `General` tab > `Temporary Internet Files` > `Settings` button > `View Files` button
+- Safari - use this app: http://echoone.com/filejuicer/
 
 > Once you've located your local cache of WonderfulWaterloo pages/assets, please submit a pull request so I can add them here. Or, if you're not familiar with git, get a hold of me at sam@samnabi.com.
 
