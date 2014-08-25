@@ -1,7 +1,7 @@
 WonderfulWaterloo.com data recovery
 ===========================
 
-WonderfulWaterloo.com, a thriving, vibrant community for urban issues in Waterloo Region, has been taken offline. Its future in uncertain. But archived copies of its content are scattered around the web. Hopefully we can rebuild some of what was lost.
+WonderfulWaterloo.com, a thriving, vibrant community for urban issues in Waterloo Region, has been taken offline. Its future is uncertain. But archived copies of its content are scattered around the web. Hopefully we can rebuild some of what was lost.
 
 How can I help?
 ===============
