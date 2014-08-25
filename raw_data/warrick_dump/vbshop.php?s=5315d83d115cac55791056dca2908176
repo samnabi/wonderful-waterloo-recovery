@@ -1,0 +1,1280 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+  <!-- BEGIN TEMPLATE: dbtech_vbshop -->
+  
+  <html xmlns="http://www.w3.org/1999/xhtml"  dir="ltr" lang="en" id="vbulletin_html">
+  <head>
+  
+  <script type="text/javascript" src="/static/js/analytics.js" ></script>
+  <link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+  
+  
+  
+  
+  	<!-- BEGIN TEMPLATE: headinclude -->
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+  <meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.wonderfulwaterloo.com" />
+    <meta name="generator" content="vBulletin 4.2.0" />
+  
+  	<link rel="Shortcut Icon" href="/web/20121122165427im_/http://www.wonderfulwaterloo.com/favicon.ico" type="image/x-icon" />
+  
+  
+  		<meta name="keywords" content="wonderful,waterloo,ontario,canada,wonderfulwaterloo,forum,post,city,urban,vbulletin,jelsoft,forum,bbs,discussion,bulletin board" />
+  		<meta name="description" content="A discussion forum for development, transportation, arts, culture and events in Waterloo Region, Canada." />
+  
+  
+  
+  
+  
+  	
+  		<script type="text/javascript" src="/web/20121122165427js_/http://yui.yahooapis.com/combo?2.9.0/build/yuiloader-dom-event/yuiloader-dom-event.js&amp;2.9.0/build/connection/connection-min.js"></script>
+  	
+  
+  <script type="text/javascript">
+  <!--
+  	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+  	{
+  		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=420"><\/script>');
+  		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=420"><\/script>');
+  		var yuipath = 'clientscript/yui';
+  		var yuicombopath = '';
+  		var remoteyui = false;
+  	}
+  	else	// Load Rest of YUI remotely (where possible)
+  	{
+  		var yuipath = '/web/20121122165427/http://yui.yahooapis.com/2.9.0/build';
+  		var yuicombopath = '/web/20121122165427/http://yui.yahooapis.com/combo';
+  		var remoteyui = true;
+  		if (!yuicombopath)
+  		{
+  			document.write('<script type="text/javascript" src="/web/20121122165427/http://yui.yahooapis.com/2.9.0/build/connection/connection-min.js"><\/script>');
+  		}
+  	}
+  	var SESSIONURL = "s=10a7c55b5d4e8a30bef2c73eb499b24f&";
+  	var SECURITYTOKEN = "guest";
+  	var IMGDIR_MISC = "images/misc";
+  	var IMGDIR_BUTTON = "images/buttons";
+  	var vb_disable_ajax = parseInt("0", 10);
+  	var SIMPLEVERSION = "420";
+  	var BBURL = "/web/20121122165427/http://www.wonderfulwaterloo.com";
+  	var LOGGEDIN = 0 > 0 ? true : false;
+  	var THIS_SCRIPT = "vbshop";
+  	var RELPATH = "vbshop.php";
+  	var PATHS = {
+  		forum : "",
+  		cms   : "",
+  		blog  : ""
+  	};
+  	var AJAXBASEURL = "/web/20121122165427/http://www.wonderfulwaterloo.com/";
+  // -->
+  </script>
+  <script type="text/javascript" src="/web/20121122165427js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin-core.js?v=420"></script>
+  
+  
+  
+  	<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2" />
+  	
+  
+  
+  
+  	<link rel="stylesheet" type="text/css" href="/web/20121122165427cs_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_css/style00002l/main-rollup.css?d=1353016940" />
+          
+  
+  	<!--[if lt IE 8]>
+  	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00002l/popupmenu-ie.css?d=1353016940" />
+  	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00002l/vbulletin-ie.css?d=1353016940" />
+  	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00002l/vbulletin-chrome-ie.css?d=1353016940" />
+  	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00002l/vbulletin-formcontrols-ie.css?d=1353016940" />
+  	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00002l/editor-ie.css?d=1353016940" />
+  	<![endif]-->
+  
+  
+  <!-- END TEMPLATE: headinclude --><!-- BEGIN TEMPLATE: dbtech_vbshop_member_css -->
+  <link rel="stylesheet" type="text/css" href="/web/20121122165427cs_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_css/style00002l/dbtech_vbshop_member.css" />
+  <link rel="stylesheet" type="text/css" href="/web/20121122165427cs_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_css/style00002l/dbtech_vbshop_compat.css" />
+  <!-- END TEMPLATE: dbtech_vbshop_member_css -->
+  	
+  		<link rel="stylesheet" type="text/css" href="/web/20121122165427cs_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_css/style00002l/usercp.css" />
+  		<link rel="stylesheet" type="text/css" href="/web/20121122165427cs_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_css/style00002l/dbtech_vbshop.css" />
+  	
+  	
+  	<!--[if IE 6]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00002l/usercp-ie.css" /><![endif]-->
+  	
+  	
+  	<script type="text/javascript" src="/web/20121122165427js_/http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+  	<script type="text/javascript" src="/web/20121122165427js_/http://www.wonderfulwaterloo.com/dbtech/vbshop/clientscript/vbshop.js?v=300"></script>
+  	
+  	<title>Shop - Wonderful Waterloo</title>
+  	
+  	<!-- BEGIN TEMPLATE: headinclude_bottom -->
+  <link rel="stylesheet" type="text/css" href="/web/20121122165427cs_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_css/style00002l/additional.css?d=1353016940" />
+  
+  <!-- END TEMPLATE: headinclude_bottom -->
+  </head>
+  
+  <body>
+  
+  
+  
+  <!-- BEGIN TEMPLATE: header -->
+  <!-- Momentum advertisement right transparent background strip -->
+  <div style="position: fixed; width: 240px; margin-left: 1002px; height: 100%; background-color: #000000; opacity: .7;"></div> 
+  
+  
+  
+  	<form action="/web/20121122165427/http://www.wonderfulwaterloo.com/profile.php?do=dismissnotice" method="post" id="notices" class="notices">
+  		<input type="hidden" name="do" value="dismissnotice" />
+  		<input type="hidden" name="s" value="s=10a7c55b5d4e8a30bef2c73eb499b24f&amp;" />
+  		<input type="hidden" name="securitytoken" value="guest" />
+  		<input type="hidden" id="dismiss_notice_hidden" name="dismiss_noticeid" value="" />
+  		<input type="hidden" name="url" value="" />
+  		<ol>
+  			<!-- BEGIN TEMPLATE: navbar_noticebit -->
+  <li class="restore" id="navbar_notice_1">
+  	
+  	<center><font style="font-size:13px;">We're a <b>Waterloo Region</b> based website, with a <a href="/web/20121122165427/http://www.wonderfulwaterloo.com/showthread.php/727-Wonderful-Waterloo-Urban-Reward-Program"><b>Reward Program</b></a> to boost our downtown cores. <a href="/web/20121122165427/http://www.wonderfulwaterloo.com/register.php?s=10a7c55b5d4e8a30bef2c73eb499b24f&amp;" target="_blank"><b>Register</b></a>
+  		today so you can join the <u>local</u> conversation.<!-- <br/>To view posts,
+  		select the <a href="/web/20121122165427/http://www.wonderfulwaterloo.com/forum.php"><b>Forum</b></a> you want to visit or check out <a href="/web/20121122165427/http://www.wonderfulwaterloo.com/search.php?do=getdaily&contenttype=vBForum_Post"><b>What's New</b></a>.--></font></center>
+  </li>
+  <!-- END TEMPLATE: navbar_noticebit -->
+  		</ol>
+  	</form>
+  
+  
+  
+  <div class="above_body"> <!-- closing tag is in template navbar -->
+  <div id="header" class="floatcontainer doc_header" >
+  	<div id="toplinks" class="toplinks">
+  		
+  			<ul class="nouser">
+  			
+  				<li><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/register.php?s=10a7c55b5d4e8a30bef2c73eb499b24f" rel="nofollow">Register</a></li>
+  			
+  				<li>
+  			<script type="text/javascript" src="/web/20121122165427js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_md5.js?v=420"></script>
+  			<form id="navbar_loginform" action="/web/20121122165427/http://www.wonderfulwaterloo.com/login.php?s=10a7c55b5d4e8a30bef2c73eb499b24f&amp;do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+  				<div id="remember" class="remember" style="position:absolute; left:-102px; top:3px">
+  					<label for="cb_cookieuser_navbar">Stay Logged In:  <input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" /></label>
+  				</div>
+  				<fieldset id="logindetails" class="logindetails">
+  					<div>
+  					<img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/images/icons/username.png" alt="Username" style="padding-top:2px; padding-right:2px;" /><input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" />
+  					<img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/images/icons/password.png" alt="Password" style="padding-top:2px;" /><input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10" />
+  					<input type="text" class="textbox default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Password" style="display:none;" />
+  					<input type="submit" class="loginbutton" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s" />
+  					</div>
+  				</fieldset>
+  				<input type="hidden" name="s" value="10a7c55b5d4e8a30bef2c73eb499b24f" />
+  				<input type="hidden" name="securitytoken" value="guest" />
+  				<input type="hidden" name="do" value="login" />
+  				<input type="hidden" name="vb_login_md5password" />
+  				<input type="hidden" name="vb_login_md5password_utf" />
+  			</form>
+  			<script type="text/javascript">
+  			YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+  			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+  			vB_XHTML_Ready.subscribe(function()
+  			{
+  			//
+  				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+  				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+  				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+  				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+  			});
+  			
+  			function navbar_username_focus(e)
+  			{
+  			//
+  				var textbox = YAHOO.util.Event.getTarget(e);
+  				if (textbox.value == 'User Name')
+  				{
+  				//
+  					textbox.value='';
+  					textbox.style.color='#000000';
+  				}
+  			}
+  
+  			function navbar_username_blur(e)
+  			{
+  			//
+  				var textbox = YAHOO.util.Event.getTarget(e);
+  				if (textbox.value == '')
+  				{
+  				//
+  					textbox.value='User Name';
+  					textbox.style.color='#777777';
+  				}
+  			}
+  			
+  			function navbar_password_hint(e)
+  			{
+  			//
+  				var textbox = YAHOO.util.Event.getTarget(e);
+  				
+  				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+  				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+  				YAHOO.util.Dom.get('navbar_password').focus();
+  			}
+  
+  			function navbar_password(e)
+  			{
+  			//
+  				var textbox = YAHOO.util.Event.getTarget(e);
+  				
+  				if (textbox.value == '')
+  				{
+  					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+  					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+  				}
+  			}
+  			</script>
+  				</li>
+  				
+  			</ul>
+  		
+  	</div>
+  	<div style="padding-top: 23px;"><a name="top" href="/web/20121122165427/http://www.wonderfulwaterloo.com/forum.php?s=10a7c55b5d4e8a30bef2c73eb499b24f" class="logo-image"><img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/images/WW/LogoDec82010.jpg" alt="Wonderful Waterloo - Powered by the Citizens of Waterloo Region" width="100%" /></a></div>
+  	<div class="ad_global_header">
+  		<!-- BEGIN TEMPLATE: ad_global_header1 -->
+   
+  <!-- END TEMPLATE: ad_global_header1 -->
+  		<!-- BEGIN TEMPLATE: ad_global_header2 -->
+   
+  <!-- END TEMPLATE: ad_global_header2 -->
+  	</div>
+  	<hr />
+  
+  <script type="text/javascript">
+  
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-20199168-1']);
+    _gaq.push(['_setLocalRemoteServerMode']);
+    _gaq.push(['_trackPageview']);
+  
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? '/web/20121122165427/https://ssl' : '/web/20121122165427/http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  
+  </script>
+  
+  <script type="text/javascript">
+  function toggleMe(a){
+  var e=document.getElementById(a);
+  if(!e)return true;
+  if(e.style.display=="none"){
+  e.style.display="block"
+  }
+  else{
+  e.style.display="none"
+  }
+  return true;
+  }
+  </script>
+  
+  </div>
+  <!-- END TEMPLATE: header -->
+  
+  <!-- BEGIN TEMPLATE: navbar -->
+  <div id="navbar" class="navbar">
+  	<ul id="navtabs" class="navtabs floatcontainer">
+  		
+  		<!-- BEGIN TEMPLATE: navbar_tabs -->
+  
+  	<li id="vbtab_cms">
+  		<a class="navtab" href="/web/20121122165427/http://www.wonderfulwaterloo.com/content.php?s=10a7c55b5d4e8a30bef2c73eb499b24f">Home</a>
+  		
+  	</li>
+  
+  	<li class="selected" id="vbtab_forum">
+  		<a class="navtab" href="/web/20121122165427/http://www.wonderfulwaterloo.com/forum.php?s=10a7c55b5d4e8a30bef2c73eb499b24f">Forum</a>
+  		
+  			<ul class="floatcontainer">
+  				
+  					
+  						<li class="popupmenu" id="vbmenu_community">
+  							<a href="javascript://" class="popupctrl">Community</a>
+  							<ul class="popupbody popuphover">
+  								
+  									<li id="vbclink_members"><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/memberlist.php?s=10a7c55b5d4e8a30bef2c73eb499b24f">Member List</a></li>
+  								
+  									<li id="link_ode0_780"><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/vbshop.php?s=10a7c55b5d4e8a30bef2c73eb499b24f">vBShop</a></li>
+  								
+  								
+  							</ul>
+  						</li>
+  					
+  				
+  					
+  						<li class="popupmenu" id="vbmenu_qlinks">
+  							<a href="javascript://" class="popupctrl">Quick Links</a>
+  							<ul class="popupbody popuphover">
+  								
+  									<li id="vbqlink_posts"><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/search.php?s=10a7c55b5d4e8a30bef2c73eb499b24f&amp;do=getdaily&amp;contenttype=vBForum_Post">Today's Posts</a></li>
+  								
+  									<li id="vbqlink_leaders"><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/showgroups.php?s=10a7c55b5d4e8a30bef2c73eb499b24f">View Site Leaders</a></li>
+  								
+  									<li id="vbalink_mfr"><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/forumdisplay.php?s=10a7c55b5d4e8a30bef2c73eb499b24f&amp;do=markread&amp;markreadhash=guest">Mark Forums Read</a></li>
+  								
+  								
+  							</ul>
+  						</li>
+  					
+  				
+  				
+  			</ul>
+  		
+  	</li>
+  
+  	<li id="vbtab_whatsnew">
+  		<a class="navtab" href="/web/20121122165427/http://www.wonderfulwaterloo.com/search.php?do=getnew&amp;contenttype=vBForum_Post">New</a>
+  		
+  	</li>
+  
+  <!-- END TEMPLATE: navbar_tabs -->
+  		<li class="popupmenu"><a href="javascript://" class="popupctrl navtab" style="background:transparent">About</a><ul class="popupbody popuphover"><li style="text-indent: 0px;"><a style="color:" href="/web/20121122165427/http://www.wonderfulwaterloo.com/about.php" target="_self">Welcome</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20121122165427/http://www.wonderfulwaterloo.com/misc.php?do=showrules" target="_self">Code Of Conduct</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20121122165427/http://www.wonderfulwaterloo.com/showthread.php?t=727" target="_self">WW 'Money'</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20121122165427/http://www.wonderfulwaterloo.com/group.php" target="_self">Groups</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20121122165427/http://www.wonderfulwaterloo.com/blog.php" target="_self">Blogs</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20121122165427/http://www.wonderfulwaterloo.com/faq.php" target="_self">FAQ</a></li></ul></li><li class="popupmenu"><a href="javascript://" class="popupctrl navtab" style="background:transparent">Calendars</a><ul class="popupbody popuphover"><li style="text-indent: 0px;"><a style="color:" href="/web/20121122165427/http://www.wonderfulwaterloo.com/calendar.php?calendarid=1" target="_self">General Events</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20121122165427/http://www.wonderfulwaterloo.com/calendar.php?calendarid=2" target="_self">Arts, Culture & Heritage</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20121122165427/http://www.wonderfulwaterloo.com/calendar.php?calendarid=3" target="_self">Sports & Recreation</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20121122165427/http://www.wonderfulwaterloo.com/calendar.php?calendarid=4" target="_self">Business</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20121122165427/http://www.wonderfulwaterloo.com/calendar.php?calendarid=6" target="_self">Food Deals</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20121122165427/http://www.wonderfulwaterloo.com/calendar.php?calendarid=5" target="_self">Nightlife</a></li></ul></li><li class="popupmenu"><a href="javascript://" class="popupctrl navtab" style="background:transparent">Features</a><ul class="popupbody popuphover"><li style="text-indent: 0px;"><a style="color:" href="/web/20121122165427/http://www.wonderfulwaterloo.com/maps.php" target="_self">Maps</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20121122165427/http://www.wonderfulwaterloo.com/statistics.php" target="_self">Statistics</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20121122165427/http://wonderfulwaterloo.com/links.php" target="_self">Local Links</a></li></ul></li><li ><a class='navtab' href='/web/20121122165427/http://www.wonderfulwaterloo.com/shop.php' target='_self'> Shop</a></li>
+  	</ul>
+  	
+  		<div id="globalsearch" class="globalsearch">
+  			<form action="/web/20121122165427/http://www.wonderfulwaterloo.com/search.php?s=10a7c55b5d4e8a30bef2c73eb499b24f&amp;do=process" method="post" id="navbar_search" class="navbar_search">
+  				
+  				<input type="hidden" name="securitytoken" value="guest" />
+  				<input type="hidden" name="do" value="process" />
+  				<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
+  				<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
+  			</form>
+  		</div>
+  	
+  </div>
+  </div><!-- closing div for above_body -->
+  
+  
+  
+  
+  
+  <!-- top advertisement house 
+  
+  <a href="/web/20121122165427/http://www.wonderfulwaterloo.com/advertising.php"><img src="/web/20121122165427/http://wonderfulwaterloo.com/advertising/WWAdHorizontal.jpg" width="992px" /></a>
+  <div style="position: relative; top:-16px; height:16px; background:white; text-align:right; float:right;">&nbsp;<a href="/web/20121122165427/http://www.wonderfulwaterloo.com/advertising.php" style="color:#1E1E1E; font-size:10px;">Advertise Here</a>&nbsp;</div>
+   -->
+  
+  
+  <!-- City Centre top advertisement 
+  
+  <a href="/web/20121122165427/http://www.citycentreliving.ca"><img src="/web/20121122165427/http://wonderfulwaterloo.com/advertising/2012/AndrinCityCentre/AndrinCityCentre.gif" width="992px" /></a>
+   -->
+  
+  
+  
+  <!-- side advertisements -->
+  
+  <!-- house advertisement left 
+  <div style="position: fixed;  width: 120px;margin-left: -132px; text-align:right;"><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/advertising.php" style="color:#1E1E1E;"><img src="/web/20121122165427/http://wonderfulwaterloo.com/advertising/WWAds.jpg" width="120px" height="240px">Advertise Here</a></div> -->
+  
+  <!-- mardi gras advertisement left
+  <div style="position: fixed;  width: 120px;margin-left: -132px; text-align:right;"><a href="/web/20121122165427/http://icedogsfestivalwaterloo.ca/mardigrasnorth.html""><img src="/web/20121122165427/http://wonderfulwaterloo.com/advertising/2012/MardiGrasNorth/MardiGrasNorthAd.jpg" width="120px" height="240px"></a><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/advertising.php" style="color:#1E1E1E;">Advertise Here</a></div> -->
+  
+  <!-- Chris Kolednik advertisement left 
+  <div style="position: fixed;  width: 120px;margin-left: -132px; text-align:right;"><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/chriskolednik.php""><img src="/web/20121122165427/http://wonderfulwaterloo.com/advertising/2012/ChrisKolednik/Advertisment.jpg" width="120px" height="240px"></a><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/advertising.php" style="color:#1E1E1E;">Advertise Here</a></div> -->
+  
+  <!-- TannerySchoolOfMusic advertisement left 
+  <div style="position: fixed;  width: 120px;margin-left: -132px; text-align:right;"><a href="/web/20121122165427/http://www.tanneryschoolofmusic.com"><img src="/web/20121122165427/http://wonderfulwaterloo.com/advertising/2012/TannerySchoolOfMusic/TannerySchoolOfMusicAd.jpg" width="120px" height="240px"></a><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/advertising.php" style="color:#1E1E1E;">Advertise Here</a></div> -->
+  
+  <!-- Waterloo Air Show advertisement left 
+  <div style="position: fixed;  width: 120px;margin-left: -132px; text-align:right;"><a href="/web/20121122165427/http://www.waterlooairshow.com/"><img src="/web/20121122165427/http://wonderfulwaterloo.com/advertising/2012/Waterloo%20Air%20Show/WaterlooAirShow.jpg" width="120px" height="240px"></a><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/advertising.php" style="color:#1E1E1E;">Advertise Here</a></div> -->
+  
+  
+  
+  <!-- house advertisement right 
+  <div style="position: fixed;  width: 120px;margin-left: 1002px;"><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/advertising.php" style="color:#1E1E1E;"><img src="/web/20121122165427/http://wonderfulwaterloo.com/advertising/WWAds.jpg" width="120px" height="240px">Advertise Here</a></div> -->
+  
+  
+  <!-- Momentum advertisement right 
+  <div style="position: fixed;  width: 240px;margin-left: 1002px;"><a href="/web/20121122165427/https://www.surveymonkey.com/s/momentumdevelopments"><img src="/web/20121122165427/http://wonderfulwaterloo.com/advertising/2012/Momentum/MTM-WonderfulWaterloo-ad-240x300-Ad.png" width="240px" height="300px" title="Click Here to Take Survey"></a><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/advertising.php" style="color:#5E5E5E; float: right; padding-right: 5px;">Advertise Here</a></div> -->
+  
+  
+  <!-- WRIF November 2012 right -->
+  <div style="position: fixed;  width: 240px;margin-left: 1002px;"><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/showthread.php?t=1434"><img src="/web/20121122165427im_/http://wonderfulwaterloo.com/wdrive/Economy/WRIF/WRIFNov132012.png" width="240px" height="300px" title="Click To Learn More"></a><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/advertising.php" style="color:#5E5E5E; float: right; padding-right: 5px;">Advertise Here</a></div>
+  
+  
+  <!-- Waterloo Air Show advertisement right 
+  <div style="position: fixed;  width: 120px;margin-left: 1002px;"><a href="/web/20121122165427/http://www.waterlooairshow.com/"><img src="/web/20121122165427/http://wonderfulwaterloo.com/advertising/2012/Waterloo%20Air%20Show/WaterlooAirShow.jpg" width="120px" height="240px"></a><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/advertising.php" style="color:#1E1E1E;">Advertise Here</a></div> -->
+  
+  
+  <!-- You Save Here advertisement right
+  <div style="position: fixed;  width: 120px;margin-left: 1002px;"><a href="/web/20121122165427/http://www.yousavehere.ca""><img src="/web/20121122165427/http://wonderfulwaterloo.com/advertising/YouSaveHere/YouSaveHere.jpg" width="120px" height="240px"></a><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/advertising.php" style="color:#1E1E1E;">Advertise Here</a></div> -->
+  
+  
+  
+  <!-- custom advertisement 
+  
+  <a href="/web/20121122165427/http://innovationinteriors.ca/"><img src="/web/20121122165427/http://wonderfulwaterloo.com/advertisements/innovation%20interiors/W2Ad.png" /></a>
+   -->
+  
+  
+  
+  <div class="body_wrapper">
+  <div id="breadcrumb" class="breadcrumb" style="font-size: 11px;"> 
+          
+  	<ul class="floatcontainer">
+  		<li class="navbithome"><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/index.php?s=10a7c55b5d4e8a30bef2c73eb499b24f" accesskey="1"><img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/images/misc/navbit-home.png" alt="Home" /></a></li>
+  		<!-- BEGIN TEMPLATE: navbar_link -->
+  
+  	<li class="navbit"><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/vbshop.php?s=10a7c55b5d4e8a30bef2c73eb499b24f">Shop</a></li>
+  
+  <!-- END TEMPLATE: navbar_link -->
+  		<!-- BEGIN TEMPLATE: navbar_link -->
+  
+  	<li class="navbit lastnavbit"><span>Shop</span></li>
+  
+  <!-- END TEMPLATE: navbar_link -->
+  	</ul>
+  	<hr />
+  	
+  </div>
+  
+  <!-- notices moved to header template -->
+  
+  
+  <!-- BEGIN TEMPLATE: ad_navbar_below -->
+   
+  <!-- END TEMPLATE: ad_navbar_below -->
+  <!-- BEGIN TEMPLATE: ad_global_below_navbar -->
+   
+  <!-- END TEMPLATE: ad_global_below_navbar -->
+  
+  <!-- END TEMPLATE: navbar -->
+  <div id="usercp_content">
+  	<div class="cp_content" style="margin-left:170px;"> <!-- BEGIN TEMPLATE: dbtech_vbshop_shop -->
+  <div id="content_container" style="padding: 0px;">
+  	<div id="content">
+  		
+  		<h2 class="blockhead" id="shopname" style="display:none;">WW Rewards</h2>
+  		<div class="blockbody settings_form_border" style="border:none;">
+  			<div class="blockrow" style="display:none;">
+  				<div align="right">
+  					Sort By: <a name="default" style="cursor:pointer;">Default</a> /  <a name="title" style="cursor:pointer;">Title</a> / <a name="popularity" style="cursor:pointer;">Popularity</a> / <a name="price" style="cursor:pointer;">Price</a><br />
+  					Results Per Page: 
+  					<select name="perpage">
+  						<option value="10">10</option>
+  						<option value="25" selected="selected">25</option>
+  						<option value="50">50</option>
+  						<option value="100">100</option>
+  						<option value="150">150</option>
+  						<option value="200">200</option>
+  						<option value="250">250</option>
+  					</select>
+  				</div>
+  			</div>
+  			<div class="blockrow" id="shopcontent" style="padding:0px;">
+  				<!-- BEGIN TEMPLATE: dbtech_vbshop_tabs -->
+  
+  
+  <dl class="tabslight" style="margin-top: 0px;">
+  	<!-- BEGIN TEMPLATE: dbtech_vbshop_tabbit -->
+  <dd class="selected"><a name="shoptab" data-tabid="1" href="/web/20121122165427/http://www.wonderfulwaterloo.com/vbshop.php#1">Rewards</a></dd>
+  <!-- END TEMPLATE: dbtech_vbshop_tabbit --><!-- BEGIN TEMPLATE: dbtech_vbshop_tabbit -->
+  <dd><a name="shoptab" data-tabid="2" href="/web/20121122165427/http://www.wonderfulwaterloo.com/vbshop.php#2">Options</a></dd>
+  <!-- END TEMPLATE: dbtech_vbshop_tabbit -->
+  </dl>
+  <!-- BEGIN TEMPLATE: dbtech_vbshop_tabcontent -->
+  <div style="overflow-x:visible; clear:both;">
+  <div name="shopview" data-tabid="1">
+  	<!-- BEGIN TEMPLATE: dbtech_vbshop_itembit_shop -->
+  <div class="itemwrapper">
+  	<span name="itemloader" data-itemid="1">
+  		<br />
+  		
+  			<img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/dbtech/vbshop/images/gifts/shop/CityOfKitchener225.jpg" alt="" border="0" style="max-width: 100%; max-height:125px;" /><br />
+  		
+  		<a style="cursor:default;" name="itemname" data-itemid="1" class="smallfont">$5 City of Kitchener Gift Certificate</a>
+  	</span>
+  	<br />
+  	5 WW Dollars<br />
+  	<input type="button" class="button" name="purchase" data-itemid="1" data-price="5" value="Insufficient Funds" disabled="disabled" />
+  </div>
+  <div name="itempopup" data-itemid="1" style="display:none; position: absolute; z-index:999999;" align="left">
+  	<h2 class="blockhead">$5 City of Kitchener Gift Certificate</h2>
+  	<div class="blockbody settings_form_border">
+  		<table width="275px;">
+  			<tr>
+  				<td class="blockrow smallfont" colspan="2"></div>
+  			</tr>
+  			<tr>
+  				<td class="blocksubhead" colspan="2">Item Information</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Price</td>
+  				<td class="blockrow smallfont">5 WW Dollars</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Stock</td>
+  				<td class="blockrow smallfont">Unlimited / Unlimited</td>
+  			</tr>
+  		</table>
+  	</div>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_itembit_shop --><!-- BEGIN TEMPLATE: dbtech_vbshop_itembit_shop -->
+  <div class="itemwrapper">
+  	<span name="itemloader" data-itemid="3">
+  		<br />
+  		
+  			<img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/dbtech/vbshop/images/gifts/shop/UpTown%20Waterloo%20BIA%20225.jpg" alt="" border="0" style="max-width: 100%; max-height:125px;" /><br />
+  		
+  		<a style="cursor:default;" name="itemname" data-itemid="3" class="smallfont">$5 Uptown Waterloo BIA Dollars</a>
+  	</span>
+  	<br />
+  	5 WW Dollars<br />
+  	<input type="button" class="button" name="purchase" data-itemid="3" data-price="5" value="Insufficient Funds" disabled="disabled" />
+  </div>
+  <div name="itempopup" data-itemid="3" style="display:none; position: absolute; z-index:999999;" align="left">
+  	<h2 class="blockhead">$5 Uptown Waterloo BIA Dollars</h2>
+  	<div class="blockbody settings_form_border">
+  		<table width="275px;">
+  			<tr>
+  				<td class="blockrow smallfont" colspan="2"></div>
+  			</tr>
+  			<tr>
+  				<td class="blocksubhead" colspan="2">Item Information</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Price</td>
+  				<td class="blockrow smallfont">5 WW Dollars</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Stock</td>
+  				<td class="blockrow smallfont">Unlimited / Unlimited</td>
+  			</tr>
+  		</table>
+  	</div>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_itembit_shop --><!-- BEGIN TEMPLATE: dbtech_vbshop_itembit_shop -->
+  <div class="itemwrapper">
+  	<span name="itemloader" data-itemid="4">
+  		<br />
+  		
+  			<img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/dbtech/vbshop/images/gifts/shop/MillpondRecords&amp;BooksLogoResized.JPG" alt="" border="0" style="max-width: 100%; max-height:125px;" /><br />
+  		
+  		<a style="cursor:default;" name="itemname" data-itemid="4" class="smallfont">$5 Millpond Records & Books Gift Certificate</a>
+  	</span>
+  	<br />
+  	5 WW Dollars<br />
+  	<input type="button" class="button" name="purchase" data-itemid="4" data-price="5" value="Insufficient Funds" disabled="disabled" />
+  </div>
+  <div name="itempopup" data-itemid="4" style="display:none; position: absolute; z-index:999999;" align="left">
+  	<h2 class="blockhead">$5 Millpond Records & Books Gift Certificate</h2>
+  	<div class="blockbody settings_form_border">
+  		<table width="275px;">
+  			<tr>
+  				<td class="blockrow smallfont" colspan="2"></div>
+  			</tr>
+  			<tr>
+  				<td class="blocksubhead" colspan="2">Item Information</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Price</td>
+  				<td class="blockrow smallfont">5 WW Dollars</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Stock</td>
+  				<td class="blockrow smallfont">Unlimited / Unlimited</td>
+  			</tr>
+  		</table>
+  	</div>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_itembit_shop --><!-- BEGIN TEMPLATE: dbtech_vbshop_itembit_shop -->
+  <div class="itemwrapper">
+  	<span name="itemloader" data-itemid="5">
+  		<br />
+  		
+  			<img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/dbtech/vbshop/images/gifts/shop/Green_Spot.jpg" alt="" border="0" style="max-width: 100%; max-height:125px;" /><br />
+  		
+  		<a style="cursor:default;" name="itemname" data-itemid="5" class="smallfont">$10 Green Spot Antiques Gift Certificate</a>
+  	</span>
+  	<br />
+  	5 WW Dollars<br />
+  	<input type="button" class="button" name="purchase" data-itemid="5" data-price="5" value="Insufficient Funds" disabled="disabled" />
+  </div>
+  <div name="itempopup" data-itemid="5" style="display:none; position: absolute; z-index:999999;" align="left">
+  	<h2 class="blockhead">$10 Green Spot Antiques Gift Certificate</h2>
+  	<div class="blockbody settings_form_border">
+  		<table width="275px;">
+  			<tr>
+  				<td class="blockrow smallfont" colspan="2"></div>
+  			</tr>
+  			<tr>
+  				<td class="blocksubhead" colspan="2">Item Information</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Price</td>
+  				<td class="blockrow smallfont">5 WW Dollars</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Stock</td>
+  				<td class="blockrow smallfont">Unlimited / Unlimited</td>
+  			</tr>
+  		</table>
+  	</div>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_itembit_shop --><!-- BEGIN TEMPLATE: dbtech_vbshop_itembit_shop -->
+  <div class="itemwrapper">
+  	<span name="itemloader" data-itemid="6">
+  		<br />
+  		
+  			<img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/dbtech/vbshop/images/gifts/shop/GRTtickets.jpg" alt="" border="0" style="max-width: 100%; max-height:125px;" /><br />
+  		
+  		<a style="cursor:default;" name="itemname" data-itemid="6" class="smallfont">Reduced Strip of 5 GRT Tickets</a>
+  	</span>
+  	<br />
+  	8.25 WW Dollars<br />
+  	<input type="button" class="button" name="purchase" data-itemid="6" data-price="8.25" value="Insufficient Funds" disabled="disabled" />
+  </div>
+  <div name="itempopup" data-itemid="6" style="display:none; position: absolute; z-index:999999;" align="left">
+  	<h2 class="blockhead">Reduced Strip of 5 GRT Tickets</h2>
+  	<div class="blockbody settings_form_border">
+  		<table width="275px;">
+  			<tr>
+  				<td class="blockrow smallfont" colspan="2"></div>
+  			</tr>
+  			<tr>
+  				<td class="blocksubhead" colspan="2">Item Information</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Price</td>
+  				<td class="blockrow smallfont">8.25 WW Dollars</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Stock</td>
+  				<td class="blockrow smallfont">Unlimited / Unlimited</td>
+  			</tr>
+  		</table>
+  	</div>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_itembit_shop --><!-- BEGIN TEMPLATE: dbtech_vbshop_itembit_shop -->
+  <div class="itemwrapper">
+  	<span name="itemloader" data-itemid="7">
+  		<br />
+  		
+  			<img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/dbtech/vbshop/images/gifts/shop/GRTtickets.jpg" alt="" border="0" style="max-width: 100%; max-height:125px;" /><br />
+  		
+  		<a style="cursor:default;" name="itemname" data-itemid="7" class="smallfont">Adult Strip of 5 GRT Tickets</a>
+  	</span>
+  	<br />
+  	9.75 WW Dollars<br />
+  	<input type="button" class="button" name="purchase" data-itemid="7" data-price="9.75" value="Insufficient Funds" disabled="disabled" />
+  </div>
+  <div name="itempopup" data-itemid="7" style="display:none; position: absolute; z-index:999999;" align="left">
+  	<h2 class="blockhead">Adult Strip of 5 GRT Tickets</h2>
+  	<div class="blockbody settings_form_border">
+  		<table width="275px;">
+  			<tr>
+  				<td class="blockrow smallfont" colspan="2"></div>
+  			</tr>
+  			<tr>
+  				<td class="blocksubhead" colspan="2">Item Information</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Price</td>
+  				<td class="blockrow smallfont">9.75 WW Dollars</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Stock</td>
+  				<td class="blockrow smallfont">Unlimited / Unlimited</td>
+  			</tr>
+  		</table>
+  	</div>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_itembit_shop --><!-- BEGIN TEMPLATE: dbtech_vbshop_itembit_shop -->
+  <div class="itemwrapper">
+  	<span name="itemloader" data-itemid="8">
+  		<br />
+  		
+  			<img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/dbtech/vbshop/images/gifts/shop/DowntownKitchenerBIA.gif" alt="" border="0" style="max-width: 100%; max-height:125px;" /><br />
+  		
+  		<a style="cursor:default;" name="itemname" data-itemid="8" class="smallfont">$10 Downtown Kitchener BIA Dollars</a>
+  	</span>
+  	<br />
+  	10 WW Dollars<br />
+  	<input type="button" class="button" name="purchase" data-itemid="8" data-price="10" value="Insufficient Funds" disabled="disabled" />
+  </div>
+  <div name="itempopup" data-itemid="8" style="display:none; position: absolute; z-index:999999;" align="left">
+  	<h2 class="blockhead">$10 Downtown Kitchener BIA Dollars</h2>
+  	<div class="blockbody settings_form_border">
+  		<table width="275px;">
+  			<tr>
+  				<td class="blockrow smallfont" colspan="2"></div>
+  			</tr>
+  			<tr>
+  				<td class="blocksubhead" colspan="2">Item Information</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Price</td>
+  				<td class="blockrow smallfont">10 WW Dollars</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Stock</td>
+  				<td class="blockrow smallfont">Unlimited / Unlimited</td>
+  			</tr>
+  		</table>
+  	</div>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_itembit_shop --><!-- BEGIN TEMPLATE: dbtech_vbshop_itembit_shop -->
+  <div class="itemwrapper">
+  	<span name="itemloader" data-itemid="18">
+  		<br />
+  		
+  			<img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/dbtech/vbshop/images/gifts/shop/ACOLogo.jpg" alt="" border="0" style="max-width: 100%; max-height:125px;" /><br />
+  		
+  		<a style="cursor:default;" name="itemname" data-itemid="18" class="smallfont">ACO-NWRB Full Time Student 2013 Membership</a>
+  	</span>
+  	<br />
+  	12 WW Dollars<br />
+  	<input type="button" class="button" name="purchase" data-itemid="18" data-price="12" value="Insufficient Funds" disabled="disabled" />
+  </div>
+  <div name="itempopup" data-itemid="18" style="display:none; position: absolute; z-index:999999;" align="left">
+  	<h2 class="blockhead">ACO-NWRB Full Time Student 2013 Membership</h2>
+  	<div class="blockbody settings_form_border">
+  		<table width="275px;">
+  			<tr>
+  				<td class="blockrow smallfont" colspan="2"></div>
+  			</tr>
+  			<tr>
+  				<td class="blocksubhead" colspan="2">Item Information</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Price</td>
+  				<td class="blockrow smallfont">12 WW Dollars</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Stock</td>
+  				<td class="blockrow smallfont">Unlimited / Unlimited</td>
+  			</tr>
+  		</table>
+  	</div>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_itembit_shop --><!-- BEGIN TEMPLATE: dbtech_vbshop_itembit_shop -->
+  <div class="itemwrapper">
+  	<span name="itemloader" data-itemid="10">
+  		<br />
+  		
+  			<img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/dbtech/vbshop/images/gifts/shop/MandMMeatShops225.jpg" alt="" border="0" style="max-width: 100%; max-height:125px;" /><br />
+  		
+  		<a style="cursor:default;" name="itemname" data-itemid="10" class="smallfont">$25 M&M Meat Shops Gift Certificate</a>
+  	</span>
+  	<br />
+  	25 WW Dollars<br />
+  	<input type="button" class="button" name="purchase" data-itemid="10" data-price="25" value="Insufficient Funds" disabled="disabled" />
+  </div>
+  <div name="itempopup" data-itemid="10" style="display:none; position: absolute; z-index:999999;" align="left">
+  	<h2 class="blockhead">$25 M&M Meat Shops Gift Certificate</h2>
+  	<div class="blockbody settings_form_border">
+  		<table width="275px;">
+  			<tr>
+  				<td class="blockrow smallfont" colspan="2"></div>
+  			</tr>
+  			<tr>
+  				<td class="blocksubhead" colspan="2">Item Information</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Price</td>
+  				<td class="blockrow smallfont">25 WW Dollars</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Stock</td>
+  				<td class="blockrow smallfont">Unlimited / Unlimited</td>
+  			</tr>
+  		</table>
+  	</div>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_itembit_shop --><!-- BEGIN TEMPLATE: dbtech_vbshop_itembit_shop -->
+  <div class="itemwrapper">
+  	<span name="itemloader" data-itemid="11">
+  		<br />
+  		
+  			<img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/dbtech/vbshop/images/gifts/shop/Home%20Hardware%20Logo%20167.jpg" alt="" border="0" style="max-width: 100%; max-height:125px;" /><br />
+  		
+  		<a style="cursor:default;" name="itemname" data-itemid="11" class="smallfont">$25 Home Hardware Gift Card</a>
+  	</span>
+  	<br />
+  	25 WW Dollars<br />
+  	<input type="button" class="button" name="purchase" data-itemid="11" data-price="25" value="Insufficient Funds" disabled="disabled" />
+  </div>
+  <div name="itempopup" data-itemid="11" style="display:none; position: absolute; z-index:999999;" align="left">
+  	<h2 class="blockhead">$25 Home Hardware Gift Card</h2>
+  	<div class="blockbody settings_form_border">
+  		<table width="275px;">
+  			<tr>
+  				<td class="blockrow smallfont" colspan="2"></div>
+  			</tr>
+  			<tr>
+  				<td class="blocksubhead" colspan="2">Item Information</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Price</td>
+  				<td class="blockrow smallfont">25 WW Dollars</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Stock</td>
+  				<td class="blockrow smallfont">Unlimited / Unlimited</td>
+  			</tr>
+  		</table>
+  	</div>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_itembit_shop --><!-- BEGIN TEMPLATE: dbtech_vbshop_itembit_shop -->
+  <div class="itemwrapper">
+  	<span name="itemloader" data-itemid="12">
+  		<br />
+  		
+  			<img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/dbtech/vbshop/images/gifts/shop/Central%20Fresh%20Market%20Logo%20225.jpg" alt="" border="0" style="max-width: 100%; max-height:125px;" /><br />
+  		
+  		<a style="cursor:default;" name="itemname" data-itemid="12" class="smallfont">$25 Central Fresh Market Gift Card</a>
+  	</span>
+  	<br />
+  	25 WW Dollars<br />
+  	<input type="button" class="button" name="purchase" data-itemid="12" data-price="25" value="Insufficient Funds" disabled="disabled" />
+  </div>
+  <div name="itempopup" data-itemid="12" style="display:none; position: absolute; z-index:999999;" align="left">
+  	<h2 class="blockhead">$25 Central Fresh Market Gift Card</h2>
+  	<div class="blockbody settings_form_border">
+  		<table width="275px;">
+  			<tr>
+  				<td class="blockrow smallfont" colspan="2"></div>
+  			</tr>
+  			<tr>
+  				<td class="blocksubhead" colspan="2">Item Information</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Price</td>
+  				<td class="blockrow smallfont">25 WW Dollars</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Stock</td>
+  				<td class="blockrow smallfont">Unlimited / Unlimited</td>
+  			</tr>
+  		</table>
+  	</div>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_itembit_shop --><!-- BEGIN TEMPLATE: dbtech_vbshop_itembit_shop -->
+  <div class="itemwrapper">
+  	<span name="itemloader" data-itemid="13">
+  		<br />
+  		
+  			<img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/dbtech/vbshop/images/gifts/shop/Vincenzos%20Logo%20225.jpg" alt="" border="0" style="max-width: 100%; max-height:125px;" /><br />
+  		
+  		<a style="cursor:default;" name="itemname" data-itemid="13" class="smallfont">$25 Vincenzo's Gift Card</a>
+  	</span>
+  	<br />
+  	25 WW Dollars<br />
+  	<input type="button" class="button" name="purchase" data-itemid="13" data-price="25" value="Insufficient Funds" disabled="disabled" />
+  </div>
+  <div name="itempopup" data-itemid="13" style="display:none; position: absolute; z-index:999999;" align="left">
+  	<h2 class="blockhead">$25 Vincenzo's Gift Card</h2>
+  	<div class="blockbody settings_form_border">
+  		<table width="275px;">
+  			<tr>
+  				<td class="blockrow smallfont" colspan="2"></div>
+  			</tr>
+  			<tr>
+  				<td class="blocksubhead" colspan="2">Item Information</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Price</td>
+  				<td class="blockrow smallfont">25 WW Dollars</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Stock</td>
+  				<td class="blockrow smallfont">Unlimited / Unlimited</td>
+  			</tr>
+  		</table>
+  	</div>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_itembit_shop --><!-- BEGIN TEMPLATE: dbtech_vbshop_itembit_shop -->
+  <div class="itemwrapper">
+  	<span name="itemloader" data-itemid="14">
+  		<br />
+  		
+  			<img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/dbtech/vbshop/images/gifts/shop/CanoeingTheGrandLogo.jpg" alt="" border="0" style="max-width: 100%; max-height:125px;" /><br />
+  		
+  		<a style="cursor:default;" name="itemname" data-itemid="14" class="smallfont">$25 Canoeing the Grand Gift Certificate</a>
+  	</span>
+  	<br />
+  	25 WW Dollars<br />
+  	<input type="button" class="button" name="purchase" data-itemid="14" data-price="25" value="Insufficient Funds" disabled="disabled" />
+  </div>
+  <div name="itempopup" data-itemid="14" style="display:none; position: absolute; z-index:999999;" align="left">
+  	<h2 class="blockhead">$25 Canoeing the Grand Gift Certificate</h2>
+  	<div class="blockbody settings_form_border">
+  		<table width="275px;">
+  			<tr>
+  				<td class="blockrow smallfont" colspan="2"></div>
+  			</tr>
+  			<tr>
+  				<td class="blocksubhead" colspan="2">Item Information</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Price</td>
+  				<td class="blockrow smallfont">25 WW Dollars</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Stock</td>
+  				<td class="blockrow smallfont">Unlimited / Unlimited</td>
+  			</tr>
+  		</table>
+  	</div>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_itembit_shop --><!-- BEGIN TEMPLATE: dbtech_vbshop_itembit_shop -->
+  <div class="itemwrapper">
+  	<span name="itemloader" data-itemid="15">
+  		<br />
+  		
+  			<img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/dbtech/vbshop/images/gifts/shop/K-WSurplusLogo.jpg" alt="" border="0" style="max-width: 100%; max-height:125px;" /><br />
+  		
+  		<a style="cursor:default;" name="itemname" data-itemid="15" class="smallfont">$25 K-W Surplus Gift Certificate</a>
+  	</span>
+  	<br />
+  	25 WW Dollars<br />
+  	<input type="button" class="button" name="purchase" data-itemid="15" data-price="25" value="Insufficient Funds" disabled="disabled" />
+  </div>
+  <div name="itempopup" data-itemid="15" style="display:none; position: absolute; z-index:999999;" align="left">
+  	<h2 class="blockhead">$25 K-W Surplus Gift Certificate</h2>
+  	<div class="blockbody settings_form_border">
+  		<table width="275px;">
+  			<tr>
+  				<td class="blockrow smallfont" colspan="2"></div>
+  			</tr>
+  			<tr>
+  				<td class="blocksubhead" colspan="2">Item Information</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Price</td>
+  				<td class="blockrow smallfont">25 WW Dollars</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Stock</td>
+  				<td class="blockrow smallfont">Unlimited / Unlimited</td>
+  			</tr>
+  		</table>
+  	</div>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_itembit_shop --><!-- BEGIN TEMPLATE: dbtech_vbshop_itembit_shop -->
+  <div class="itemwrapper">
+  	<span name="itemloader" data-itemid="16">
+  		<br />
+  		
+  			<img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/dbtech/vbshop/images/gifts/shop/CambridgeSurplusLogo.JPG" alt="" border="0" style="max-width: 100%; max-height:125px;" /><br />
+  		
+  		<a style="cursor:default;" name="itemname" data-itemid="16" class="smallfont">$25 Cambridge Surplus Gift Certificate</a>
+  	</span>
+  	<br />
+  	25 WW Dollars<br />
+  	<input type="button" class="button" name="purchase" data-itemid="16" data-price="25" value="Insufficient Funds" disabled="disabled" />
+  </div>
+  <div name="itempopup" data-itemid="16" style="display:none; position: absolute; z-index:999999;" align="left">
+  	<h2 class="blockhead">$25 Cambridge Surplus Gift Certificate</h2>
+  	<div class="blockbody settings_form_border">
+  		<table width="275px;">
+  			<tr>
+  				<td class="blockrow smallfont" colspan="2"></div>
+  			</tr>
+  			<tr>
+  				<td class="blocksubhead" colspan="2">Item Information</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Price</td>
+  				<td class="blockrow smallfont">25 WW Dollars</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Stock</td>
+  				<td class="blockrow smallfont">Unlimited / Unlimited</td>
+  			</tr>
+  		</table>
+  	</div>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_itembit_shop --><!-- BEGIN TEMPLATE: dbtech_vbshop_itembit_shop -->
+  <div class="itemwrapper">
+  	<span name="itemloader" data-itemid="17">
+  		<br />
+  		
+  			<img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/dbtech/vbshop/images/gifts/shop/Len'sMillStoresLogo.jpg" alt="" border="0" style="max-width: 100%; max-height:125px;" /><br />
+  		
+  		<a style="cursor:default;" name="itemname" data-itemid="17" class="smallfont">$25 Len's Mill Stores Gift Certificate</a>
+  	</span>
+  	<br />
+  	25 WW Dollars<br />
+  	<input type="button" class="button" name="purchase" data-itemid="17" data-price="25" value="Insufficient Funds" disabled="disabled" />
+  </div>
+  <div name="itempopup" data-itemid="17" style="display:none; position: absolute; z-index:999999;" align="left">
+  	<h2 class="blockhead">$25 Len's Mill Stores Gift Certificate</h2>
+  	<div class="blockbody settings_form_border">
+  		<table width="275px;">
+  			<tr>
+  				<td class="blockrow smallfont" colspan="2"></div>
+  			</tr>
+  			<tr>
+  				<td class="blocksubhead" colspan="2">Item Information</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Price</td>
+  				<td class="blockrow smallfont">25 WW Dollars</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Stock</td>
+  				<td class="blockrow smallfont">Unlimited / Unlimited</td>
+  			</tr>
+  		</table>
+  	</div>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_itembit_shop --><!-- BEGIN TEMPLATE: dbtech_vbshop_itembit_shop -->
+  <div class="itemwrapper">
+  	<span name="itemloader" data-itemid="19">
+  		<br />
+  		
+  			<img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/dbtech/vbshop/images/gifts/shop/ACOLogo.jpg" alt="" border="0" style="max-width: 100%; max-height:125px;" /><br />
+  		
+  		<a style="cursor:default;" name="itemname" data-itemid="19" class="smallfont">ACO-NWRB Individual 2013 Membership</a>
+  	</span>
+  	<br />
+  	35 WW Dollars<br />
+  	<input type="button" class="button" name="purchase" data-itemid="19" data-price="35" value="Insufficient Funds" disabled="disabled" />
+  </div>
+  <div name="itempopup" data-itemid="19" style="display:none; position: absolute; z-index:999999;" align="left">
+  	<h2 class="blockhead">ACO-NWRB Individual 2013 Membership</h2>
+  	<div class="blockbody settings_form_border">
+  		<table width="275px;">
+  			<tr>
+  				<td class="blockrow smallfont" colspan="2"></div>
+  			</tr>
+  			<tr>
+  				<td class="blocksubhead" colspan="2">Item Information</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Price</td>
+  				<td class="blockrow smallfont">35 WW Dollars</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Stock</td>
+  				<td class="blockrow smallfont">Unlimited / Unlimited</td>
+  			</tr>
+  		</table>
+  	</div>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_itembit_shop -->
+  </div>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_tabcontent --><!-- BEGIN TEMPLATE: dbtech_vbshop_tabcontent -->
+  <div style="overflow-x:visible; clear:both;">
+  <div name="shopview" data-tabid="2" style="display:none;">
+  	<!-- BEGIN TEMPLATE: dbtech_vbshop_itembit_shop -->
+  <div class="itemwrapper">
+  	<span name="itemloader" data-itemid="9">
+  		<br />
+  		
+  			<img src="/web/20121122165427im_/http://www.wonderfulwaterloo.com/dbtech/vbshop/images/gifts/shop/CanadaPost.gif" alt="" border="0" style="max-width: 100%; max-height:125px;" /><br />
+  		
+  		<a style="cursor:default;" name="itemname" data-itemid="9" class="smallfont">Shipping</a>
+  	</span>
+  	<br />
+  	1 WW Dollars<br />
+  	<input type="button" class="button" name="purchase" data-itemid="9" data-price="1" value="Insufficient Funds" disabled="disabled" />
+  </div>
+  <div name="itempopup" data-itemid="9" style="display:none; position: absolute; z-index:999999;" align="left">
+  	<h2 class="blockhead">Shipping</h2>
+  	<div class="blockbody settings_form_border">
+  		<table width="275px;">
+  			<tr>
+  				<td class="blockrow smallfont" colspan="2"></div>
+  			</tr>
+  			<tr>
+  				<td class="blocksubhead" colspan="2">Item Information</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Price</td>
+  				<td class="blockrow smallfont">1 WW Dollars</td>
+  			</tr>
+  			<tr>
+  				<td class="blockrow smallfont">Stock</td>
+  				<td class="blockrow smallfont">Unlimited / Unlimited</td>
+  			</tr>
+  		</table>
+  	</div>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_itembit_shop -->
+  </div>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_tabcontent -->
+  
+  
+  <!-- END TEMPLATE: dbtech_vbshop_tabs -->
+  			</div>
+  		</div>		
+  	</div>
+  </div>
+  <div id="sidebar_container">
+  	<ul id="sidebar">
+  		<li>
+  		<div class="block smaller">
+  			<div class="blocksubhead"><span class="blocktitle">Your Cart</span></div>
+  		
+  			<div class="blockbody floatcontainer">
+  				<ul class="blockrow" id="cartitems">
+  					<!-- BEGIN TEMPLATE: dbtech_vbshop_cartitems -->
+  				
+  					<li class="floatcontainer">
+  						<div class="cart_recent">
+  							<div>Your cart is currently empty.</div>
+  						</div>
+  					</li>
+  				
+  <!-- END TEMPLATE: dbtech_vbshop_cartitems -->
+  				</ul>	
+  				<ul class="blockrow">
+  				<li class="floatcontainer">
+  					<div class="cart_recent">
+  						<div><span class="shade">Total Price:</span><span style="float:right;" id="totalprice">N/A</span></div>
+  						<div style="font-weight:bold; margin-top:4px;">&raquo; <a href="/web/20121122165427/http://www.wonderfulwaterloo.com/vbshop.php?s=10a7c55b5d4e8a30bef2c73eb499b24f&amp;do=shop&amp;action=checkout">View Cart / Checkout</a></div>
+  					</div>
+  				</li>
+  				</ul>
+  			</div>
+  		</div>
+  		<div class="underblock"></div>
+  		</li>		
+  	</ul>
+  </div>
+  <!-- END TEMPLATE: dbtech_vbshop_shop --> </div>
+  </div>
+  
+  
+  
+  				<script type="text/javascript">
+  					<!--
+  					vbphrase['dbtech_vbshop_switching_shop'] = "Switching Shop"
+  					vbphrase['dbtech_vbshop_switching_shop_descr'] = "Switching shop, please wait..."
+  					vbphrase['dbtech_vbshop_sorting_items'] = "Sorting Items"
+  					vbphrase['dbtech_vbshop_sorting_items_descr'] = "Sorting items, please wait..."
+  					vbphrase['dbtech_vbshop_buying_item'] = "Updating Cart"
+  					vbphrase['dbtech_vbshop_buying_item_descr'] = "Adding item to cart, please wait..."
+  					
+  		var vBShop = {
+  			shopid : 1,
+  			pagenumber : 1,
+  			tab : 1,
+  			perpage : 25,
+  			sorttype : 'default',
+  			sortorder : 'asc'		
+  		};
+  	
+  					// -->
+  				</script>
+  			<!-- BEGIN TEMPLATE: footer -->
+  
+  <div style="margin-bottom:6px;">
+  
+  <div style="clear: left">
+    <!-- BEGIN TEMPLATE: ad_footer_start -->
+   
+  <!-- END TEMPLATE: ad_footer_start -->
+    <!-- BEGIN TEMPLATE: ad_global_above_footer -->
+   
+  <!-- END TEMPLATE: ad_global_above_footer -->
+  </div>
+  
+  </div>
+  
+  
+  <div id="footer" class="floatcontainer footer">
+  
+  	<form action="/web/20121122165427/http://www.wonderfulwaterloo.com/forum.php" method="get" id="footer_select" class="footer_select">
+  
+  		
+  			<select name="styleid" onchange="switch_id(this, 'style')">
+  				<optgroup label="Quick Style Chooser"><option class="hidden"></option></optgroup>
+  				
+  									
+  					<!-- BEGIN TEMPLATE: option -->
+  <option value="2" class="" selected="selected">-- Default Style</option>
+  <!-- END TEMPLATE: option --><!-- BEGIN TEMPLATE: option -->
+  <option value="74" class="" >---- Momentum</option>
+  <!-- END TEMPLATE: option --><!-- BEGIN TEMPLATE: option -->
+  <option value="75" class="" >------ Child of Momentum</option>
+  <!-- END TEMPLATE: option --><!-- BEGIN TEMPLATE: option -->
+  <option value="17" class="" >---- QRLeft</option>
+  <!-- END TEMPLATE: option --><!-- BEGIN TEMPLATE: option -->
+  <option value="60" class="" >-- Original Testing</option>
+  <!-- END TEMPLATE: option -->
+  										
+  				
+  				
+  			</select>	
+  		
+  		
+  		
+  	</form>
+  
+  	<ul id="footer_links" class="footer_links">
+  		<li><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/sendmessage.php?s=10a7c55b5d4e8a30bef2c73eb499b24f" rel="nofollow" accesskey="9">Contact Us</a></li>
+  		<li><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/">Home</a></li>
+  		
+  		
+  		<li><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/archive/index.php?s=10a7c55b5d4e8a30bef2c73eb499b24f">Archive</a></li>
+  		
+  		
+  		
+  		<li><a href="/web/20121122165427/http://www.wonderfulwaterloo.com/vbshop.php#top" onclick="document.location.hash='top'; return false;">Top</a></li>
+  	</ul>
+  	
+  	
+  	
+  	
+  	<script type="text/javascript">
+  	<!--
+  		// Main vBulletin Javascript Initialization
+  		vBulletin_init();
+  	//-->
+  	</script>
+          
+  </div>
+  </div> <!-- closing div for body_wrapper -->
+  
+  <div class="below_body">
+  <div id="footer_time" class="shade footer_time">All times are GMT -5. The time now is <span class="time">11:54 AM</span>.</div>
+  
+  <div id="footer_copyright" class="shade footer_copyright">
+  	<!-- Do not remove this copyright notice -->
+  	<!--VBSEO_COPYRIGHT-->
+  	Powered by <a href="/web/20121122165427/http://www.vbulletin.com/" id="vbulletinlink" style="color:#A5A5A5;">vBulletin&trade;</a> Version 4.2.0 <br />Copyright &copy; 2012 vBulletin Solutions, Inc. All rights reserved.
+  	<!-- Do not remove this copyright notice -->
+  </div>
+  
+  <div id="footer_morecopyright" class="shade footer_morecopyright">
+  	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+  	
+  	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+  	
+  	
+  </div>
+  <!-- BEGIN TEMPLATE: ad_footer_end -->
+  
+  <!-- END TEMPLATE: ad_footer_end --> 
+  
+  </div>
+  <!-- END TEMPLATE: footer -->
+  
+  
+  	
+  </body>
+  </html>
+  
+  <!-- END TEMPLATE: dbtech_vbshop -->
+  
+  
+  
+  
+  <!--
+       FILE ARCHIVED ON 16:54:27 Nov 22, 2012 AND RETRIEVED FROM THE
+       INTERNET ARCHIVE ON 10:38:01 Aug 25, 2014.
+       JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+  
+       ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+       SECTION 108(a)(3)).
+  -->

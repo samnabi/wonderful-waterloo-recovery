@@ -1,0 +1,4564 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+  <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" id="vbulletin_html">
+  <head>
+  
+  <script type="text/javascript" src="/static/js/analytics.js" ></script>
+  <link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+  
+  
+  
+  
+  	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+  <meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.wonderfulwaterloo.com" />
+    <meta name="generator" content="vBulletin 4.1.1" />
+  
+  
+  
+  
+  
+  
+  
+  <script type="text/javascript" src="/web/20110214045248js_/http://ajax.googleapis.com/ajax/libs/yui/2.7.0/build/yuiloader-dom-event/yuiloader-dom-event.js?v=411"></script>
+  <script type="text/javascript" src="/web/20110214045248js_/http://ajax.googleapis.com/ajax/libs/yui/2.7.0/build/connection/connection-min.js?v=411"></script>
+  <script type="text/javascript">
+  <!--
+  	var SESSIONURL = "";
+  	var SECURITYTOKEN = "guest";
+  	var IMGDIR_MISC = "images/misc";
+  	var IMGDIR_BUTTON = "images/buttons";
+  	var vb_disable_ajax = parseInt("0", 10);
+  	var SIMPLEVERSION = "411";
+  	var BBURL = "/web/20110214045248/http://www.wonderfulwaterloo.com";
+  	var LOGGEDIN = 0 > 0 ? true : false;
+  	var THIS_SCRIPT = "showthread";
+          var RELPATH = "showthread.php/42-the42-23-m-6-fl?p=1601";
+          var PATHS = {forum : ""}
+  // -->
+  </script>
+  <script type="text/javascript" src="/web/20110214045248js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin-core.js?v=411"></script>
+  
+  
+  
+  	<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2" />
+  	
+  		<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo - Downtowns - RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2&amp;forumids=2" />
+  	
+  
+  
+  
+  	<link rel="stylesheet" type="text/css" href="/web/20110214045248cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1297308040&amp;td=ltr&amp;sheet=bbcode.css,editor.css,popupmenu.css,reset-fonts.css,vbulletin.css,vbulletin-chrome.css,vbulletin-formcontrols.css," />
+  
+  	<!--[if lt IE 8]>
+  	<link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1297308040&amp;td=ltr&amp;sheet=popupmenu-ie.css,vbulletin-ie.css,vbulletin-chrome-ie.css,vbulletin-formcontrols-ie.css,editor-ie.css" />
+  	<![endif]-->
+  
+   <script type="text/javascript" src="/web/20110214045248js_/http://www.wonderfulwaterloo.com/clientscript/post_thanks.js"></script>
+  
+  <style type="text/css">
+  .postbitlegacy .postfoot .textcontrols a.post_thanks_button, .postbit .postfoot .textcontrols a.post_thanks_button  {
+  	background: url(/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/buttons/post_thanks.png) no-repeat transparent left;
+  	padding-left: 20px;
+  }
+  .postbitlegacy .postfoot .textcontrols a.post_thanks_button:hover, .postbit .postfoot .textcontrols a.post_thanks_button:hover  {
+  	background: url(/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/buttons/post_thanks-hover.png) no-repeat transparent left;
+  </style>
+   
+  	<meta name="keywords" content="momentum developments, uptown waterloo, U/C, dated, thinking, proportion, including, time, passage, http://www.flickr.com/photos/jsn_foo/4129203536, buildings, famous, survive, rectangles, golden, ground, fairview, good, design, sears, drive, everytime, nice, the42, quaint, gawd, ugly, styles, building" />
+  	<meta name="description" content="the42 
+  42 Bridgeport Road, Uptown Waterloo 
+  www.the42.ca 
+   
+  http://www.the42.ca/assets/images/right_photos/building02.jpg" />
+  
+  	<title>U/C the42 | 23 m | 6 fl</title>
+  	<link rel="canonical" href="showthread.php/42-the42-23-m-6-fl" />
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  
+  	
+  		<link rel="stylesheet" type="text/css" href="/web/20110214045248cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1297308040&amp;td=ltr&amp;sheet=toolsmenu.css,postlist.css,showthread.css,postbit.css,options.css,attachment.css,poll.css,lightbox.css" />
+  	
+  	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1297308040&amp;td=ltr&amp;sheet=toolsmenu-ie.css,postlist-ie.css,showthread-ie.css,postbit-ie.css,poll-ie.css" /><![endif]-->
+  <link rel="stylesheet" type="text/css" href="/web/20110214045248cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1297308040&amp;td=ltr&amp;sheet=additional.css" />
+   
+  </head>
+  
+  <body onload="if (document.body.scrollIntoView &amp;&amp; fetch_object('currentPost') &amp;&amp; (window.location.href.indexOf('#') == -1 || window.location.href.indexOf('#post') &gt; -1)) { fetch_object('currentPost').scrollIntoView(true); }">
+  
+  
+  
+  <div class="above_body"> <!-- closing tag is in template navbar -->
+  <div id="header" class="floatcontainer doc_header" >
+  	<div id="toplinks" class="toplinks">
+  		
+  			<ul class="nouser">
+  			
+  				<li><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/register.php" rel="nofollow">Register</a></li>
+  			
+  				<li>
+  			<script type="text/javascript" src="/web/20110214045248js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_md5.js?v=411"></script>
+  			<form id="navbar_loginform" action="/web/20110214045248/http://www.wonderfulwaterloo.com/login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+  				<div id="remember" class="remember" style="position:absolute; left:-124px; top:3px">
+  					<label for="cb_cookieuser_navbar">Keep Me Logged In:  <input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" /></label>
+  				</div>
+  				<fieldset id="logindetails" class="logindetails">
+  					<div>
+  					<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/icons/username.png" alt="Username" style="padding-top:2px; padding-right:2px;" /><input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" />
+  					<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/icons/password.png" alt="Password" style="padding-top:2px;" /><input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10" />
+  					<input type="text" class="textbox default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Password" style="display:none;" />
+  					<input type="submit" class="loginbutton" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s" />
+  					</div>
+  				</fieldset>
+  				<input type="hidden" name="s" value="" />
+  				<input type="hidden" name="securitytoken" value="guest" />
+  				<input type="hidden" name="do" value="login" />
+  				<input type="hidden" name="vb_login_md5password" />
+  				<input type="hidden" name="vb_login_md5password_utf" />
+  			</form>
+  			<script type="text/javascript">
+  			YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+  			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+  			vB_XHTML_Ready.subscribe(function()
+  			{
+  			//
+  				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+  				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+  				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+  				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+  			});
+  			
+  			function navbar_username_focus(e)
+  			{
+  			//
+  				var textbox = YAHOO.util.Event.getTarget(e);
+  				if (textbox.value == 'User Name')
+  				{
+  				//
+  					textbox.value='';
+  					textbox.style.color='#303030';
+  				}
+  			}
+  
+  			function navbar_username_blur(e)
+  			{
+  			//
+  				var textbox = YAHOO.util.Event.getTarget(e);
+  				if (textbox.value == '')
+  				{
+  				//
+  					textbox.value='User Name';
+  					textbox.style.color='#828282';
+  				}
+  			}
+  			
+  			function navbar_password_hint(e)
+  			{
+  			//
+  				var textbox = YAHOO.util.Event.getTarget(e);
+  				
+  				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+  				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+  				YAHOO.util.Dom.get('navbar_password').focus();
+  			}
+  
+  			function navbar_password(e)
+  			{
+  			//
+  				var textbox = YAHOO.util.Event.getTarget(e);
+  				
+  				if (textbox.value == '')
+  				{
+  					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+  					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+  				}
+  			}
+  			</script>
+  				</li>
+  				
+  			</ul>
+  		
+  	</div>
+  	<div style="padding-top: 23px;"><a name="top" href="/web/20110214045248/http://www.wonderfulwaterloo.com/forum.php" class="logo-image"><img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/WW/LogoDec82010.jpg" alt="Wonderful Waterloo - Powered by the Citizens of Waterloo Region" width="100%" /></a></div>
+  	<div class="ad_global_header">
+  		 
+  		 
+  	</div>
+  	<hr />
+  
+  <script type="text/javascript">
+  
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-20199168-1']);
+    _gaq.push(['_setLocalRemoteServerMode']);
+    _gaq.push(['_trackPageview']);
+  
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? '/web/20110214045248/https://ssl' : '/web/20110214045248/http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  
+  </script>
+  
+  </div>
+   
+  <div id="navbar" class="navbar">
+  
+  	<ul id="navtabs" class="navtabs floatcontainer">
+  		
+  	<li>
+  	
+  		<a class="navtab" href="/web/20110214045248/http://www.wonderfulwaterloo.com/content.php">Home</a>
+  	
+  	</li>
+   
+  		
+  			<li class="selected"><a class="navtab" href="/web/20110214045248/http://www.wonderfulwaterloo.com/forum.php">Forum</a>
+  				<ul class="floatcontainer">
+  					
+  					
+  					
+  
+  					
+  					<li class="popupmenu">
+  						<a href="javascript://" class="popupctrl" accesskey="6">Community</a>
+  						<ul class="popupbody popuphover">
+  							
+  							
+  							
+  							
+  								<li><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/memberlist.php">Member List</a></li>
+  							
+  							
+  							
+  						</ul>
+  					</li>
+  					
+  					
+  					<li class="popupmenu">
+  						<a href="javascript://" class="popupctrl" accesskey="3">Quick Links</a>
+  						<ul class="popupbody popuphover">
+  							
+  							
+  							<li><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/showgroups.php" rel="nofollow">
+  		
+  			View Site Leaders
+  		
+  	</a></li>
+  							
+  							<li>
+  								<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/forumdisplay.php?do=markread&amp;markreadhash=guest">Mark Forums Read</a>
+  							</li>
+  							
+  							
+  							
+  							
+  							
+  						</ul>
+  					</li>
+  					
+  				</ul>
+  
+  			</li>
+  		
+  		
+   
+  		
+  			<li><a class="navtab" href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=getdaily&amp;contenttype=vBForum_Post" accesskey="2">What's New?</a></li>
+  		
+  		<li class="popupmenu"><a href="javascript://" class="popupctrl navtab" style="background:transparent">About</a><ul class="popupbody popuphover"><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/506-About-Wonderful-Waterloo" target="_self">Welcome</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110214045248/http://www.wonderfulwaterloo.com/misc.php?do=showrules" target="_self">Code Of Conduct</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/727-Wonderful-Waterloo-Urban-Reward-Program" target="_self">Urban Rewards</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110214045248/http://www.wonderfulwaterloo.com/group.php" target="_self">Groups</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110214045248/http://www.wonderfulwaterloo.com/WDriveLogin" target="_self">W: Drive</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110214045248/http://www.wonderfulwaterloo.com/faq.php" target="_self">FAQ</a></li></ul></li><li class="popupmenu"><a href="javascript://" class="popupctrl navtab" style="background:transparent">Calendars</a><ul class="popupbody popuphover"><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110214045248/http://www.wonderfulwaterloo.com/calendar.php?calendarid=1" target="_self">Municipal Events</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110214045248/http://www.wonderfulwaterloo.com/calendar.php?calendarid=2" target="_self">Arts, Culture & Heritage</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110214045248/http://www.wonderfulwaterloo.com/calendar.php?calendarid=3" target="_self">Sports & Recreation</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110214045248/http://www.wonderfulwaterloo.com/calendar.php?calendarid=4" target="_self">Business</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110214045248/http://www.wonderfulwaterloo.com/calendar.php?calendarid=9" target="_self">Entrepreneurship</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110214045248/http://www.wonderfulwaterloo.com/calendar.php?calendarid=6" target="_self">Food Deals</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110214045248/http://www.wonderfulwaterloo.com/calendar.php?calendarid=5" target="_self">Nightlife</a></li></ul></li><li ><a class='navtab' href='/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/206-Maps' target='_self'> Maps</a></li><li ><a class='navtab' href='/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/423-Waterloo-Region-Statistics' target='_self'> Stats</a></li><li ><a class='navtab' href='/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/314-Links' target='_self'> Links</a></li>
+  	</ul>
+  
+  	
+  	<div id="globalsearch" class="globalsearch">
+  		<form action="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=process" method="post" id="navbar_search" class="navbar_search">
+  			
+  			<input type="hidden" name="securitytoken" value="guest" />
+  			<input type="hidden" name="do" value="process" />
+  			<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
+  			<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
+  		</form>
+  		<ul class="navbar_advanced_search">
+  			<li><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php" accesskey="4">Advanced Search</a></li>
+  		</ul>
+  	</div>
+  	
+  </div>
+  </div><!-- closing div for above_body -->
+  
+  <div class="body_wrapper">
+  
+  <div id="breadcrumb" class="breadcrumb"> 
+          
+  	<ul class="floatcontainer">
+  		<li class="navbithome"><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/index.php" accesskey="1"><img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/navbit-home.png" alt="Home" /></a></li>
+  
+  		
+  	<li class="navbit"><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/forum.php">Forum</a></li>
+   
+  	<li class="navbit"><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/forumdisplay.php/1-Construction-and-Land-Development">Construction and Land Development</a></li>
+   
+  	<li class="navbit"><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/forumdisplay.php/2-Downtowns">Downtowns</a></li>
+   
+  		
+  	<li class="navbit lastnavbit"><span><span style="color: blue"><b>U/C</b></span> the42 | 23 m | 6 fl</span></li>
+   
+  	</ul>
+  	<hr />
+          
+  </div>
+  
+  
+  	<form action="/web/20110214045248/http://www.wonderfulwaterloo.com/profile.php?do=dismissnotice" method="post" id="notices" class="notices">
+  		<input type="hidden" name="do" value="dismissnotice" />
+  		<input type="hidden" name="s" value="" />
+  		<input type="hidden" name="securitytoken" value="guest" />
+  		<input type="hidden" id="dismiss_notice_hidden" name="dismiss_noticeid" value="" />
+  		<input type="hidden" name="url" value="" />
+  		<ol>
+  			<li class="restore" id="navbar_notice_1">
+  	
+  	<center><font style="font-size:15px;">We're a co-operative <b>Waterloo Region</b> based website, with an <a href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/727-Wonderful-Waterloo-Urban-Reward-Program"><b>Urban Reward Program</b></a> designed to boost our downtown cores.<br/> <a href="/web/20110214045248/http://www.wonderfulwaterloo.com/register.php" target="_blank"><b>Register</b></a>
+  		today so you can join the <u>local</u> conversation. To view messages,
+  		select the <a href="/web/20110214045248/http://www.wonderfulwaterloo.com/forum.php"><b>Forum</b></a> you want to visit or check out <a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=getdaily&amp;contenttype=vBForum_Post"><b>What's New</b></a>.</font></center>
+  </li> 
+  		</ol>
+  	</form>
+  
+  
+  
+  		 
+  		<div id="ad_global_below_navbar"><center>
+  
+  <table>
+    <tr>
+      <th style="padding-right:2px;">
+  <!-- Begin: adBrite, Generated: 2010-12-07 16:54:35  -->
+  <script type="text/javascript">
+  var AdBrite_Title_Color = '0000FF';
+  var AdBrite_Text_Color = '000000';
+  var AdBrite_Background_Color = 'FFFFFF';
+  var AdBrite_Border_Color = 'CCCCCC';
+  var AdBrite_URL_Color = '008000';
+  try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
+  </script>
+  <span style="white-space:nowrap;"><script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="/web/20110214045248/http://ads.adbrite.com/mb/text_group.php?sid=1823469&zs=3436385f3630&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script>
+  <a target="_top" href="/web/20110214045248/http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1823469&amp;afsid=1"><img src="/web/20110214045248im_/http://files.adbrite.com/mb/images/adbrite-your-ad-here-banner.gif" style="background-color:#CCCCCC;border:none;padding:0;margin:0;" alt="Your Ad Here" width="11" height="60" border="0" /></a></span>
+  <!-- End: adBrite -->
+  
+     </th>
+     <th style="padding-left:2px;">
+  
+  <!-- Begin: adBrite, Generated: 2010-12-09 9:16:15  -->
+  <script type="text/javascript">
+  var AdBrite_Title_Color = '0000FF';
+  var AdBrite_Text_Color = '000000';
+  var AdBrite_Background_Color = 'FFFFFF';
+  var AdBrite_Border_Color = 'CCCCCC';
+  var AdBrite_URL_Color = '008000';
+  try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
+  </script>
+  <span style="white-space:nowrap;"><script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="/web/20110214045248/http://ads.adbrite.com/mb/text_group.php?sid=1824559&zs=3436385f3630&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script>
+  <a target="_top" href="/web/20110214045248/http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1824559&amp;afsid=1"><img src="/web/20110214045248im_/http://files.adbrite.com/mb/images/adbrite-your-ad-here-banner.gif" style="background-color:#CCCCCC;border:none;padding:0;margin:0;" alt="Your Ad Here" width="11" height="60" border="0" /></a></span>
+  <!-- End: adBrite -->
+  
+     </th>
+    </tr>
+  </table>
+  
+  <!-- <br/>Thank you for supporting our <a href="/web/20110214045248/http://www.wonderfulwaterloo.com/memberlist.php" target="_blank">local members</a> & <a href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/727-Wonderful-Waterloo-Urban-Reward-Program" target="_blank">Waterloo Region's Economy</a>. --> 
+  
+  </center></div> 
+   
+  
+  
+  
+  
+  	<div id="above_postlist" class="above_postlist">
+  		
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?p=1674&amp;noquote=1" 
+  class="newcontent_textcontrol" id="newreplylink_top"><span>+</span> Reply to Thread</a>
+  			<img style="display:none" id="progress_newreplylink_top" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  		
+  
+  		<div id="pagination_top" class="pagination_top">
+  		
+  			<form action="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl/page3" method="get" class="pagination popupmenu nohovermenu">
+  <input type="hidden" name="t" value="42" />
+  	
+  		<span><a href="javascript://" class="popupctrl">Page 1 of 10</a></span>
+  		
+  		
+  		
+  		<span class="selected"><a href="javascript://" title="Results 1 to 20 of 184">1</a></span> <span><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl/page2" title="Show results 21 to 40 of 184">2</a></span> <span><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl/page3" title="Show results 41 to 60 of 184">3</a></span> 
+  		
+  		<span class="separator">...</span>
+  		
+  		
+  		<span class="prev_next"><a rel="next" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl/page2" title="Next Page - Results 21 to 40 of 184"><img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/pagination/next-right.png" alt="Next" /></a></span>
+  		
+  		
+  		<span class="first_last"><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl/page10" title="Last Page - Results 181 to 184 of 184">Last<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/pagination/last-right.png" alt="Last" /></a></span>
+  		
+  	
+  	<ul class="popupbody popuphover">
+  		<li class="formsubmit jumptopage"><label>Jump to page: <input type="text" name="page" size="4" /></label> <input type="submit" class="button" value="Go" /></li>
+  	</ul>
+  </form> 
+  		
+  			<div id="postpagestats_above" class="postpagestats">
+  				Results 1 to 20 of 184
+  			</div>
+  		</div>
+  	</div>
+  	<div id="thread_controls" class="thread_controls toolsmenu">
+  		<div>
+  		<ul id="postlist_popups" class="postlist_popups popupgroup">
+  			
+  			<li class="popupmenu" id="threadtools">
+  				<h6><a class="popupctrl" href="javascript://">Thread Tools</a></h6>
+  				<ul class="popupbody popuphover">
+  					<li><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/printthread.php?t=42&amp;pp=20&amp;page=1" accesskey="3" 
+  						rel="nofollow">Show Printable Version</a></li>
+  					<li><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/sendmessage.php?do=sendtofriend&amp;t=42"
+  						rel="nofollow">Email this Page&hellip;</a></li>
+  					<li>
+  						
+  							<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/subscription.php?do=addsubscription&amp;t=42" 
+  								rel="nofollow">Subscribe to this Thread&hellip;</a>
+  											
+  					</li>
+  					
+  				</ul>
+  			</li>
+  
+  			
+  
+  			
+  
+  			
+  
+  			
+  
+  			
+  		</ul>
+  		</div>
+  	</div>
+  
+  <div id="postlist" class="postlist restrain">
+  	
+  
+  	
+  		<ol id="posts" class="posts" start="1">
+  			<li class="postbit postbitim postcontainer" id="post_203">
+  	<div class="postdetails_noavatar">
+  		<div class="userinfo" style="height:20px; background: transparent;">
+  			<div class="contact">
+  				<div class="username_container" style="position:relative; top: -4px; margin-left: 6px;">
+  					
+  						<div class="popupmenu memberaction">
+  	<a class="username offline popupctrl" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>
+  	<ul class="popupbody popuphover memberaction_body">
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">
+  				View Profile
+  			</a>
+  		</li>
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+  				View Forum Posts
+  			</a>
+  		</li>
+  		
+  		
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=2" rel='nofollow'>
+  				Private Message
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/blog.php?u=2" rel='nofollow'>
+  				View Blog Entries
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/list.php/author/2-UrbanWaterloo" rel='nofollow'>
+  				View Articles
+  			</a>
+  		</li>
+  		
+  
+  		
+  
+  		
+  		
+  	</ul>
+  </div>
+   
+  					<span class="usertitle" style="font-size: 11px;">
+  						<font color="#FF6600">Senior Moderator</font>
+  					</span>
+  						<img class="inlineimg onlinestatus" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />
+  
+   
+  					
+                                          
+  				</div>
+  			</div>
+  
+  			<div style="width:35%; display: inline-block; text-align: right; height:20px;">
+  			<div style="padding: 0px 6px 0px 0;">
+                          
+                                 <span class="postdate old">
+                                          
+                                                  <span class="date">12-30-2009&nbsp;<span class="time">04:29 PM</span></span>
+                                          
+                                  </span>
+                                  <span class="nodecontrols" style="margin-left: 4px; font-size: 11px; font-weight: bold;">
+                                          
+                                                  <a name="post203" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=203#post203" class="postcounter">#1</a><a id="postcount203" name="1"></a>
+                                          
+                                          
+                                          
+                                  </span>
+                          
+  			</div>
+  			</div>
+  
+  		</div>
+  	</div>
+  
+  	<div class="postbody" style="padding-top:0px; padding-bottom:10px;">
+  		
+  		<div class="postrow">
+  				
+  					
+  					
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_203">
+  				<blockquote class="postcontent restore">
+  					<div align="center"><b><font size="5"><font color="Blue">the42</font></font><br />
+  42 Bridgeport Road, Uptown Waterloo<br />
+  <a href="/web/20110214045248/http://www.the42.ca/" target="_blank">www.the42.ca</a></b><br />
+  <br />
+  <img src="/web/20110214045248im_/http://www.the42.ca/assets/images/right_photos/building02.jpg" border="0" alt="" /></div>
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  			<!-- edit note -->
+  			<blockquote class="postcontent lastedited">
+  <!--						<img src="images/buttons/edit_40b.png" alt="" /> -->
+  				
+  					Last edited by Duke-of-Waterloo; 11-27-2010 at <span class="time">05:43 PM</span>.
+  				
+  				
+  			</blockquote>
+  			<!-- / edit note -->
+  			
+  
+                          	
+  		         
+  			
+  		</div>
+  	</div>
+  	<div class="postfoot">
+  		<div class="textcontrols floatcontainer">
+  			<span class="postcontrols">
+  				<img style="display:none" id="progress_203" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  				
+  				
+  				
+  					<a id="qrwq_203" class="newreply" href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=203" rel="nofollow" ><img id="quoteimg_203" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+  					
+  				
+  				
+  			</span>
+  
+  			<span class="postlinking">
+  				
+  					
+  				
+  				
+  
+  				 
+  				
+  
+  					
+  
+  					
+  					 
+  
+  					
+  					
+  					
+  					
+  
+  				
+  			</span>
+  		</div>
+  	</div>
+  	<hr />
+  </li>
+  <li class="postbit postbitim" id="post_thanks_box_203" style="display:none">
+  	
+  </li>
+     <li class="postbit postbitim postcontainer" id="post_204">
+  	<div class="postdetails_noavatar">
+  		<div class="userinfo">
+  			<div class="contact">
+  				
+  					<a class="postuseravatarlink" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">
+  						
+  							<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo's Avatar" style="max-height: 45px" />
+  						
+  					</a>
+  				
+  				<div class="username_container">
+  					<div>
+  					
+  						<div class="popupmenu memberaction">
+  	<a class="username offline popupctrl" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>
+  	<ul class="popupbody popuphover memberaction_body">
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">
+  				View Profile
+  			</a>
+  		</li>
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+  				View Forum Posts
+  			</a>
+  		</li>
+  		
+  		
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=2" rel='nofollow'>
+  				Private Message
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/blog.php?u=2" rel='nofollow'>
+  				View Blog Entries
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/list.php/author/2-UrbanWaterloo" rel='nofollow'>
+  				View Articles
+  			</a>
+  		</li>
+  		
+  
+  		
+  
+  		
+  		
+  	</ul>
+  </div>
+   
+  					<span class="usertitle">
+  						<font color="#FF6600">Senior Moderator</font>
+  					</span>
+  						<img class="inlineimg onlinestatus" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />
+  
+   
+  					
+  					</div>
+  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+  						From Kitchener-Waterloo |  Member Since Dec 2009 | 3,603 Posts
+  					</div>
+                                          
+  				</div>
+  			</div>
+  
+  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+  			<div style="padding: 6px 10px 3px 0;">
+                          
+                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                          
+                                                  <a name="post204" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=204#post204" class="postcounter">#2</a><a id="postcount204" name="2"></a>
+                                          
+                                          
+                                          
+                                  </span>
+                                  <div style="margin-top: 6px;">
+                                 <span class="postdate old">
+                                          
+                                                  <span class="date">12-30-2009&nbsp;<span class="time">04:33 PM</span></span>
+                                          
+                                  </span>
+                                  </div>
+                          
+  			</div>
+  			</div>
+  
+  		</div>
+  	</div>
+  
+  	<div class="postbody">
+  		
+  		<div class="postrow">
+  		
+  		
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_204">
+  				<blockquote class="postcontent restore">
+  					<font color="YellowGreen"><font size="3"><b>the BUILDING</b></font></font><br />
+  Contributions from many disciplines have realized the42: An ethos borne of smart design and eco-friendly construction methods that supersede any trend. <br />
+  A building built for the living. Human friendly, the42 was conceived from the inside out, with no detail left unturned. <br />
+  Available fully integrated communication technologies living within the walls. <br />
+  Every human scale space is composed of the smartest in current low VOC and renewable materials. <br />
+  The42 is about balance: Your balance, a balance of work and play, of form following function. <br />
+  Life is to be lived, and the42 frees you up for just that. <br />
+  Your home should be a destination: A place to relax and unwind. <br />
+  Living at the42 you¹re unencumbered. Free of maintenance, you are free to indulge in your lifestyle. <br />
+  It’s about delivering what you need and what you want, and nothing more.<br />
+  <br />
+  <img src="/web/20110214045248im_/http://www.the42.ca/assets/images/right_photos/back-photo02-med.jpg" border="0" alt="" /><br />
+  <br />
+  <font color="yellowgreen"><font size="3"><b>the DISTRICT</b></font></font><br />
+  The 42 is steps away from culturally rich Uptown Waterloo. Enjoy dining from fine to casual, from domestic to international cuisine, impromptu or reserved. <br />
+  After dinner take in a Waterloo Stage Theater play, an art house movie at The Vintage Princess theatre or go fully digital at the intellectually inspired Princess Twins. <br />
+  Grab an Italian Gelato, a sweet Bon Choix, or a nightcap at The Jane Bond. <br />
+  Pick up a flick at Gen-X Video, grab some market fresh produce and escape to your oasis in the42. <br />
+  Life in Uptown Waterloo becomes animated with seasonal festivals such as Buskerfest, The Jazz Festival and Oktoberfest. <br />
+  Enjoy some retail therapy at some of the finest shops the Region has to offer. <br />
+  All of this only steps from your door.<br />
+  <br />
+  <font color="YellowGreen"><font size="3"><b>ECO CHIC</b></font></font><br />
+  It's not trite, it's not a fad, you're investing in your health, our next generation's health and the earth's stewardship. <br />
+  Pretty big words from a small condominium project. <br />
+  A work in progress, the42 is at every turn making an effort to ensure that your condominium finds a balance between eco friendly, renewable and human friendly materials. Specify vanities and stair treads sourced from reclaimed urban forest. Select from low VOC renewable flooring such as cork or bamboo and zero VOC paint finishes. Enjoy the common area terrace garden. Located on the second level, this outdoor garden and green roof minimize the site's heat island footprint. The garden provides building insulation reducing heating and cooling costs while consuming CO2 and on top of that delivers a private landscaped aesthetic to owners. <br />
+  It's your home oasis and a welcome retreat from industrialized toxins, making the best decisions with what's currently available, the42 is built for everyone. <br />
+  Sustainability and ecological responsibility are inherent in the structure of the building, and in each suite:<br />
+  <br />
+  The Building Provides: <ul><li>On-site Car Share to reduce parking load and CO2 emissions</li>
+  <li>Green roof to reduce heat island effect and water runoff</li>
+  <li>Separate recycling chute for residents</li>
+  <li>On-site water filtration system</li>
+  <li>Energy and material efficient central heating and cooling systems</li>
+  <li>Energy efficient windows and doors</li>
+  <li>Energy efficient lighting</li>
+  <li>Reclamation of unused recyclable building site material</li>
+  </ul><br />
+  Each Suite Provides: <ul><li>Energy Star appliances</li>
+  <li>Low impact materials such as cork, bamboo or polished concrete flooring</li>
+  <li>Recycled content where possible</li>
+  <li>Low VOC paints and finishes</li>
+  <li>Low water consumption faucets</li>
+  <li>Dual flush toilets</li>
+  </ul>Making the best decisions with what's currently available, the42 is built for everyone.<br />
+  <br />
+  <img src="/web/20110214045248im_/http://www.the42.ca/assets/images/right_photos/echo-chic01.jpg" border="0" alt="" />  <img src="/web/20110214045248im_/http://www.the42.ca/assets/images/right_photos/echo-chic02.jpg" border="0" alt="" /><br />
+  <br />
+  <font size="3"><font color="YellowGreen"><b>the STORY</b></font></font><br />
+  Uptown Waterloo's "the42" is the first in a planned series of artfully designed Momentum Developments projects that will deliver differentiated properties as unique as those who inhabit them. <br />
+  The42 is the result of design collaboration between Momentum Developments, Quadrangle Architects and local design firm Scribblers' Club. <br />
+  Based in Waterloo, Ontario, Momentum Developments is a premier commercial and residential real estate development company with specialization in quality institutional grade projects. <br />
+  Momentum Development's diverse management backgrounds cumulatively provide a distinct and thoughtful vision for each new project. A developer with 10 years of construction and contract management experience, Momentum Development's team consistently delivers completed projects to its residents on time. <br />
+  The architect, Quadrangle is an award winning Toronto firm with an extensive portfolio including spectacular projects such as BMW's Head office, The Candy Factory Lofts, The CHUM Building, and CityGate Condominiums. <br />
+  Quadrangle approaches each project as more than a building, "it is a cultural imprint for better living and better working, and genuinely enhances its urban environment." Blending homage to historical trends in architecture with the youthful and hip personality of Uptown Waterloo, the42 makes an impact. <br />
+  Locally, many are familiar with Uptown Waterloo's Whole-lotta-Gelata, a top-down invention where the Scribblers' Club team designed and managed everything from floor to ceiling. Every attention to detail mimics the colorful whimsy and joy found in a demitasse of gelato. <br />
+  Momentum Developments has engaged Scribblers' Club's expertise in creating emotive spaces for the42 interiors.<br />
+  <br />
+  <img src="/web/20110214045248im_/http://www.the42.ca/assets/images/right_photos/building02.jpg" border="0" alt="" />  <img src="/web/20110214045248im_/http://www.the42.ca/assets/images/right_photos/comp_people.jpg" border="0" alt="" /><br />
+  <br />
+  <font color="yellowgreen"><font size="3"><b>the PRESENTATION CENTER</b></font></font><br />
+  We will be offering a limited release of residential units.<br />
+  The sales office and model suite (Presentation Center) will be located at: <br />
+  <br />
+  55 Peppler St.<br />
+  Waterloo, Ontario <br />
+  <br />
+  The Presentation Center - Opening April 2008<br />
+  <br />
+  <b><font size="4"><font color="YellowGreen">FEATURES &amp; FINISHES</font></font></b><br />
+  <br />
+  <font color="yellowgreen"><b>the SUITE</b></font><ul><li>Ceiling height of 10'</li>
+  <li>Full height double glazed windows</li>
+  <li>Double glazed sliding door(s) with screen as per plan</li>
+  <li>Choice of polished concrete or laminate wood flooring</li>
+  <li>Balcony or Terrace as per plan with exterior lighting and glass railing</li>
+  <li>Oversize 3' x 7' wood solid core entry door with lever handle and deadbolt</li>
+  <li>Fully installed stacked washer and dryer vented to exterior</li>
+  <li>Low VOC latex paint finishes</li>
+  </ul><br />
+  <font color="yellowgreen"><b>the KITCHEN</b></font><ul><li>Open concept kitchen layouts with islands or peninsulas as per plan</li>
+  <li>Choice of designer cabinetry from samples</li>
+  <li>Choice of granite countertops from samples</li>
+  <li>Fully installed premium Energy Star appliance package including: 18 cu.ft. frost free fridge, 30” range, built-in microwave hood fan, and multi-cycle built-in dishwasher</li>
+  <li>Double bowl stainless steel sink</li>
+  <li>Single handle faucet with pull-out sprayer</li>
+  <li>Ceramic tile backsplash from builders samples</li>
+  </ul><br />
+  <b><font color="yellowgreen">the BATHROOM</font></b><ul><li>Ceramic tiles from builders samples for floors</li>
+  <li>Ceramic tiles from builders samples installed for tub/showers and walk-in showers as per plan</li>
+  <li>5' soaker tub or walk-in shower as per plan</li>
+  <li>Wide selection of bathroom cabinetry</li>
+  <li>Granite countertop from builders samples</li>
+  <li>White porcelain raised vessel sink with single lever faucet</li>
+  <li>Pressure balanced tub/shower faucet</li>
+  <li>White dual flush toilet</li>
+  <li>Bathroom fan vented to exterior</li>
+  </ul><br />
+  <b><font color="yellowgreen">the TECHNOLOGY SYSTEMS</font></b><ul><li>In-suite controlled, programmable thermostat controls for heating and cooling</li>
+  <li>Telephone jacks with category 5e wire in kitchen, living room, den and bedrooms as per plan</li>
+  <li>Cable TV outlets in kitchen, living room, den and bedrooms as per plan</li>
+  <li>Smoke and heat detector</li>
+  </ul><br />
+   <br />
+  <b><font size="4"><font color="yellowgreen">BUILDING AMENITIES</font></font></b><ul><li>Entertainment room complete with cater kitchen</li>
+  <li>Landscaped BBQ terrace</li>
+  <li>Green roof to reduce heat island effect and water runoff</li>
+  <li>Fitness Room</li>
+  <li>Secure underground parking</li>
+  <li>On-site Car Share to reduce parking load and CO2 emissions</li>
+  <li>Car wash area</li>
+  <li>Secure underground bicycle parking\on-site</li>
+  <li>Separate recycling chute for residents</li>
+  <li>On floor storage lockers</li>
+  <li>Energy and material efficient central heating and cooling systems</li>
+  <li>Energy efficient windows and doors</li>
+  <li>Energy efficient lighting</li>
+  <li>Reclamation of unused recyclable building site material</li>
+  <li>Enter phone security system</li>
+  </ul><br />
+  <br />
+  <div align="center"><b><font color="Red"><font size="4">Their ads:</font> </font></b><a href="/web/20110214045248/http://www.facebook.com/album.php?aid=18792&amp;id=7780366938" target="_blank">http://www.facebook.com/album.php?ai...&amp;id=7780366938</a><br />
+  <br />
+  <img src="/web/20110214045248im_/http://photos-e.ak.fbcdn.net/photos-ak-sf2p/v200/115/65/7780366938/n7780366938_418866_3623.jpg" border="0" alt="" />__<img src="/web/20110214045248im_/http://photos-c.ak.fbcdn.net/photos-ak-sf2p/v200/115/65/7780366938/n7780366938_418867_3907.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://photos-d.ak.fbcdn.net/photos-ak-sf2p/v200/115/65/7780366938/n7780366938_418868_4174.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://photos-f.ak.fbcdn.net/photos-ak-sf2p/v200/115/65/7780366938/n7780366938_418876_2960.jpg" border="0" alt="" />__<img src="/web/20110214045248im_/http://photos-d.ak.fbcdn.net/photos-ak-sf2p/v200/115/65/7780366938/n7780366938_418877_3215.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://photos-e.ak.fbcdn.net/photos-ak-sf2p/v200/115/65/7780366938/n7780366938_418879_3774.jpg" border="0" alt="" />_<img src="/web/20110214045248im_/http://photos-h.ak.fbcdn.net/photos-ak-sf2p/v200/115/65/7780366938/n7780366938_418880_4181.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://photos-d.ak.fbcdn.net/photos-ak-sf2p/v194/115/65/7780366938/n7780366938_441938_7659.jpg" border="0" alt="" /></div>
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  			<!-- edit note -->
+  			<blockquote class="postcontent lastedited">
+  <!--						<img src="images/buttons/edit_40b.png" alt="" /> -->
+  				
+  					Last edited by Spokes; 07-18-2010 at <span class="time">09:35 AM</span>.
+  				
+  				
+  			</blockquote>
+  			<!-- / edit note -->
+  			
+  
+                          	
+  		         
+  			
+  			<blockquote class="signature restore"><div class="signaturecontainer"><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/219-Light-Rail-Transit?p=25288#post25288" target="_blank"><b><font color="darkgreen">cc LRT Letters to <a href="mailto:letters@wonderfulwaterloo.com">letters@wonderfulwaterloo.com</a></font></b><br />
+  </a></div></blockquote>
+  			
+  
+  			
+  		</div>
+  	</div>
+  	<div class="postfoot">
+  		<div class="textcontrols floatcontainer">
+  			<span class="postcontrols">
+  				<img style="display:none" id="progress_204" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  				
+  				
+  				
+  					<a id="qrwq_204" class="newreply" href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=204" rel="nofollow" ><img id="quoteimg_204" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+  					
+  				
+  				
+  			</span>
+  
+  			<span class="postlinking">
+  				
+  					
+  				
+  				
+  
+  				 
+  				
+  
+  					
+  
+  					
+  					 
+  
+  					
+  					
+  					
+  					
+  
+  				
+  			</span>
+  		</div>
+  	</div>
+  	<hr />
+  </li>
+  <li class="postbit postbitim" id="post_thanks_box_204" style="display:none">
+  	
+  </li>
+     <li class="postbit postbitim postcontainer" id="post_453">
+  	<div class="postdetails_noavatar">
+  		<div class="userinfo">
+  			<div class="contact">
+  				
+  					<a class="postuseravatarlink" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">
+  						
+  							<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo's Avatar" style="max-height: 45px" />
+  						
+  					</a>
+  				
+  				<div class="username_container">
+  					<div>
+  					
+  						<div class="popupmenu memberaction">
+  	<a class="username offline popupctrl" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>
+  	<ul class="popupbody popuphover memberaction_body">
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">
+  				View Profile
+  			</a>
+  		</li>
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+  				View Forum Posts
+  			</a>
+  		</li>
+  		
+  		
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=2" rel='nofollow'>
+  				Private Message
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/blog.php?u=2" rel='nofollow'>
+  				View Blog Entries
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/list.php/author/2-UrbanWaterloo" rel='nofollow'>
+  				View Articles
+  			</a>
+  		</li>
+  		
+  
+  		
+  
+  		
+  		
+  	</ul>
+  </div>
+   
+  					<span class="usertitle">
+  						<font color="#FF6600">Senior Moderator</font>
+  					</span>
+  						<img class="inlineimg onlinestatus" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />
+  
+   
+  					
+  					</div>
+  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+  						From Kitchener-Waterloo |  Member Since Dec 2009 | 3,603 Posts
+  					</div>
+                                          
+  				</div>
+  			</div>
+  
+  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+  			<div style="padding: 6px 10px 3px 0;">
+                          
+                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                          
+                                                  <a name="post453" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=453#post453" class="postcounter">#3</a><a id="postcount453" name="3"></a>
+                                          
+                                          
+                                          
+                                  </span>
+                                  <div style="margin-top: 6px;">
+                                 <span class="postdate old">
+                                          
+                                                  <span class="date">01-08-2010&nbsp;<span class="time">12:42 PM</span></span>
+                                          
+                                  </span>
+                                  </div>
+                          
+  			</div>
+  			</div>
+  
+  		</div>
+  	</div>
+  
+  	<div class="postbody">
+  		
+  		<div class="postrow">
+  		
+  		
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_453">
+  				<blockquote class="postcontent restore">
+  					Another development that will take some time to sort. For now here's December 2009.<br />
+  <br />
+  <b><font color="red">December 5, 2009</font></b><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42-December52009-1.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42-December52009-2.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42-December52009-3.jpg" border="0" alt="" /><br />
+  <br />
+  <b><font color="red">December 27, 2009</font></b><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42-December272009-1.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42-December272009-2.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42-December272009-3.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42-December272009-4.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42-December272009-5.jpg" border="0" alt="" />
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  
+                          	
+  		         
+  			
+  			<blockquote class="signature restore"><div class="signaturecontainer"><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/219-Light-Rail-Transit?p=25288#post25288" target="_blank"><b><font color="darkgreen">cc LRT Letters to <a href="mailto:letters@wonderfulwaterloo.com">letters@wonderfulwaterloo.com</a></font></b><br />
+  </a></div></blockquote>
+  			
+  
+  			
+  		</div>
+  	</div>
+  	<div class="postfoot">
+  		<div class="textcontrols floatcontainer">
+  			<span class="postcontrols">
+  				<img style="display:none" id="progress_453" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  				
+  				
+  				
+  					<a id="qrwq_453" class="newreply" href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=453" rel="nofollow" ><img id="quoteimg_453" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+  					
+  				
+  				
+  			</span>
+  
+  			<span class="postlinking">
+  				
+  					
+  				
+  				
+  
+  				 
+  				
+  
+  					
+  
+  					
+  					 
+  
+  					
+  					
+  					
+  					
+  
+  				
+  			</span>
+  		</div>
+  	</div>
+  	<hr />
+  </li>
+  <li class="postbit postbitim" id="post_thanks_box_453" style="display:none">
+  	
+  </li>
+     <li class="postbit postbitim postcontainer" id="post_458">
+  	<div class="postdetails_noavatar">
+  		<div class="userinfo">
+  			<div class="contact">
+  				
+  					<a class="postuseravatarlink" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/5-jay" title="jay is offline">
+  						
+  							<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/image.php?u=5&amp;dateline=1268703480" alt="jay's Avatar" style="max-height: 45px" />
+  						
+  					</a>
+  				
+  				<div class="username_container">
+  					<div>
+  					
+  						<div class="popupmenu memberaction">
+  	<a class="username offline popupctrl" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/5-jay" title="jay is offline"><strong>jay</strong></a>
+  	<ul class="popupbody popuphover memberaction_body">
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/5-jay">
+  				View Profile
+  			</a>
+  		</li>
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=5&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+  				View Forum Posts
+  			</a>
+  		</li>
+  		
+  		
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=5" rel='nofollow'>
+  				Private Message
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/blog.php?u=5" rel='nofollow'>
+  				View Blog Entries
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/list.php/author/5-jay" rel='nofollow'>
+  				View Articles
+  			</a>
+  		</li>
+  		
+  
+  		
+  
+  		
+  		
+  	</ul>
+  </div>
+   
+  					<span class="usertitle">
+  						<font color="#FF6600">Senior Moderator</font>
+  					</span>
+  						<img class="inlineimg onlinestatus" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="jay is offline" border="0" />
+  
+   
+  					
+  					</div>
+  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+  						From Bauer Lofts, Waterloo |  Member Since Dec 2009 | 743 Posts
+  					</div>
+                                          
+  				</div>
+  			</div>
+  
+  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+  			<div style="padding: 6px 10px 3px 0;">
+                          
+                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                          
+                                                  <a name="post458" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=458#post458" class="postcounter">#4</a><a id="postcount458" name="4"></a>
+                                          
+                                          
+                                          
+                                  </span>
+                                  <div style="margin-top: 6px;">
+                                 <span class="postdate old">
+                                          
+                                                  <span class="date">01-08-2010&nbsp;<span class="time">05:19 PM</span></span>
+                                          
+                                  </span>
+                                  </div>
+                          
+  			</div>
+  			</div>
+  
+  		</div>
+  	</div>
+  
+  	<div class="postbody">
+  		
+  		<div class="postrow">
+  		
+  		
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_458">
+  				<blockquote class="postcontent restore">
+  					I like this project...Any news on any of the retail yet?
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  
+                          	
+  		         
+  			
+  
+  			
+  		</div>
+  	</div>
+  	<div class="postfoot">
+  		<div class="textcontrols floatcontainer">
+  			<span class="postcontrols">
+  				<img style="display:none" id="progress_458" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  				
+  				
+  				
+  					<a id="qrwq_458" class="newreply" href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=458" rel="nofollow" ><img id="quoteimg_458" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+  					
+  				
+  				
+  			</span>
+  
+  			<span class="postlinking">
+  				
+  					
+  				
+  				
+  
+  				 
+  				
+  
+  					
+  
+  					
+  					 
+  
+  					
+  					
+  					
+  					
+  
+  				
+  			</span>
+  		</div>
+  	</div>
+  	<hr />
+  </li>
+  <li class="postbit postbitim" id="post_thanks_box_458" style="display:none">
+  	
+  </li>
+     <li class="postbit postbitim postcontainer" id="post_598">
+  	<div class="postdetails_noavatar">
+  		<div class="userinfo_noavatar">
+  			<div class="contact">
+  				
+  				<div class="username_container">
+  					<div>
+  					
+  						<div class="popupmenu memberaction">
+  	<a class="username offline popupctrl" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/29-diego" title="diego is offline"><strong>diego</strong></a>
+  	<ul class="popupbody popuphover memberaction_body">
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/29-diego">
+  				View Profile
+  			</a>
+  		</li>
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=29&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+  				View Forum Posts
+  			</a>
+  		</li>
+  		
+  		
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=29" rel='nofollow'>
+  				Private Message
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/blog.php?u=29" rel='nofollow'>
+  				View Blog Entries
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/list.php/author/29-diego" rel='nofollow'>
+  				View Articles
+  			</a>
+  		</li>
+  		
+  
+  		
+  
+  		
+  		
+  	</ul>
+  </div>
+   
+  					<span class="usertitle">
+  						Town Member
+  					</span>
+  						<img class="inlineimg onlinestatus" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="diego is offline" border="0" />
+  
+   
+  					
+  					</div>
+  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+  						 Member Since Jan 2010 | 103 Posts
+  					</div>
+                                          
+  				</div>
+  			</div>
+  
+  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+  			<div style="padding: 6px 10px 3px 0;">
+                          
+                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                          
+                                                  <a name="post598" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=598#post598" class="postcounter">#5</a><a id="postcount598" name="5"></a>
+                                          
+                                          
+                                          
+                                  </span>
+                                  <div style="margin-top: 6px;">
+                                 <span class="postdate old">
+                                          
+                                                  <span class="date">01-12-2010&nbsp;<span class="time">09:47 AM</span></span>
+                                          
+                                  </span>
+                                  </div>
+                          
+  			</div>
+  			</div>
+  
+  		</div>
+  	</div>
+  
+  	<div class="postbody">
+  		
+  		<div class="postrow">
+  		
+  		
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_598">
+  				<blockquote class="postcontent restore">
+  					Also does anyone know how many retail units will be available?
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  
+                          	
+  		         
+  			
+  
+  			
+  		</div>
+  	</div>
+  	<div class="postfoot">
+  		<div class="textcontrols floatcontainer">
+  			<span class="postcontrols">
+  				<img style="display:none" id="progress_598" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  				
+  				
+  				
+  					<a id="qrwq_598" class="newreply" href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=598" rel="nofollow" ><img id="quoteimg_598" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+  					
+  				
+  				
+  			</span>
+  
+  			<span class="postlinking">
+  				
+  					
+  				
+  				
+  
+  				 
+  				
+  
+  					
+  
+  					
+  					 
+  
+  					
+  					
+  					
+  					
+  
+  				
+  			</span>
+  		</div>
+  	</div>
+  	<hr />
+  </li>
+  <li class="postbit postbitim" id="post_thanks_box_598" style="display:none">
+  	
+  </li>
+     <li class="postbit postbitim postcontainer" id="post_599">
+  	<div class="postdetails_noavatar">
+  		<div class="userinfo">
+  			<div class="contact">
+  				
+  					<a class="postuseravatarlink" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">
+  						
+  							<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo's Avatar" style="max-height: 45px" />
+  						
+  					</a>
+  				
+  				<div class="username_container">
+  					<div>
+  					
+  						<div class="popupmenu memberaction">
+  	<a class="username offline popupctrl" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>
+  	<ul class="popupbody popuphover memberaction_body">
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">
+  				View Profile
+  			</a>
+  		</li>
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+  				View Forum Posts
+  			</a>
+  		</li>
+  		
+  		
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=2" rel='nofollow'>
+  				Private Message
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/blog.php?u=2" rel='nofollow'>
+  				View Blog Entries
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/list.php/author/2-UrbanWaterloo" rel='nofollow'>
+  				View Articles
+  			</a>
+  		</li>
+  		
+  
+  		
+  
+  		
+  		
+  	</ul>
+  </div>
+   
+  					<span class="usertitle">
+  						<font color="#FF6600">Senior Moderator</font>
+  					</span>
+  						<img class="inlineimg onlinestatus" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />
+  
+   
+  					
+  					</div>
+  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+  						From Kitchener-Waterloo |  Member Since Dec 2009 | 3,603 Posts
+  					</div>
+                                          
+  				</div>
+  			</div>
+  
+  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+  			<div style="padding: 6px 10px 3px 0;">
+                          
+                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                          
+                                                  <a name="post599" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=599#post599" class="postcounter">#6</a><a id="postcount599" name="6"></a>
+                                          
+                                          
+                                          
+                                  </span>
+                                  <div style="margin-top: 6px;">
+                                 <span class="postdate old">
+                                          
+                                                  <span class="date">01-12-2010&nbsp;<span class="time">03:32 PM</span></span>
+                                          
+                                  </span>
+                                  </div>
+                          
+  			</div>
+  			</div>
+  
+  		</div>
+  	</div>
+  
+  	<div class="postbody">
+  		
+  		<div class="postrow">
+  		
+  		
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_599">
+  				<blockquote class="postcontent restore">
+  					On mobile atm, but iirc it's 6. Also, i'll attach the latest newsletter tonight.
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  
+                          	
+  		         
+  			
+  			<blockquote class="signature restore"><div class="signaturecontainer"><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/219-Light-Rail-Transit?p=25288#post25288" target="_blank"><b><font color="darkgreen">cc LRT Letters to <a href="mailto:letters@wonderfulwaterloo.com">letters@wonderfulwaterloo.com</a></font></b><br />
+  </a></div></blockquote>
+  			
+  
+  			
+  		</div>
+  	</div>
+  	<div class="postfoot">
+  		<div class="textcontrols floatcontainer">
+  			<span class="postcontrols">
+  				<img style="display:none" id="progress_599" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  				
+  				
+  				
+  					<a id="qrwq_599" class="newreply" href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=599" rel="nofollow" ><img id="quoteimg_599" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+  					
+  				
+  				
+  			</span>
+  
+  			<span class="postlinking">
+  				
+  					
+  				
+  				
+  
+  				 
+  				
+  
+  					
+  
+  					
+  					 
+  
+  					
+  					
+  					
+  					
+  
+  				
+  			</span>
+  		</div>
+  	</div>
+  	<hr />
+  </li>
+  <li class="postbit postbitim" id="post_thanks_box_599" style="display:none">
+  	
+  </li>
+     <li class="postbit postbitim postcontainer" id="post_631">
+  	<div class="postdetails_noavatar">
+  		<div class="userinfo">
+  			<div class="contact">
+  				
+  					<a class="postuseravatarlink" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">
+  						
+  							<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo's Avatar" style="max-height: 45px" />
+  						
+  					</a>
+  				
+  				<div class="username_container">
+  					<div>
+  					
+  						<div class="popupmenu memberaction">
+  	<a class="username offline popupctrl" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>
+  	<ul class="popupbody popuphover memberaction_body">
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">
+  				View Profile
+  			</a>
+  		</li>
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+  				View Forum Posts
+  			</a>
+  		</li>
+  		
+  		
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=2" rel='nofollow'>
+  				Private Message
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/blog.php?u=2" rel='nofollow'>
+  				View Blog Entries
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/list.php/author/2-UrbanWaterloo" rel='nofollow'>
+  				View Articles
+  			</a>
+  		</li>
+  		
+  
+  		
+  
+  		
+  		
+  	</ul>
+  </div>
+   
+  					<span class="usertitle">
+  						<font color="#FF6600">Senior Moderator</font>
+  					</span>
+  						<img class="inlineimg onlinestatus" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />
+  
+   
+  					
+  					</div>
+  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+  						From Kitchener-Waterloo |  Member Since Dec 2009 | 3,603 Posts
+  					</div>
+                                          
+  				</div>
+  			</div>
+  
+  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+  			<div style="padding: 6px 10px 3px 0;">
+                          
+                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                          
+                                                  <a name="post631" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=631#post631" class="postcounter">#7</a><a id="postcount631" name="7"></a>
+                                          
+                                          
+                                          
+                                  </span>
+                                  <div style="margin-top: 6px;">
+                                 <span class="postdate old">
+                                          
+                                                  <span class="date">01-13-2010&nbsp;<span class="time">12:19 AM</span></span>
+                                          
+                                  </span>
+                                  </div>
+                          
+  			</div>
+  			</div>
+  
+  		</div>
+  	</div>
+  
+  	<div class="postbody">
+  		
+  		<div class="postrow">
+  		
+  		
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_631">
+  				<blockquote class="postcontent restore">
+  					Sorry, we'll have to wait one more day for the newsletters (need to get them e-mailed).  For now here's the original prices.<br />
+  <br />
+  <b><font color="red">April 2008</font></b><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42-PriceList-April2008.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42-PriceListPenthouse-April2008.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42-GrandOpeningWeekendSpecials-A.jpg" border="0" alt="" />
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  
+                          	
+  		         
+  			
+  			<blockquote class="signature restore"><div class="signaturecontainer"><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/219-Light-Rail-Transit?p=25288#post25288" target="_blank"><b><font color="darkgreen">cc LRT Letters to <a href="mailto:letters@wonderfulwaterloo.com">letters@wonderfulwaterloo.com</a></font></b><br />
+  </a></div></blockquote>
+  			
+  
+  			
+  		</div>
+  	</div>
+  	<div class="postfoot">
+  		<div class="textcontrols floatcontainer">
+  			<span class="postcontrols">
+  				<img style="display:none" id="progress_631" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  				
+  				
+  				
+  					<a id="qrwq_631" class="newreply" href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=631" rel="nofollow" ><img id="quoteimg_631" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+  					
+  				
+  				
+  			</span>
+  
+  			<span class="postlinking">
+  				
+  					
+  				
+  				
+  
+  				 
+  				
+  
+  					
+  
+  					
+  					 
+  
+  					
+  					
+  					
+  					
+  
+  				
+  			</span>
+  		</div>
+  	</div>
+  	<hr />
+  </li>
+  <li class="postbit postbitim" id="post_thanks_box_631" style="display:none">
+  	
+  </li>
+     <li class="postbit postbitim postcontainer" id="post_671">
+  	<div class="postdetails_noavatar">
+  		<div class="userinfo">
+  			<div class="contact">
+  				
+  					<a class="postuseravatarlink" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">
+  						
+  							<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo's Avatar" style="max-height: 45px" />
+  						
+  					</a>
+  				
+  				<div class="username_container">
+  					<div>
+  					
+  						<div class="popupmenu memberaction">
+  	<a class="username offline popupctrl" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>
+  	<ul class="popupbody popuphover memberaction_body">
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">
+  				View Profile
+  			</a>
+  		</li>
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+  				View Forum Posts
+  			</a>
+  		</li>
+  		
+  		
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=2" rel='nofollow'>
+  				Private Message
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/blog.php?u=2" rel='nofollow'>
+  				View Blog Entries
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/list.php/author/2-UrbanWaterloo" rel='nofollow'>
+  				View Articles
+  			</a>
+  		</li>
+  		
+  
+  		
+  
+  		
+  		
+  	</ul>
+  </div>
+   
+  					<span class="usertitle">
+  						<font color="#FF6600">Senior Moderator</font>
+  					</span>
+  						<img class="inlineimg onlinestatus" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />
+  
+   
+  					
+  					</div>
+  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+  						From Kitchener-Waterloo |  Member Since Dec 2009 | 3,603 Posts
+  					</div>
+                                          
+  				</div>
+  			</div>
+  
+  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+  			<div style="padding: 6px 10px 3px 0;">
+                          
+                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                          
+                                                  <a name="post671" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=671#post671" class="postcounter">#8</a><a id="postcount671" name="8"></a>
+                                          
+                                          
+                                          
+                                  </span>
+                                  <div style="margin-top: 6px;">
+                                 <span class="postdate old">
+                                          
+                                                  <span class="date">01-13-2010&nbsp;<span class="time">11:36 PM</span></span>
+                                          
+                                  </span>
+                                  </div>
+                          
+  			</div>
+  			</div>
+  
+  		</div>
+  	</div>
+  
+  	<div class="postbody">
+  		
+  		<div class="postrow">
+  		
+  		
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_671">
+  				<blockquote class="postcontent restore">
+  					<b><font color="red">Newsletter - October 2008</font></b><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-October2008-1.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-October2008-2.jpg" border="0" alt="" /><br />
+  <br />
+  <b><font color="red">Newsletter - November 2008</font></b><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-November2008-1.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-November2008-2.jpg" border="0" alt="" /><br />
+  <br />
+  <b><font color="red">Newsletter - December 2008</font></b><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-December2008-1.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-December2008-2.jpg" border="0" alt="" /><br />
+  <br />
+  <b><font color="red">Newsletter - January 2009</font></b><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-January2009-1.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-January2009-2.jpg" border="0" alt="" /><br />
+  <br />
+  <b><font color="red">Newsletter - February 2009</font></b><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-February2009-1.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-February2009-2.jpg" border="0" alt="" /><br />
+  <br />
+  <b><font color="red">Newsletter - March 2009</font></b><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-March2009-1.jpg" border="0" alt="" /><br />
+  <br />
+  <b><font color="red">Newsletter - May 2009</font></b><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-May2009-1.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-May2009-2.jpg" border="0" alt="" /><br />
+  <br />
+  <b><font color="red">Newsletter - August 2009</font></b><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-August2009-1.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-August2009-2.jpg" border="0" alt="" /><br />
+  <br />
+  <b><font color="red">Newsletter - September 2009</font></b><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-September2009-1.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-September2009-2.jpg" border="0" alt="" /><br />
+  <br />
+  <b><font color="red">Newsletter - October 2009</font></b><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-October2009-1.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-October2009-2.jpg" border="0" alt="" /><br />
+  <br />
+  <b><font color="red">Newsletter - November 2009</font></b><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-November2009-1.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-November2009-2.jpg" border="0" alt="" /><br />
+  <br />
+  <b><font color="red">Newsletter - December 2009</font></b><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-December2009-1.jpg" border="0" alt="" /><br />
+  <br />
+  <img src="/web/20110214045248im_/http://i576.photobucket.com/albums/ss203/UrbanWaterloo/Waterloo/the42/the42Newsletter-December2009-2.jpg" border="0" alt="" />
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  			<!-- edit note -->
+  			<blockquote class="postcontent lastedited">
+  <!--						<img src="images/buttons/edit_40b.png" alt="" /> -->
+  				
+  					Last edited by UrbanWaterloo; 02-04-2010 at <span class="time">02:06 AM</span>.
+  				
+  				
+  			</blockquote>
+  			<!-- / edit note -->
+  			
+  
+                          	
+  		         
+  			
+  			<blockquote class="signature restore"><div class="signaturecontainer"><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/219-Light-Rail-Transit?p=25288#post25288" target="_blank"><b><font color="darkgreen">cc LRT Letters to <a href="mailto:letters@wonderfulwaterloo.com">letters@wonderfulwaterloo.com</a></font></b><br />
+  </a></div></blockquote>
+  			
+  
+  			
+  		</div>
+  	</div>
+  	<div class="postfoot">
+  		<div class="textcontrols floatcontainer">
+  			<span class="postcontrols">
+  				<img style="display:none" id="progress_671" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  				
+  				
+  				
+  					<a id="qrwq_671" class="newreply" href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=671" rel="nofollow" ><img id="quoteimg_671" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+  					
+  				
+  				
+  			</span>
+  
+  			<span class="postlinking">
+  				
+  					
+  				
+  				
+  
+  				 
+  				
+  
+  					
+  
+  					
+  					 
+  
+  					
+  					
+  					
+  					
+  
+  				
+  			</span>
+  		</div>
+  	</div>
+  	<hr />
+  </li>
+  <li class="postbit postbitim" id="post_thanks_box_671" style="display:none">
+  	
+  </li>
+     <li class="postbit postbitim postcontainer" id="post_679">
+  	<div class="postdetails_noavatar">
+  		<div class="userinfo">
+  			<div class="contact">
+  				
+  					<a class="postuseravatarlink" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/5-jay" title="jay is offline">
+  						
+  							<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/image.php?u=5&amp;dateline=1268703480" alt="jay's Avatar" style="max-height: 45px" />
+  						
+  					</a>
+  				
+  				<div class="username_container">
+  					<div>
+  					
+  						<div class="popupmenu memberaction">
+  	<a class="username offline popupctrl" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/5-jay" title="jay is offline"><strong>jay</strong></a>
+  	<ul class="popupbody popuphover memberaction_body">
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/5-jay">
+  				View Profile
+  			</a>
+  		</li>
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=5&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+  				View Forum Posts
+  			</a>
+  		</li>
+  		
+  		
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=5" rel='nofollow'>
+  				Private Message
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/blog.php?u=5" rel='nofollow'>
+  				View Blog Entries
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/list.php/author/5-jay" rel='nofollow'>
+  				View Articles
+  			</a>
+  		</li>
+  		
+  
+  		
+  
+  		
+  		
+  	</ul>
+  </div>
+   
+  					<span class="usertitle">
+  						<font color="#FF6600">Senior Moderator</font>
+  					</span>
+  						<img class="inlineimg onlinestatus" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="jay is offline" border="0" />
+  
+   
+  					
+  					</div>
+  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+  						From Bauer Lofts, Waterloo |  Member Since Dec 2009 | 743 Posts
+  					</div>
+                                          
+  				</div>
+  			</div>
+  
+  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+  			<div style="padding: 6px 10px 3px 0;">
+                          
+                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                          
+                                                  <a name="post679" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=679#post679" class="postcounter">#9</a><a id="postcount679" name="9"></a>
+                                          
+                                          
+                                          
+                                  </span>
+                                  <div style="margin-top: 6px;">
+                                 <span class="postdate old">
+                                          
+                                                  <span class="date">01-14-2010&nbsp;<span class="time">08:24 AM</span></span>
+                                          
+                                  </span>
+                                  </div>
+                          
+  			</div>
+  			</div>
+  
+  		</div>
+  	</div>
+  
+  	<div class="postbody">
+  		
+  		<div class="postrow">
+  		
+  		
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_679">
+  				<blockquote class="postcontent restore">
+  					So they haven't said what retail will be going in?
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  
+                          	
+  		         
+  			
+  
+  			
+  		</div>
+  	</div>
+  	<div class="postfoot">
+  		<div class="textcontrols floatcontainer">
+  			<span class="postcontrols">
+  				<img style="display:none" id="progress_679" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  				
+  				
+  				
+  					<a id="qrwq_679" class="newreply" href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=679" rel="nofollow" ><img id="quoteimg_679" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+  					
+  				
+  				
+  			</span>
+  
+  			<span class="postlinking">
+  				
+  					
+  				
+  				
+  
+  				 
+  				
+  
+  					
+  
+  					
+  					 
+  
+  					
+  					
+  					
+  					
+  
+  				
+  			</span>
+  		</div>
+  	</div>
+  	<hr />
+  </li>
+  <li class="postbit postbitim" id="post_thanks_box_679" style="display:none">
+  	
+  </li>
+     <li class="postbit postbitim postcontainer" id="post_682">
+  	<div class="postdetails_noavatar">
+  		<div class="userinfo">
+  			<div class="contact">
+  				
+  					<a class="postuseravatarlink" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">
+  						
+  							<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo's Avatar" style="max-height: 45px" />
+  						
+  					</a>
+  				
+  				<div class="username_container">
+  					<div>
+  					
+  						<div class="popupmenu memberaction">
+  	<a class="username offline popupctrl" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>
+  	<ul class="popupbody popuphover memberaction_body">
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">
+  				View Profile
+  			</a>
+  		</li>
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+  				View Forum Posts
+  			</a>
+  		</li>
+  		
+  		
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=2" rel='nofollow'>
+  				Private Message
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/blog.php?u=2" rel='nofollow'>
+  				View Blog Entries
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/list.php/author/2-UrbanWaterloo" rel='nofollow'>
+  				View Articles
+  			</a>
+  		</li>
+  		
+  
+  		
+  
+  		
+  		
+  	</ul>
+  </div>
+   
+  					<span class="usertitle">
+  						<font color="#FF6600">Senior Moderator</font>
+  					</span>
+  						<img class="inlineimg onlinestatus" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />
+  
+   
+  					
+  					</div>
+  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+  						From Kitchener-Waterloo |  Member Since Dec 2009 | 3,603 Posts
+  					</div>
+                                          
+  				</div>
+  			</div>
+  
+  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+  			<div style="padding: 6px 10px 3px 0;">
+                          
+                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                          
+                                                  <a name="post682" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=682#post682" class="postcounter">#10</a><a id="postcount682" name="10"></a>
+                                          
+                                          
+                                          
+                                  </span>
+                                  <div style="margin-top: 6px;">
+                                 <span class="postdate old">
+                                          
+                                                  <span class="date">01-14-2010&nbsp;<span class="time">09:23 AM</span></span>
+                                          
+                                  </span>
+                                  </div>
+                          
+  			</div>
+  			</div>
+  
+  		</div>
+  	</div>
+  
+  	<div class="postbody">
+  		
+  		<div class="postrow">
+  		
+  		
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_682">
+  				<blockquote class="postcontent restore">
+  					No word yet from the builder. Next time we go for a meeting with them (layout adjustments) i'll ask; at least to see if there are any leads.
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  
+                          	
+  		         
+  			
+  			<blockquote class="signature restore"><div class="signaturecontainer"><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/219-Light-Rail-Transit?p=25288#post25288" target="_blank"><b><font color="darkgreen">cc LRT Letters to <a href="mailto:letters@wonderfulwaterloo.com">letters@wonderfulwaterloo.com</a></font></b><br />
+  </a></div></blockquote>
+  			
+  
+  			
+  		</div>
+  	</div>
+  	<div class="postfoot">
+  		<div class="textcontrols floatcontainer">
+  			<span class="postcontrols">
+  				<img style="display:none" id="progress_682" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  				
+  				
+  				
+  					<a id="qrwq_682" class="newreply" href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=682" rel="nofollow" ><img id="quoteimg_682" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+  					
+  				
+  				
+  			</span>
+  
+  			<span class="postlinking">
+  				
+  					
+  				
+  				
+  
+  				 
+  				
+  
+  					
+  
+  					
+  					 
+  
+  					
+  					
+  					
+  					
+  
+  				
+  			</span>
+  		</div>
+  	</div>
+  	<hr />
+  </li>
+  <li class="postbit postbitim" id="post_thanks_box_682" style="display:none">
+  	
+  </li>
+     <li class="postbit postbitim postcontainer" id="post_1015">
+  	<div class="postdetails_noavatar">
+  		<div class="userinfo">
+  			<div class="contact">
+  				
+  					<a class="postuseravatarlink" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/5-jay" title="jay is offline">
+  						
+  							<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/image.php?u=5&amp;dateline=1268703480" alt="jay's Avatar" style="max-height: 45px" />
+  						
+  					</a>
+  				
+  				<div class="username_container">
+  					<div>
+  					
+  						<div class="popupmenu memberaction">
+  	<a class="username offline popupctrl" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/5-jay" title="jay is offline"><strong>jay</strong></a>
+  	<ul class="popupbody popuphover memberaction_body">
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/5-jay">
+  				View Profile
+  			</a>
+  		</li>
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=5&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+  				View Forum Posts
+  			</a>
+  		</li>
+  		
+  		
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=5" rel='nofollow'>
+  				Private Message
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/blog.php?u=5" rel='nofollow'>
+  				View Blog Entries
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/list.php/author/5-jay" rel='nofollow'>
+  				View Articles
+  			</a>
+  		</li>
+  		
+  
+  		
+  
+  		
+  		
+  	</ul>
+  </div>
+   
+  					<span class="usertitle">
+  						<font color="#FF6600">Senior Moderator</font>
+  					</span>
+  						<img class="inlineimg onlinestatus" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="jay is offline" border="0" />
+  
+   
+  					
+  					</div>
+  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+  						From Bauer Lofts, Waterloo |  Member Since Dec 2009 | 743 Posts
+  					</div>
+                                          
+  				</div>
+  			</div>
+  
+  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+  			<div style="padding: 6px 10px 3px 0;">
+                          
+                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                          
+                                                  <a name="post1015" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=1015#post1015" class="postcounter">#11</a><a id="postcount1015" name="11"></a>
+                                          
+                                          
+                                          
+                                  </span>
+                                  <div style="margin-top: 6px;">
+                                 <span class="postdate old">
+                                          
+                                                  <span class="date">01-23-2010&nbsp;<span class="time">04:40 PM</span></span>
+                                          
+                                  </span>
+                                  </div>
+                          
+  			</div>
+  			</div>
+  
+  		</div>
+  	</div>
+  
+  	<div class="postbody">
+  		
+  		<div class="postrow">
+  		
+  		
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_1015">
+  				<blockquote class="postcontent restore">
+  					that pivoting wall mount is cool <img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/smilies/smile.gif" border="0" alt="" title="Smile" class="inlineimg" /><br />
+  <br />
+  I really like this project.. The design is really cool and I like the ideas and options they are doing.  Only thing I don't like as much is the location.  A little further south would have been nice.
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  
+                          	
+  		         
+  			
+  
+  			
+  		</div>
+  	</div>
+  	<div class="postfoot">
+  		<div class="textcontrols floatcontainer">
+  			<span class="postcontrols">
+  				<img style="display:none" id="progress_1015" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  				
+  				
+  				
+  					<a id="qrwq_1015" class="newreply" href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=1015" rel="nofollow" ><img id="quoteimg_1015" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+  					
+  				
+  				
+  			</span>
+  
+  			<span class="postlinking">
+  				
+  					
+  				
+  				
+  
+  				 
+  				
+  
+  					
+  
+  					
+  					 
+  
+  					
+  					
+  					
+  					
+  
+  				
+  			</span>
+  		</div>
+  	</div>
+  	<hr />
+  </li>
+  <li class="postbit postbitim" id="post_thanks_box_1015" style="display:none">
+  	
+  </li>
+     <li class="postbit postbitim postcontainer" id="post_1018">
+  	<div class="postdetails_noavatar">
+  		<div class="userinfo">
+  			<div class="contact">
+  				
+  					<a class="postuseravatarlink" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/4-Spokes" title="Spokes is offline">
+  						
+  							<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/image.php?u=4&amp;dateline=1262883798" alt="Spokes's Avatar" style="max-height: 45px" />
+  						
+  					</a>
+  				
+  				<div class="username_container">
+  					<div>
+  					
+  						<div class="popupmenu memberaction">
+  	<a class="username offline popupctrl" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/4-Spokes" title="Spokes is offline"><strong>Spokes</strong></a>
+  	<ul class="popupbody popuphover memberaction_body">
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/4-Spokes">
+  				View Profile
+  			</a>
+  		</li>
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=4&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+  				View Forum Posts
+  			</a>
+  		</li>
+  		
+  		
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=4" rel='nofollow'>
+  				Private Message
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/blog.php?u=4" rel='nofollow'>
+  				View Blog Entries
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/list.php/author/4-Spokes" rel='nofollow'>
+  				View Articles
+  			</a>
+  		</li>
+  		
+  
+  		
+  
+  		
+  		
+  	</ul>
+  </div>
+   
+  					<span class="usertitle">
+  						<font color="#FF6600">Senior Moderator</font>
+  					</span>
+  						<img class="inlineimg onlinestatus" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="Spokes is offline" border="0" />
+  
+   
+  					
+  					</div>
+  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+  						From Kitchener |  Member Since Dec 2009 | 5,396 Posts
+  					</div>
+                                          
+  				</div>
+  			</div>
+  
+  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+  			<div style="padding: 6px 10px 3px 0;">
+                          
+                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                          
+                                                  <a name="post1018" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=1018#post1018" class="postcounter">#12</a><a id="postcount1018" name="12"></a>
+                                          
+                                          
+                                          
+                                  </span>
+                                  <div style="margin-top: 6px;">
+                                 <span class="postdate old">
+                                          
+                                                  <span class="date">01-23-2010&nbsp;<span class="time">05:14 PM</span></span>
+                                          
+                                  </span>
+                                  </div>
+                          
+  			</div>
+  			</div>
+  
+  		</div>
+  	</div>
+  
+  	<div class="postbody">
+  		
+  		<div class="postrow">
+  		
+  		
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_1018">
+  				<blockquote class="postcontent restore">
+  					<div class="bbcode_container">
+  	<div class="bbcode_quote">
+  		<div class="quote_container">
+  			<div class="bbcode_quote_container"></div>
+  			
+  				<div class="bbcode_postedby">
+  					<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/quote_icon2.png" alt="Quote" /> Originally Posted by <strong>Bauer123</strong>
+  					<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php?p=1015#post1015" rel="nofollow"><img class="inlineimg" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/buttons/viewpost-right.png" alt="View Post" /></a>
+  				</div>
+  				<div class="message">that pivoting wall mount is cool <img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/smilies/smile.gif" border="0" alt="" title="Smile" class="inlineimg" /><br />
+  <br />
+  I really like this project.. The design is really cool and I like the ideas and options they are doing.  Only thing I don't like as much is the location.  A little further south would have been nice.</div>
+  			
+  		</div>
+  	</div>
+  </div>
+   Where did you have in mind?
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  
+                          	
+  		         
+  			
+  
+  			
+  		</div>
+  	</div>
+  	<div class="postfoot">
+  		<div class="textcontrols floatcontainer">
+  			<span class="postcontrols">
+  				<img style="display:none" id="progress_1018" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  				
+  				
+  				
+  					<a id="qrwq_1018" class="newreply" href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=1018" rel="nofollow" ><img id="quoteimg_1018" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+  					
+  				
+  				
+  			</span>
+  
+  			<span class="postlinking">
+  				
+  					
+  				
+  				
+  
+  				 
+  				
+  
+  					
+  
+  					
+  					 
+  
+  					
+  					
+  					
+  					
+  
+  				
+  			</span>
+  		</div>
+  	</div>
+  	<hr />
+  </li>
+  <li class="postbit postbitim" id="post_thanks_box_1018" style="display:none">
+  	
+  </li>
+     <li class="postbit postbitim postcontainer" id="post_1020">
+  	<div class="postdetails_noavatar">
+  		<div class="userinfo">
+  			<div class="contact">
+  				
+  					<a class="postuseravatarlink" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/5-jay" title="jay is offline">
+  						
+  							<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/image.php?u=5&amp;dateline=1268703480" alt="jay's Avatar" style="max-height: 45px" />
+  						
+  					</a>
+  				
+  				<div class="username_container">
+  					<div>
+  					
+  						<div class="popupmenu memberaction">
+  	<a class="username offline popupctrl" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/5-jay" title="jay is offline"><strong>jay</strong></a>
+  	<ul class="popupbody popuphover memberaction_body">
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/5-jay">
+  				View Profile
+  			</a>
+  		</li>
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=5&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+  				View Forum Posts
+  			</a>
+  		</li>
+  		
+  		
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=5" rel='nofollow'>
+  				Private Message
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/blog.php?u=5" rel='nofollow'>
+  				View Blog Entries
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/list.php/author/5-jay" rel='nofollow'>
+  				View Articles
+  			</a>
+  		</li>
+  		
+  
+  		
+  
+  		
+  		
+  	</ul>
+  </div>
+   
+  					<span class="usertitle">
+  						<font color="#FF6600">Senior Moderator</font>
+  					</span>
+  						<img class="inlineimg onlinestatus" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="jay is offline" border="0" />
+  
+   
+  					
+  					</div>
+  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+  						From Bauer Lofts, Waterloo |  Member Since Dec 2009 | 743 Posts
+  					</div>
+                                          
+  				</div>
+  			</div>
+  
+  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+  			<div style="padding: 6px 10px 3px 0;">
+                          
+                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                          
+                                                  <a name="post1020" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=1020#post1020" class="postcounter">#13</a><a id="postcount1020" name="13"></a>
+                                          
+                                          
+                                          
+                                  </span>
+                                  <div style="margin-top: 6px;">
+                                 <span class="postdate old">
+                                          
+                                                  <span class="date">01-23-2010&nbsp;<span class="time">05:43 PM</span></span>
+                                          
+                                  </span>
+                                  </div>
+                          
+  			</div>
+  			</div>
+  
+  		</div>
+  	</div>
+  
+  	<div class="postbody">
+  		
+  		<div class="postrow">
+  		
+  		
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_1020">
+  				<blockquote class="postcontent restore">
+  					No place in particular.. Just saying if it was on king somewhere it would be a lot better.  Even along regina street there is some areas before the city buildings that could be converted to condos.  Then at least you would be right by the Town square.<br />
+  <br />
+  Bridgeport has the benefit of all the pubs. Since they put coffee culture in that helps also.<br />
+  <br />
+  It's a catch 22, if your by the shops all the pubs are down the street where if your by the pubs all the shopping is down the street.
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  
+                          	
+  		         
+  			
+  
+  			
+  		</div>
+  	</div>
+  	<div class="postfoot">
+  		<div class="textcontrols floatcontainer">
+  			<span class="postcontrols">
+  				<img style="display:none" id="progress_1020" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  				
+  				
+  				
+  					<a id="qrwq_1020" class="newreply" href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=1020" rel="nofollow" ><img id="quoteimg_1020" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+  					
+  				
+  				
+  			</span>
+  
+  			<span class="postlinking">
+  				
+  					
+  				
+  				
+  
+  				 
+  				
+  
+  					
+  
+  					
+  					 
+  
+  					
+  					
+  					
+  					
+  
+  				
+  			</span>
+  		</div>
+  	</div>
+  	<hr />
+  </li>
+  <li class="postbit postbitim" id="post_thanks_box_1020" style="display:none">
+  	
+  </li>
+     <li class="postbit postbitim postcontainer" id="post_1032">
+  	<div class="postdetails_noavatar">
+  		<div class="userinfo">
+  			<div class="contact">
+  				
+  					<a class="postuseravatarlink" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/4-Spokes" title="Spokes is offline">
+  						
+  							<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/image.php?u=4&amp;dateline=1262883798" alt="Spokes's Avatar" style="max-height: 45px" />
+  						
+  					</a>
+  				
+  				<div class="username_container">
+  					<div>
+  					
+  						<div class="popupmenu memberaction">
+  	<a class="username offline popupctrl" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/4-Spokes" title="Spokes is offline"><strong>Spokes</strong></a>
+  	<ul class="popupbody popuphover memberaction_body">
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/4-Spokes">
+  				View Profile
+  			</a>
+  		</li>
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=4&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+  				View Forum Posts
+  			</a>
+  		</li>
+  		
+  		
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=4" rel='nofollow'>
+  				Private Message
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/blog.php?u=4" rel='nofollow'>
+  				View Blog Entries
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/list.php/author/4-Spokes" rel='nofollow'>
+  				View Articles
+  			</a>
+  		</li>
+  		
+  
+  		
+  
+  		
+  		
+  	</ul>
+  </div>
+   
+  					<span class="usertitle">
+  						<font color="#FF6600">Senior Moderator</font>
+  					</span>
+  						<img class="inlineimg onlinestatus" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="Spokes is offline" border="0" />
+  
+   
+  					
+  					</div>
+  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+  						From Kitchener |  Member Since Dec 2009 | 5,396 Posts
+  					</div>
+                                          
+  				</div>
+  			</div>
+  
+  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+  			<div style="padding: 6px 10px 3px 0;">
+                          
+                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                          
+                                                  <a name="post1032" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=1032#post1032" class="postcounter">#14</a><a id="postcount1032" name="14"></a>
+                                          
+                                          
+                                          
+                                  </span>
+                                  <div style="margin-top: 6px;">
+                                 <span class="postdate old">
+                                          
+                                                  <span class="date">01-24-2010&nbsp;<span class="time">08:35 AM</span></span>
+                                          
+                                  </span>
+                                  </div>
+                          
+  			</div>
+  			</div>
+  
+  		</div>
+  	</div>
+  
+  	<div class="postbody">
+  		
+  		<div class="postrow">
+  		
+  		
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_1032">
+  				<blockquote class="postcontent restore">
+  					Ya thats true.  I don't think its a major issue.  Uptown isn't huge, so you're still a fairly short walk to anything.  Would I like to see developments like this in more prominent locations? Yes.  Am I upset about this location?  No.
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  
+                          	
+  		         
+  			
+  
+  			
+  		</div>
+  	</div>
+  	<div class="postfoot">
+  		<div class="textcontrols floatcontainer">
+  			<span class="postcontrols">
+  				<img style="display:none" id="progress_1032" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  				
+  				
+  				
+  					<a id="qrwq_1032" class="newreply" href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=1032" rel="nofollow" ><img id="quoteimg_1032" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+  					
+  				
+  				
+  			</span>
+  
+  			<span class="postlinking">
+  				
+  					
+  				
+  				
+  
+  				 
+  				
+  
+  					
+  
+  					
+  					 
+  
+  					
+  					
+  					
+  					
+  
+  				
+  			</span>
+  		</div>
+  	</div>
+  	<hr />
+  </li>
+  <li class="postbit postbitim" id="post_thanks_box_1032" style="display:none">
+  	
+  </li>
+     <li class="postbit postbitim postcontainer" id="post_1342">
+  	<div class="postdetails_noavatar">
+  		<div class="userinfo_noavatar">
+  			<div class="contact">
+  				
+  				<div class="username_container">
+  					<div>
+  					
+  						<div class="popupmenu memberaction">
+  	<a class="username offline popupctrl" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/29-diego" title="diego is offline"><strong>diego</strong></a>
+  	<ul class="popupbody popuphover memberaction_body">
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/29-diego">
+  				View Profile
+  			</a>
+  		</li>
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=29&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+  				View Forum Posts
+  			</a>
+  		</li>
+  		
+  		
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=29" rel='nofollow'>
+  				Private Message
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/blog.php?u=29" rel='nofollow'>
+  				View Blog Entries
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/list.php/author/29-diego" rel='nofollow'>
+  				View Articles
+  			</a>
+  		</li>
+  		
+  
+  		
+  
+  		
+  		
+  	</ul>
+  </div>
+   
+  					<span class="usertitle">
+  						Town Member
+  					</span>
+  						<img class="inlineimg onlinestatus" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="diego is offline" border="0" />
+  
+   
+  					
+  					</div>
+  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+  						 Member Since Jan 2010 | 103 Posts
+  					</div>
+                                          
+  				</div>
+  			</div>
+  
+  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+  			<div style="padding: 6px 10px 3px 0;">
+                          
+                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                          
+                                                  <a name="post1342" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=1342#post1342" class="postcounter">#15</a><a id="postcount1342" name="15"></a>
+                                          
+                                          
+                                          
+                                  </span>
+                                  <div style="margin-top: 6px;">
+                                 <span class="postdate old">
+                                          
+                                                  <span class="date">01-29-2010&nbsp;<span class="time">09:23 AM</span></span>
+                                          
+                                  </span>
+                                  </div>
+                          
+  			</div>
+  			</div>
+  
+  		</div>
+  	</div>
+  
+  	<div class="postbody">
+  		
+  		<div class="postrow">
+  		
+  		
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_1342">
+  				<blockquote class="postcontent restore">
+  					I'm not sure how necessary it is to have absolutely all the newsletters in this thread... when I see there are new posts I expect the latest just to see it's year-old news instead
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  
+                          	
+  		         
+  			
+  
+  			
+  		</div>
+  	</div>
+  	<div class="postfoot">
+  		<div class="textcontrols floatcontainer">
+  			<span class="postcontrols">
+  				<img style="display:none" id="progress_1342" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  				
+  				
+  				
+  					<a id="qrwq_1342" class="newreply" href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=1342" rel="nofollow" ><img id="quoteimg_1342" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+  					
+  				
+  				
+  			</span>
+  
+  			<span class="postlinking">
+  				
+  					
+  				
+  				
+  
+  				 
+  				
+  
+  					
+  
+  					
+  					 
+  
+  					
+  					
+  					
+  					
+  
+  				
+  			</span>
+  		</div>
+  	</div>
+  	<hr />
+  </li>
+  <li class="postbit postbitim" id="post_thanks_box_1342" style="display:none">
+  	
+  </li>
+     <li class="postbit postbitim postcontainer" id="post_1350">
+  	<div class="postdetails_noavatar">
+  		<div class="userinfo">
+  			<div class="contact">
+  				
+  					<a class="postuseravatarlink" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/4-Spokes" title="Spokes is offline">
+  						
+  							<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/image.php?u=4&amp;dateline=1262883798" alt="Spokes's Avatar" style="max-height: 45px" />
+  						
+  					</a>
+  				
+  				<div class="username_container">
+  					<div>
+  					
+  						<div class="popupmenu memberaction">
+  	<a class="username offline popupctrl" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/4-Spokes" title="Spokes is offline"><strong>Spokes</strong></a>
+  	<ul class="popupbody popuphover memberaction_body">
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/4-Spokes">
+  				View Profile
+  			</a>
+  		</li>
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=4&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+  				View Forum Posts
+  			</a>
+  		</li>
+  		
+  		
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=4" rel='nofollow'>
+  				Private Message
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/blog.php?u=4" rel='nofollow'>
+  				View Blog Entries
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/list.php/author/4-Spokes" rel='nofollow'>
+  				View Articles
+  			</a>
+  		</li>
+  		
+  
+  		
+  
+  		
+  		
+  	</ul>
+  </div>
+   
+  					<span class="usertitle">
+  						<font color="#FF6600">Senior Moderator</font>
+  					</span>
+  						<img class="inlineimg onlinestatus" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="Spokes is offline" border="0" />
+  
+   
+  					
+  					</div>
+  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+  						From Kitchener |  Member Since Dec 2009 | 5,396 Posts
+  					</div>
+                                          
+  				</div>
+  			</div>
+  
+  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+  			<div style="padding: 6px 10px 3px 0;">
+                          
+                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                          
+                                                  <a name="post1350" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=1350#post1350" class="postcounter">#16</a><a id="postcount1350" name="16"></a>
+                                          
+                                          
+                                          
+                                  </span>
+                                  <div style="margin-top: 6px;">
+                                 <span class="postdate old">
+                                          
+                                                  <span class="date">01-29-2010&nbsp;<span class="time">01:10 PM</span></span>
+                                          
+                                  </span>
+                                  </div>
+                          
+  			</div>
+  			</div>
+  
+  		</div>
+  	</div>
+  
+  	<div class="postbody">
+  		
+  		<div class="postrow">
+  		
+  		
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_1350">
+  				<blockquote class="postcontent restore">
+  					Now I can't speak for UrbanWaterloo, but what I think he's trying to do is just get all the back information posted and up to date, so that we have almost an &quot;archives&quot; of information to use as a resource.
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  
+                          	
+  		         
+  			
+  
+  			
+  		</div>
+  	</div>
+  	<div class="postfoot">
+  		<div class="textcontrols floatcontainer">
+  			<span class="postcontrols">
+  				<img style="display:none" id="progress_1350" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  				
+  				
+  				
+  					<a id="qrwq_1350" class="newreply" href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=1350" rel="nofollow" ><img id="quoteimg_1350" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+  					
+  				
+  				
+  			</span>
+  
+  			<span class="postlinking">
+  				
+  					
+  				
+  				
+  
+  				 
+  				
+  
+  					
+  
+  					
+  					 
+  
+  					
+  					
+  					
+  					
+  
+  				
+  			</span>
+  		</div>
+  	</div>
+  	<hr />
+  </li>
+  <li class="postbit postbitim" id="post_thanks_box_1350" style="display:none">
+  	
+  </li>
+     <li class="postbit postbitim postcontainer" id="post_1361">
+  	<div class="postdetails_noavatar">
+  		<div class="userinfo">
+  			<div class="contact">
+  				
+  					<a class="postuseravatarlink" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">
+  						
+  							<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo's Avatar" style="max-height: 45px" />
+  						
+  					</a>
+  				
+  				<div class="username_container">
+  					<div>
+  					
+  						<div class="popupmenu memberaction">
+  	<a class="username offline popupctrl" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>
+  	<ul class="popupbody popuphover memberaction_body">
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">
+  				View Profile
+  			</a>
+  		</li>
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+  				View Forum Posts
+  			</a>
+  		</li>
+  		
+  		
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=2" rel='nofollow'>
+  				Private Message
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/blog.php?u=2" rel='nofollow'>
+  				View Blog Entries
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/list.php/author/2-UrbanWaterloo" rel='nofollow'>
+  				View Articles
+  			</a>
+  		</li>
+  		
+  
+  		
+  
+  		
+  		
+  	</ul>
+  </div>
+   
+  					<span class="usertitle">
+  						<font color="#FF6600">Senior Moderator</font>
+  					</span>
+  						<img class="inlineimg onlinestatus" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />
+  
+   
+  					
+  					</div>
+  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+  						From Kitchener-Waterloo |  Member Since Dec 2009 | 3,603 Posts
+  					</div>
+                                          
+  				</div>
+  			</div>
+  
+  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+  			<div style="padding: 6px 10px 3px 0;">
+                          
+                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                          
+                                                  <a name="post1361" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=1361#post1361" class="postcounter">#17</a><a id="postcount1361" name="17"></a>
+                                          
+                                          
+                                          
+                                  </span>
+                                  <div style="margin-top: 6px;">
+                                 <span class="postdate old">
+                                          
+                                                  <span class="date">01-29-2010&nbsp;<span class="time">05:44 PM</span></span>
+                                          
+                                  </span>
+                                  </div>
+                          
+  			</div>
+  			</div>
+  
+  		</div>
+  	</div>
+  
+  	<div class="postbody">
+  		
+  		<div class="postrow">
+  		
+  		
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_1361">
+  				<blockquote class="postcontent restore">
+  					I understand what you're saying diego &amp; that's eventually how this thread will function.  As spokes mentioned, I'm just trying to do an archive of this project as well, and all projects for that matter. One of my goals of WW is for it to function as a sort of digital time-capsule for future historians.  I could have just said "Project was delayed by a year"; but I imagine some would like to see all the details/process too.  That said: I'll finish up with the remaining newsletters I have (a few months are either missing or likely the builder never created them due to delays); try to do a photo tour in the next few days &amp; then do a full photo timeline of this project; then reorganize all the information in chronological order so afterwards the thread does function as "the latest".
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  			<!-- edit note -->
+  			<blockquote class="postcontent lastedited">
+  <!--						<img src="images/buttons/edit_40b.png" alt="" /> -->
+  				
+  					Last edited by UrbanWaterloo; 02-04-2010 at <span class="time">02:06 AM</span>.
+  				
+  				
+  			</blockquote>
+  			<!-- / edit note -->
+  			
+  
+                          	
+  		         
+  			
+  			<blockquote class="signature restore"><div class="signaturecontainer"><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/219-Light-Rail-Transit?p=25288#post25288" target="_blank"><b><font color="darkgreen">cc LRT Letters to <a href="mailto:letters@wonderfulwaterloo.com">letters@wonderfulwaterloo.com</a></font></b><br />
+  </a></div></blockquote>
+  			
+  
+  			
+  		</div>
+  	</div>
+  	<div class="postfoot">
+  		<div class="textcontrols floatcontainer">
+  			<span class="postcontrols">
+  				<img style="display:none" id="progress_1361" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  				
+  				
+  				
+  					<a id="qrwq_1361" class="newreply" href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=1361" rel="nofollow" ><img id="quoteimg_1361" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+  					
+  				
+  				
+  			</span>
+  
+  			<span class="postlinking">
+  				
+  					
+  				
+  				
+  
+  				 
+  				
+  
+  					
+  
+  					
+  					 
+  
+  					
+  					
+  					
+  					
+  
+  				
+  			</span>
+  		</div>
+  	</div>
+  	<hr />
+  </li>
+  <li class="postbit postbitim" id="post_thanks_box_1361" style="display:none">
+  	
+  </li>
+     <li class="postbit postbitim postcontainer" id="post_1601">
+  	<div class="postdetails_noavatar">
+  		<div class="userinfo">
+  			<div class="contact">
+  				
+  					<a class="postuseravatarlink" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/73-Section-ThirtyOne" title="Section ThirtyOne is offline">
+  						
+  							<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/image.php?u=73&amp;dateline=1296973443" alt="Section ThirtyOne's Avatar" style="max-height: 45px" />
+  						
+  					</a>
+  				
+  				<div class="username_container">
+  					<div>
+  					
+  						<div class="popupmenu memberaction">
+  	<a class="username offline popupctrl" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/73-Section-ThirtyOne" title="Section ThirtyOne is offline"><strong>Section ThirtyOne</strong></a>
+  	<ul class="popupbody popuphover memberaction_body">
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/73-Section-ThirtyOne">
+  				View Profile
+  			</a>
+  		</li>
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=73&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+  				View Forum Posts
+  			</a>
+  		</li>
+  		
+  		
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=73" rel='nofollow'>
+  				Private Message
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/blog.php?u=73" rel='nofollow'>
+  				View Blog Entries
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/list.php/author/73-Section%20ThirtyOne" rel='nofollow'>
+  				View Articles
+  			</a>
+  		</li>
+  		
+  
+  		
+  
+  		
+  		
+  	</ul>
+  </div>
+   
+  					<span class="usertitle">
+  						<font color="#FF6600">Food & Retail Moderator</font>
+  					</span>
+  						<img class="inlineimg onlinestatus" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="Section ThirtyOne is offline" border="0" />
+  
+   
+  					
+  					</div>
+  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+  						From Waterloo, ON |  Member Since Feb 2010 | 222 Posts
+  					</div>
+                                          
+  				</div>
+  			</div>
+  
+  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+  			<div style="padding: 6px 10px 3px 0;">
+                          
+                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                          
+                                                  <a name="post1601" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=1601#post1601" class="postcounter">#18</a><a id="postcount1601" name="18"></a>
+                                          
+                                          
+                                          
+                                  </span>
+                                  <div style="margin-top: 6px;">
+                                 <span class="postdate old">
+                                          
+                                                  <span class="date">02-03-2010&nbsp;<span class="time">12:13 PM</span></span>
+                                          
+                                  </span>
+                                  </div>
+                          
+  			</div>
+  			</div>
+  
+  		</div>
+  	</div>
+  
+  	<div class="postbody">
+  		
+  		<div class="postrow">
+  		
+  		
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_1601">
+  				<blockquote class="postcontent restore">
+  					FYI, as of yesterday there are 2 penthouses left: unit T and unit U. Both are quite spendy given their size and 2-floor layout. As for suites, there are 3 of those left: unit H3, unit I1 and unit J3.<br />
+  <br />
+  I was kind of turned off by the fact that the unit sizes include the square footage of the balcony. It makes the units seem much larger (on paper) than they actually are.
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  
+                          	
+  		         
+  			
+  
+  			
+  		</div>
+  	</div>
+  	<div class="postfoot">
+  		<div class="textcontrols floatcontainer">
+  			<span class="postcontrols">
+  				<img style="display:none" id="progress_1601" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  				
+  				
+  				
+  					<a id="qrwq_1601" class="newreply" href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=1601" rel="nofollow" ><img id="quoteimg_1601" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+  					
+  				
+  				
+  			</span>
+  
+  			<span class="postlinking">
+  				
+  					
+  				
+  				
+  
+  				 
+  				
+  
+  					
+  
+  					
+  					 
+  
+  					
+  					
+  					
+  					
+  
+  				
+  			</span>
+  		</div>
+  	</div>
+  	<hr />
+  </li>
+  <li class="postbit postbitim" id="post_thanks_box_1601" style="display:none">
+  	
+  </li>
+     <li class="postbit postbitim postcontainer" id="post_1643">
+  	<div class="postdetails_noavatar">
+  		<div class="userinfo_noavatar">
+  			<div class="contact">
+  				
+  				<div class="username_container">
+  					<div>
+  					
+  						<div class="popupmenu memberaction">
+  	<a class="username offline popupctrl" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/29-diego" title="diego is offline"><strong>diego</strong></a>
+  	<ul class="popupbody popuphover memberaction_body">
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/29-diego">
+  				View Profile
+  			</a>
+  		</li>
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=29&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+  				View Forum Posts
+  			</a>
+  		</li>
+  		
+  		
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=29" rel='nofollow'>
+  				Private Message
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/blog.php?u=29" rel='nofollow'>
+  				View Blog Entries
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/list.php/author/29-diego" rel='nofollow'>
+  				View Articles
+  			</a>
+  		</li>
+  		
+  
+  		
+  
+  		
+  		
+  	</ul>
+  </div>
+   
+  					<span class="usertitle">
+  						Town Member
+  					</span>
+  						<img class="inlineimg onlinestatus" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="diego is offline" border="0" />
+  
+   
+  					
+  					</div>
+  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+  						 Member Since Jan 2010 | 103 Posts
+  					</div>
+                                          
+  				</div>
+  			</div>
+  
+  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+  			<div style="padding: 6px 10px 3px 0;">
+                          
+                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                          
+                                                  <a name="post1643" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=1643#post1643" class="postcounter">#19</a><a id="postcount1643" name="19"></a>
+                                          
+                                          
+                                          
+                                  </span>
+                                  <div style="margin-top: 6px;">
+                                 <span class="postdate old">
+                                          
+                                                  <span class="date">02-03-2010&nbsp;<span class="time">04:47 PM</span></span>
+                                          
+                                  </span>
+                                  </div>
+                          
+  			</div>
+  			</div>
+  
+  		</div>
+  	</div>
+  
+  	<div class="postbody">
+  		
+  		<div class="postrow">
+  		
+  		
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_1643">
+  				<blockquote class="postcontent restore">
+  					<div class="bbcode_container">
+  	<div class="bbcode_quote">
+  		<div class="quote_container">
+  			<div class="bbcode_quote_container"></div>
+  			
+  				<div class="bbcode_postedby">
+  					<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/quote_icon2.png" alt="Quote" /> Originally Posted by <strong>Section ThirtyOne</strong>
+  					<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php?p=1601#post1601" rel="nofollow"><img class="inlineimg" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/buttons/viewpost-right.png" alt="View Post" /></a>
+  				</div>
+  				<div class="message">FYI, as of yesterday there are 2 penthouses left: unit T and unit U. Both are quite spendy given their size and 2-floor layout. As for suites, there are 3 of those left: unit H3, unit I1 and unit J3.<br />
+  <br />
+  I was kind of turned off by the fact that the unit sizes include the square footage of the balcony. It makes the units seem much larger (on paper) than they actually are.</div>
+  			
+  		</div>
+  	</div>
+  </div>
+   Prices?
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  
+                          	
+  		         
+  			
+  
+  			
+  		</div>
+  	</div>
+  	<div class="postfoot">
+  		<div class="textcontrols floatcontainer">
+  			<span class="postcontrols">
+  				<img style="display:none" id="progress_1643" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  				
+  				
+  				
+  					<a id="qrwq_1643" class="newreply" href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=1643" rel="nofollow" ><img id="quoteimg_1643" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+  					
+  				
+  				
+  			</span>
+  
+  			<span class="postlinking">
+  				
+  					
+  				
+  				
+  
+  				 
+  				
+  
+  					
+  
+  					
+  					 
+  
+  					
+  					
+  					
+  					
+  
+  				
+  			</span>
+  		</div>
+  	</div>
+  	<hr />
+  </li>
+  <li class="postbit postbitim" id="post_thanks_box_1643" style="display:none">
+  	
+  </li>
+     <li class="postbit postbitim postcontainer" id="post_1674">
+  	<div class="postdetails_noavatar">
+  		<div class="userinfo">
+  			<div class="contact">
+  				
+  					<a class="postuseravatarlink" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">
+  						
+  							<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo's Avatar" style="max-height: 45px" />
+  						
+  					</a>
+  				
+  				<div class="username_container">
+  					<div>
+  					
+  						<div class="popupmenu memberaction">
+  	<a class="username offline popupctrl" href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>
+  	<ul class="popupbody popuphover memberaction_body">
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">
+  				View Profile
+  			</a>
+  		</li>
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+  				View Forum Posts
+  			</a>
+  		</li>
+  		
+  		
+  		<li class="left">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=2" rel='nofollow'>
+  				Private Message
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/blog.php?u=2" rel='nofollow'>
+  				View Blog Entries
+  			</a>
+  		</li>
+  		
+  		
+  		
+  		
+  		
+  		<li class="right">
+  			<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+  			<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/list.php/author/2-UrbanWaterloo" rel='nofollow'>
+  				View Articles
+  			</a>
+  		</li>
+  		
+  
+  		
+  
+  		
+  		
+  	</ul>
+  </div>
+   
+  					<span class="usertitle">
+  						<font color="#FF6600">Senior Moderator</font>
+  					</span>
+  						<img class="inlineimg onlinestatus" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />
+  
+   
+  					
+  					</div>
+  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+  						From Kitchener-Waterloo |  Member Since Dec 2009 | 3,603 Posts
+  					</div>
+                                          
+  				</div>
+  			</div>
+  
+  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+  			<div style="padding: 6px 10px 3px 0;">
+                          
+                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                          
+                                                  <a name="post1674" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=1674#post1674" class="postcounter">#20</a><a id="postcount1674" name="20"></a>
+                                          
+                                          
+                                          
+                                  </span>
+                                  <div style="margin-top: 6px;">
+                                 <span class="postdate old">
+                                          
+                                                  <span class="date">02-04-2010&nbsp;<span class="time">01:52 AM</span></span>
+                                          
+                                  </span>
+                                  </div>
+                          
+  			</div>
+  			</div>
+  
+  		</div>
+  	</div>
+  
+  	<div class="postbody">
+  		
+  		<div class="postrow">
+  		
+  		
+  				
+  				
+  					
+  				
+  		<div class="content">
+  			<div id="post_message_1674">
+  				<blockquote class="postcontent restore">
+  					<b><font size="3"><font color="blue">Facebook Photos: Construction Update Jan 2010 </font></font></b><br />
+  Posted January 11, 2010 @ 8:29pm<br />
+  <br />
+  Construction of the42 continues to roll along smoothly into 2010. The parking garage is nearing completion, and the 1st storey floors are currently being poured. It won't be long now before the building starts to rise above the hoarding!<br />
+  <br />
+  View of the42 from the crane - Jan 2010<br />
+  <img src="/web/20110214045248im_/http://photos-a.ak.fbcdn.net/hphotos-ak-snc3/hs203.snc3/21069_244191126938_7780366938_3387967_3815419_n.jpg" border="0" alt="" /><br />
+  <br />
+  Northern view of the Uptown from the crane at the42<br />
+  <img src="/web/20110214045248im_/http://photos-b.ak.fbcdn.net/hphotos-ak-snc3/hs223.snc3/21069_244191156938_7780366938_3387968_769869_n.jpg" border="0" alt="" /><br />
+  <br />
+  Southern view of the Uptown from the crane at the42<br />
+  <img src="/web/20110214045248im_/http://photos-h.ak.fbcdn.net/hphotos-ak-snc3/hs223.snc3/21069_244191161938_7780366938_3387969_5279504_n.jpg" border="0" alt="" /><br />
+  <br />
+  Ground floor to be poured in January 2010<br />
+  <img src="/web/20110214045248im_/http://photos-e.ak.fbcdn.net/hphotos-ak-snc3/hs203.snc3/21069_244191181938_7780366938_3387971_2708064_n.jpg" border="0" alt="" /><br />
+  <br />
+  Ramp to the underground garage<br />
+  <img src="/web/20110214045248im_/http://photos-g.ak.fbcdn.net/hphotos-ak-snc3/hs203.snc3/21069_244191186938_7780366938_3387972_4054926_n.jpg" border="0" alt="" /><br />
+  <br />
+  Preparing to pour the ground floor Jan 2010<br />
+  <img src="/web/20110214045248im_/http://photos-a.ak.fbcdn.net/hphotos-ak-snc3/hs203.snc3/21069_244191196938_7780366938_3387973_8001916_n.jpg" border="0" alt="" /><br />
+  <br />
+  North side of the site January 2010<br />
+  <img src="/web/20110214045248im_/http://photos-d.ak.fbcdn.net/hphotos-ak-snc3/hs223.snc3/21069_244191201938_7780366938_3387974_3150010_n.jpg" border="0" alt="" /><br />
+  <br />
+  South side of the site January 2010<br />
+  <img src="/web/20110214045248im_/http://photos-f.ak.fbcdn.net/hphotos-ak-snc3/hs223.snc3/21069_244191206938_7780366938_3387975_305356_n.jpg" border="0" alt="" />
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  
+                          	
+  		         
+  			
+  			<blockquote class="signature restore"><div class="signaturecontainer"><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/219-Light-Rail-Transit?p=25288#post25288" target="_blank"><b><font color="darkgreen">cc LRT Letters to <a href="mailto:letters@wonderfulwaterloo.com">letters@wonderfulwaterloo.com</a></font></b><br />
+  </a></div></blockquote>
+  			
+  
+  			
+  		</div>
+  	</div>
+  	<div class="postfoot">
+  		<div class="textcontrols floatcontainer">
+  			<span class="postcontrols">
+  				<img style="display:none" id="progress_1674" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+  				
+  				
+  				
+  					<a id="qrwq_1674" class="newreply" href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=1674" rel="nofollow" ><img id="quoteimg_1674" src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+  					
+  				
+  				
+  			</span>
+  
+  			<span class="postlinking">
+  				
+  					
+  				
+  				
+  
+  				 
+  				
+  
+  					
+  
+  					
+  					 
+  
+  					
+  					
+  					
+  					
+  
+  				
+  			</span>
+  		</div>
+  	</div>
+  	<hr />
+  </li>
+  <li class="postbit postbitim" id="post_thanks_box_1674" style="display:none">
+  	
+  </li>
+     
+  		</ol>
+                  <div class="separator"></div>
+  		<div class="postlistfoot">
+  			
+  		</div>
+  
+  	
+  
+  </div>
+  
+  <div id="below_postlist" class="noinlinemod below_postlist">
+  	
+  		<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/newreply.php?p=1674&amp;noquote=1" 
+  			class="newcontent_textcontrol" id="newreplylink_bottom"
+  			><span>+</span> Reply to Thread</a>
+  	
+  	<div id="pagination_bottom" class="pagination_bottom">
+  	
+  		<form action="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl/page3" method="get" class="pagination popupmenu nohovermenu">
+  <input type="hidden" name="t" value="42" />
+  	
+  		<span><a href="javascript://" class="popupctrl">Page 1 of 10</a></span>
+  		
+  		
+  		
+  		<span class="selected"><a href="javascript://" title="Results 1 to 20 of 184">1</a></span> <span><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl/page2" title="Show results 21 to 40 of 184">2</a></span> <span><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl/page3" title="Show results 41 to 60 of 184">3</a></span> 
+  		
+  		<span class="separator">...</span>
+  		
+  		
+  		<span class="prev_next"><a rel="next" href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl/page2" title="Next Page - Results 21 to 40 of 184"><img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/pagination/next-right.png" alt="Next" /></a></span>
+  		
+  		
+  		<span class="first_last"><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl/page10" title="Last Page - Results 181 to 184 of 184">Last<img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/pagination/last-right.png" alt="Last" /></a></span>
+  		
+  	
+  	<ul class="popupbody popuphover">
+  		<li class="formsubmit jumptopage"><label>Jump to page: <input type="text" name="page" size="4" /></label> <input type="submit" class="button" value="Go" /></li>
+  	</ul>
+  </form> 
+  	
+  		
+  	</div>
+  </div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <div style="margin-top:0px; height:8px;"></div>
+  
+  <div id="breadcrumb_two" class="breadcrumb" style="margin-bottom: 6px;">
+  	<ul class="floatcontainer">
+  		<li class="navbithome"><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/index.php" ><img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/navbit-home.png" alt="Home" /></a></li>
+  
+  		
+  	<li class="navbit"><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/forum.php">Forum</a></li>
+   
+  	<li class="navbit"><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/forumdisplay.php/1-Construction-and-Land-Development">Construction and Land Development</a></li>
+   
+  	<li class="navbit"><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/forumdisplay.php/2-Downtowns">Downtowns</a></li>
+   
+  		
+  	<li class="navbit lastnavbit"><span><span style="color: blue"><b>U/C</b></span> the42 | 23 m | 6 fl</span></li>
+   
+  	</ul>
+  	<hr />
+  </div>
+   <div id="thread_info" class="thread_info block">
+  	
+  	
+  	
+  
+  	<TABLE width="100%">     
+  	<tr>     
+  	<td width="50%" valign="top">
+  	
+  	<h4 class="threadinfohead blockhead">Tags for this Thread</h4>
+  	<div id="thread_tags_list" class="thread_info_block blockbody formcontrols" style="min-height:58px;">
+  		<div class="inner_block">
+  			
+  			<div id='tag_list_cell' style="font-size:11px;">
+  				
+  	<ul class="commalist" style="margin-top: 5px;">
+  		<li><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/tags.php?tag=momentum+developments">momentum developments</a></li> <li><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/tags.php?tag=uptown+waterloo">uptown waterloo</a></li> 
+  	</ul>
+  
+  
+   <img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/11x11progress.gif" id="tag_form_progress" class="inlineimg hidden" alt="" /> 
+  			</div>
+  			<p style="font-size:11px;">
+  				<a href="/web/20110214045248/http://www.wonderfulwaterloo.com/tags.php">View Tag Cloud</a>
+  			</p>
+  		</div>
+  	</div>
+  	
+  	</td>
+  	<td>
+  	<div class="options_block_container">
+  		
+  		<div class="options_block2">
+  			<h4 class="blockhead">Bookmarks</h4>
+  			<div id="social_bookmarks_list" class="thread_info_block blockbody formcontrols floatcontainer">
+  				<h5 class="blocksubhead">Bookmarks</h5>
+  				<DIV style="height:58px;">
+  				<ul class="icon_list" style="font-size:11px;"><li class="smallfont">
+  	
+  		<a href="/web/20110214045248/http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.wonderfulwaterloo.com%2Fshowthread.php%3Ft%3D42&amp;title=the42+%7C+23+m+%7C+6+fl" target="socialbookmark"><img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/FaceBook-icon.png" alt="" /></a>
+  	
+  	<a href="/web/20110214045248/http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.wonderfulwaterloo.com%2Fshowthread.php%3Ft%3D42&amp;title=the42+%7C+23+m+%7C+6+fl" target="socialbookmark">Facebook</a>
+  </li> <li class="smallfont">
+  	
+  		<a href="/web/20110214045248/http://twitter.com/home?status=the42+%7C+23+m+%7C+6+fl+http%3A%2F%2Fwww.wonderfulwaterloo.com%2Fshowthread.php%3Ft%3D42" target="socialbookmark"><img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/Twitter-icon.png" alt="" /></a>
+  	
+  	<a href="/web/20110214045248/http://twitter.com/home?status=the42+%7C+23+m+%7C+6+fl+http%3A%2F%2Fwww.wonderfulwaterloo.com%2Fshowthread.php%3Ft%3D42" target="socialbookmark">Twitter</a>
+  </li> <li class="smallfont">
+  	
+  		<a href="/web/20110214045248/http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3A%2F%2Fwww.wonderfulwaterloo.com%2Fshowthread.php%3Ft%3D42&amp;title=the42+%7C+23+m+%7C+6+fl" target="socialbookmark"><img src="/web/20110214045248im_/http://www.wonderfulwaterloo.com/images/misc/bookmarksite_google.gif" alt="" /></a>
+  	
+  	<a href="/web/20110214045248/http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3A%2F%2Fwww.wonderfulwaterloo.com%2Fshowthread.php%3Ft%3D42&amp;title=the42+%7C+23+m+%7C+6+fl" target="socialbookmark">Google</a>
+  </li> </ul>
+  				</DIV>
+  			</div>
+  		</div>
+  		
+  		<div class="options_block">
+  			<h4 class="blockhead">Posting Permissions</h4>
+  			<div id="posting_rules" class="thread_info_block blockbody formcontrols floatcontainer">
+  				
+  <div id="forumrules" class="info_subblock">
+  
+  	<ul class="youcandoblock" style="FONT-SIZE:9px; margin:0px" >
+  		<li>You <strong>may not</strong> post new threads</li>
+  		<li>You <strong>may not</strong> post replies</li>
+  		<li>You <strong>may not</strong> post attachments</li>
+  		<li>You <strong>may not</strong> edit your posts</li>
+  	</ul>
+  	<div class="bbcodeblock" style="FONT-SIZE:9px; margin:0px">
+  		<ul>
+  			<li><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/misc.php?do=bbcode" target="_blank">BB code</a> is <strong>On</strong></li>
+  			<li><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/misc.php?do=showsmilies" target="_blank">Smilies</a> are <strong>On</strong></li>
+  			<li><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/misc.php?do=bbcode#imgcode" target="_blank">[IMG]</a> code is <strong>On</strong></li>
+  			<li>HTML code is <strong>Off</strong></li>
+  		</ul>
+  	</div>
+  	<p class="rules_link" style="FONT-SIZE:9px; margin:0px; text-align:right"><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/misc.php?do=showrules" target="_blank">Forum Rules</a></p>
+  
+  </div>
+   
+  			</div>
+  		</div>
+  
+  	</div>
+  	</td>
+  	</tr>     
+  	</TABLE>
+  
+  </div>
+  
+  
+  
+  
+  
+  
+  
+  <div style="margin-top:10px;">
+   
+  <div id="ad_global_above_footer">
+  
+  <center>
+  
+  <table>
+    <tr>
+      <th style="padding-right:2px;">
+  
+  <script type="text/javascript">
+  ch_client = "wonderfulwaterloo";
+  ch_width = 468;
+  ch_height = 60;
+  ch_type = "mpu";
+  ch_sid = "Chitika Default";
+  ch_backfill = 1;
+  ch_color_site_link = "#0000CC";
+  ch_color_title = "#0000CC";
+  ch_color_border = "#FFFFFF";
+  ch_color_text = "#000000";
+  ch_color_bg = "#FFFFFF";
+  </script>
+  <script src="/web/20110214045248js_/http://scripts.chitika.net/eminimalls/amm.js" type="text/javascript">
+  </script>
+  
+     </th>
+     <th style="padding-left:2px;">
+  
+  <!-- Begin: adBrite, Generated: 2011-01-13 7:27:31  -->
+  <script type="text/javascript">
+  var AdBrite_Title_Color = '0000FF';
+  var AdBrite_Text_Color = '000000';
+  var AdBrite_Background_Color = 'FFFFFF';
+  var AdBrite_Border_Color = 'FFFFFF';
+  var AdBrite_URL_Color = '0000FF';
+  try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
+  </script>
+  <span style="white-space:nowrap;"><script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="/web/20110214045248/http://ads.adbrite.com/mb/text_group.php?sid=1848292&zs=3436385f3630&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script>
+  <a target="_top" href="/web/20110214045248/http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1848292&amp;afsid=1"><img src="/web/20110214045248im_/http://files.adbrite.com/mb/images/adbrite-your-ad-here-banner.gif" style="background-color:#FFFFFF;border:none;padding:0;margin:0;" alt="Your Ad Here" width="11" height="60" border="0" /></a></span>
+  <!-- End: adBrite -->
+  
+     </th>
+    </tr>
+  </table>
+  
+  </center>
+  
+  </div> 
+  </div>
+  
+  <div id="footer" class="floatcontainer footer">
+  
+  	<form action="/web/20110214045248/http://www.wonderfulwaterloo.com/forum.php" method="get" id="footer_select" class="footer_select">
+  
+  			
+  		
+  			<select name="styleid" onchange="switch_id(this, 'style')">
+  				<optgroup label="Quick Style Chooser">
+  					<option value="2" class="" selected="selected">-- Default Style</option> <option value="17" class="" >---- QRLeft</option> <option value="38" class="" >---- January 10 New Postbit A</option> <option value="45" class="" >---- January 2 New Postbit B</option> <option value="46" class="" >---- testing jan 10 2010 5</option> <option value="47" class="" >---- GroundhogDay</option> <option value="33" class="" >---- LogoTesting</option> 
+  				</optgroup>
+  			</select>	
+  		
+  		
+  		
+  	</form>
+  
+  	<ul id="footer_links" class="footer_links">
+  		<li><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/sendmessage.php" rel="nofollow" accesskey="9">Contact Us</a></li>
+  		<li><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/">Home</a></li>
+  		
+  		
+  		<li><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/archive/index.php">Archive</a></li>
+  		
+  		
+  		
+  		<li><a href="/web/20110214045248/http://www.wonderfulwaterloo.com/showthread.php/42-the42-23-m-6-fl?p=1601#top" onclick="document.location.hash='top'; return false;">Top</a></li>
+  	</ul>
+  	
+  	
+  	
+  	
+  	<script type="text/javascript">
+  	<!--
+  		// Main vBulletin Javascript Initialization
+  		vBulletin_init();
+  	//-->
+  	</script>
+          
+  </div>
+  </div> <!-- closing div for body_wrapper -->
+  
+  <div class="below_body">
+  <div id="footer_time" class="shade footer_time">All times are GMT -5. The time now is <span class="time">11:52 PM</span>.</div>
+  
+  <div id="footer_copyright" class="shade footer_copyright">
+  	<!-- Do not remove this copyright notice -->
+  	Powered by <a href="/web/20110214045248/http://www.vbulletin.com/" id="vbulletinlink">vBulletin&trade;</a> Version 4.1.1 <br />Copyright &copy; 2011 vBulletin Solutions, Inc. All rights reserved. 
+  	<!-- Do not remove this copyright notice -->	
+  </div>
+  <div id="footer_morecopyright" class="shade footer_morecopyright">
+  	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+  	
+  	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+  	
+  </div>
+  
+  </div> 
+  
+  </body>
+  </html>
+   
+  
+  
+  
+  
+  <!--
+       FILE ARCHIVED ON 4:52:48 Feb 14, 2011 AND RETRIEVED FROM THE
+       INTERNET ARCHIVE ON 21:46:57 Aug 24, 2014.
+       JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+  
+       ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+       SECTION 108(a)(3)).
+  -->
