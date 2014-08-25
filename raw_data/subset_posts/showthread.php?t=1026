@@ -1,0 +1,1066 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+  <!-- BEGIN TEMPLATE: SHOWTHREAD -->
+  
+  <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" id="vbulletin_html">
+  <head>
+  
+  <script type="text/javascript" src="/static/js/analytics.js" ></script>
+  <link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+  
+  
+  
+  
+  	<!-- BEGIN TEMPLATE: headinclude -->
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+  <meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.wonderfulwaterloo.com" />
+    <meta name="generator" content="vBulletin 4.1.11" />
+  
+  	<link rel="Shortcut Icon" href="/web/20120403031108im_/http://www.wonderfulwaterloo.com/favicon.ico" type="image/x-icon" />
+  
+  
+  
+  
+  
+  
+  
+  
+  	
+  		<script type="text/javascript" src="/web/20120403031108js_/http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/yuiloader-dom-event/yuiloader-dom-event.js"></script>
+  	
+  
+  <script type="text/javascript">
+  <!--
+  	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+  	{
+  		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=4111"><\/script>');
+  		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=4111"><\/script>');
+  		var yuipath = 'clientscript/yui';
+  		var yuicombopath = '';
+  		var remoteyui = false;
+  	}
+  	else	// Load Rest of YUI remotely (where possible)
+  	{
+  		var yuipath = '/web/20120403031108/http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build';
+  		var yuicombopath = '';
+  		var remoteyui = true;
+  		if (!yuicombopath)
+  		{
+  			document.write('<script type="text/javascript" src="/web/20120403031108/http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/connection/connection-min.js"><\/script>');
+  		}
+  	}
+  	var SESSIONURL = "s=b1aa64c01d9cc102e051b6f8ff64e570&";
+  	var SECURITYTOKEN = "guest";
+  	var IMGDIR_MISC = "images/misc";
+  	var IMGDIR_BUTTON = "images/buttons";
+  	var vb_disable_ajax = parseInt("0", 10);
+  	var SIMPLEVERSION = "4111";
+  	var BBURL = "/web/20120403031108/http://www.wonderfulwaterloo.com";
+  	var LOGGEDIN = 0 > 0 ? true : false;
+  	var THIS_SCRIPT = "showthread";
+  	var RELPATH = "showthread.php?t=1026";
+  	var PATHS = {
+  		forum : "",
+  		cms   : "",
+  		blog  : ""
+  	};
+  	var AJAXBASEURL = "/web/20120403031108/http://www.wonderfulwaterloo.com/";
+  // -->
+  </script>
+  <script type="text/javascript" src="/web/20120403031108js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin-core.js?v=4111"></script>
+  
+  
+  
+  	<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2" />
+  	
+  		<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo - LRT Letters - RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2&amp;forumids=59" />
+  	
+  
+  
+  
+  	<link rel="stylesheet" type="text/css" href="/web/20120403031108cs_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_css/style00062l/main-rollup.css?d=1332931007" />
+          
+  
+  	<!--[if lt IE 8]>
+  	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00062l/popupmenu-ie.css?d=1332931007" />
+  	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00062l/vbulletin-ie.css?d=1332931007" />
+  	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00062l/vbulletin-chrome-ie.css?d=1332931007" />
+  	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00062l/vbulletin-formcontrols-ie.css?d=1332931007" />
+  	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00062l/editor-ie.css?d=1332931007" />
+  	<![endif]-->
+  
+  
+  <!-- END TEMPLATE: headinclude --><!-- BEGIN TEMPLATE: post_thanks_javascript -->
+  <script type="text/javascript" src="/web/20120403031108js_/http://www.wonderfulwaterloo.com/clientscript/post_thanks.js"></script>
+  
+  <style type="text/css">
+  .postbitlegacy .postfoot .textcontrols a.post_thanks_button, .postbit .postfoot .textcontrols a.post_thanks_button  {
+  	background: url(/web/20120403031108im_/http://www.wonderfulwaterloo.com/images/buttons/post_thanks.png) no-repeat transparent left;
+  	padding-left: 20px;
+  }
+  .postbitlegacy .postfoot .textcontrols a.post_thanks_button:hover, .postbit .postfoot .textcontrols a.post_thanks_button:hover  {
+  	background: url(/web/20120403031108im_/http://www.wonderfulwaterloo.com/images/buttons/post_thanks-hover.png) no-repeat transparent left;
+  </style>
+   
+  <!-- END TEMPLATE: post_thanks_javascript -->
+  	<meta name="keywords" content="stats statistics data, article, outhit, jeff, published, record, campaign, outhits, promises, information, response, file, glaring, dollars, facts, transit, promised, broken, reporting, news, received, biased, inspire, feelings, inform, matter, write, personal, fear, required, outrage, separate, sincerely, choices, gregory, opinion, kitchener, advocate, region, waterloo, clear, long-running, http://www.wonderfulwaterloo.com/showthread.php?t=219&amp;p=30121post30121, report, provided, exchange, douglas, soapbox, prepared, date" />
+  	<meta name="description" content="LRT Letters 
+   
+  &lt;img src=&quot;http://www.wonderfulwaterloo.com/rallyforrails/Image%20Icon.png&quot; title=&quot;Image For Distribution&quot;/&gt; &lt;img src=&quot;http://www.wonderfulwaterloo.com/rallyforrails/PDF%20Icon.gif&quot; title=&quot;PDF For Distribution&quot;/&gt; &lt;img src=&quot;http://www.wonderfulwaterloo.com/rallyforrails/Email%20Icon.gif&quot; title=&quot;Email This Page&quot;/&gt; 
+   
+  http://www.wonderfulwaterloo.com/rallyforrails/LRT%20Letters.png 
+   
+   
+  LRT - The Right Choice 
+   
+  Light Rail vs. Rapid Bus is the big issue right now in the Waterloo" />
+  
+  	<title> LRT Letters</title>
+  	<link rel="canonical" href="showthread.php?t=1026&s=b1aa64c01d9cc102e051b6f8ff64e570" />
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  
+  	
+  		<link rel="stylesheet" type="text/css" href="/web/20120403031108cs_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_css/style00062l/showthread-rollup.css?d=1332931007" />
+  	
+  	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00062l/toolsmenu-ie.css?d=1332931007" />
+  	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00062l/postlist-ie.css?d=1332931007" />
+  	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00062l/showthread-ie.css?d=1332931007" />
+  	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00062l/postbit-ie.css?d=1332931007" />
+  	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00062l/poll-ie.css?d=1332931007" /><![endif]-->
+  <!-- BEGIN TEMPLATE: headinclude_bottom -->
+  <link rel="stylesheet" type="text/css" href="/web/20120403031108cs_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_css/style00062l/additional.css?d=1332931007" />
+  
+  <!-- END TEMPLATE: headinclude_bottom -->
+  </head>
+  
+  <body>
+  
+  
+  
+  <!-- BEGIN TEMPLATE: header -->
+  <div class="above_body"> <!-- closing tag is in template navbar -->
+  <div id="header" class="floatcontainer doc_header" >
+  	<div id="toplinks" class="toplinks">
+  		
+  			<ul class="nouser">
+  			
+  				<li><a href="/web/20120403031108/http://www.wonderfulwaterloo.com/register.php?s=b1aa64c01d9cc102e051b6f8ff64e570" rel="nofollow">Register</a></li>
+  			
+  				<li>
+  			<script type="text/javascript" src="/web/20120403031108js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_md5.js?v=4111"></script>
+  			<form id="navbar_loginform" action="/web/20120403031108/http://www.wonderfulwaterloo.com/login.php?s=b1aa64c01d9cc102e051b6f8ff64e570&amp;do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+  				<div id="remember" class="remember" style="position:absolute; left:-124px; top:3px">
+  					<label for="cb_cookieuser_navbar">Stay Logged In:  <input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" /></label>
+  				</div>
+  				<fieldset id="logindetails" class="logindetails">
+  					<div>
+  					<img src="/web/20120403031108im_/http://www.wonderfulwaterloo.com/images/icons/username.png" alt="Username" style="padding-top:2px; padding-right:2px;" /><input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" />
+  					<img src="/web/20120403031108im_/http://www.wonderfulwaterloo.com/images/icons/password.png" alt="Password" style="padding-top:2px;" /><input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10" />
+  					<input type="text" class="textbox default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Password" style="display:none;" />
+  					<input type="submit" class="loginbutton" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s" />
+  					</div>
+  				</fieldset>
+  				<input type="hidden" name="s" value="b1aa64c01d9cc102e051b6f8ff64e570" />
+  				<input type="hidden" name="securitytoken" value="guest" />
+  				<input type="hidden" name="do" value="login" />
+  				<input type="hidden" name="vb_login_md5password" />
+  				<input type="hidden" name="vb_login_md5password_utf" />
+  			</form>
+  			<script type="text/javascript">
+  			YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+  			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+  			vB_XHTML_Ready.subscribe(function()
+  			{
+  			//
+  				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+  				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+  				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+  				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+  			});
+  			
+  			function navbar_username_focus(e)
+  			{
+  			//
+  				var textbox = YAHOO.util.Event.getTarget(e);
+  				if (textbox.value == 'User Name')
+  				{
+  				//
+  					textbox.value='';
+  					textbox.style.color='#000000';
+  				}
+  			}
+  
+  			function navbar_username_blur(e)
+  			{
+  			//
+  				var textbox = YAHOO.util.Event.getTarget(e);
+  				if (textbox.value == '')
+  				{
+  				//
+  					textbox.value='User Name';
+  					textbox.style.color='#777777';
+  				}
+  			}
+  			
+  			function navbar_password_hint(e)
+  			{
+  			//
+  				var textbox = YAHOO.util.Event.getTarget(e);
+  				
+  				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+  				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+  				YAHOO.util.Dom.get('navbar_password').focus();
+  			}
+  
+  			function navbar_password(e)
+  			{
+  			//
+  				var textbox = YAHOO.util.Event.getTarget(e);
+  				
+  				if (textbox.value == '')
+  				{
+  					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+  					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+  				}
+  			}
+  			</script>
+  				</li>
+  				
+  			</ul>
+  		
+  	</div>
+  	<div style="padding-top: 23px;"><a name="top" href="/web/20120403031108/http://www.wonderfulwaterloo.com/forum.php?s=b1aa64c01d9cc102e051b6f8ff64e570" class="logo-image"><img src="/web/20120403031108im_/http://www.wonderfulwaterloo.com/rallyforrails/rallyforrailsII/RallyForRailsII2Logo.jpg" alt="Wonderful Waterloo - Powered by the Citizens of Waterloo Region" width="100%" /></a></div>
+  	<hr />
+  
+  	<div align="right" style="margin-top:210px; margin-right:4px;">
+  	<a href="/web/20120403031108/http://www.facebook.com/event.php?eid=203031289733004"><img src="/web/20120403031108im_/http://www.wonderfulwaterloo.com/rallyforrails/facebook_event.png" alt="Facebook Event" /></a>
+  	</div>
+  
+  	<div align="center" style="margin-top:-26px;">
+  	<font size="3" color="black"><b>A rally to support Light Rail in Waterloo Region!</b></font>
+  	<br/>
+  	<br/>
+  	<font size="6" color="black"><b>KING & FREDERICK, DOWNTOWN KITCHENER</b></font>
+  	<br/>
+  	<font size="6" color="black"><b>SATURDAY JUNE 11, 2011 12 - 1 PM</b></font>
+  
+  	<div style="padding-top:20px"><font size="3" color="black"><b><u>Community Supporters</u></b></font></div>
+  	<br/>
+  	<div style="padding-bottom:24px"><a href="/web/20120403031108/http://www.tritag.ca/"><img src="/web/20120403031108im_/http://www.tritag.ca/wordpress/wp-content/themes/tritag-1.1/static/images/logo.png" height="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="/web/20120403031108/http://www.wonderfulwaterloo.com/"><img src="/web/20120403031108im_/http://www.wonderfulwaterloo.com/rallyforrails/wwlogo.gif" height="45" /></a></div>
+  
+  	</div>
+  
+  <script type="text/javascript">
+  
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-20199168-1']);
+    _gaq.push(['_setLocalRemoteServerMode']);
+    _gaq.push(['_trackPageview']);
+  
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? '/web/20120403031108/https://ssl' : '/web/20120403031108/http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  
+  </script>
+  
+  <script type="text/javascript">
+  function toggleMe(a){
+  var e=document.getElementById(a);
+  if(!e)return true;
+  if(e.style.display=="none"){
+  e.style.display="block"
+  }
+  else{
+  e.style.display="none"
+  }
+  return true;
+  }
+  </script>
+  
+  </div>
+  <!-- END TEMPLATE: header -->
+  <!-- BEGIN TEMPLATE: navbar -->
+  <div id="navbar" class="navbar">
+  	<ul id="navtabs" class="navtabs floatcontainer">
+  		<!-- BEGIN TEMPLATE: vbcms_navbar_link -->
+  
+  	<li>
+  	
+  		<a class="navtab" href="/web/20120403031108/http://www.wonderfulwaterloo.com/content.php?s=b1aa64c01d9cc102e051b6f8ff64e570">Home</a>
+  	
+  	</li>
+  
+  <!-- END TEMPLATE: vbcms_navbar_link -->
+  		
+  			<li class="selected"><a class="navtab" href="/web/20120403031108/http://www.wonderfulwaterloo.com/forum.php?s=b1aa64c01d9cc102e051b6f8ff64e570">Forum</a>
+  				<ul class="floatcontainer">
+  					
+  					
+  					
+  					
+  					
+  					<li class="popupmenu">
+  						<a href="javascript://" class="popupctrl" accesskey="6">Community</a>
+  						<ul class="popupbody popuphover">
+  							
+  							
+  							
+  							
+  								<li><a href="/web/20120403031108/http://www.wonderfulwaterloo.com/memberlist.php?s=b1aa64c01d9cc102e051b6f8ff64e570">Member List</a></li>
+  							
+  							
+  							
+  						</ul>
+  					</li>
+  					
+  					
+  					<li class="popupmenu">
+  						<a href="javascript://" class="popupctrl" accesskey="3">Quick Links</a>
+  						<ul class="popupbody popuphover">
+  							
+  							
+  							
+  							
+  							<li><a href="/web/20120403031108/http://www.wonderfulwaterloo.com/showgroups.php?s=b1aa64c01d9cc102e051b6f8ff64e570" rel="nofollow">
+  								
+  									View Site Leaders
+  								
+  							</a></li>
+  							
+  							<li>
+  								<a href="/web/20120403031108/http://www.wonderfulwaterloo.com/forumdisplay.php?s=b1aa64c01d9cc102e051b6f8ff64e570&amp;do=markread&amp;markreadhash=guest">Mark Forums Read</a>
+  							</li>
+  							
+  							
+  							
+  						</ul>
+  					</li>
+  					
+  				</ul>
+  			</li>
+  		
+  		<!-- BEGIN TEMPLATE: blog_navbar_link -->
+  
+   
+  <!-- END TEMPLATE: blog_navbar_link -->
+  		
+  			<li><a class="navtab" href="/web/20120403031108/http://www.wonderfulwaterloo.com/search.php?s=b1aa64c01d9cc102e051b6f8ff64e570&amp;do=getdaily&amp;contenttype=vBForum_Post" accesskey="2">New</a></li>
+  		
+  		<li class="popupmenu"><a href="javascript://" class="popupctrl navtab" style="background:transparent">About</a><ul class="popupbody popuphover"><li style="text-indent: 0px;"><a style="color:" href="/web/20120403031108/http://www.wonderfulwaterloo.com/about.php" target="_self">Welcome</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20120403031108/http://www.wonderfulwaterloo.com/misc.php?do=showrules" target="_self">Code Of Conduct</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20120403031108/http://www.wonderfulwaterloo.com/showthread.php/727-Wonderful-Waterloo-Urban-Reward-Program" target="_self">Urban Rewards</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20120403031108/http://www.wonderfulwaterloo.com/group.php" target="_self">Groups</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20120403031108/http://www.wonderfulwaterloo.com/blog.php" target="_self">Blogs</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20120403031108/http://www.wonderfulwaterloo.com/faq.php" target="_self">FAQ</a></li></ul></li><li class="popupmenu"><a href="javascript://" class="popupctrl navtab" style="background:transparent">Calendars</a><ul class="popupbody popuphover"><li style="text-indent: 0px;"><a style="color:" href="/web/20120403031108/http://www.wonderfulwaterloo.com/calendar.php?calendarid=1" target="_self">General Events</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20120403031108/http://www.wonderfulwaterloo.com/calendar.php?calendarid=2" target="_self">Arts, Culture & Heritage</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20120403031108/http://www.wonderfulwaterloo.com/calendar.php?calendarid=3" target="_self">Sports & Recreation</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20120403031108/http://www.wonderfulwaterloo.com/calendar.php?calendarid=4" target="_self">Business</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20120403031108/http://www.wonderfulwaterloo.com/calendar.php?calendarid=6" target="_self">Food Deals</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20120403031108/http://www.wonderfulwaterloo.com/calendar.php?calendarid=5" target="_self">Nightlife</a></li><li style="text-indent: 0px;"><a style="color:" href="/web/20120403031108/http://www.wonderfulwaterloo.com/calendar.php?calendarid=13" target="_self">Ontario Election 2011</a></li></ul></li><li ><a class='navtab' href='/web/20120403031108/http://www.wonderfulwaterloo.com/maps.php' target='_self'> Maps</a></li><li ><a class='navtab' href='/web/20120403031108/http://www.wonderfulwaterloo.com/statistics.php' target='_self'> Stats</a></li><li ><a class='navtab' href='/web/20120403031108/http://wonderfulwaterloo.com/links.php' target='_self'> Links</a></li><li ><a class='navtab' href='/web/20120403031108/http://www.wonderfulwaterloo.com/showthread.php?t=727' target='_self'> Points: 0</a></li>
+  	</ul>
+  	
+  		<div id="globalsearch" class="globalsearch">
+  			<form action="/web/20120403031108/http://www.wonderfulwaterloo.com/search.php?s=b1aa64c01d9cc102e051b6f8ff64e570&amp;do=process" method="post" id="navbar_search" class="navbar_search">
+  				
+  				<input type="hidden" name="securitytoken" value="guest" />
+  				<input type="hidden" name="do" value="process" />
+  				<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
+  				<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="/web/20120403031108im_/http://www.wonderfulwaterloo.com/images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
+  			</form>
+  			<ul class="navbar_advanced_search">
+  				<li><a href="/web/20120403031108/http://www.wonderfulwaterloo.com/search.php?s=b1aa64c01d9cc102e051b6f8ff64e570" accesskey="4">Advanced Search</a></li>
+  				
+  			</ul>
+  		</div>
+  	
+  </div>
+  </div><!-- closing div for above_body -->
+  
+  <div class="body_wrapper">
+  
+  
+  <!-- END TEMPLATE: navbar -->
+  
+  
+  
+  <div id="postlist" class="postlist restrain">
+  	
+  
+  	
+  		<ol id="posts" class="posts" start="1">
+  			<!-- BEGIN TEMPLATE: postbit_wrapper -->
+  <!-- BEGIN TEMPLATE: postbit1 -->
+  <li class="postbit postbitim postcontainer" id="post_26047" style="border:none">
+  	
+  	<div class="postbody" style="border:none; padding-top:0px; padding-bottom:10px;">
+  		
+  		<div class="postrow">
+  				
+  					
+  					
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_26047">
+  				<blockquote class="postcontent restore">
+  					<div style="text-align: center;"><b><font size="6"><font color="blue">LRT Letters</font></font></b><br />
+  <br />
+  <a href="/web/20120403031108/http://www.wonderfulwaterloo.com/rallyforrails/LRT%20Letters.png" target="_blank"><img src="/web/20120403031108im_/http://www.wonderfulwaterloo.com/rallyforrails/Image%20Icon.png" title="Image For Distribution"/></a> <a href="/web/20120403031108/http://www.wonderfulwaterloo.com/rallyforrails/LRT%20Letters%20PDF.pdf" target="_blank"><img src="/web/20120403031108im_/http://www.wonderfulwaterloo.com/rallyforrails/PDF%20Icon.gif" title="PDF For Distribution"/></a> <a href="/web/20120403031108/http://www.wonderfulwaterloo.com/sendmessage.php?do=sendtofriend&amp;t=1026" target="_blank"><img src="/web/20120403031108im_/http://www.wonderfulwaterloo.com/rallyforrails/Email%20Icon.gif" title="Email This Page"/></a><br />
+  <br />
+  <img src="/web/20120403031108im_/http://www.wonderfulwaterloo.com/rallyforrails/LRT%20Letters.png" border="0" alt="" /></div><br />
+  <br />
+  <b><font size="4"><font color="blue">LRT - The Right Choice</font></font></b><br />
+  <br />
+  Light Rail vs. Rapid Bus is the big issue right now in the Waterloo Region, with groups on both sides. But what I have seen is a lot of misinformation about Rapid Bus Transit, and a lot of unfounded fear of an cost that we cannot handle.<br />
+  <br />
+  For those of you who support the Rapid Bus Transit plan I ask you these questions. Why is the Rapid Bus option the better plan? In what ways will it benefit the Region in the coming years of growth? How will it scale with a much larger population in 10 years? I have not heard anyone in support of the Rapid Bus plan answer any of these questions without quoting the cost difference between Light Rail and Bus Rapid.<br />
+  <br />
+  Light Rail Transit will offer great scaling in the years of growth to the Region of Waterloo. Although Light Rail Transit does have a bigger base cost it does scale a lot better and the difference in cost is not much. Rapid bus will cost us $100 million right now and Light Rail will cost us $235 million right now. But a rapid bus costs $10,000 with a $8,000/year maintenance cost while Light Rail car costs $20,000 with a $2,000/year maintenance cost. The Light Rail Transit option also includes replacing a large amount of underground piping that would need to be replaced eventually.<br />
+  <br />
+  Although the Rapid Bus plan may seem attractive it won't scale very well which is a lesson that we learned from Ottawa whom is currently replacing their Rapid Buses with a subway system. Rapid Buses may serve the region for a short time but eventually it's going to need to be replaced by a new system. Why not spend the little bit of extra money now for Light Rail Transit instead of having to pay a much higher cost for Light Rail or even worse a Subway System in 10-15 years.<br />
+  <br />
+  <a href="/web/20120403031108/http://www.wonderfulwaterloo.com/member.php/620-bzmwillemsen" target="_blank">Brett Willemsen</a><br />
+  Kitchener<br />
+  <br />
+  <br />
+  <b><font size="4"><font color="blue">&#8216;Backlash&#8217; against rising transit costs feared by Cambridge mayor</font></font></b><br />
+  <a href="/web/20120403031108/http://www.therecord.com/opinion/letters/article/485543--learn-from-others" target="_blank">The Record: February 16, 2011</a><br />
+  <br />
+  Let me share a vision. A region approaching 500,000 residents chooses to invest in rapid transit. Too small for separated rail, they compare light rail and buses in separated lanes or roads, finding rail superior. After electoral turnover, they crunch numbers again and still find rail is the best tool for the present, with cheaper costs and better development opportunities for the future.<br />
+  <br />
+  Rapid buses mirror future rail lines to develop ridership and use predictions. Opposition to development by parts of the region forces development there to be postponed, but rail comes. Spending is split between roads and transit, parking becomes rarer and costlier, transit thrives. Suburban feeder bus routes provide over half of LRT boardings, with rail beating buses for passenger cost, injury, and collision rates (82%, 42%, and 85% lower).<br />
+  <br />
+  Core employment and transit ridership grow, but avoiding land acquisition proved costlier than not, poor land use decisions having long lasting consequences. Council learns, plans better, with multiple rail lines a core community shaper.<br />
+  <br />
+  That vision actually started when just 470,000 called Calgary home in 1968, retold in the city report "Light Rail Transit in Calgary The First 25 Years." Let's not waste those lessons.<br />
+  <br />
+  <a href="/web/20120403031108/http://www.wonderfulwaterloo.com/member.php/731-ViewFromThe42" target="_blank">Andrew Dodds</a><br />
+  Waterloo<br />
+  <br />
+  <br />
+  <b><font size="4"><font color="blue">Just the facts, please</font></font></b><br />
+  <br />
+  Re: &#8220;Transit proposes to add 57 employees, 19 buses&#8221; and &#8220;&#8216;Backlash&#8217; against rising transit costs feared by Cambridge mayor&#8221;<br />
+  <br />
+  Two transit-related articles by Jeff Outhit appeared this week. The first, while largely factual, reports the proposed improvements to transit and its associated costs in a negative fashion, drawing attention immediately to &#8220;non-stop tax and fare increases,&#8221; and claiming &#8220;public outcry against trains.&#8221; The second seems somewhat of a non-story - Cambridge Mayor Doug Craig, a known opponent of the region's transit plans, fears 'backlash' against increasing transit costs. Since no evidence is presented that the people of this region are vocalizing backlash, one has to wonder if the article itself is an attempt to manufacture this predicted outrage.<br />
+  <br />
+  Mr. Outhit's opposition to improving transit and rapid transit in this region is well known through his opinion columns. I don't object to him voicing his opinions there, even though I disagree with him strongly. Through studying the facts, I have come to the conclusion that investing in transit infrastructure and LRT is critical and the best use of our money for transportation. The problem I have is that Mr. Outhit appears to also colour his reporting of news with his opinions. I would ask that if Mr. Outhit cannot keep his opinions to himself when he has his reporter hat on, that he leave it up to others to give us the facts on transit issues.<br />
+  <br />
+  Mike Boos<br />
+  Kitchener<br />
+  <br />
+  <br />
+  <b><font size="4"><font color="blue">LRT Motion this evening</font></font></b><br />
+  <br />
+  Dear Regional Councillors,<br />
+  <br />
+  Congratulations to all on your recent election victories. Well deserved in all cases. <br />
+  <br />
+  I am writing today to encourage you to defeat the motion put forward by Mayor Craig to reopen BRT options for transit. I am more than aware that the shortfalls in funding may require substantial investments on the part of the region, or even a re-development of the existing plans, but this cannot put an end to LRT. To move away from LRT would be a short term fix that is likely to cost more in the long term.<br />
+  <br />
+  To those who question whether or not LRT will "cause" people to move from cars to transit - the writing is already on the wall. The intensification in uptown Waterloo, the new office developments in downtown Kitchener show that a new breed of homeowner/worker (often used to transit in Toronto) is moving to our region. <br />
+  <br />
+  I also encourage you to change the tone of the debate. Remind the public that this isn't just about an LRT "running from mall to mall", but rather a complete redevelopment of the transit system, with new direct and express buses from all the suburban areas to allow all community members to have a viable transit option.<br />
+  <br />
+  As a region, we have an obligation to think about our community 20, and even 50 years down the road. Don't let short sighted views muddle the issue.<br />
+  <br />
+  Kind regards,<br />
+  <br />
+  Lori Reiser<br />
+  Kitchener<br />
+  <br />
+  <br />
+  <b><font size="4"><font color="blue">Region needs to sell more than dollar signs - Re: Province says funding can be used for rapid buses or trains in region</font></font></b><br />
+  <br />
+  When I read that the province's $300 million would support LRT or BRT, my curiosity got the best of me, and I contacted Transportation Minister Kathleen Wynne to clear things up a bit more.<br />
+  <br />
+  I asked whether the funding would change for a cheaper system: $300 million covers about 37% of the proposed LRT system, but would cover over 51% of a BRT system. I suggested a theoretical $450 million system; would the $300 million remain and with the one third ($150 million) federal funding put zero per cent of the costs on regional shoulders? Could a $300 million system result in a surplus federal/provincial contribution of $100 million to put towards operational costs?<br />
+  <br />
+  "We have committed $300 million for Waterloo Region's rapid transit corridor. Our funding commitment will not change based on the decision that the Region makes about what rapid transit plan will best serve their residents," from Kelly Baker, Communications Advisor for the Office of the Minister of Transportation, was the answer I received.<br />
+  <br />
+  Why pay $230 million or so when we can pay $90 million for a BRT solution? Or pay nothing for an even cheaper system? Or even get money to run any system under $450 million? Money for nothing and get your rides for free? I am a proponent of LRT, having lived and commuted in Ottawa (with BRT), Toronto (Subway/LRT), Waterloo (iXpress), and Mississauga (none), up to two and a half hours for a workday commute. I feel I understand that we have the province pushing 10,000 new bodies into our Region each year. I feel I would rather attract those 10,000 with efficient transit systems that have seen condos and development rise around even Toronto's least used subway lines, rather than promote the sprawl of Ottawa or Mississauga, far more costly in the long run, by succumbing to sticker shock, and having the province instead feed us 10,000 people a year who had no motivation to come here on their own.<br />
+  <br />
+  It's a hard sell that's now harder when you only look at the dollar signs. I hope that council can start making a better case - showing the 84 new lanes of road that a poor system wouldwould require to eat into heritage buildings and citizen's homes, showing the benefits of an LRT system that lasts 40 years by costing things beyond year 17, showing the labour savings of employing one LRT driver for every 4.6 buses that would need drivers and engines that would need mechanics as the system grew - and help me feel that I haven't sought to settle here in vain.<br />
+  <br />
+  <a href="/web/20120403031108/http://www.wonderfulwaterloo.com/member.php/731-ViewFromThe42" target="_blank">Andrew Dodds</a><br />
+  Waterloo<br />
+  <br />
+  <br />
+  <b><font size="4"><font color="blue">A response to recent developments</font></font></b><br />
+  <br />
+  Dear Councillor Reid,<br />
+  <br />
+  As a resident of Ward 1, I feel I must add my voice to the discussions currently taking place within this city about two significant infrastructure projects. You have no doubt heard from a number of residents regarding these initiatives; however, judging from the reception they received in the local media, I would wager that few in Cambridge have said what I am about to say.<br />
+  <br />
+  Regarding the contentious light rail project, please know that it has my full support. While the initial costs are certainly staggering, the long-term benefits--both environmental and economical--far outweigh them. I am dismayed that Cambridge will not receive light rail service from Day 1, instead receiving rapid buses until usage increases. However, as long as the criteria for receiving light rail service in Cambridge is made clear from the outset, I will be content with buses in the interim. Any move to alleviate congestion and improve transit between our cities can only benefit the city and encourage more rapid expansion of light rail into Cambridge.<br />
+  <br />
+  Please know that I do not agree with Mayor Craig's anti-light rail position, and believe that taking such a position will prove damaging in the long run. At a time when we should be cooperating with the other cities and townships in Waterloo Region for sustainable economic growth, Mayor Craig is widening the divide between Cambridge and KW. I will always be in favour of an independent Cambridge within Waterloo Region, but I fear that asserting independence at the cost of cooperation on mutually beneficial projects will not have the effect Mayor Craig hopes for. I have already heard many people in Kitchener and Waterloo use Mayor Craig's antagonistic position as justification for amalgamation of all three cities, and I doubt they are alone.<br />
+  <br />
+  The longer Regional Council hesitates to act on the light rail proposal, the more expensive it will become, and not only because of inflation. Several other municipalities in southern Ontario are exploring light rail projects; if we act now in tandem with cities such as Hamilton and Mississauga, there is a possibility that contracts for construction work and rolling stock for all new light rail lines can be shared, potentially reducing expenses. If we build alone, no such opportunity to build more economically will exist, unnecessarily increasing the cost to the taxpayer. We only have once chance to create a transit network that will serve Waterloo Region in the future; we need to get it right.<br />
+  <br />
+  Another project affecting Cambridge taxpayers is the proposed Cambridge Performing Arts Centre. I am also fully supportive of this venture, and of the partnership with Drayton Entertainment. While the facility will be located in Galt, the effects of the new theatre will be felt throughout Cambridge. Employment directly with the theatre and the hospitality businesses it serves is only one positive result. Success in one part of the city will encourage others to take a chance with Preston, Hespeler, Blair, and other neighbourhoods of Cambridge, repeating the story elsewhere within our borders. There is always a degree of financial risk when supporting the arts, but the city is minimizing this risk by partnering with a proven organization that contributes twenty years of success and growth. When the potential for revenue is taken into consideration, the contribution from the city is thoroughly justified.<br />
+  <br />
+  I do, however, share CEO Alex Mustakas' concerns about the proposed name for the Performing Arts Centre; further effort must be made to differentiate this venture from the similarly named Cambridge Arts Theatre and Cambridge Centre for the Arts across the river from the new theatre. All three are vital components in the rejuvenation of the core and must have strong, unique branding in order to thrive.<br />
+  <br />
+  In conclusion, I would like to thank you for your time and for taking my words into consideration.<br />
+  <br />
+  Sincerely,<br />
+  <br />
+  David J Haisell<br />
+  Cambridge
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  		</div>
+  	</div>
+  	
+  	<hr />
+  </li>
+  <!-- BEGIN TEMPLATE: post_thanks_box -->
+  <li class="postbit postbitim" id="post_thanks_box_26047" style="display:none">
+  	
+  </li> 
+  <!-- END TEMPLATE: post_thanks_box --> 
+  <!-- END TEMPLATE: postbit1 -->
+  <!-- END TEMPLATE: postbit_wrapper --><!-- BEGIN TEMPLATE: postbit_wrapper -->
+  <!-- BEGIN TEMPLATE: postbit -->
+  <li class="postbit postbitim postcontainer" id="post_26597" style="border:none">
+                                  <div style="text-align:right;"><span class="nodecontrols" style="font-size: 10px;">
+                                          
+                                                  <a name="post26597" href="/web/20120403031108/http://www.wonderfulwaterloo.com/showthread.php?t=1026&amp;s=b1aa64c01d9cc102e051b6f8ff64e570&amp;p=26597#post26597" class="postcounter">2</a><a id="postcount26597" name="2"></a>
+                                          
+                                  </span></div>
+  
+  	<div class="postbody" style="border:none; padding-top:0px; padding-bottom:10px;">
+  		
+  		<div class="postrow">
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_26597">
+  				<blockquote class="postcontent restore">
+  					<b><font size="4"><font color="blue">Bus Jam!</font></font></b><br />
+  <br />
+  Ever seen a bus jam? Many BRT systems have! Imagine Uptown with 10 buses trapped between lights all trying to stop at the uptown bus stop. This is something that is already happening with the current Route 7 and iXpress routes. With the implementation of a BRT system this can only get worse. Over the next couple years Route 7 and the iXpress will need to have increased service to simply meet the demand and not leave people behind. <br />
+  <br />
+  With a BRT system I can only see a large increase in the amount of buses running this main line, with the unfortunate side effect of too many buses on the road. Currently the Route 7 buses are experiencing a 'bunching' problem. Bunching is where a bus leaves a little late or hits one too many lights. This first bus falls behind a little, but as a result of this it has to pick more people up, and stop are more stops for longer. Eventually this first bus will slow down so much that it will meet up with the bus behind it. While the bus behind it is experiencing a particularly quick ride this is because it doesn't need to stop at as many stops as the slower bus infront has picked them up already. Bunching is a very annoying problem. As is slows down both buses, and causes huge gaps in service. I cannot see a reason why this would not be reproduced in a BRT system.<br />
+  <br />
+  <a href="/web/20120403031108/http://www.wonderfulwaterloo.com/member.php/620-bzmwillemsen" target="_blank">Brett Willemsen</a><br />
+  Kitchener<br />
+  <br />
+  <br />
+  <b><font size="4"><font color="blue">Cambridge Failed</font></font></b><br />
+  <a href="/web/20120403031108/http://www.therecord.com/opinion/letters/article/489645--cambridge-failed" target="_blank">The Record: Feb 22 2011</a><br />
+  <br />
+  Cambridge Mayor Doug Craig is the last person at the regional horseshoe who should be talking about what&#8217;s best for transit.<br />
+  <br />
+  Under Cambridge leadership, transit was neglected to a point beyond stagnation and was actually losing ridership. Since the region took over, ridership in Cambridge has continuously improved, but still has a long way<br />
+  to go.<br />
+  <br />
+  Originally intended as a significant transit upgrade for Kitchener and Waterloo&#8217;s now-overcrowded central transit corridor, the rapid transit study was expanded to see if Cambridge&#8217;s inclusion was justifiable. Over five years later, we now have ten options which all include Cambridge: one light rail transit, one bus rapid transit, and eight mixes of both. Instead of appreciation for Cambridge&#8217;s inclusion in rapid transit, however, Mayor Craig is now throwing a fit, attacking regional staff, and talking out of both sides of his mouth.<br />
+  <br />
+  He blasts LRT, insisting that it&#8217;s too expensive and that rapid buses are a superior choice. But now that the cheapest option is one that still includes LRT for K-W, suddenly buses aren&#8217;t as good as trains! He now also complains that buses won&#8217;t generate the same economic development. He supports &#8220;superior&#8221; buses, while at the same time complaining that K-W is getting a better system!<br />
+  <br />
+  With his self-contradictory statements, it&#8217;s clear what Mayor Craig&#8217;s real position is. With a ridership level still one-fourth of K-W&#8217;s, doubling the LRT price tag to include Cambridge is not realistic. So now in the interest of &#8220;fairness&#8221;, he proposes K-W settle with an inadequate bus system which will be over capacity in less than two decades, requiring a disruptive multi-billion dollar conversion to LRT.<br />
+  <br />
+  Cambridge leaders have failed at transit and now Mayor Craig plans to waste our money and hold K-W back. You might think it would be until Cambridge catches up, but now he&#8217;s even opposing this year&#8217;s improvements to regular transit.<br />
+  <br />
+  Paul Cyr<br />
+  Kitchener
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  		</div>
+  	</div>
+  	
+  	<hr />
+  </li>
+  <!-- BEGIN TEMPLATE: post_thanks_box -->
+  <li class="postbit postbitim" id="post_thanks_box_26597" style="display:none">
+  	
+  </li> 
+  <!-- END TEMPLATE: post_thanks_box -->
+  <!-- END TEMPLATE: postbit -->
+  <!-- END TEMPLATE: postbit_wrapper --><!-- BEGIN TEMPLATE: postbit_wrapper -->
+  <!-- BEGIN TEMPLATE: postbit -->
+  <li class="postbit postbitim postcontainer" id="post_27564" style="border:none">
+                                  <div style="text-align:right;"><span class="nodecontrols" style="font-size: 10px;">
+                                          
+                                                  <a name="post27564" href="/web/20120403031108/http://www.wonderfulwaterloo.com/showthread.php?t=1026&amp;s=b1aa64c01d9cc102e051b6f8ff64e570&amp;p=27564#post27564" class="postcounter">3</a><a id="postcount27564" name="3"></a>
+                                          
+                                  </span></div>
+  
+  	<div class="postbody" style="border:none; padding-top:0px; padding-bottom:10px;">
+  		
+  		<div class="postrow">
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_27564">
+  				<blockquote class="postcontent restore">
+  					<b><font color="blue"><font size="4">People WILL Leave Their Cars For Rapid Transit</font></font></b><br />
+  <br />
+  Why people will leave their cars by the time rapid transit is running:<br />
+  <br />
+  1. The affordability of the personal auto. The car has been affordable because of the low price of energy (Petro and Hyrdo) hence manufacturing a car and fueling a car was extremely cheap. Now we can see the average price of buying and maintaining a car rising over the next 20 years the affordability of a car will out grow the lower-middle class. We can see a trend that will be showing itself through the next 40 years following the depletion of the worlds oil reserves (<a href="/web/20120403031108/http://bit.ly/fNhmAk" target="_blank">http://bit.ly/fNhmAk</a>). The higher cost of the personal car will move people to the much more affordable public transportation system. The electric car will not be affordable for the same reasons.<br />
+  <br />
+  2. Traffic Jams and the commute. With the social stigma that you have to drive to work traffic jams will worsen. As people see the rapid transit just zoom by the traffic jams people will start to move to the rapid transit system.<br />
+  <br />
+  3. Parking. Parking will become more and more difficult and more and more expensive. With an effective rapid transit plan the cities will have to implement paid parking. And because eventually parking will take upwards of 5 minutes to find a spot and cost about the same as a ticket on the new rapid transit system people will find it much more convenient to take rapid transit than to have to deal with their car.<br />
+  <br />
+  <a href="/web/20120403031108/http://www.wonderfulwaterloo.com/member.php/620-bzmwillemsen" target="_blank">Brett Willemsen</a><br />
+  Kitchener<br />
+  <br />
+  <br />
+  <b><font color="blue"><font size="4">Transportation Shouldn't Be A Political Issue</font></font></b><br />
+  <br />
+  As The Region continues to host sessions designed to better inform the residents of Cambridge, Kitchener and Waterloo about their options for the construction of a future rapid transit system, an alternative consensus appears to be emerging, one diametrically opposed to the assumption that rapid buses (BRT) for all three cities is the best option.  This new alternative states that full light rail transit (LRT) should be implemented across the entire region in the first phase of construction, rather than building trains in Kitchener and Waterloo first, and in Cambridge in a second phase of the project.  In a recent article by The Record's Terry Pender, "Many at Cambridge transit session favour light rail," Cambridge resident Stanley Pommer was quoted as saying: "I think [full light rail from Waterloo to Cambridge] is the way to go."  Pommer, 84, likes the fact that light rail would not be as adversely affected by increasing gas prices as buses, pointing to Calgary as a example of the right way to implement an LRT system.  <br />
+  <br />
+  While it is true that Calgary is often considered to boast North America's best (and most well-used) LRT system, it is interesting that Alberta's largest city is now being evoked as an example of the right way to implement good rapid transit by detractors of the Region's preferred LRT/BRT hybrid options.  Missing from the assertion that our own region should take a more Calgary-like approach to rapid transit by building full LRT now is the recognition that in Calgary's case, light rail has experienced a slow, deliberate process of implementation, which began first in its most dense and urban areas, but which has since methodically expanded over time to incorporate more and more of the city (and its suburbs) as ridership and transit orientation continued to develop beyond its central core. (Calgary has recently passed a new 30 year transit development plan, demonstrating their clear understanding that transportation is not a political issue, but rather a matter of strong vision and good common sense.) The fact that our own Regional Council has made the initial construction of BRT in Cambridge a priority from the outset (often lost is the fact that Cambridge will receive rapid service well before either Kitchener or Waterloo according to the currently planned implementation process) is a reflection of the Region's commitment to extending full LRT to Cambridge, when the level of service provided by light rail is warranted, as is currently the case between Uptown Waterloo and Downtown Kitchener, and potentially further north and south along the proposed line as well. <br />
+  <br />
+  If we are truly serious about our desire to follow the good example that Calgary offers, we will implement the technology which is best-suited to each individual area within our own region, we will continue to build ridership along corridors which we have identified as keys to future transit oriented growth, and we will remain firmly committed to a long term approach to efficiently and effectively move this region away from car-dependent, gridlock-destined patterns toward more sustainable, cost-effective transportation solutions.  Many of the currently proposed LRT/BRT hybrid options for a regional rapid transit system clearly follow this pragmatic (and Calgary inspired) model for transportation and growth management.<br />
+  <br />
+  Branden Wesseling<br />
+  <br />
+  <br />
+  <b><font color="blue"><font size="4">Generational Divide Is Exactly Why We Should Build LRT</font></font></b><br />
+  <br />
+  A common theme in the LRT debate is that many students and young professionals support it, while many from the older generation are opposed. I believe this generational divide provides a compelling reason to invest in LRT now. The transportation networks we build and maintain today are going to leave an impression for the next 50-100 years, not just the next 15. We need the foresight to build something that can be used not only by this emerging generation, but by their children as well.<br />
+  <br />
+  Today's young adults are more likely to have a cellphone than a driver's license. This presents us with a unique opportunity to invest in a rapid transit system that will enable these young professionals to choose lifestyles that do not require a personal vehicle. The alternative is continuing to use more of our tax dollars to support roads for single occupancy vehicles than viable and sustainable alternatives, forcing this next generation to make the same poor transportation choices as their parents. Let's break the cycle of car-dependency here and now.<br />
+  <br />
+  Mike Boos<br />
+  Kitchener
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  		</div>
+  	</div>
+  	
+  	<hr />
+  </li>
+  <!-- BEGIN TEMPLATE: post_thanks_box -->
+  <li class="postbit postbitim" id="post_thanks_box_27564" style="display:none">
+  	
+  </li> 
+  <!-- END TEMPLATE: post_thanks_box -->
+  <!-- END TEMPLATE: postbit -->
+  <!-- END TEMPLATE: postbit_wrapper --><!-- BEGIN TEMPLATE: postbit_wrapper -->
+  <!-- BEGIN TEMPLATE: postbit -->
+  <li class="postbit postbitim postcontainer" id="post_29147" style="border:none">
+                                  <div style="text-align:right;"><span class="nodecontrols" style="font-size: 10px;">
+                                          
+                                                  <a name="post29147" href="/web/20120403031108/http://www.wonderfulwaterloo.com/showthread.php?t=1026&amp;s=b1aa64c01d9cc102e051b6f8ff64e570&amp;p=29147#post29147" class="postcounter">4</a><a id="postcount29147" name="4"></a>
+                                          
+                                  </span></div>
+  
+  	<div class="postbody" style="border:none; padding-top:0px; padding-bottom:10px;">
+  		
+  		<div class="postrow">
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_29147">
+  				<blockquote class="postcontent restore">
+  					<b><font size="4"><font color="blue">Anti-LRT meeting at the Waterloo Adult Recreation Center</font></font></b><br />
+  <br />
+  Brenda,<br />
+  <br />
+  Are you serious?! How can a city as progressive as Waterloo with our 2 Universities and World Class High Tech Organizations be so backwards with this simple decision.<br />
+  <br />
+  LRT will provide the region with public transit not only for today but for the future with most of the cost being absorbed by our Federal and Provincial Government.<br />
+  <br />
+  What exactly is your solution? Are you pro urban sprawl?<br />
+  <br />
+  If you move forward with your public &#8216;stance&#8217; Friday you will not only lose our family&#8217;s vote, you will have turned an ally into an enemy.<br />
+  <br />
+  Waterloo has so much to gain here at such a little cost.<br />
+  <br />
+  Please keep an open mind and reconsider this thoughtless and selfish act.<br />
+  <br />
+  Jack Dunsford
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  		</div>
+  	</div>
+  	
+  	<hr />
+  </li>
+  <!-- BEGIN TEMPLATE: post_thanks_box -->
+  <li class="postbit postbitim" id="post_thanks_box_29147" style="display:none">
+  	
+  </li> 
+  <!-- END TEMPLATE: post_thanks_box -->
+  <!-- END TEMPLATE: postbit -->
+  <!-- END TEMPLATE: postbit_wrapper --><!-- BEGIN TEMPLATE: postbit_wrapper -->
+  <!-- BEGIN TEMPLATE: postbit -->
+  <li class="postbit postbitim postcontainer" id="post_29148" style="border:none">
+                                  <div style="text-align:right;"><span class="nodecontrols" style="font-size: 10px;">
+                                          
+                                                  <a name="post29148" href="/web/20120403031108/http://www.wonderfulwaterloo.com/showthread.php?t=1026&amp;s=b1aa64c01d9cc102e051b6f8ff64e570&amp;p=29148#post29148" class="postcounter">5</a><a id="postcount29148" name="5"></a>
+                                          
+                                  </span></div>
+  
+  	<div class="postbody" style="border:none; padding-top:0px; padding-bottom:10px;">
+  		
+  		<div class="postrow">
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_29148">
+  				<blockquote class="postcontent restore">
+  					<b><font size="4"><font color="blue">Re: LRT debate goes viral, Waterloo Chronicle, April 20, 2011</font></font></b><br />
+  <br />
+  Anyone who read Ms. Haworth&#8217;s email to her anti-LRT group knows that what she told the Waterloo Chronicle was outright false.  She claims she did not intend for it to be an anti-LRT rally, yet the subject of the email was: &#8220;Anti-LRT meeting at the Waterloo Adult Recreation Center...&#8221;  The email itself states that, &#8220;Waterloo Mayor Brenda Halloran has said that she wants to take a public stance against LRT... Consequently, residents of uptown have planned an anti-LRT rally...&#8221;  This directly contradicts what Ms. Haworth told the Waterloo Chronicle.  Additionally, Mayor Halloran has said that she never made such a statement.  Surprisingly, Waterloo Chronicle chose not to print any content of the email which started this mess.<br />
+  <br />
+  Ms. Haworth then attacks those who blew the whistle on her saying, &#8220;the pro-LRT people have had their rally in December and we didn&#8217;t interfere with it, and now they&#8217;ve interfered with this.&#8221;  In fact, John Shortreed, a member of Taxpayers for Sensible Transit, did interfere in December&#8217;s Rally for Rails by distributing anti-LRT material; no TriTAG organizer stopped him.  Ms. Haworth continues, &#8220;this was our chance for a bunch to get together and TriTAG has interfered with that through tricks.&#8221;  It was Ms. Haworth who first sent out the dishonest email to rally the anti-LRT crowd, which she now denies.  TriTAG&#8217;s only action was messaging light rail supporters about her email, which they fully quoted.<br />
+  <br />
+  Ms. Haworth is not the only one guilty of misrepresenting what happened.  Given the Waterloo Chronicle&#8217;s printing of Ms. Haworth&#8217;s misinformation, and her baseless and hypocritical attack on TriTAG, I imagined I would read a very strong response from them.  Except there was no response printed.  Waterloo Chronicle not only failed to fact-check Ms. Haworth, but printed her attacks on another group, without printing their response.  This is completely inexcusable on the part of the Waterloo Chronicle and only serves to further damage the debate.  Waterloo Chronicle owes TriTAG and its readers an apology.<br />
+  <br />
+  Paul Cyr<br />
+  Kitchener
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  		</div>
+  	</div>
+  	
+  	<hr />
+  </li>
+  <!-- BEGIN TEMPLATE: post_thanks_box -->
+  <li class="postbit postbitim" id="post_thanks_box_29148" style="display:none">
+  	
+  </li> 
+  <!-- END TEMPLATE: post_thanks_box -->
+  <!-- END TEMPLATE: postbit -->
+  <!-- END TEMPLATE: postbit_wrapper --><!-- BEGIN TEMPLATE: postbit_wrapper -->
+  <!-- BEGIN TEMPLATE: postbit -->
+  <li class="postbit postbitim postcontainer" id="post_29876" style="border:none">
+                                  <div style="text-align:right;"><span class="nodecontrols" style="font-size: 10px;">
+                                          
+                                                  <a name="post29876" href="/web/20120403031108/http://www.wonderfulwaterloo.com/showthread.php?t=1026&amp;s=b1aa64c01d9cc102e051b6f8ff64e570&amp;p=29876#post29876" class="postcounter">6</a><a id="postcount29876" name="6"></a>
+                                          
+                                  </span></div>
+  
+  	<div class="postbody" style="border:none; padding-top:0px; padding-bottom:10px;">
+  		
+  		<div class="postrow">
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_29876">
+  				<blockquote class="postcontent restore">
+  					<b><font size="4"><font color="blue">Enough Opinion, Time for Facts</font></font></b><br />
+  <br />
+  To whom it may concern,<br />
+  <br />
+  Today marks the third day The Record has devoted its front page to slicing up its LRT public opinion poll, relegating any facts about the project itself to a narrow sidebar on page 9.<br />
+  <br />
+  Decisions about transportation infrastructure are not popularity contests.<br />
+  <br />
+  Suppose group of engineers recommended, after years of study, that a new bridge should be built with steel girders, and that wood construction would not meet the structural needs of the project. Would it be responsible of The Record to devote its coverage of the story to a poll concluding that 30% of residents thought we should use wood anyway? Would they exclusively interview advocates on each side, rather than talking to the professionals who made the recommendations?<br />
+  <br />
+  For the future well-being of our community I should hope not, yet this is how The Record has conducted itself to date on LRT.<br />
+  <br />
+  I hope in the coming weeks The Record will make an effort to better-inform us, its readers, about exactly why Light Rail is being recommended by the Region's professional planners, instead of repeatedly telling us about our own opinions.<br />
+  <br />
+  Sincerely,<br />
+  <br />
+  Douglas Gregory<br />
+  Kitchener<br />
+  <br />
+  <br />
+  <b><font size="4"><font color="blue">Towards A Great Region</font></font></b><br />
+  <br />
+  We have a very big decision to make in the weeks to come -- whether to invest in light rail or rapid buses to service the central transit spine of our region.  This decision will shape how our communities grow for decades.  Experts agree that rail will foster quality urban growth, attract greater ridership, and provide stronger long-term solutions to increasing congestion, rising gas prices, and diminishing reserves of land on which to build new houses, offices and shops.  Rapid buses will do less to shape our urban areas, but come with a smaller initial price tag.  On the surface, this decision is about money.  Can we afford light rail, and will enough people use it to justify the additional cost that accompanies the best option under review.  However, there is something far greater at stake than the $700 total 10-year cost - the price of a single tank of gas per year - to each regional household that light rail will bring.  Our collective psyche is under interrogation, and the results of our rapid transit debate will go a long way to determining how we feel about who we are and where we are going.  Beyond that, our rapid transit debate will go a long way to providing future generations with a framework for how to value this region, and how to understand their place within it.<br />
+  <br />
+  The real question then becomes, do we value ourselves enough to make the kind of practical, necessary long-term investment in our collective future that light rail represents?  Or are we no longer capable of anything but the worst kind of cynicism, even when we evaluate our own worth?  Bus rapid transit is a declaration of our self-defeating uncertainty of our own meaningful future.  Light rail is a declaration that this region can be great, that our future is worth caring about, and that we have a big responsibility to build a better and stronger Waterloo Region.<br />
+  <br />
+  Branden Wesseling
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  		</div>
+  	</div>
+  	
+  	<hr />
+  </li>
+  <!-- BEGIN TEMPLATE: post_thanks_box -->
+  <li class="postbit postbitim" id="post_thanks_box_29876" style="display:none">
+  	
+  </li> 
+  <!-- END TEMPLATE: post_thanks_box -->
+  <!-- END TEMPLATE: postbit -->
+  <!-- END TEMPLATE: postbit_wrapper --><!-- BEGIN TEMPLATE: postbit_wrapper -->
+  <!-- BEGIN TEMPLATE: postbit -->
+  <li class="postbit postbitim postcontainer" id="post_30112" style="border:none">
+                                  <div style="text-align:right;"><span class="nodecontrols" style="font-size: 10px;">
+                                          
+                                                  <a name="post30112" href="/web/20120403031108/http://www.wonderfulwaterloo.com/showthread.php?t=1026&amp;s=b1aa64c01d9cc102e051b6f8ff64e570&amp;p=30112#post30112" class="postcounter">7</a><a id="postcount30112" name="7"></a>
+                                          
+                                  </span></div>
+  
+  	<div class="postbody" style="border:none; padding-top:0px; padding-bottom:10px;">
+  		
+  		<div class="postrow">
+  				
+  				
+  		<div class="content">
+  			<div id="post_message_30112">
+  				<blockquote class="postcontent restore">
+  					<b><font size="4"><font color="#0000FF">Take A Leadership Role </font></font></b><br />
+  <br />
+  Dear Counselor,<br />
+  <br />
+  I would like to ask you to take a leadership role for our region and approve Light Rail this June. With all due respect to those requesting a referendum, federal and provincial funds won't stay on the table indefinitely, and they aren't indexed to inflation, so every month of delay means our local share of costs goes up.  I want to see the Region acting with a vision for the future. I have seen a lot of politicians passing the buck on leadership regarding rapid transit.<br />
+  <br />
+  I believe the LRT system proposed for our Region promotes a vision of a place I will want to live in twenty years. LRT, more so than other options, will attract exciting new industry, culture, and people to the Region, and we can accomplish this growth without giving up the beautiful country/urban mix we currently enjoy.<br />
+  <br />
+  I am curious how many LRT skeptics have themselves ridden light rail of the type under proposal. Electric light rail is smoother and more comfortable than a bus. It's faster than streetcars mixed in traffic, quieter than heavier trains and subways, and it compares favourably in every possible way against sitting in a car in a traffic jam.<br />
+  <br />
+  BRT makes an OK second choice, but a short-sighted choice for the long term. My understanding is that the only Canadian bus rapid transit system which has been operating for a decade (Ottawa BRT), is now planned to be replaced with a Light Rail system, at great cost and disruption to their saturated traffic network.<br />
+  <br />
+  My experience is that LRT positively changes how you can get around in a city, particularly as a visitor, but also as a resident.  I recently spent a week touring Germany, and their integrated train systems are amazing. I have told many friends about my adventures exploring Kassel, Germany by light rail, including a beautiful trip through snow-covered woods which reminded me of Waterloo Park. I lived in Boston for a year, and when I could take the Green Line (LRT), I would always rather do so than drive, take a cab, or take the bus.  I've found cities with light rail easier to navigate than cities relying on bus transit- particularly cities that don't follow a grid (such as ours), where you can orient yourself by where the train goes.  Businesses make an effort to direct you from the nearest train stop; as a tourist, it's easier to hop on and off a frequent train, versus most of the city buses I've taken. Taking the train is a qualitatively different experience than getting around by a bus in traffic.<br />
+  <br />
+  I invite you to take a look at our Region with visitor's eyes; perhaps directing a business traveler from a hotel near Connestoga Mall to Bauer Kitchen. When they get home, will they speak favourably of driving on King and Weber Streets?  What if instead their trip were a hop on a train, through our wonderful Waterloo Park, over Silver Lake and into uptown?  They would look forward to returning!<br />
+  <br />
+  We're as large as Calgary and Edmonton were when they started their successful light rail systems. In ten years, we could be an urban/rural gem where new tech startups flourish in a walkable, creative mix; where Google engineers return to Mountainview telling their friends about adventures at Oktoberfest, our urban parklands, and our world-class symphony; and where our smart, managed growth translates into plaudits and possibly additional funding from Queens Park and Ottawa for the next phase of rail expansion.<br />
+  <br />
+  Thank you for your time,<br />
+  <br />
+  Daniel Allen<br />
+  Kitchener
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  		</div>
+  	</div>
+  	
+  	<hr />
+  </li>
+  <!-- BEGIN TEMPLATE: post_thanks_box -->
+  <li class="postbit postbitim" id="post_thanks_box_30112" style="display:none">
+  	
+  </li> 
+  <!-- END TEMPLATE: post_thanks_box -->
+  <!-- END TEMPLATE: postbit -->
+  <!-- END TEMPLATE: postbit_wrapper --><!-- BEGIN TEMPLATE: postbit_wrapper -->
+  <!-- BEGIN TEMPLATE: postbit -->
+  <li class="postbit postbitim postcontainer" id="post_30270" style="border:none">
+                                  <div style="text-align:right;"><span class="nodecontrols" style="font-size: 10px;">
+                                          
+                                                  <a name="post30270" href="/web/20120403031108/http://www.wonderfulwaterloo.com/showthread.php?t=1026&amp;s=b1aa64c01d9cc102e051b6f8ff64e570&amp;p=30270#post30270" class="postcounter">8</a><a id="postcount30270" name="8"></a>
+                                          
+                                  </span></div>
+  
+  	<div class="postbody" style="border:none; padding-top:0px; padding-bottom:10px;">
+  		
+  		<div class="postrow">
+  				
+  				
+  					
+  				
+  		<div class="content">
+  			<div id="post_message_30270">
+  				<blockquote class="postcontent restore">
+  					<b><font size="4"><font color="#0000FF">Outhit's Article On Campaign Promises</font></font></b><br />
+  Received May 31, 2011<br />
+  <br />
+  To whom it may concern,<br />
+  <br />
+  As a daily reader of The Record, I am writing in regard to Jeff Outhit's front-page article "Anti-Rail Group Fears Broken Election Promises" from today's edition. This article presents a deliberately skewed perspective inappropriate for news reporting, as I demonstrate below:<br />
+  <br />
+  Regional Councillor Jane Mitchell publicly released the leading question she received from Mr. Outhit in preparing for this article, along with her response, demonstrating that no promise would be broken when she votes on LRT. (link: <a href="/web/20120403031108/http://janemitchellblog.wordpress.com/2011/05/30/my-campaign-promise-on-rapid-transit/" target="_blank">http://janemitchellblog.wordpress.co...rapid-transit/</a>). Although Outhit had this information, it is nowhere in the article.<br />
+  <br />
+  Nor does the article include any information on what, exactly, was promised by any of the other seven councilors who Mr. Outhit (behind the shield of Ruth Haworth) accuses of impending betrayal of voter's trust.<br />
+  <br />
+  In a news article purportedly about campaign promises, these are glaring omissions.<br />
+  <br />
+  Glaring, too, is the choice to compare prices in 2009 dollars to those in 2014 dollars, without conversion to a common currency, making the latter number appear artificially inflated. Facts about the decrease in cost are consistently framed in the article by "he said," in an attempt to cast these figures as the opinion of an advocate - even though they are published in a Region of Waterloo report that was provided to Mr. Outhit (the exchange is published here: <a href="/web/20120403031108/http://www.wonderfulwaterloo.com/showthread.php?t=219&amp;p=30121#post30121" target="_blank">http://www.wonderfulwaterloo.com/sho...0121#post30121</a>).<br />
+  <br />
+  It is clear from these choices that Mr. Outhit did not write the article to inform, but rather to inspire fear and outrage.<br />
+  <br />
+  This is one more example of biased reporting in Jeff Outhit's long-running campaign to use The Record as a soapbox for his own political views on transit. This conduct is unbecoming of any reporter, and especially so of a respectable and informative paper like The Record.<br />
+  <br />
+  I am prepared to file an Ontario Press Council complaint if a retraction, or a factual article comparing exactly what was promised to what has been done to date, is not published in response to this piece of yellow journalism.<br />
+  <br />
+  Further, I would like to suggest that Jeff Outhit be removed from the transit file. Although he writes exceedingly well, he does not show the professional integrity required to separate his personal feelings from the facts on this matter.<br />
+  <br />
+  Sincerely,<br />
+  <br />
+  Douglas Gregory<br />
+  Kitchener
+  				</blockquote>
+  			</div>
+  
+  			
+  
+  
+  		</div>
+  			
+  		</div>
+  	</div>
+  	
+  	<hr />
+  </li>
+  <!-- BEGIN TEMPLATE: post_thanks_box -->
+  <li class="postbit postbitim" id="post_thanks_box_30270" style="display:none">
+  	
+  </li> 
+  <!-- END TEMPLATE: post_thanks_box -->
+  <!-- END TEMPLATE: postbit -->
+  <!-- END TEMPLATE: postbit_wrapper -->
+  		</ol>
+                  <div class="separator"></div>
+  
+  	
+  </div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <!-- BEGIN TEMPLATE: footer -->
+  
+  <div style="margin-bottom:6px;">
+  
+  <div style="clear: left">
+    <!-- BEGIN TEMPLATE: ad_footer_start -->
+   
+  <!-- END TEMPLATE: ad_footer_start -->
+    <!-- BEGIN TEMPLATE: ad_global_above_footer -->
+   
+  <!-- END TEMPLATE: ad_global_above_footer -->
+  </div>
+  
+  </div>
+  
+  
+  <div id="footer" class="floatcontainer footer">
+  
+  	<form action="/web/20120403031108/http://www.wonderfulwaterloo.com/forum.php" method="get" id="footer_select" class="footer_select">
+  
+  		
+  			<select name="styleid" onchange="switch_id(this, 'style')">
+  				<optgroup label="Quick Style Chooser"><option class="hidden"></option></optgroup>
+  				
+  									
+  					<!-- BEGIN TEMPLATE: option -->
+  <option value="2" class="" >-- Default Style</option>
+  <!-- END TEMPLATE: option --><!-- BEGIN TEMPLATE: option -->
+  <option value="66" class="" >---- testingad</option>
+  <!-- END TEMPLATE: option --><!-- BEGIN TEMPLATE: option -->
+  <option value="17" class="" >---- QRLeft</option>
+  <!-- END TEMPLATE: option -->
+  										
+  				
+  				
+  			</select>	
+  		
+  		
+  		
+  	</form>
+  
+  	<ul id="footer_links" class="footer_links">
+  		<li><a href="/web/20120403031108/http://www.wonderfulwaterloo.com/sendmessage.php?s=b1aa64c01d9cc102e051b6f8ff64e570" rel="nofollow" accesskey="9">Contact Us</a></li>
+  		<li><a href="/web/20120403031108/http://www.wonderfulwaterloo.com/">Home</a></li>
+  		
+  		
+  		<li><a href="/web/20120403031108/http://www.wonderfulwaterloo.com/archive/index.php?s=b1aa64c01d9cc102e051b6f8ff64e570">Archive</a></li>
+  		
+  		
+  		
+  		<li><a href="/web/20120403031108/http://www.wonderfulwaterloo.com/showthread.php?t=1026#top" onclick="document.location.hash='top'; return false;">Top</a></li>
+  	</ul>
+  	
+  	
+  	
+  	
+  	<script type="text/javascript">
+  	<!--
+  		// Main vBulletin Javascript Initialization
+  		vBulletin_init();
+  	//-->
+  	</script>
+          
+  </div>
+  </div> <!-- closing div for body_wrapper -->
+  
+  <div class="below_body">
+  <div id="footer_time" class="shade footer_time">All times are GMT -4. The time now is <span class="time">11:11 PM</span>.</div>
+  
+  <div id="footer_copyright" class="shade footer_copyright">
+  	<!-- Do not remove this copyright notice -->
+  	<!--VBSEO_COPYRIGHT-->
+  	Powered by <a href="/web/20120403031108/http://www.vbulletin.com/" id="vbulletinlink" style="color:#A5A5A5;">vBulletin&trade;</a> Version 4.1.11 <br />Copyright &copy; 2012 vBulletin Solutions, Inc. All rights reserved.
+  	<!-- Do not remove this copyright notice -->
+  </div>
+  
+  <div id="footer_morecopyright" class="shade footer_morecopyright">
+  	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+  	<img src="/web/20120403031108im_/http://www.wonderfulwaterloo.com/cron.php?s=b1aa64c01d9cc102e051b6f8ff64e570&amp;rand=1333422667" alt="" width="1" height="1" border="0" />
+  	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+  	
+  </div>
+  <!-- BEGIN TEMPLATE: ad_footer_end -->
+  
+  <!-- END TEMPLATE: ad_footer_end --> 
+  
+  </div>
+  <!-- END TEMPLATE: footer -->
+  
+  </body>
+  </html>
+  <!-- END TEMPLATE: SHOWTHREAD -->
+  
+  
+  
+  
+  <!--
+       FILE ARCHIVED ON 3:11:08 Apr 3, 2012 AND RETRIEVED FROM THE
+       INTERNET ARCHIVE ON 8:49:07 Aug 25, 2014.
+       JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+  
+       ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+       SECTION 108(a)(3)).
+  -->
