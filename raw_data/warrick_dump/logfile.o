@@ -1,0 +1,33 @@
+HTTP/1.1 302 Moved Temporarily
+Date: Tue, 26 Aug 2014 04:12:52 GMT
+Server: grizzly/1.9.8
+Location: http://web.archive.org/web/20140821074942/http://www.wonderfulwaterloo.com/memberlist.php?s=87d6187b378dba935455b283f9e56a09
+Vary: Accept-Datetime
+Link: <http://www.wonderfulwaterloo.com/memberlist.php?s=87d6187b378dba935455b283f9e56a09>;rel="original",<http://web.archive.org/web/20140821074942/http://www.wonderfulwaterloo.com/memberlist.php?s=87d6187b378dba935455b283f9e56a09>;rel="memento first last"; datetime="Thu, 21 Aug 2014 07:49:42 GMT"
+Content-Type: text/plain; charset=iso-8859-1
+Content-Length: 0
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Server: Tengine/2.0.3
+Date: Tue, 26 Aug 2014 04:12:53 GMT
+Content-Type: text/html;charset=utf-8
+Content-Length: 38251
+Set-Cookie: wayback_server=53; Domain=archive.org; Path=/; Expires=Thu, 25-Sep-14 04:12:53 GMT;
+Memento-Datetime: Thu, 21 Aug 2014 07:49:42 GMT
+Link: <http://www.wonderfulwaterloo.com/memberlist.php?s=87d6187b378dba935455b283f9e56a09>; rel="original", <http://web.archive.org/web/timemap/link/http://www.wonderfulwaterloo.com/memberlist.php?s=87d6187b378dba935455b283f9e56a09>; rel="timemap"; type="application/link-format", <http://web.archive.org/web/http://www.wonderfulwaterloo.com/memberlist.php?s=87d6187b378dba935455b283f9e56a09>; rel="timegate", <http://web.archive.org/web/20140821074942/http://www.wonderfulwaterloo.com/memberlist.php?s=87d6187b378dba935455b283f9e56a09>; rel="first last memento"; datetime="Thu, 21 Aug 2014 07:49:42 GMT"
+X-Archive-Guessed-Charset: cp1252
+X-Archive-Orig-server: Apache/2.2.23 (Unix) mod_ssl/2.2.23 OpenSSL/1.0.0-fips mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+X-Archive-Orig-pragma: private
+X-Archive-Orig-x-powered-by: PHP/5.3.22
+X-Archive-Orig-set-cookie: bb_lastactivity=0; expires=Fri, 21-Aug-2015 07:49:42 GMT; path=/
+X-Archive-Orig-cache-control: private
+X-Archive-Orig-date: Thu, 21 Aug 2014 07:49:42 GMT
+X-Archive-Orig-content-type: text/html; charset=ISO-8859-1
+X-Archive-Orig-connection: close
+X-Archive-Wayback-Perf: [IndexLoad: 45, IndexQueryTotal: 45, RobotsFetchTotal: 1, RobotsRedis: 1, RobotsTotal: 1, Total: 362, WArcResource: 309]
+Set-Cookie: wb_total_perf=362; Expires=Tue, 26-Aug-2014 04:13:53 GMT; Path=/web/20140821074942/http://www.wonderfulwaterloo.com/memberlist.php
+X-Archive-Playback: 1
+X-Page-Cache: MISS
+Connection: keep-alive
+
