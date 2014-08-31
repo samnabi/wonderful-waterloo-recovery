@@ -1,21 +1,22 @@
 Information to extract from raw data
 ====================
 
-    thread
-	    thread ID
+    thread ID
+    	parent forum
 	    title
 	    description
 	    keywords
 	    canonical URL
 	    total number of posts
-	    post
-		    post ID
-		    user
+	    each post
+	    	universal post ID
+	    	post number within thread
+		    author
 			    name
 			    avatar
 			    title
 			    extra info
-				    from
+				    where from
 				    member since
 				    number of posts
 		    content
