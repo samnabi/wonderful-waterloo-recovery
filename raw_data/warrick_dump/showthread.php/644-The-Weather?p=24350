@@ -1,2278 +1,2278 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-  <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" id="vbulletin_html">
-  <head>
-  
-  <script type="text/javascript" src="/static/js/analytics.js" ></script>
-  <link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
-  
-  
-  
-  
-  	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-  <meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.wonderfulwaterloo.com" />
-    <meta name="generator" content="vBulletin 4.1.1" />
-  
-  
-  
-  
-  
-  
-  
-  <script type="text/javascript" src="/web/20110209235054js_/http://ajax.googleapis.com/ajax/libs/yui/2.7.0/build/yuiloader-dom-event/yuiloader-dom-event.js?v=411"></script>
-  <script type="text/javascript" src="/web/20110209235054js_/http://ajax.googleapis.com/ajax/libs/yui/2.7.0/build/connection/connection-min.js?v=411"></script>
-  <script type="text/javascript">
-  <!--
-  	var SESSIONURL = "";
-  	var SECURITYTOKEN = "guest";
-  	var IMGDIR_MISC = "images/misc";
-  	var IMGDIR_BUTTON = "images/buttons";
-  	var vb_disable_ajax = parseInt("0", 10);
-  	var SIMPLEVERSION = "411";
-  	var BBURL = "/web/20110209235054/http://www.wonderfulwaterloo.com";
-  	var LOGGEDIN = 0 > 0 ? true : false;
-  	var THIS_SCRIPT = "showthread";
-          var RELPATH = "showthread.php/644-The-Weather?p=24350";
-          var PATHS = {forum : ""}
-  // -->
-  </script>
-  <script type="text/javascript" src="/web/20110209235054js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin-core.js?v=411"></script>
-  
-  
-  
-  	<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2" />
-  	
-  		<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo - General Discussion - RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2&amp;forumids=23" />
-  	
-  
-  
-  
-  	<link rel="stylesheet" type="text/css" href="/web/20110209235054cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1297251586&amp;td=ltr&amp;sheet=bbcode.css,editor.css,popupmenu.css,reset-fonts.css,vbulletin.css,vbulletin-chrome.css,vbulletin-formcontrols.css," />
-  
-  	<!--[if lt IE 8]>
-  	<link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1297251586&amp;td=ltr&amp;sheet=popupmenu-ie.css,vbulletin-ie.css,vbulletin-chrome-ie.css,vbulletin-formcontrols-ie.css,editor-ie.css" />
-  	<![endif]-->
-  
-   <script type="text/javascript" src="/web/20110209235054js_/http://www.wonderfulwaterloo.com/clientscript/post_thanks.js"></script>
-  
-  <style type="text/css">
-  .postbitlegacy .postfoot .textcontrols a.post_thanks_button, .postbit .postfoot .textcontrols a.post_thanks_button  {
-  	background: url(/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/buttons/post_thanks.png) no-repeat transparent left;
-  	padding-left: 20px;
-  }
-  .postbitlegacy .postfoot .textcontrols a.post_thanks_button:hover, .postbit .postfoot .textcontrols a.post_thanks_button:hover  {
-  	background: url(/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/buttons/post_thanks-hover.png) no-repeat transparent left;
-  </style>
-   
-  	<meta name="keywords" content="rain, snow, sun, weather, teachers, time, year, days, skills, work, months, week, scheduling, summer, occur, development, professional, july, hours, working, diligently, august, criticize, years, wait, list, australia, moved, college, make, sense, friend, figures, colleges, implemented, obtain, immediately, irrelevant, reference, develop, topic, exist, resist, hard, deadline, extend, ontario, people, applied, question" />
-  	<meta name="description" content="Waterloo Region's Weather 
-  &lt;div align=&quot;center&quot;&gt;&lt;script" />
-  
-  	<title> The Weather</title>
-  	<link rel="canonical" href="showthread.php/644-The-Weather" />
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-  	
-  		<link rel="stylesheet" type="text/css" href="/web/20110209235054cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1297251586&amp;td=ltr&amp;sheet=toolsmenu.css,postlist.css,showthread.css,postbit.css,options.css,attachment.css,poll.css,lightbox.css" />
-  	
-  	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1297251586&amp;td=ltr&amp;sheet=toolsmenu-ie.css,postlist-ie.css,showthread-ie.css,postbit-ie.css,poll-ie.css" /><![endif]-->
-  <link rel="stylesheet" type="text/css" href="/web/20110209235054cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1297251586&amp;td=ltr&amp;sheet=additional.css" />
-   
-  </head>
-  
-  <body>
-  
-  
-  
-  <div class="above_body"> <!-- closing tag is in template navbar -->
-  <div id="header" class="floatcontainer doc_header" >
-  	<div id="toplinks" class="toplinks">
-  		
-  			<ul class="nouser">
-  			
-  				<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/register.php" rel="nofollow">Register</a></li>
-  			
-  				<li>
-  			<script type="text/javascript" src="/web/20110209235054js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_md5.js?v=411"></script>
-  			<form id="navbar_loginform" action="/web/20110209235054/http://www.wonderfulwaterloo.com/login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
-  				<div id="remember" class="remember" style="position:absolute; left:-124px; top:3px">
-  					<label for="cb_cookieuser_navbar">Keep Me Logged In:  <input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" /></label>
-  				</div>
-  				<fieldset id="logindetails" class="logindetails">
-  					<div>
-  					<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/icons/username.png" alt="Username" style="padding-top:2px; padding-right:2px;" /><input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" />
-  					<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/icons/password.png" alt="Password" style="padding-top:2px;" /><input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10" />
-  					<input type="text" class="textbox default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Password" style="display:none;" />
-  					<input type="submit" class="loginbutton" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s" />
-  					</div>
-  				</fieldset>
-  				<input type="hidden" name="s" value="" />
-  				<input type="hidden" name="securitytoken" value="guest" />
-  				<input type="hidden" name="do" value="login" />
-  				<input type="hidden" name="vb_login_md5password" />
-  				<input type="hidden" name="vb_login_md5password_utf" />
-  			</form>
-  			<script type="text/javascript">
-  			YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
-  			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
-  			vB_XHTML_Ready.subscribe(function()
-  			{
-  			//
-  				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
-  				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
-  				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
-  				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
-  			});
-  			
-  			function navbar_username_focus(e)
-  			{
-  			//
-  				var textbox = YAHOO.util.Event.getTarget(e);
-  				if (textbox.value == 'User Name')
-  				{
-  				//
-  					textbox.value='';
-  					textbox.style.color='#303030';
-  				}
-  			}
-  
-  			function navbar_username_blur(e)
-  			{
-  			//
-  				var textbox = YAHOO.util.Event.getTarget(e);
-  				if (textbox.value == '')
-  				{
-  				//
-  					textbox.value='User Name';
-  					textbox.style.color='#828282';
-  				}
-  			}
-  			
-  			function navbar_password_hint(e)
-  			{
-  			//
-  				var textbox = YAHOO.util.Event.getTarget(e);
-  				
-  				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
-  				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
-  				YAHOO.util.Dom.get('navbar_password').focus();
-  			}
-  
-  			function navbar_password(e)
-  			{
-  			//
-  				var textbox = YAHOO.util.Event.getTarget(e);
-  				
-  				if (textbox.value == '')
-  				{
-  					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
-  					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
-  				}
-  			}
-  			</script>
-  				</li>
-  				
-  			</ul>
-  		
-  	</div>
-  	<div style="padding-top: 23px;"><a name="top" href="/web/20110209235054/http://www.wonderfulwaterloo.com/forum.php" class="logo-image"><img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/WW/LogoDec82010.jpg" alt="Wonderful Waterloo - Powered by the Citizens of Waterloo Region" width="100%" /></a></div>
-  	<div class="ad_global_header">
-  		 
-  		 
-  	</div>
-  	<hr />
-  
-  <script type="text/javascript">
-  
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-20199168-1']);
-    _gaq.push(['_setLocalRemoteServerMode']);
-    _gaq.push(['_trackPageview']);
-  
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? '/web/20110209235054/https://ssl' : '/web/20110209235054/http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  
-  </script>
-  
-  </div>
-   
-  <div id="navbar" class="navbar">
-  
-  	<ul id="navtabs" class="navtabs floatcontainer">
-  		
-  	<li>
-  	
-  		<a class="navtab" href="/web/20110209235054/http://www.wonderfulwaterloo.com/content.php">Home</a>
-  	
-  	</li>
-   
-  		
-  			<li class="selected"><a class="navtab" href="/web/20110209235054/http://www.wonderfulwaterloo.com/forum.php">Forum</a>
-  				<ul class="floatcontainer">
-  					
-  					
-  					
-  
-  					
-  					<li class="popupmenu">
-  						<a href="javascript://" class="popupctrl" accesskey="6">Community</a>
-  						<ul class="popupbody popuphover">
-  							
-  							
-  							
-  							
-  								<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/memberlist.php">Member List</a></li>
-  							
-  							
-  							
-  						</ul>
-  					</li>
-  					
-  					
-  					<li class="popupmenu">
-  						<a href="javascript://" class="popupctrl" accesskey="3">Quick Links</a>
-  						<ul class="popupbody popuphover">
-  							
-  							
-  							<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/showgroups.php" rel="nofollow">
-  		
-  			View Site Leaders
-  		
-  	</a></li>
-  							
-  							<li>
-  								<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/forumdisplay.php?do=markread&amp;markreadhash=guest">Mark Forums Read</a>
-  							</li>
-  							
-  							
-  							
-  							
-  							
-  						</ul>
-  					</li>
-  					
-  				</ul>
-  
-  			</li>
-  		
-  		
-   
-  		
-  			<li><a class="navtab" href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=getdaily&amp;contenttype=vBForum_Post" accesskey="2">What's New?</a></li>
-  		
-  		<li class="popupmenu"><a href="javascript://" class="popupctrl navtab" style="background:transparent">About</a><ul class="popupbody popuphover"><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/506-About-Wonderful-Waterloo" target="_self">Welcome</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/misc.php?do=showrules" target="_self">Code Of Conduct</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/727-Wonderful-Waterloo-Urban-Reward-Program" target="_self">Urban Rewards</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/group.php" target="_self">Groups</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/WDriveLogin" target="_self">W: Drive</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/faq.php" target="_self">FAQ</a></li></ul></li><li class="popupmenu"><a href="javascript://" class="popupctrl navtab" style="background:transparent">Calendars</a><ul class="popupbody popuphover"><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/calendar.php?calendarid=1" target="_self">Municipal Events</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/calendar.php?calendarid=2" target="_self">Arts, Culture & Heritage</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/calendar.php?calendarid=3" target="_self">Sports & Recreation</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/calendar.php?calendarid=4" target="_self">Business</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/calendar.php?calendarid=9" target="_self">Entrepreneurship</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/calendar.php?calendarid=6" target="_self">Food Deals</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/calendar.php?calendarid=5" target="_self">Nightlife</a></li></ul></li><li ><a class='navtab' href='/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/206-Maps' target='_self'> Maps</a></li><li ><a class='navtab' href='/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/423-Waterloo-Region-Statistics' target='_self'> Stats</a></li><li ><a class='navtab' href='/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/314-Links' target='_self'> Links</a></li>
-  	</ul>
-  
-  	
-  	<div id="globalsearch" class="globalsearch">
-  		<form action="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=process" method="post" id="navbar_search" class="navbar_search">
-  			
-  			<input type="hidden" name="securitytoken" value="guest" />
-  			<input type="hidden" name="do" value="process" />
-  			<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
-  			<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
-  		</form>
-  		<ul class="navbar_advanced_search">
-  			<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php" accesskey="4">Advanced Search</a></li>
-  		</ul>
-  	</div>
-  	
-  </div>
-  </div><!-- closing div for above_body -->
-  
-  <div class="body_wrapper">
-  
-  <div id="breadcrumb" class="breadcrumb"> 
-          
-  	<ul class="floatcontainer">
-  		<li class="navbithome"><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/index.php" accesskey="1"><img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/navbit-home.png" alt="Home" /></a></li>
-  
-  		
-  	<li class="navbit"><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/forum.php">Forum</a></li>
-   
-  	<li class="navbit"><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/forumdisplay.php/22-General">General</a></li>
-   
-  	<li class="navbit"><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/forumdisplay.php/23-General-Discussion">General Discussion</a></li>
-   
-  		
-  	<li class="navbit lastnavbit"><span> The Weather</span></li>
-   
-  	</ul>
-  	<hr />
-          
-  </div>
-  
-  
-  	<form action="/web/20110209235054/http://www.wonderfulwaterloo.com/profile.php?do=dismissnotice" method="post" id="notices" class="notices">
-  		<input type="hidden" name="do" value="dismissnotice" />
-  		<input type="hidden" name="s" value="" />
-  		<input type="hidden" name="securitytoken" value="guest" />
-  		<input type="hidden" id="dismiss_notice_hidden" name="dismiss_noticeid" value="" />
-  		<input type="hidden" name="url" value="" />
-  		<ol>
-  			<li class="restore" id="navbar_notice_1">
-  	
-  	<center><font style="font-size:15px;">We're a co-operative <b>Waterloo Region</b> based website, with an <a href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/727-Wonderful-Waterloo-Urban-Reward-Program"><b>Urban Reward Program</b></a> designed to boost our downtown cores.<br/> <a href="/web/20110209235054/http://www.wonderfulwaterloo.com/register.php" target="_blank"><b>Register</b></a>
-  		today so you can join the <u>local</u> conversation. To view messages,
-  		select the <a href="/web/20110209235054/http://www.wonderfulwaterloo.com/forum.php"><b>Forum</b></a> you want to visit or check out <a href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=getdaily&amp;contenttype=vBForum_Post"><b>What's New</b></a>.</font></center>
-  </li> 
-  		</ol>
-  	</form>
-  
-  
-  
-  		 
-  		<div id="ad_global_below_navbar"><center>
-  
-  <table>
-    <tr>
-      <th style="padding-right:2px;">
-  <!-- Begin: adBrite, Generated: 2010-12-07 16:54:35  -->
-  <script type="text/javascript">
-  var AdBrite_Title_Color = '0000FF';
-  var AdBrite_Text_Color = '000000';
-  var AdBrite_Background_Color = 'FFFFFF';
-  var AdBrite_Border_Color = 'CCCCCC';
-  var AdBrite_URL_Color = '008000';
-  try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
-  </script>
-  <span style="white-space:nowrap;"><script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="/web/20110209235054/http://ads.adbrite.com/mb/text_group.php?sid=1823469&zs=3436385f3630&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script>
-  <a target="_top" href="/web/20110209235054/http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1823469&amp;afsid=1"><img src="/web/20110209235054im_/http://files.adbrite.com/mb/images/adbrite-your-ad-here-banner.gif" style="background-color:#CCCCCC;border:none;padding:0;margin:0;" alt="Your Ad Here" width="11" height="60" border="0" /></a></span>
-  <!-- End: adBrite -->
-  
-     </th>
-     <th style="padding-left:2px;">
-  
-  <!-- Begin: adBrite, Generated: 2010-12-09 9:16:15  -->
-  <script type="text/javascript">
-  var AdBrite_Title_Color = '0000FF';
-  var AdBrite_Text_Color = '000000';
-  var AdBrite_Background_Color = 'FFFFFF';
-  var AdBrite_Border_Color = 'CCCCCC';
-  var AdBrite_URL_Color = '008000';
-  try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
-  </script>
-  <span style="white-space:nowrap;"><script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="/web/20110209235054/http://ads.adbrite.com/mb/text_group.php?sid=1824559&zs=3436385f3630&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script>
-  <a target="_top" href="/web/20110209235054/http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1824559&amp;afsid=1"><img src="/web/20110209235054im_/http://files.adbrite.com/mb/images/adbrite-your-ad-here-banner.gif" style="background-color:#CCCCCC;border:none;padding:0;margin:0;" alt="Your Ad Here" width="11" height="60" border="0" /></a></span>
-  <!-- End: adBrite -->
-  
-     </th>
-    </tr>
-  </table>
-  
-  <!-- <br/>Thank you for supporting our <a href="/web/20110209235054/http://www.wonderfulwaterloo.com/memberlist.php" target="_blank">local members</a> & <a href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/727-Wonderful-Waterloo-Urban-Reward-Program" target="_blank">Waterloo Region's Economy</a>. --> 
-  
-  </center></div> 
-   
-  
-  
-  
-  
-  	<div id="above_postlist" class="above_postlist">
-  		
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/newreply.php?p=24493&amp;noquote=1" 
-  class="newcontent_textcontrol" id="newreplylink_top"><span>+</span> Reply to Thread</a>
-  			<img style="display:none" id="progress_newreplylink_top" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
-  		
-  
-  		<div id="pagination_top" class="pagination_top">
-  		
-  			<div id="postpagestats_above" class="postpagestats">
-  				Results 1 to 20 of 72
-  			</div>
-  		</div>
-  	</div>
-  	<div id="thread_controls" class="thread_controls toolsmenu">
-  		<div>
-  		<ul id="postlist_popups" class="postlist_popups popupgroup">
-  			
-  			<li class="popupmenu" id="threadtools">
-  				<h6><a class="popupctrl" href="javascript://">Thread Tools</a></h6>
-  				<ul class="popupbody popuphover">
-  					<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/printthread.php?t=644&amp;pp=20&amp;page=1" accesskey="3" 
-  						rel="nofollow">Show Printable Version</a></li>
-  					<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/sendmessage.php?do=sendtofriend&amp;t=644"
-  						rel="nofollow">Email this Page&hellip;</a></li>
-  					<li>
-  						
-  							<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/subscription.php?do=addsubscription&amp;t=644" 
-  								rel="nofollow">Subscribe to this Thread&hellip;</a>
-  											
-  					</li>
-  					
-  				</ul>
-  			</li>
-  
-  			
-  
-  			
-  
-  			
-  
-  			
-  				<li class="popupmenu" id="displaymodes">
-  					<h6><a class="popupctrl" href="javascript://">Display</a></h6>
-  					<ul class="popupbody popuphover">
-  						<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24350&amp;mode=linear#post24350"> Switch to Linear Mode</a></li>
-  						<li><label>Hybrid Mode</label></li>
-  						<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24350&amp;mode=threaded#post24350"> Switch to Threaded Mode</a></li>
-  					</ul>
-  				</li>
-  			
-  
-  			
-  		</ul>
-  		</div>
-  	</div>
-  
-  <div id="postlist" class="postlist restrain">
-  	
-  		<script type="text/javascript">
-  <!--
-  var imgdir_statusicon = "images/statusicon";
-  var imgdir_misc = "images/misc";
-  var cleargifurl = "clear.gif";
-  var guestphrase = "Guest";
-  var morephrase = "More replies below current depth...";
-  var highlightwords = "";
-  //-->
-  </script>
-  
-  <script type="text/javascript" src="/web/20110209235054js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_thrdpostlist.js?v=411"></script>
-  
-  <script type="text/javascript">
-  <!--
-  // initialize some variables
-  var curpostid = 24350;
-  var quickreply = false;
-  
-  // cached posts (no page reload required to view)
-  
-  // next/previous post info
-  
-  // cached usernames
-  pu[0] = guestphrase;
-  pu[2] = "UrbanWaterloo";
-  pu[284] = "Waterlooer";
-  pu[216] = "DHLawrence";
-  pu[194] = "panamaniac";
-  pu[177] = "IEFBR14";
-  pu[10] = "plam";
-  pu[73] = "Section ThirtyOne";
-  pu[99] = "Urbanomicon";
-  pu[744] = "HillDweller";
-  pu[341] = "KevinL";
-  pu[19] = "FancyNancy";
-  pu[24] = "Duke-of-Waterloo";
-  pu[4] = "Spokes";
-  pu[731] = "ViewFromThe42";
-  pu[669] = "jerryhung";
-  pu[28] = "GRT Kid";
-  pu[385] = "BuildingScout";
-  pu[5] = "jay";
-  pu[323] = "Newgrad";
-  pu[675] = "Galtonian";
-  pu[735] = "Optimus Prime";
-  pu[331] = "KayDubya";
-  
-  // -->
-  </script>
-  
-  
-  <div id="threaded_view">
-  	<h4>Hybrid View</h4>
-  
-  	<div id="posttree">
-  		<script type="text/javascript">
-  		<!--
-  			writeLink(13545, 0, 0, 2, "", "The Weather", "08-31-2010", "12:48 AM", 0, "showthread.php/644-The-Weather?p=13545#post13545");
-    writeLink(13546, 0, 0, 2, "T", "<i>/web/20110209235054/http://www.region.waterloo.on....</i>", "08-31-2010", "12:48 AM", 0, "showthread.php/644-The-Weather?p=13546#post13546");
-      writeLink(13555, 0, 0, 284, "I,L", "<i>This is going to get worse...</i>", "08-31-2010", "11:03 AM", 0, "showthread.php/644-The-Weather?p=13555#post13555");
-        writeLink(13605, 0, 0, 216, "I,1,L", "<i>For me the year has been...</i>", "08-31-2010", "05:56 PM", 0, "showthread.php/644-The-Weather?p=13605#post13605");
-          writeLink(18159, 0, 0, 284, "I,2,L", "<i>Well, winter is coming! Got...</i>", "11-05-2010", "11:08 AM", 0, "showthread.php/644-The-Weather?p=18159#post18159");
-            writeLink(22610, 0, 0, 2, "I,3,L", "<i>City Declares Snow Event...</i>", "01-12-2011", "07:56 PM", 0, "showthread.php/644-The-Weather?p=22610#post22610");
-              writeLink(22964, 0, 0, 2, "I,4,L", "<i>Do I ever hate winter.  It's...</i>", "01-17-2011", "08:33 PM", 0, "showthread.php/644-The-Weather?p=22964#post22964");
-                writeLink(22965, 0, 0, 194, "I,5,L", "<i>In that case, I won't tell...</i>", "01-17-2011", "09:23 PM", 0, "showthread.php/644-The-Weather?p=22965#post22965");
-                  writeLink(22970, 0, 0, 177, "I,6,T", "<i>What's brutal is getting on a...</i>", "01-17-2011", "09:40 PM", 0, "showthread.php/644-The-Weather?p=22970#post22970");
-                  writeLink(23750, 0, 0, 2, "I,6,L", "<i>Was it ever brutal outside...</i>", "01-25-2011", "09:36 PM", 0, "showthread.php/644-The-Weather?p=23750#post23750");
-                    writeLink(23753, 0, 0, 10, "I,7,L", "<i>Yes, it was a day for wearing...</i>", "01-25-2011", "09:56 PM", 0, "showthread.php/644-The-Weather?p=23753#post23753");
-                      writeLink(24217, 0, 0, 2, "I,8,L", "<i>Environment Canada Special...</i>", "01-31-2011", "07:46 AM", 0, "showthread.php/644-The-Weather?p=24217#post24217");
-                        writeLink(24291, 0, 0, 284, "I,9,L", "<i>All of the areas listed above...</i>", "01-31-2011", "02:55 PM", 0, "showthread.php/644-The-Weather?p=24291#post24291");
-                          writeLink(24308, 0, 0, 73, "I,10,L", "<i>/web/20110209235054/http://vortex.accuweather.com/...</i>", "01-31-2011", "03:59 PM", 0, "showthread.php/644-The-Weather?p=24308#post24308");
-                            writeLink(24312, 0, 0, 99, "I,11,T", "<i>Thanks for the maps. Did you...</i>", "01-31-2011", "04:14 PM", 0, "showthread.php/644-The-Weather?p=24312#post24312");
-                              writeLink(24314, 0, 0, 73, "I,11,I,L", "<i>Negative, I can't take the...</i>", "01-31-2011", "04:22 PM", 0, "showthread.php/644-The-Weather?p=24314#post24314");
-                                writeLink(24322, 0, 0, 284, "I,11,I,1,L", "<i>Ah yes, I saw those maps this...</i>", "01-31-2011", "05:08 PM", 0, "showthread.php/644-The-Weather?p=24322#post24322");
-                                  writeLink(24350, 0, 0, 73, "I,11,I,2,L", "<i>They base their forecasts on...</i>", "01-31-2011", "10:06 PM", 1, "showthread.php/644-The-Weather?p=24350#post24350");
-                                    writeLink(24429, 0, 0, 284, "I,11,I,3,L", "<i>We are now under a Winter...</i>", "02-01-2011", "11:38 AM", 1, "showthread.php/644-The-Weather?p=24429#post24429");
-                                      writeLink(24448, 0, 0, 99, "I,11,I,4,T", "<i>I use:...</i>", "02-01-2011", "12:32 PM", 1, "showthread.php/644-The-Weather?p=24448#post24448");
-                                      writeLink(24452, 0, 0, 2, "I,11,I,4,L", "<i>Snow Event to start at 11:59...</i>", "02-01-2011", "12:50 PM", 1, "showthread.php/644-The-Weather?p=24452#post24452");
-                                        writeLink(24457, 0, 0, 744, "I,11,I,5,L", "This shows all of North...", "02-01-2011", "01:13 PM", 1, "showthread.php/644-The-Weather?p=24457#post24457");
-                                          writeLink(24472, 0, 0, 284, "I,11,I,6,L", "<i>People in Oklahoma got...</i>", "02-01-2011", "02:20 PM", 1, "showthread.php/644-The-Weather?p=24472#post24472");
-                                            writeLink(24473, 0, 0, 177, "I,11,I,7,L", "<i>A 23cm snow fall, as is being...</i>", "02-01-2011", "03:04 PM", 1, "showthread.php/644-The-Weather?p=24473#post24473");
-                                              writeLink(24493, 0, 0, 0, "I,11,I,8,L", "", "more", "", 1, "showthread.php/644-The-Weather?p=24493#post24493");
-                            writeLink(24313, 0, 0, 177, "I,11,L", "<i>For someone, no doubt. But...</i>", "01-31-2011", "04:22 PM", 0, "showthread.php/644-The-Weather?p=24313#post24313");
-    writeLink(24553, 0, 0, 731, "L", "<i>It seems as though everything...</i>", "02-02-2011", "08:18 AM", 0, "showthread.php/644-The-Weather?p=24553#post24553");
-      writeLink(24561, 0, 0, 284, "1,L", "<i>We got about 1/3 of the snow...</i>", "02-02-2011", "09:27 AM", 0, "showthread.php/644-The-Weather?p=24561#post24561");
-        writeLink(24563, 0, 0, 669, "2,L", "<i>This is a disappointment......</i>", "02-02-2011", "09:51 AM", 0, "showthread.php/644-The-Weather?p=24563#post24563");
-          writeLink(24565, 0, 0, 4, "3,T", "<i>As expected....over blown.</i>", "02-02-2011", "10:10 AM", 0, "showthread.php/644-The-Weather?p=24565#post24565");
-          writeLink(24566, 0, 0, 28, "3,L", "<i>LMFAO! What happpened to the...</i>", "02-02-2011", "10:10 AM", 0, "showthread.php/644-The-Weather?p=24566#post24566");
-            writeLink(24568, 0, 0, 177, "4,T", "<i>You heard it here...</i>", "02-02-2011", "10:15 AM", 0, "showthread.php/644-The-Weather?p=24568#post24568");
-            writeLink(24576, 0, 0, 0, "4,L", "", "more", "", 0, "showthread.php/644-The-Weather?p=24576#post24576");
-  
-  		//-->
-  		</script>
-  	</div>
-  </div> 
-  	
-  
-  	
-  		<ol id="posts" class="posts" start="1">
-  			<li class="postbit postbitim postcontainer" id="post_24350">
-  	<div class="postdetails_noavatar">
-  		<div class="userinfo">
-  			<div class="contact">
-  				
-  					<a class="postuseravatarlink" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/73-Section-ThirtyOne" title="Section ThirtyOne is offline">
-  						
-  							<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/image.php?u=73&amp;dateline=1296973443" alt="Section ThirtyOne's Avatar" style="max-height: 45px" />
-  						
-  					</a>
-  				
-  				<div class="username_container">
-  					<div>
-  					
-  						<div class="popupmenu memberaction">
-  	<a class="username offline popupctrl" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/73-Section-ThirtyOne" title="Section ThirtyOne is offline"><strong>Section ThirtyOne</strong></a>
-  	<ul class="popupbody popuphover memberaction_body">
-  		<li class="left">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/73-Section-ThirtyOne">
-  				View Profile
-  			</a>
-  		</li>
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=73&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
-  				View Forum Posts
-  			</a>
-  		</li>
-  		
-  		
-  		<li class="left">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=73" rel='nofollow'>
-  				Private Message
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/blog.php?u=73" rel='nofollow'>
-  				View Blog Entries
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/list.php/author/73-Section%20ThirtyOne" rel='nofollow'>
-  				View Articles
-  			</a>
-  		</li>
-  		
-  
-  		
-  
-  		
-  		
-  	</ul>
-  </div>
-   
-  					<span class="usertitle">
-  						<font color="#FF6600">Food & Retail Moderator</font>
-  					</span>
-  						<img class="inlineimg onlinestatus" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="Section ThirtyOne is offline" border="0" />
-  
-   
-  					
-  					</div>
-  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
-  						From Waterloo, ON |  Member Since Feb 2010 | 216 Posts
-  					</div>
-                                          
-  				</div>
-  			</div>
-  
-  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
-  			<div style="padding: 6px 10px 3px 0;">
-                          
-                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
-                                          
-                                                  <a name="post24350" href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24350#post24350" class="postcounter">#1</a><a id="postcount24350" name="1"></a>
-                                          
-                                          
-                                          
-                                  </span>
-                                  <div style="margin-top: 6px;">
-                                 <span class="postdate old">
-                                          
-                                                  <span class="date">01-31-2011&nbsp;<span class="time">10:06 PM</span></span>
-                                          
-                                  </span>
-                                  </div>
-                          
-  			</div>
-  			</div>
-  
-  		</div>
-  	</div>
-  
-  	<div class="postbody">
-  		
-  		<div class="postrow">
-  		
-  		
-  				
-  				
-  		<div class="content">
-  			<div id="post_message_24350">
-  				<blockquote class="postcontent restore">
-  					<div class="bbcode_container">
-  	<div class="bbcode_quote">
-  		<div class="quote_container">
-  			<div class="bbcode_quote_container"></div>
-  			
-  				<div class="bbcode_postedby">
-  					<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/quote_icon2.png" alt="Quote" /> Originally Posted by <strong>Waterlooer</strong>
-  					<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php?p=24322#post24322" rel="nofollow"><img class="inlineimg" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/buttons/viewpost-right.png" alt="View Post" /></a>
-  				</div>
-  				<div class="message">Ah yes, I saw those maps this afternoon as well... I think AccuWeather is WAY more accurate than the Weather Network.</div>
-  			
-  		</div>
-  	</div>
-  </div>
-   They base their forecasts on a generally more accurate model, the <a href="/web/20110209235054/http://en.wikipedia.org/wiki/Global_Forecast_System" target="_blank">GFS</a> where as Environment Canada and The Weather Network use the Canadian model.<br />
-  <br />
-  That and the blogger I linked to (Brett) is very good at interpreting the output of the various models and coming to his own conclusions. Those &quot;weather guys&quot; you see on TV (with a few exceptions) generally read from the EC forecasts almost verbatim.
-  				</blockquote>
-  			</div>
-  
-  			
-  
-  
-  		</div>
-  			
-  
-                          	
-  		        
-  			
-  
-  			
-  		</div>
-  	</div>
-  	<div class="postfoot">
-  		<div class="textcontrols floatcontainer">
-  			<span class="postcontrols">
-  				<img style="display:none" id="progress_24350" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
-  				
-  				
-  				
-  					<a id="qrwq_24350" class="newreply" href="/web/20110209235054/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=24350" rel="nofollow" ><img id="quoteimg_24350" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
-  					
-  				
-  				
-  			</span>
-  
-  			<span class="postlinking">
-  				
-  					
-  				
-  				
-  
-  				 
-  				
-  
-  					
-  
-  					
-  					 
-  
-  					
-  					
-  					
-  					
-  
-  				
-  			</span>
-  		</div>
-  	</div>
-  	<hr />
-  </li>
-  <li class="postbit postbitim" id="post_thanks_box_24350" style="display:none">
-  	
-  </li>
-     <li class="postbit postbitim postcontainer" id="post_24429">
-  	<div class="postdetails_noavatar">
-  		<div class="userinfo">
-  			<div class="contact">
-  				
-  					<a class="postuseravatarlink" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/284-Waterlooer" title="Waterlooer is offline">
-  						
-  							<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/image.php?u=284&amp;dateline=1288713241" alt="Waterlooer's Avatar" style="max-height: 45px" />
-  						
-  					</a>
-  				
-  				<div class="username_container">
-  					<div>
-  					
-  						<div class="popupmenu memberaction">
-  	<a class="username offline popupctrl" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/284-Waterlooer" title="Waterlooer is offline"><strong>Waterlooer</strong></a>
-  	<ul class="popupbody popuphover memberaction_body">
-  		<li class="left">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/284-Waterlooer">
-  				View Profile
-  			</a>
-  		</li>
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=284&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
-  				View Forum Posts
-  			</a>
-  		</li>
-  		
-  		
-  		<li class="left">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=284" rel='nofollow'>
-  				Private Message
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/blog.php?u=284" rel='nofollow'>
-  				View Blog Entries
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/list.php/author/284-Waterlooer" rel='nofollow'>
-  				View Articles
-  			</a>
-  		</li>
-  		
-  
-  		
-  
-  		
-  		
-  	</ul>
-  </div>
-   
-  					<span class="usertitle">
-  						City Member
-  					</span>
-  						<img class="inlineimg onlinestatus" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="Waterlooer is offline" border="0" />
-  
-   
-  					
-  					</div>
-  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
-  						From Waterloo, ON |  Member Since Apr 2010 | 502 Posts
-  					</div>
-                                          
-  				</div>
-  			</div>
-  
-  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
-  			<div style="padding: 6px 10px 3px 0;">
-                          
-                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
-                                          
-                                                  <a name="post24429" href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24429#post24429" class="postcounter">#2</a><a id="postcount24429" name="2"></a>
-                                          
-                                          
-                                          
-                                  </span>
-                                  <div style="margin-top: 6px;">
-                                 <span class="postdate old">
-                                          
-                                                  <span class="date">02-01-2011&nbsp;<span class="time">11:38 AM</span></span>
-                                          
-                                  </span>
-                                  </div>
-                          
-  			</div>
-  			</div>
-  
-  		</div>
-  	</div>
-  
-  	<div class="postbody">
-  		
-  		<div class="postrow">
-  		
-  		
-  				
-  				
-  		<div class="content">
-  			<div id="post_message_24429">
-  				<blockquote class="postcontent restore">
-  					We are now under a <a href="/web/20110209235054/http://www.ontarioweather.com/current/warnings/currentwarning.asp?location=on38+specificlocation=Waterloo%20-%20Wellington" target="_blank">Winter Storm Warning</a>. I was also looking at the <a href="/web/20110209235054/http://www.weather.com/weather/map/interactive/" target="_blank">radar</a> and I see a lot of snow on its way! (I recommend using this weather radar: <a href="/web/20110209235054/http://www.weather.com/weather/map/interactive/" target="_blank">http://www.weather.com/weather/map/interactive/</a>.
-  				</blockquote>
-  			</div>
-  
-  			
-  
-  
-  		</div>
-  			
-  
-                          	
-  		        
-  			
-  			<blockquote class="signature restore"><div class="signaturecontainer"><i>Home Sweet Region...</i><b>Waterloo</b></div></blockquote>
-  			
-  
-  			
-  		</div>
-  	</div>
-  	<div class="postfoot">
-  		<div class="textcontrols floatcontainer">
-  			<span class="postcontrols">
-  				<img style="display:none" id="progress_24429" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
-  				
-  				
-  				
-  					<a id="qrwq_24429" class="newreply" href="/web/20110209235054/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=24429" rel="nofollow" ><img id="quoteimg_24429" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
-  					
-  				
-  				
-  			</span>
-  
-  			<span class="postlinking">
-  				
-  					
-  				
-  				
-  
-  				 
-  				
-  
-  					
-  
-  					
-  					 
-  
-  					
-  					
-  					
-  					
-  
-  				
-  			</span>
-  		</div>
-  	</div>
-  	<hr />
-  </li>
-  <li class="postbit postbitim" id="post_thanks_box_24429" style="display:none">
-  	
-  </li>
-     <li class="postbit postbitim postcontainer" id="post_24448">
-  	<div class="postdetails_noavatar">
-  		<div class="userinfo">
-  			<div class="contact">
-  				
-  					<a class="postuseravatarlink" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/99-Urbanomicon" title="Urbanomicon is offline">
-  						
-  							<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/image.php?u=99&amp;dateline=1266346234" alt="Urbanomicon's Avatar" style="max-height: 45px" />
-  						
-  					</a>
-  				
-  				<div class="username_container">
-  					<div>
-  					
-  						<div class="popupmenu memberaction">
-  	<a class="username offline popupctrl" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/99-Urbanomicon" title="Urbanomicon is offline"><strong>Urbanomicon</strong></a>
-  	<ul class="popupbody popuphover memberaction_body">
-  		<li class="left">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/99-Urbanomicon">
-  				View Profile
-  			</a>
-  		</li>
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=99&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
-  				View Forum Posts
-  			</a>
-  		</li>
-  		
-  		
-  		<li class="left">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=99" rel='nofollow'>
-  				Private Message
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/blog.php?u=99" rel='nofollow'>
-  				View Blog Entries
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/list.php/author/99-Urbanomicon" rel='nofollow'>
-  				View Articles
-  			</a>
-  		</li>
-  		
-  
-  		
-  
-  		
-  		
-  	</ul>
-  </div>
-   
-  					<span class="usertitle">
-  						<font color="#FF6600">Senior Moderator</font>
-  					</span>
-  						<img class="inlineimg onlinestatus" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="Urbanomicon is offline" border="0" />
-  
-   
-  					
-  					</div>
-  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
-  						From Kitchener, Ontario |  Member Since Feb 2010 | 1,020 Posts
-  					</div>
-                                          
-  				</div>
-  			</div>
-  
-  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
-  			<div style="padding: 6px 10px 3px 0;">
-                          
-                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
-                                          
-                                                  <a name="post24448" href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24448#post24448" class="postcounter">#3</a><a id="postcount24448" name="3"></a>
-                                          
-                                          
-                                          
-                                  </span>
-                                  <div style="margin-top: 6px;">
-                                 <span class="postdate old">
-                                          
-                                                  <span class="date">02-01-2011&nbsp;<span class="time">12:32 PM</span></span>
-                                          
-                                  </span>
-                                  </div>
-                          
-  			</div>
-  			</div>
-  
-  		</div>
-  	</div>
-  
-  	<div class="postbody">
-  		
-  		<div class="postrow">
-  		
-  		
-  				
-  				
-  		<div class="content">
-  			<div id="post_message_24448">
-  				<blockquote class="postcontent restore">
-  					I use: <a href="/web/20110209235054/http://radar.weather.gov/ridge/Conus/full_loop.php" target="_blank">http://radar.weather.gov/ridge/Conus/full_loop.php</a><br />
-   <br />
-  It uses the much higher resolution U.S. Nexrad doppler radar system. Thanks to Buffalo and Detroit however, Southern Ontario is covered.<br />
-   <br />
-  You can also the National Weather Services' site for their Buffalo (or Detroit) Radar. Doppler data can be viewed here as well, among other things.<br />
-   <br />
-  <a href="/web/20110209235054/http://radar.weather.gov/radar.php?rid=buf&amp;product=N0R&amp;overlay=11101111&amp;loop=no" target="_blank">http://radar.weather.gov/radar.php?r...101111&amp;loop=no</a>
-  				</blockquote>
-  			</div>
-  
-  			
-  
-  
-  		</div>
-  			
-  
-                          	
-  		        
-  			
-  			<blockquote class="signature restore"><div class="signaturecontainer">&quot;Only the insane have the strength enough to prosper. Only those that prosper may truly judge what is sane.&quot;</div></blockquote>
-  			
-  
-  			
-  		</div>
-  	</div>
-  	<div class="postfoot">
-  		<div class="textcontrols floatcontainer">
-  			<span class="postcontrols">
-  				<img style="display:none" id="progress_24448" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
-  				
-  				
-  				
-  					<a id="qrwq_24448" class="newreply" href="/web/20110209235054/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=24448" rel="nofollow" ><img id="quoteimg_24448" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
-  					
-  				
-  				
-  			</span>
-  
-  			<span class="postlinking">
-  				
-  					
-  				
-  				
-  
-  				 
-  				
-  
-  					
-  
-  					
-  					 
-  
-  					
-  					
-  					
-  					
-  
-  				
-  			</span>
-  		</div>
-  	</div>
-  	<hr />
-  </li>
-  <li class="postbit postbitim" id="post_thanks_box_24448" style="display:none">
-  	
-  </li>
-     <li class="postbit postbitim postcontainer" id="post_24452">
-  	<div class="postdetails_noavatar">
-  		<div class="userinfo">
-  			<div class="contact">
-  				
-  					<a class="postuseravatarlink" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">
-  						
-  							<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo's Avatar" style="max-height: 45px" />
-  						
-  					</a>
-  				
-  				<div class="username_container">
-  					<div>
-  					
-  						<div class="popupmenu memberaction">
-  	<a class="username offline popupctrl" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>
-  	<ul class="popupbody popuphover memberaction_body">
-  		<li class="left">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">
-  				View Profile
-  			</a>
-  		</li>
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
-  				View Forum Posts
-  			</a>
-  		</li>
-  		
-  		
-  		<li class="left">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=2" rel='nofollow'>
-  				Private Message
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/blog.php?u=2" rel='nofollow'>
-  				View Blog Entries
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/list.php/author/2-UrbanWaterloo" rel='nofollow'>
-  				View Articles
-  			</a>
-  		</li>
-  		
-  
-  		
-  
-  		
-  		
-  	</ul>
-  </div>
-   
-  					<span class="usertitle">
-  						<font color="#FF6600">Senior Moderator</font>
-  					</span>
-  						<img class="inlineimg onlinestatus" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />
-  
-   
-  					
-  					</div>
-  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
-  						From Kitchener-Waterloo |  Member Since Dec 2009 | 3,581 Posts
-  					</div>
-                                          
-  				</div>
-  			</div>
-  
-  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
-  			<div style="padding: 6px 10px 3px 0;">
-                          
-                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
-                                          
-                                                  <a name="post24452" href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24452#post24452" class="postcounter">#4</a><a id="postcount24452" name="4"></a>
-                                          
-                                          
-                                          
-                                  </span>
-                                  <div style="margin-top: 6px;">
-                                 <span class="postdate old">
-                                          
-                                                  <span class="date">02-01-2011&nbsp;<span class="time">12:50 PM</span></span>
-                                          
-                                  </span>
-                                  </div>
-                          
-  			</div>
-  			</div>
-  
-  		</div>
-  	</div>
-  
-  	<div class="postbody">
-  		
-  		<div class="postrow">
-  		
-  		
-  				
-  				
-  		<div class="content">
-  			<div id="post_message_24452">
-  				<blockquote class="postcontent restore">
-  					<b><font size="4"><font color="blue">Snow Event to start at 11:59 PM on Feb. 1</font></font><br />
-  City of Kitchener | February 1, 2011 | <a href="/web/20110209235054/http://www.kitchener.ca/en/newslist/index.aspx?newsId=rR5lA5HmECkXAdznlQHdbJWIxweQuAleQuAl" target="_blank">Link</a></b><br />
-  <br />
-  Based on credible weather forecast information, the City of Kitchener has now declared an official snow event.  Residents have until 11:59 p.m. Tuesday, Feb. 1, 2011 to remove their parked cars from city streets or risk receiving an $80 ticket and being towed at the owner's expense. The parking ban will remain in affect for 24 hours - until 11:59 p.m. Wednesday, Feb. 2, 2011. <br />
-  <br />
-  Notification will be given in advance of that time as to whether or not the city will cancel the snow event or extend it for another 24 hours. That decision will be made based on weather conditions and credible forecasts. <br />
-  <br />
-  <u>Tag-and-Tow Bylaw</u><br />
-  To help city crews clear all streets of snow within 24 hours of the storm ending, under the city's "tag-and-tow" bylaw residents are prohibited from parking their cars on city streets at any time when a snow event has been declared by the city. Snow events are declared when the city anticipates a significant amount of snow to accumulate.<br />
-  Residents should tune into local media for updates, or visit <a href="/web/20110209235054/http://www.kitchener.ca/" target="_blank">www.kitchener.ca</a> to join the city's snow event email distribution list. Members of that email distribution list will receive a direct email when the city declares future snow events and when snow events are extended or declared over. <br />
-  Residents who suspect their car has been towed should call 519-741-2330 to find out where their car has been relocated. <br />
-  <br />
-  <u>Enforcement of the Tag-and-Tow Bylaw</u><br />
-  During snow events, City of Kitchener bylaw enforcement staff will be asked to attend locations where parked vehicles are impeding snow-removal equipment from clearing the street. Enforcement staff will assess the situation and may ticket and tow some of the vehicles on the street to help the plows remove snow from that street. <br />
-  Vehicles will not be ticketed and towed based on calls from the public. <br />
-  Enforcement will only tow the number of vehicles necessary to allow the snow-removal equipment to do its job. It is possible that only a certain number of vehicles on a street will be removed, regardless of how many are actually present and in violation of the bylaw. In the event that some, but not all, vehicles are towed away, the remaining vehicles found in violation will be ticketed. <br />
-  Vehicles will be ticketed and relocated to another area in close proximity when it is possible and practical to do so. Vehicles will be towed at the owners' expense.
-  				</blockquote>
-  			</div>
-  
-  			
-  
-  
-  		</div>
-  			
-  
-                          	
-  		        
-  			
-  			<blockquote class="signature restore"><div class="signaturecontainer"><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/969-Groundhog-Day-Meet-Up" target="_blank"><b><font color="sienna">Groundhog Day Meet-Up | February 2nd 7-9PM @ KW Art Gallery</font></b><br />
-  </a></div></blockquote>
-  			
-  
-  			
-  		</div>
-  	</div>
-  	<div class="postfoot">
-  		<div class="textcontrols floatcontainer">
-  			<span class="postcontrols">
-  				<img style="display:none" id="progress_24452" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
-  				
-  				
-  				
-  					<a id="qrwq_24452" class="newreply" href="/web/20110209235054/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=24452" rel="nofollow" ><img id="quoteimg_24452" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
-  					
-  				
-  				
-  			</span>
-  
-  			<span class="postlinking">
-  				
-  					
-  				
-  				
-  
-  				 
-  				
-  
-  					
-  
-  					
-  					 
-  
-  					
-  					
-  					
-  					
-  
-  				
-  			</span>
-  		</div>
-  	</div>
-  	<hr />
-  </li>
-  <li class="postbit postbitim" id="post_thanks_box_24452" style="display:none">
-  	
-  </li>
-     <li class="postbit postbitim postcontainer" id="post_24457">
-  	<div class="postdetails_noavatar">
-  		<div class="userinfo_noavatar">
-  			<div class="contact">
-  				
-  				<div class="username_container">
-  					<div>
-  					
-  						<div class="popupmenu memberaction">
-  	<a class="username offline popupctrl" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/744-HillDweller" title="HillDweller is offline"><strong>HillDweller</strong></a>
-  	<ul class="popupbody popuphover memberaction_body">
-  		<li class="left">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/744-HillDweller">
-  				View Profile
-  			</a>
-  		</li>
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=744&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
-  				View Forum Posts
-  			</a>
-  		</li>
-  		
-  		
-  		<li class="left">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=744" rel='nofollow'>
-  				Private Message
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/blog.php?u=744" rel='nofollow'>
-  				View Blog Entries
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/list.php/author/744-HillDweller" rel='nofollow'>
-  				View Articles
-  			</a>
-  		</li>
-  		
-  
-  		
-  
-  		
-  		
-  	</ul>
-  </div>
-   
-  					<span class="usertitle">
-  						Hamlet Member
-  					</span>
-  						<img class="inlineimg onlinestatus" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="HillDweller is offline" border="0" />
-  
-   
-  					
-  					</div>
-  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
-  						 Member Since Dec 2010 | 8 Posts
-  					</div>
-                                          
-  				</div>
-  			</div>
-  
-  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
-  			<div style="padding: 6px 10px 3px 0;">
-                          
-                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
-                                          
-                                                  <a name="post24457" href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24457#post24457" class="postcounter">#5</a><a id="postcount24457" name="5"></a>
-                                          
-                                          
-                                          
-                                  </span>
-                                  <div style="margin-top: 6px;">
-                                 <span class="postdate old">
-                                          
-                                                  <span class="date">02-01-2011&nbsp;<span class="time">01:13 PM</span></span>
-                                          
-                                  </span>
-                                  </div>
-                          
-  			</div>
-  			</div>
-  
-  		</div>
-  	</div>
-  
-  	<div class="postbody">
-  		
-  		<div class="postrow">
-  		
-  		<h2 class="posttitle icon">
-  			This shows all of North America
-  		</h2>
-                  
-  				
-  				
-  		<div class="content">
-  			<div id="post_message_24457">
-  				<blockquote class="postcontent restore">
-  					<a href="/web/20110209235054/http://www.intellicast.com/National/Radar/Current.aspx?location=default&amp;region=CAD&amp;animate=true" target="_blank">http://www.intellicast.com/National/...D&amp;animate=true</a><br />
-  <br />
-  You can zero in to the local area.
-  				</blockquote>
-  			</div>
-  
-  			
-  
-  
-  		</div>
-  			
-  
-                          	
-  		        
-  			
-  
-  			
-  		</div>
-  	</div>
-  	<div class="postfoot">
-  		<div class="textcontrols floatcontainer">
-  			<span class="postcontrols">
-  				<img style="display:none" id="progress_24457" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
-  				
-  				
-  				
-  					<a id="qrwq_24457" class="newreply" href="/web/20110209235054/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=24457" rel="nofollow" ><img id="quoteimg_24457" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
-  					
-  				
-  				
-  			</span>
-  
-  			<span class="postlinking">
-  				
-  					
-  				
-  				
-  
-  				 
-  				
-  
-  					
-  
-  					
-  					 
-  
-  					
-  					
-  					
-  					
-  
-  				
-  			</span>
-  		</div>
-  	</div>
-  	<hr />
-  </li>
-  <li class="postbit postbitim" id="post_thanks_box_24457" style="display:none">
-  	
-  </li>
-     <li class="postbit postbitim postcontainer" id="post_24472">
-  	<div class="postdetails_noavatar">
-  		<div class="userinfo">
-  			<div class="contact">
-  				
-  					<a class="postuseravatarlink" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/284-Waterlooer" title="Waterlooer is offline">
-  						
-  							<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/image.php?u=284&amp;dateline=1288713241" alt="Waterlooer's Avatar" style="max-height: 45px" />
-  						
-  					</a>
-  				
-  				<div class="username_container">
-  					<div>
-  					
-  						<div class="popupmenu memberaction">
-  	<a class="username offline popupctrl" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/284-Waterlooer" title="Waterlooer is offline"><strong>Waterlooer</strong></a>
-  	<ul class="popupbody popuphover memberaction_body">
-  		<li class="left">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/284-Waterlooer">
-  				View Profile
-  			</a>
-  		</li>
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=284&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
-  				View Forum Posts
-  			</a>
-  		</li>
-  		
-  		
-  		<li class="left">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=284" rel='nofollow'>
-  				Private Message
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/blog.php?u=284" rel='nofollow'>
-  				View Blog Entries
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/list.php/author/284-Waterlooer" rel='nofollow'>
-  				View Articles
-  			</a>
-  		</li>
-  		
-  
-  		
-  
-  		
-  		
-  	</ul>
-  </div>
-   
-  					<span class="usertitle">
-  						City Member
-  					</span>
-  						<img class="inlineimg onlinestatus" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="Waterlooer is offline" border="0" />
-  
-   
-  					
-  					</div>
-  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
-  						From Waterloo, ON |  Member Since Apr 2010 | 502 Posts
-  					</div>
-                                          
-  				</div>
-  			</div>
-  
-  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
-  			<div style="padding: 6px 10px 3px 0;">
-                          
-                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
-                                          
-                                                  <a name="post24472" href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24472#post24472" class="postcounter">#6</a><a id="postcount24472" name="6"></a>
-                                          
-                                          
-                                          
-                                  </span>
-                                  <div style="margin-top: 6px;">
-                                 <span class="postdate old">
-                                          
-                                                  <span class="date">02-01-2011&nbsp;<span class="time">02:20 PM</span></span>
-                                          
-                                  </span>
-                                  </div>
-                          
-  			</div>
-  			</div>
-  
-  		</div>
-  	</div>
-  
-  	<div class="postbody">
-  		
-  		<div class="postrow">
-  		
-  		
-  				
-  				
-  		<div class="content">
-  			<div id="post_message_24472">
-  				<blockquote class="postcontent restore">
-  					People in Oklahoma got blasted with snow last night, here is a pic of the storm someone sent in from Oklahoma: (from: <a href="/web/20110209235054/http://vortex.accuweather.com/adc2004/pub/includes/columns/newsstory/2011/300x225_02011829_claremoreok.jpg" target="_blank">http://vortex.accuweather.com/adc200...laremoreok.jpg</a>)<br />
-  <br />
-  <img src="/web/20110209235054im_/http://vortex.accuweather.com/adc2004/pub/includes/columns/newsstory/2011/300x225_02011829_claremoreok.jpg" border="0" alt="" />
-  				</blockquote>
-  			</div>
-  
-  			
-  
-  
-  		</div>
-  			
-  
-                          	
-  		        
-  			
-  			<blockquote class="signature restore"><div class="signaturecontainer"><i>Home Sweet Region...</i><b>Waterloo</b></div></blockquote>
-  			
-  
-  			
-  		</div>
-  	</div>
-  	<div class="postfoot">
-  		<div class="textcontrols floatcontainer">
-  			<span class="postcontrols">
-  				<img style="display:none" id="progress_24472" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
-  				
-  				
-  				
-  					<a id="qrwq_24472" class="newreply" href="/web/20110209235054/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=24472" rel="nofollow" ><img id="quoteimg_24472" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
-  					
-  				
-  				
-  			</span>
-  
-  			<span class="postlinking">
-  				
-  					
-  				
-  				
-  
-  				 
-  				
-  
-  					
-  
-  					
-  					 
-  
-  					
-  					
-  					
-  					
-  
-  				
-  			</span>
-  		</div>
-  	</div>
-  	<hr />
-  </li>
-  <li class="postbit postbitim" id="post_thanks_box_24472" style="display:none">
-  	
-  </li>
-     <li class="postbit postbitim postcontainer" id="post_24473">
-  	<div class="postdetails_noavatar">
-  		<div class="userinfo">
-  			<div class="contact">
-  				
-  					<a class="postuseravatarlink" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/177-IEFBR14" title="IEFBR14 is online now">
-  						
-  							<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/image.php?u=177&amp;dateline=1283110420" alt="IEFBR14's Avatar" style="max-height: 45px" />
-  						
-  					</a>
-  				
-  				<div class="username_container">
-  					<div>
-  					
-  						<div class="popupmenu memberaction">
-  	<a class="username online popupctrl" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/177-IEFBR14" title="IEFBR14 is online now"><strong>IEFBR14</strong></a>
-  	<ul class="popupbody popuphover memberaction_body">
-  		<li class="left">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/177-IEFBR14">
-  				View Profile
-  			</a>
-  		</li>
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=177&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
-  				View Forum Posts
-  			</a>
-  		</li>
-  		
-  		
-  		<li class="left">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=177" rel='nofollow'>
-  				Private Message
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/blog.php?u=177" rel='nofollow'>
-  				View Blog Entries
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/list.php/author/177-IEFBR14" rel='nofollow'>
-  				View Articles
-  			</a>
-  		</li>
-  		
-  
-  		
-  
-  		
-  		
-  	</ul>
-  </div>
-   
-  					<span class="usertitle">
-  						<font color="#FF6600">Transportation Moderator</font>
-  					</span>
-  						
-  <img class="inlineimg onlinestatus" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/statusicon/user-online.png" alt="IEFBR14 is online now" border="0" />
-   
-  					
-  					</div>
-  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
-  						From H2OWC |  Member Since Mar 2010 | 973 Posts
-  					</div>
-                                          
-  				</div>
-  			</div>
-  
-  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
-  			<div style="padding: 6px 10px 3px 0;">
-                          
-                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
-                                          
-                                                  <a name="post24473" href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24473#post24473" class="postcounter">#7</a><a id="postcount24473" name="7"></a>
-                                          
-                                          
-                                          
-                                  </span>
-                                  <div style="margin-top: 6px;">
-                                 <span class="postdate old">
-                                          
-                                                  <span class="date">02-01-2011&nbsp;<span class="time">03:04 PM</span></span>
-                                          
-                                  </span>
-                                  </div>
-                          
-  			</div>
-  			</div>
-  
-  		</div>
-  	</div>
-  
-  	<div class="postbody">
-  		
-  		<div class="postrow">
-  		
-  		
-  				
-  				
-  		<div class="content">
-  			<div id="post_message_24473">
-  				<blockquote class="postcontent restore">
-  					<div class="bbcode_container">
-  	<div class="bbcode_quote">
-  		<div class="quote_container">
-  			<div class="bbcode_quote_container"></div>
-  			
-  				<div class="bbcode_postedby">
-  					<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/quote_icon2.png" alt="Quote" /> Originally Posted by <strong>Waterlooer</strong>
-  					<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php?p=24472#post24472" rel="nofollow"><img class="inlineimg" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/buttons/viewpost-right.png" alt="View Post" /></a>
-  				</div>
-  				<div class="message">People in Oklahoma got blasted with snow last night</div>
-  			
-  		</div>
-  	</div>
-  </div>
-   A 23cm snow fall, as is being reported, is unusual in OK. Neither the general public nor the authorities are prepared for something like that. They probably don't have any snow plows and most vehicle drivers don't know how to drive on snow covered roads even if they did. (A friend who works for the DoT in FL once told be about the havoc that a 1&quot; freak snow fall caused in Tallahassee. It wasn't pretty even if it was hilarious.) <br />
-  <br />
-  But 23cm of snow shouldn't be unusual in southern ON, even Toronto. We get them at least once or twice every year. Yet CBC Radio reports that Toronto authorities are recommending that people stay home tomorrow. Maybe that's because all of our troops are currently busy dealing with sand storms in Afghanistan and can't dig them out <img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/smilies/wink.gif" border="0" alt="" title="Wink" class="inlineimg" /> <br />
-  <br />
-  What a bunch of wimps (Torontonians, not our troops.)
-  				</blockquote>
-  			</div>
-  
-  			
-  
-  
-  		</div>
-  			
-  
-                          	
-  		        
-  			
-  
-  			
-  		</div>
-  	</div>
-  	<div class="postfoot">
-  		<div class="textcontrols floatcontainer">
-  			<span class="postcontrols">
-  				<img style="display:none" id="progress_24473" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
-  				
-  				
-  				
-  					<a id="qrwq_24473" class="newreply" href="/web/20110209235054/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=24473" rel="nofollow" ><img id="quoteimg_24473" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
-  					
-  				
-  				
-  			</span>
-  
-  			<span class="postlinking">
-  				
-  					
-  				
-  				
-  
-  				 
-  				
-  
-  					
-  
-  					
-  					 
-  
-  					
-  					
-  					
-  					
-  
-  				
-  			</span>
-  		</div>
-  	</div>
-  	<hr />
-  </li>
-  <li class="postbit postbitim" id="post_thanks_box_24473" style="display:none">
-  	
-  </li>
-     <li class="postbit postbitim postcontainer" id="post_24493">
-  	<div class="postdetails_noavatar">
-  		<div class="userinfo_noavatar">
-  			<div class="contact">
-  				
-  				<div class="username_container">
-  					<div>
-  					
-  						<div class="popupmenu memberaction">
-  	<a class="username offline popupctrl" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/341-KevinL" title="KevinL is offline"><strong>KevinL</strong></a>
-  	<ul class="popupbody popuphover memberaction_body">
-  		<li class="left">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/341-KevinL">
-  				View Profile
-  			</a>
-  		</li>
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=341&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
-  				View Forum Posts
-  			</a>
-  		</li>
-  		
-  		
-  		<li class="left">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=341" rel='nofollow'>
-  				Private Message
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/blog.php?u=341" rel='nofollow'>
-  				View Blog Entries
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		
-  		
-  		<li class="right">
-  			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
-  			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/list.php/author/341-KevinL" rel='nofollow'>
-  				View Articles
-  			</a>
-  		</li>
-  		
-  
-  		
-  
-  		
-  		
-  	</ul>
-  </div>
-   
-  					<span class="usertitle">
-  						Town Member
-  					</span>
-  						<img class="inlineimg onlinestatus" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="KevinL is offline" border="0" />
-  
-   
-  					
-  					</div>
-  					<div class="userinfo_extra" style="font-size: 10px; display: block;">
-  						From West-South-West Kitchener |  Member Since May 2010 | 499 Posts
-  					</div>
-                                          
-  				</div>
-  			</div>
-  
-  			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
-  			<div style="padding: 6px 10px 3px 0;">
-                          
-                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
-                                          
-                                                  <a name="post24493" href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24493#post24493" class="postcounter">#8</a><a id="postcount24493" name="8"></a>
-                                          
-                                          
-                                          
-                                  </span>
-                                  <div style="margin-top: 6px;">
-                                 <span class="postdate old">
-                                          
-                                                  <span class="date">02-01-2011&nbsp;<span class="time">04:51 PM</span></span>
-                                          
-                                  </span>
-                                  </div>
-                          
-  			</div>
-  			</div>
-  
-  		</div>
-  	</div>
-  
-  	<div class="postbody">
-  		
-  		<div class="postrow">
-  		
-  		
-  				
-  				
-  		<div class="content">
-  			<div id="post_message_24493">
-  				<blockquote class="postcontent restore">
-  					<div class="bbcode_container">
-  	<div class="bbcode_quote">
-  		<div class="quote_container">
-  			<div class="bbcode_quote_container"></div>
-  			
-  				<div class="bbcode_postedby">
-  					<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/quote_icon2.png" alt="Quote" /> Originally Posted by <strong>IEFBR14</strong>
-  					<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php?p=24473#post24473" rel="nofollow"><img class="inlineimg" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/buttons/viewpost-right.png" alt="View Post" /></a>
-  				</div>
-  				<div class="message">A 23cm snow fall, as is being reported, is unusual in OK. Neither the general public nor the authorities are prepared for something like that. They probably don't have any snow plows and most vehicle drivers don't know how to drive on snow covered roads even if they did. (A friend who works for the DoT in FL once told be about the havoc that a 1&quot; freak snow fall caused in Tallahassee. It wasn't pretty even if it was hilarious.)</div>
-  			
-  		</div>
-  	</div>
-  </div>
-   No shovels at hand or winter tires on their wheels either. They have an excuse; we don't.
-  				</blockquote>
-  			</div>
-  
-  			
-  
-  
-  		</div>
-  			
-  
-                          	
-  		        
-  			
-  			<blockquote class="signature restore"><div class="signaturecontainer"><a href="/web/20110209235054/http://www.flickr.com/photos/32498743@N05/" target="_blank">My Flickr</a> - <a href="/web/20110209235054/http://www.facebook.com/profile.php?id=100000167709836" target="_blank">My Facebook</a></div></blockquote>
-  			
-  
-  			
-  		</div>
-  	</div>
-  	<div class="postfoot">
-  		<div class="textcontrols floatcontainer">
-  			<span class="postcontrols">
-  				<img style="display:none" id="progress_24493" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
-  				
-  				
-  				
-  					<a id="qrwq_24493" class="newreply" href="/web/20110209235054/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=24493" rel="nofollow" ><img id="quoteimg_24493" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
-  					
-  				
-  				
-  			</span>
-  
-  			<span class="postlinking">
-  				
-  					
-  				
-  				
-  
-  				 
-  				
-  
-  					
-  
-  					
-  					 
-  
-  					
-  					
-  					
-  					
-  
-  				
-  			</span>
-  		</div>
-  	</div>
-  	<hr />
-  </li>
-  <li class="postbit postbitim" id="post_thanks_box_24493" style="display:none">
-  	
-  </li>
+    <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" id="vbulletin_html">
+    <head>
+    
+    <script type="text/javascript" src="/static/js/analytics.js" ></script>
+    <link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+    
+    
+    
+    
+    	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.wonderfulwaterloo.com" />
+      <meta name="generator" content="vBulletin 4.1.1" />
+    
+    
+    
+    
+    
+    
+    
+    <script type="text/javascript" src="/web/20110209235054js_/http://ajax.googleapis.com/ajax/libs/yui/2.7.0/build/yuiloader-dom-event/yuiloader-dom-event.js?v=411"></script>
+    <script type="text/javascript" src="/web/20110209235054js_/http://ajax.googleapis.com/ajax/libs/yui/2.7.0/build/connection/connection-min.js?v=411"></script>
+    <script type="text/javascript">
+    <!--
+    	var SESSIONURL = "";
+    	var SECURITYTOKEN = "guest";
+    	var IMGDIR_MISC = "images/misc";
+    	var IMGDIR_BUTTON = "images/buttons";
+    	var vb_disable_ajax = parseInt("0", 10);
+    	var SIMPLEVERSION = "411";
+    	var BBURL = "/web/20110209235054/http://www.wonderfulwaterloo.com";
+    	var LOGGEDIN = 0 > 0 ? true : false;
+    	var THIS_SCRIPT = "showthread";
+            var RELPATH = "showthread.php/644-The-Weather?p=24350";
+            var PATHS = {forum : ""}
+    // -->
+    </script>
+    <script type="text/javascript" src="/web/20110209235054js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin-core.js?v=411"></script>
+    
+    
+    
+    	<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2" />
+    	
+    		<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo - General Discussion - RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2&amp;forumids=23" />
+    	
+    
+    
+    
+    	<link rel="stylesheet" type="text/css" href="/web/20110209235054cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1297251586&amp;td=ltr&amp;sheet=bbcode.css,editor.css,popupmenu.css,reset-fonts.css,vbulletin.css,vbulletin-chrome.css,vbulletin-formcontrols.css," />
+    
+    	<!--[if lt IE 8]>
+    	<link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1297251586&amp;td=ltr&amp;sheet=popupmenu-ie.css,vbulletin-ie.css,vbulletin-chrome-ie.css,vbulletin-formcontrols-ie.css,editor-ie.css" />
+    	<![endif]-->
+    
+     <script type="text/javascript" src="/web/20110209235054js_/http://www.wonderfulwaterloo.com/clientscript/post_thanks.js"></script>
+    
+    <style type="text/css">
+    .postbitlegacy .postfoot .textcontrols a.post_thanks_button, .postbit .postfoot .textcontrols a.post_thanks_button  {
+    	background: url(/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/buttons/post_thanks.png) no-repeat transparent left;
+    	padding-left: 20px;
+    }
+    .postbitlegacy .postfoot .textcontrols a.post_thanks_button:hover, .postbit .postfoot .textcontrols a.post_thanks_button:hover  {
+    	background: url(/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/buttons/post_thanks-hover.png) no-repeat transparent left;
+    </style>
      
-  		</ol>
-                  <div class="separator"></div>
-  		<div class="postlistfoot">
-  			
-  		</div>
-  
-  	
-  
-  </div>
-  
-  <div id="below_postlist" class="noinlinemod below_postlist">
-  	
-  		<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/newreply.php?p=24493&amp;noquote=1" 
-  			class="newcontent_textcontrol" id="newreplylink_bottom"
-  			><span>+</span> Reply to Thread</a>
-  	
-  	<div id="pagination_bottom" class="pagination_bottom">
-  	
-  		
-  	</div>
-  </div>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <div style="margin-top:0px; height:8px;"></div>
-  
-  <div id="breadcrumb_two" class="breadcrumb" style="margin-bottom: 6px;">
-  	<ul class="floatcontainer">
-  		<li class="navbithome"><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/index.php" ><img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/navbit-home.png" alt="Home" /></a></li>
-  
-  		
-  	<li class="navbit"><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/forum.php">Forum</a></li>
-   
-  	<li class="navbit"><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/forumdisplay.php/22-General">General</a></li>
-   
-  	<li class="navbit"><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/forumdisplay.php/23-General-Discussion">General Discussion</a></li>
-   
-  		
-  	<li class="navbit lastnavbit"><span> The Weather</span></li>
-   
-  	</ul>
-  	<hr />
-  </div>
-   <div id="thread_info" class="thread_info block">
-  	
-  	
-  	
-  
-  	<TABLE width="100%">     
-  	<tr>     
-  	<td width="50%" valign="top">
-  	
-  	<h4 class="threadinfohead blockhead">Tags for this Thread</h4>
-  	<div id="thread_tags_list" class="thread_info_block blockbody formcontrols" style="min-height:58px;">
-  		<div class="inner_block">
-  			
-  			<div id='tag_list_cell' style="font-size:11px;">
-  				
-  	<ul class="commalist" style="margin-top: 5px;">
-  		<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/tags.php?tag=rain">rain</a></li> <li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/tags.php?tag=snow">snow</a></li> <li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/tags.php?tag=sun">sun</a></li> <li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/tags.php?tag=weather">weather</a></li> 
-  	</ul>
-  
-  
-   <img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/11x11progress.gif" id="tag_form_progress" class="inlineimg hidden" alt="" /> 
-  			</div>
-  			<p style="font-size:11px;">
-  				<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/tags.php">View Tag Cloud</a>
-  			</p>
-  		</div>
-  	</div>
-  	
-  	</td>
-  	<td>
-  	<div class="options_block_container">
-  		
-  		<div class="options_block2">
-  			<h4 class="blockhead">Bookmarks</h4>
-  			<div id="social_bookmarks_list" class="thread_info_block blockbody formcontrols floatcontainer">
-  				<h5 class="blocksubhead">Bookmarks</h5>
-  				<DIV style="height:58px;">
-  				<ul class="icon_list" style="font-size:11px;"><li class="smallfont">
-  	
-  		<a href="/web/20110209235054/http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.wonderfulwaterloo.com%2Fshowthread.php%3Ft%3D644&amp;title=The+Weather" target="socialbookmark"><img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/FaceBook-icon.png" alt="" /></a>
-  	
-  	<a href="/web/20110209235054/http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.wonderfulwaterloo.com%2Fshowthread.php%3Ft%3D644&amp;title=The+Weather" target="socialbookmark">Facebook</a>
-  </li> <li class="smallfont">
-  	
-  		<a href="/web/20110209235054/http://twitter.com/home?status=The+Weather+http%3A%2F%2Fwww.wonderfulwaterloo.com%2Fshowthread.php%3Ft%3D644" target="socialbookmark"><img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/Twitter-icon.png" alt="" /></a>
-  	
-  	<a href="/web/20110209235054/http://twitter.com/home?status=The+Weather+http%3A%2F%2Fwww.wonderfulwaterloo.com%2Fshowthread.php%3Ft%3D644" target="socialbookmark">Twitter</a>
-  </li> <li class="smallfont">
-  	
-  		<a href="/web/20110209235054/http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3A%2F%2Fwww.wonderfulwaterloo.com%2Fshowthread.php%3Ft%3D644&amp;title=The+Weather" target="socialbookmark"><img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/bookmarksite_google.gif" alt="" /></a>
-  	
-  	<a href="/web/20110209235054/http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3A%2F%2Fwww.wonderfulwaterloo.com%2Fshowthread.php%3Ft%3D644&amp;title=The+Weather" target="socialbookmark">Google</a>
-  </li> </ul>
-  				</DIV>
-  			</div>
-  		</div>
-  		
-  		<div class="options_block">
-  			<h4 class="blockhead">Posting Permissions</h4>
-  			<div id="posting_rules" class="thread_info_block blockbody formcontrols floatcontainer">
-  				
-  <div id="forumrules" class="info_subblock">
-  
-  	<ul class="youcandoblock" style="FONT-SIZE:9px; margin:0px" >
-  		<li>You <strong>may not</strong> post new threads</li>
-  		<li>You <strong>may not</strong> post replies</li>
-  		<li>You <strong>may not</strong> post attachments</li>
-  		<li>You <strong>may not</strong> edit your posts</li>
-  	</ul>
-  	<div class="bbcodeblock" style="FONT-SIZE:9px; margin:0px">
-  		<ul>
-  			<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/misc.php?do=bbcode" target="_blank">BB code</a> is <strong>On</strong></li>
-  			<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/misc.php?do=showsmilies" target="_blank">Smilies</a> are <strong>On</strong></li>
-  			<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/misc.php?do=bbcode#imgcode" target="_blank">[IMG]</a> code is <strong>On</strong></li>
-  			<li>HTML code is <strong>Off</strong></li>
-  		</ul>
-  	</div>
-  	<p class="rules_link" style="FONT-SIZE:9px; margin:0px; text-align:right"><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/misc.php?do=showrules" target="_blank">Forum Rules</a></p>
-  
-  </div>
-   
-  			</div>
-  		</div>
-  
-  	</div>
-  	</td>
-  	</tr>     
-  	</TABLE>
-  
-  </div>
-  
-  
-  
-  
-  
-  
-  
-  <div style="margin-top:10px;">
-   
-  <div id="ad_global_above_footer">
-  
-  <center>
-  
-  <table>
-    <tr>
-      <th style="padding-right:2px;">
-  
-  <script type="text/javascript">
-  ch_client = "wonderfulwaterloo";
-  ch_width = 468;
-  ch_height = 60;
-  ch_type = "mpu";
-  ch_sid = "Chitika Default";
-  ch_backfill = 1;
-  ch_color_site_link = "#0000CC";
-  ch_color_title = "#0000CC";
-  ch_color_border = "#FFFFFF";
-  ch_color_text = "#000000";
-  ch_color_bg = "#FFFFFF";
-  </script>
-  <script src="/web/20110209235054js_/http://scripts.chitika.net/eminimalls/amm.js" type="text/javascript">
-  </script>
-  
-     </th>
-     <th style="padding-left:2px;">
-  
-  <!-- Begin: adBrite, Generated: 2011-01-13 7:27:31  -->
-  <script type="text/javascript">
-  var AdBrite_Title_Color = '0000FF';
-  var AdBrite_Text_Color = '000000';
-  var AdBrite_Background_Color = 'FFFFFF';
-  var AdBrite_Border_Color = 'FFFFFF';
-  var AdBrite_URL_Color = '0000FF';
-  try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
-  </script>
-  <span style="white-space:nowrap;"><script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="/web/20110209235054/http://ads.adbrite.com/mb/text_group.php?sid=1848292&zs=3436385f3630&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script>
-  <a target="_top" href="/web/20110209235054/http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1848292&amp;afsid=1"><img src="/web/20110209235054im_/http://files.adbrite.com/mb/images/adbrite-your-ad-here-banner.gif" style="background-color:#FFFFFF;border:none;padding:0;margin:0;" alt="Your Ad Here" width="11" height="60" border="0" /></a></span>
-  <!-- End: adBrite -->
-  
-     </th>
-    </tr>
-  </table>
-  
-  </center>
-  
-  </div> 
-  </div>
-  
-  <div id="footer" class="floatcontainer footer">
-  
-  	<form action="/web/20110209235054/http://www.wonderfulwaterloo.com/forum.php" method="get" id="footer_select" class="footer_select">
-  
-  			
-  		
-  			<select name="styleid" onchange="switch_id(this, 'style')">
-  				<optgroup label="Quick Style Chooser">
-  					<option value="2" class="" selected="selected">-- Default Style</option> <option value="17" class="" >---- QRLeft</option> <option value="38" class="" >---- January 10 New Postbit A</option> <option value="45" class="" >---- January 2 New Postbit B</option> <option value="46" class="" >---- testing jan 10 2010 5</option> <option value="47" class="" >---- GroundhogDay</option> <option value="33" class="" >---- LogoTesting</option> 
-  				</optgroup>
-  			</select>	
-  		
-  		
-  		
-  	</form>
-  
-  	<ul id="footer_links" class="footer_links">
-  		<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/sendmessage.php" rel="nofollow" accesskey="9">Contact Us</a></li>
-  		<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/">Home</a></li>
-  		
-  		
-  		<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/archive/index.php">Archive</a></li>
-  		
-  		
-  		
-  		<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24350#top" onclick="document.location.hash='top'; return false;">Top</a></li>
-  	</ul>
-  	
-  	
-  	
-  	
-  	<script type="text/javascript">
-  	<!--
-  		// Main vBulletin Javascript Initialization
-  		vBulletin_init();
-  	//-->
-  	</script>
-          
-  </div>
-  </div> <!-- closing div for body_wrapper -->
-  
-  <div class="below_body">
-  <div id="footer_time" class="shade footer_time">All times are GMT -5. The time now is <span class="time">06:50 PM</span>.</div>
-  
-  <div id="footer_copyright" class="shade footer_copyright">
-  	<!-- Do not remove this copyright notice -->
-  	Powered by <a href="/web/20110209235054/http://www.vbulletin.com/" id="vbulletinlink">vBulletin&trade;</a> Version 4.1.1 <br />Copyright &copy; 2011 vBulletin Solutions, Inc. All rights reserved. 
-  	<!-- Do not remove this copyright notice -->	
-  </div>
-  <div id="footer_morecopyright" class="shade footer_morecopyright">
-  	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
-  	
-  	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
-  	
-  </div>
-  
-  </div> 
-  
-  </body>
-  </html>
-   
-  
-  
-  
-  
-  <!--
-       FILE ARCHIVED ON 23:50:54 Feb 9, 2011 AND RETRIEVED FROM THE
-       INTERNET ARCHIVE ON 1:31:37 Aug 25, 2014.
-       JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-  
-       ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-       SECTION 108(a)(3)).
-  -->
+    	<meta name="keywords" content="rain, snow, sun, weather, teachers, time, year, days, skills, work, months, week, scheduling, summer, occur, development, professional, july, hours, working, diligently, august, criticize, years, wait, list, australia, moved, college, make, sense, friend, figures, colleges, implemented, obtain, immediately, irrelevant, reference, develop, topic, exist, resist, hard, deadline, extend, ontario, people, applied, question" />
+    	<meta name="description" content="Waterloo Region's Weather 
+    &lt;div align=&quot;center&quot;&gt;&lt;script" />
+    
+    	<title> The Weather</title>
+    	<link rel="canonical" href="showthread.php/644-The-Weather" />
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    
+    	
+    		<link rel="stylesheet" type="text/css" href="/web/20110209235054cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1297251586&amp;td=ltr&amp;sheet=toolsmenu.css,postlist.css,showthread.css,postbit.css,options.css,attachment.css,poll.css,lightbox.css" />
+    	
+    	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1297251586&amp;td=ltr&amp;sheet=toolsmenu-ie.css,postlist-ie.css,showthread-ie.css,postbit-ie.css,poll-ie.css" /><![endif]-->
+    <link rel="stylesheet" type="text/css" href="/web/20110209235054cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1297251586&amp;td=ltr&amp;sheet=additional.css" />
+     
+    </head>
+    
+    <body>
+    
+    
+    
+    <div class="above_body"> <!-- closing tag is in template navbar -->
+    <div id="header" class="floatcontainer doc_header" >
+    	<div id="toplinks" class="toplinks">
+    		
+    			<ul class="nouser">
+    			
+    				<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/register.php" rel="nofollow">Register</a></li>
+    			
+    				<li>
+    			<script type="text/javascript" src="/web/20110209235054js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_md5.js?v=411"></script>
+    			<form id="navbar_loginform" action="/web/20110209235054/http://www.wonderfulwaterloo.com/login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+    				<div id="remember" class="remember" style="position:absolute; left:-124px; top:3px">
+    					<label for="cb_cookieuser_navbar">Keep Me Logged In:  <input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" /></label>
+    				</div>
+    				<fieldset id="logindetails" class="logindetails">
+    					<div>
+    					<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/icons/username.png" alt="Username" style="padding-top:2px; padding-right:2px;" /><input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" />
+    					<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/icons/password.png" alt="Password" style="padding-top:2px;" /><input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10" />
+    					<input type="text" class="textbox default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Password" style="display:none;" />
+    					<input type="submit" class="loginbutton" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s" />
+    					</div>
+    				</fieldset>
+    				<input type="hidden" name="s" value="" />
+    				<input type="hidden" name="securitytoken" value="guest" />
+    				<input type="hidden" name="do" value="login" />
+    				<input type="hidden" name="vb_login_md5password" />
+    				<input type="hidden" name="vb_login_md5password_utf" />
+    			</form>
+    			<script type="text/javascript">
+    			YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+    			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+    			vB_XHTML_Ready.subscribe(function()
+    			{
+    			//
+    				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+    				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+    				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+    				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+    			});
+    			
+    			function navbar_username_focus(e)
+    			{
+    			//
+    				var textbox = YAHOO.util.Event.getTarget(e);
+    				if (textbox.value == 'User Name')
+    				{
+    				//
+    					textbox.value='';
+    					textbox.style.color='#303030';
+    				}
+    			}
+    
+    			function navbar_username_blur(e)
+    			{
+    			//
+    				var textbox = YAHOO.util.Event.getTarget(e);
+    				if (textbox.value == '')
+    				{
+    				//
+    					textbox.value='User Name';
+    					textbox.style.color='#828282';
+    				}
+    			}
+    			
+    			function navbar_password_hint(e)
+    			{
+    			//
+    				var textbox = YAHOO.util.Event.getTarget(e);
+    				
+    				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+    				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+    				YAHOO.util.Dom.get('navbar_password').focus();
+    			}
+    
+    			function navbar_password(e)
+    			{
+    			//
+    				var textbox = YAHOO.util.Event.getTarget(e);
+    				
+    				if (textbox.value == '')
+    				{
+    					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+    					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+    				}
+    			}
+    			</script>
+    				</li>
+    				
+    			</ul>
+    		
+    	</div>
+    	<div style="padding-top: 23px;"><a name="top" href="/web/20110209235054/http://www.wonderfulwaterloo.com/forum.php" class="logo-image"><img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/WW/LogoDec82010.jpg" alt="Wonderful Waterloo - Powered by the Citizens of Waterloo Region" width="100%" /></a></div>
+    	<div class="ad_global_header">
+    		 
+    		 
+    	</div>
+    	<hr />
+    
+    <script type="text/javascript">
+    
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-20199168-1']);
+      _gaq.push(['_setLocalRemoteServerMode']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? '/web/20110209235054/https://ssl' : '/web/20110209235054/http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    
+    </script>
+    
+    </div>
+     
+    <div id="navbar" class="navbar">
+    
+    	<ul id="navtabs" class="navtabs floatcontainer">
+    		
+    	<li>
+    	
+    		<a class="navtab" href="/web/20110209235054/http://www.wonderfulwaterloo.com/content.php">Home</a>
+    	
+    	</li>
+     
+    		
+    			<li class="selected"><a class="navtab" href="/web/20110209235054/http://www.wonderfulwaterloo.com/forum.php">Forum</a>
+    				<ul class="floatcontainer">
+    					
+    					
+    					
+    
+    					
+    					<li class="popupmenu">
+    						<a href="javascript://" class="popupctrl" accesskey="6">Community</a>
+    						<ul class="popupbody popuphover">
+    							
+    							
+    							
+    							
+    								<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/memberlist.php">Member List</a></li>
+    							
+    							
+    							
+    						</ul>
+    					</li>
+    					
+    					
+    					<li class="popupmenu">
+    						<a href="javascript://" class="popupctrl" accesskey="3">Quick Links</a>
+    						<ul class="popupbody popuphover">
+    							
+    							
+    							<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/showgroups.php" rel="nofollow">
+    		
+    			View Site Leaders
+    		
+    	</a></li>
+    							
+    							<li>
+    								<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/forumdisplay.php?do=markread&amp;markreadhash=guest">Mark Forums Read</a>
+    							</li>
+    							
+    							
+    							
+    							
+    							
+    						</ul>
+    					</li>
+    					
+    				</ul>
+    
+    			</li>
+    		
+    		
+     
+    		
+    			<li><a class="navtab" href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=getdaily&amp;contenttype=vBForum_Post" accesskey="2">What's New?</a></li>
+    		
+    		<li class="popupmenu"><a href="javascript://" class="popupctrl navtab" style="background:transparent">About</a><ul class="popupbody popuphover"><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/506-About-Wonderful-Waterloo" target="_self">Welcome</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/misc.php?do=showrules" target="_self">Code Of Conduct</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/727-Wonderful-Waterloo-Urban-Reward-Program" target="_self">Urban Rewards</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/group.php" target="_self">Groups</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/WDriveLogin" target="_self">W: Drive</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/faq.php" target="_self">FAQ</a></li></ul></li><li class="popupmenu"><a href="javascript://" class="popupctrl navtab" style="background:transparent">Calendars</a><ul class="popupbody popuphover"><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/calendar.php?calendarid=1" target="_self">Municipal Events</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/calendar.php?calendarid=2" target="_self">Arts, Culture & Heritage</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/calendar.php?calendarid=3" target="_self">Sports & Recreation</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/calendar.php?calendarid=4" target="_self">Business</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/calendar.php?calendarid=9" target="_self">Entrepreneurship</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/calendar.php?calendarid=6" target="_self">Food Deals</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="/web/20110209235054/http://www.wonderfulwaterloo.com/calendar.php?calendarid=5" target="_self">Nightlife</a></li></ul></li><li ><a class='navtab' href='/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/206-Maps' target='_self'> Maps</a></li><li ><a class='navtab' href='/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/423-Waterloo-Region-Statistics' target='_self'> Stats</a></li><li ><a class='navtab' href='/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/314-Links' target='_self'> Links</a></li>
+    	</ul>
+    
+    	
+    	<div id="globalsearch" class="globalsearch">
+    		<form action="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=process" method="post" id="navbar_search" class="navbar_search">
+    			
+    			<input type="hidden" name="securitytoken" value="guest" />
+    			<input type="hidden" name="do" value="process" />
+    			<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
+    			<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
+    		</form>
+    		<ul class="navbar_advanced_search">
+    			<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php" accesskey="4">Advanced Search</a></li>
+    		</ul>
+    	</div>
+    	
+    </div>
+    </div><!-- closing div for above_body -->
+    
+    <div class="body_wrapper">
+    
+    <div id="breadcrumb" class="breadcrumb"> 
+            
+    	<ul class="floatcontainer">
+    		<li class="navbithome"><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/index.php" accesskey="1"><img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/navbit-home.png" alt="Home" /></a></li>
+    
+    		
+    	<li class="navbit"><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/forum.php">Forum</a></li>
+     
+    	<li class="navbit"><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/forumdisplay.php/22-General">General</a></li>
+     
+    	<li class="navbit"><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/forumdisplay.php/23-General-Discussion">General Discussion</a></li>
+     
+    		
+    	<li class="navbit lastnavbit"><span> The Weather</span></li>
+     
+    	</ul>
+    	<hr />
+            
+    </div>
+    
+    
+    	<form action="/web/20110209235054/http://www.wonderfulwaterloo.com/profile.php?do=dismissnotice" method="post" id="notices" class="notices">
+    		<input type="hidden" name="do" value="dismissnotice" />
+    		<input type="hidden" name="s" value="" />
+    		<input type="hidden" name="securitytoken" value="guest" />
+    		<input type="hidden" id="dismiss_notice_hidden" name="dismiss_noticeid" value="" />
+    		<input type="hidden" name="url" value="" />
+    		<ol>
+    			<li class="restore" id="navbar_notice_1">
+    	
+    	<center><font style="font-size:15px;">We're a co-operative <b>Waterloo Region</b> based website, with an <a href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/727-Wonderful-Waterloo-Urban-Reward-Program"><b>Urban Reward Program</b></a> designed to boost our downtown cores.<br/> <a href="/web/20110209235054/http://www.wonderfulwaterloo.com/register.php" target="_blank"><b>Register</b></a>
+    		today so you can join the <u>local</u> conversation. To view messages,
+    		select the <a href="/web/20110209235054/http://www.wonderfulwaterloo.com/forum.php"><b>Forum</b></a> you want to visit or check out <a href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=getdaily&amp;contenttype=vBForum_Post"><b>What's New</b></a>.</font></center>
+    </li> 
+    		</ol>
+    	</form>
+    
+    
+    
+    		 
+    		<div id="ad_global_below_navbar"><center>
+    
+    <table>
+      <tr>
+        <th style="padding-right:2px;">
+    <!-- Begin: adBrite, Generated: 2010-12-07 16:54:35  -->
+    <script type="text/javascript">
+    var AdBrite_Title_Color = '0000FF';
+    var AdBrite_Text_Color = '000000';
+    var AdBrite_Background_Color = 'FFFFFF';
+    var AdBrite_Border_Color = 'CCCCCC';
+    var AdBrite_URL_Color = '008000';
+    try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
+    </script>
+    <span style="white-space:nowrap;"><script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="/web/20110209235054/http://ads.adbrite.com/mb/text_group.php?sid=1823469&zs=3436385f3630&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script>
+    <a target="_top" href="/web/20110209235054/http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1823469&amp;afsid=1"><img src="/web/20110209235054im_/http://files.adbrite.com/mb/images/adbrite-your-ad-here-banner.gif" style="background-color:#CCCCCC;border:none;padding:0;margin:0;" alt="Your Ad Here" width="11" height="60" border="0" /></a></span>
+    <!-- End: adBrite -->
+    
+       </th>
+       <th style="padding-left:2px;">
+    
+    <!-- Begin: adBrite, Generated: 2010-12-09 9:16:15  -->
+    <script type="text/javascript">
+    var AdBrite_Title_Color = '0000FF';
+    var AdBrite_Text_Color = '000000';
+    var AdBrite_Background_Color = 'FFFFFF';
+    var AdBrite_Border_Color = 'CCCCCC';
+    var AdBrite_URL_Color = '008000';
+    try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
+    </script>
+    <span style="white-space:nowrap;"><script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="/web/20110209235054/http://ads.adbrite.com/mb/text_group.php?sid=1824559&zs=3436385f3630&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script>
+    <a target="_top" href="/web/20110209235054/http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1824559&amp;afsid=1"><img src="/web/20110209235054im_/http://files.adbrite.com/mb/images/adbrite-your-ad-here-banner.gif" style="background-color:#CCCCCC;border:none;padding:0;margin:0;" alt="Your Ad Here" width="11" height="60" border="0" /></a></span>
+    <!-- End: adBrite -->
+    
+       </th>
+      </tr>
+    </table>
+    
+    <!-- <br/>Thank you for supporting our <a href="/web/20110209235054/http://www.wonderfulwaterloo.com/memberlist.php" target="_blank">local members</a> & <a href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/727-Wonderful-Waterloo-Urban-Reward-Program" target="_blank">Waterloo Region's Economy</a>. --> 
+    
+    </center></div> 
+     
+    
+    
+    
+    
+    	<div id="above_postlist" class="above_postlist">
+    		
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/newreply.php?p=24493&amp;noquote=1" 
+    class="newcontent_textcontrol" id="newreplylink_top"><span>+</span> Reply to Thread</a>
+    			<img style="display:none" id="progress_newreplylink_top" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+    		
+    
+    		<div id="pagination_top" class="pagination_top">
+    		
+    			<div id="postpagestats_above" class="postpagestats">
+    				Results 1 to 20 of 72
+    			</div>
+    		</div>
+    	</div>
+    	<div id="thread_controls" class="thread_controls toolsmenu">
+    		<div>
+    		<ul id="postlist_popups" class="postlist_popups popupgroup">
+    			
+    			<li class="popupmenu" id="threadtools">
+    				<h6><a class="popupctrl" href="javascript://">Thread Tools</a></h6>
+    				<ul class="popupbody popuphover">
+    					<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/printthread.php?t=644&amp;pp=20&amp;page=1" accesskey="3" 
+    						rel="nofollow">Show Printable Version</a></li>
+    					<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/sendmessage.php?do=sendtofriend&amp;t=644"
+    						rel="nofollow">Email this Page&hellip;</a></li>
+    					<li>
+    						
+    							<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/subscription.php?do=addsubscription&amp;t=644" 
+    								rel="nofollow">Subscribe to this Thread&hellip;</a>
+    											
+    					</li>
+    					
+    				</ul>
+    			</li>
+    
+    			
+    
+    			
+    
+    			
+    
+    			
+    				<li class="popupmenu" id="displaymodes">
+    					<h6><a class="popupctrl" href="javascript://">Display</a></h6>
+    					<ul class="popupbody popuphover">
+    						<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24350&amp;mode=linear#post24350"> Switch to Linear Mode</a></li>
+    						<li><label>Hybrid Mode</label></li>
+    						<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24350&amp;mode=threaded#post24350"> Switch to Threaded Mode</a></li>
+    					</ul>
+    				</li>
+    			
+    
+    			
+    		</ul>
+    		</div>
+    	</div>
+    
+    <div id="postlist" class="postlist restrain">
+    	
+    		<script type="text/javascript">
+    <!--
+    var imgdir_statusicon = "images/statusicon";
+    var imgdir_misc = "images/misc";
+    var cleargifurl = "clear.gif";
+    var guestphrase = "Guest";
+    var morephrase = "More replies below current depth...";
+    var highlightwords = "";
+    //-->
+    </script>
+    
+    <script type="text/javascript" src="/web/20110209235054js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_thrdpostlist.js?v=411"></script>
+    
+    <script type="text/javascript">
+    <!--
+    // initialize some variables
+    var curpostid = 24350;
+    var quickreply = false;
+    
+    // cached posts (no page reload required to view)
+    
+    // next/previous post info
+    
+    // cached usernames
+    pu[0] = guestphrase;
+    pu[2] = "UrbanWaterloo";
+    pu[284] = "Waterlooer";
+    pu[216] = "DHLawrence";
+    pu[194] = "panamaniac";
+    pu[177] = "IEFBR14";
+    pu[10] = "plam";
+    pu[73] = "Section ThirtyOne";
+    pu[99] = "Urbanomicon";
+    pu[744] = "HillDweller";
+    pu[341] = "KevinL";
+    pu[19] = "FancyNancy";
+    pu[24] = "Duke-of-Waterloo";
+    pu[4] = "Spokes";
+    pu[731] = "ViewFromThe42";
+    pu[669] = "jerryhung";
+    pu[28] = "GRT Kid";
+    pu[385] = "BuildingScout";
+    pu[5] = "jay";
+    pu[323] = "Newgrad";
+    pu[675] = "Galtonian";
+    pu[735] = "Optimus Prime";
+    pu[331] = "KayDubya";
+    
+    // -->
+    </script>
+    
+    
+    <div id="threaded_view">
+    	<h4>Hybrid View</h4>
+    
+    	<div id="posttree">
+    		<script type="text/javascript">
+    		<!--
+    			writeLink(13545, 0, 0, 2, "", "The Weather", "08-31-2010", "12:48 AM", 0, "showthread.php/644-The-Weather?p=13545#post13545");
+      writeLink(13546, 0, 0, 2, "T", "<i>/web/20110209235054/http://www.region.waterloo.on....</i>", "08-31-2010", "12:48 AM", 0, "showthread.php/644-The-Weather?p=13546#post13546");
+        writeLink(13555, 0, 0, 284, "I,L", "<i>This is going to get worse...</i>", "08-31-2010", "11:03 AM", 0, "showthread.php/644-The-Weather?p=13555#post13555");
+          writeLink(13605, 0, 0, 216, "I,1,L", "<i>For me the year has been...</i>", "08-31-2010", "05:56 PM", 0, "showthread.php/644-The-Weather?p=13605#post13605");
+            writeLink(18159, 0, 0, 284, "I,2,L", "<i>Well, winter is coming! Got...</i>", "11-05-2010", "11:08 AM", 0, "showthread.php/644-The-Weather?p=18159#post18159");
+              writeLink(22610, 0, 0, 2, "I,3,L", "<i>City Declares Snow Event...</i>", "01-12-2011", "07:56 PM", 0, "showthread.php/644-The-Weather?p=22610#post22610");
+                writeLink(22964, 0, 0, 2, "I,4,L", "<i>Do I ever hate winter.  It's...</i>", "01-17-2011", "08:33 PM", 0, "showthread.php/644-The-Weather?p=22964#post22964");
+                  writeLink(22965, 0, 0, 194, "I,5,L", "<i>In that case, I won't tell...</i>", "01-17-2011", "09:23 PM", 0, "showthread.php/644-The-Weather?p=22965#post22965");
+                    writeLink(22970, 0, 0, 177, "I,6,T", "<i>What's brutal is getting on a...</i>", "01-17-2011", "09:40 PM", 0, "showthread.php/644-The-Weather?p=22970#post22970");
+                    writeLink(23750, 0, 0, 2, "I,6,L", "<i>Was it ever brutal outside...</i>", "01-25-2011", "09:36 PM", 0, "showthread.php/644-The-Weather?p=23750#post23750");
+                      writeLink(23753, 0, 0, 10, "I,7,L", "<i>Yes, it was a day for wearing...</i>", "01-25-2011", "09:56 PM", 0, "showthread.php/644-The-Weather?p=23753#post23753");
+                        writeLink(24217, 0, 0, 2, "I,8,L", "<i>Environment Canada Special...</i>", "01-31-2011", "07:46 AM", 0, "showthread.php/644-The-Weather?p=24217#post24217");
+                          writeLink(24291, 0, 0, 284, "I,9,L", "<i>All of the areas listed above...</i>", "01-31-2011", "02:55 PM", 0, "showthread.php/644-The-Weather?p=24291#post24291");
+                            writeLink(24308, 0, 0, 73, "I,10,L", "<i>/web/20110209235054/http://vortex.accuweather.com/...</i>", "01-31-2011", "03:59 PM", 0, "showthread.php/644-The-Weather?p=24308#post24308");
+                              writeLink(24312, 0, 0, 99, "I,11,T", "<i>Thanks for the maps. Did you...</i>", "01-31-2011", "04:14 PM", 0, "showthread.php/644-The-Weather?p=24312#post24312");
+                                writeLink(24314, 0, 0, 73, "I,11,I,L", "<i>Negative, I can't take the...</i>", "01-31-2011", "04:22 PM", 0, "showthread.php/644-The-Weather?p=24314#post24314");
+                                  writeLink(24322, 0, 0, 284, "I,11,I,1,L", "<i>Ah yes, I saw those maps this...</i>", "01-31-2011", "05:08 PM", 0, "showthread.php/644-The-Weather?p=24322#post24322");
+                                    writeLink(24350, 0, 0, 73, "I,11,I,2,L", "<i>They base their forecasts on...</i>", "01-31-2011", "10:06 PM", 1, "showthread.php/644-The-Weather?p=24350#post24350");
+                                      writeLink(24429, 0, 0, 284, "I,11,I,3,L", "<i>We are now under a Winter...</i>", "02-01-2011", "11:38 AM", 1, "showthread.php/644-The-Weather?p=24429#post24429");
+                                        writeLink(24448, 0, 0, 99, "I,11,I,4,T", "<i>I use:...</i>", "02-01-2011", "12:32 PM", 1, "showthread.php/644-The-Weather?p=24448#post24448");
+                                        writeLink(24452, 0, 0, 2, "I,11,I,4,L", "<i>Snow Event to start at 11:59...</i>", "02-01-2011", "12:50 PM", 1, "showthread.php/644-The-Weather?p=24452#post24452");
+                                          writeLink(24457, 0, 0, 744, "I,11,I,5,L", "This shows all of North...", "02-01-2011", "01:13 PM", 1, "showthread.php/644-The-Weather?p=24457#post24457");
+                                            writeLink(24472, 0, 0, 284, "I,11,I,6,L", "<i>People in Oklahoma got...</i>", "02-01-2011", "02:20 PM", 1, "showthread.php/644-The-Weather?p=24472#post24472");
+                                              writeLink(24473, 0, 0, 177, "I,11,I,7,L", "<i>A 23cm snow fall, as is being...</i>", "02-01-2011", "03:04 PM", 1, "showthread.php/644-The-Weather?p=24473#post24473");
+                                                writeLink(24493, 0, 0, 0, "I,11,I,8,L", "", "more", "", 1, "showthread.php/644-The-Weather?p=24493#post24493");
+                              writeLink(24313, 0, 0, 177, "I,11,L", "<i>For someone, no doubt. But...</i>", "01-31-2011", "04:22 PM", 0, "showthread.php/644-The-Weather?p=24313#post24313");
+      writeLink(24553, 0, 0, 731, "L", "<i>It seems as though everything...</i>", "02-02-2011", "08:18 AM", 0, "showthread.php/644-The-Weather?p=24553#post24553");
+        writeLink(24561, 0, 0, 284, "1,L", "<i>We got about 1/3 of the snow...</i>", "02-02-2011", "09:27 AM", 0, "showthread.php/644-The-Weather?p=24561#post24561");
+          writeLink(24563, 0, 0, 669, "2,L", "<i>This is a disappointment......</i>", "02-02-2011", "09:51 AM", 0, "showthread.php/644-The-Weather?p=24563#post24563");
+            writeLink(24565, 0, 0, 4, "3,T", "<i>As expected....over blown.</i>", "02-02-2011", "10:10 AM", 0, "showthread.php/644-The-Weather?p=24565#post24565");
+            writeLink(24566, 0, 0, 28, "3,L", "<i>LMFAO! What happpened to the...</i>", "02-02-2011", "10:10 AM", 0, "showthread.php/644-The-Weather?p=24566#post24566");
+              writeLink(24568, 0, 0, 177, "4,T", "<i>You heard it here...</i>", "02-02-2011", "10:15 AM", 0, "showthread.php/644-The-Weather?p=24568#post24568");
+              writeLink(24576, 0, 0, 0, "4,L", "", "more", "", 0, "showthread.php/644-The-Weather?p=24576#post24576");
+    
+    		//-->
+    		</script>
+    	</div>
+    </div> 
+    	
+    
+    	
+    		<ol id="posts" class="posts" start="1">
+    			<li class="postbit postbitim postcontainer" id="post_24350">
+    	<div class="postdetails_noavatar">
+    		<div class="userinfo">
+    			<div class="contact">
+    				
+    					<a class="postuseravatarlink" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/73-Section-ThirtyOne" title="Section ThirtyOne is offline">
+    						
+    							<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/image.php?u=73&amp;dateline=1296973443" alt="Section ThirtyOne's Avatar" style="max-height: 45px" />
+    						
+    					</a>
+    				
+    				<div class="username_container">
+    					<div>
+    					
+    						<div class="popupmenu memberaction">
+    	<a class="username offline popupctrl" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/73-Section-ThirtyOne" title="Section ThirtyOne is offline"><strong>Section ThirtyOne</strong></a>
+    	<ul class="popupbody popuphover memberaction_body">
+    		<li class="left">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/73-Section-ThirtyOne">
+    				View Profile
+    			</a>
+    		</li>
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=73&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+    				View Forum Posts
+    			</a>
+    		</li>
+    		
+    		
+    		<li class="left">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=73" rel='nofollow'>
+    				Private Message
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/blog.php?u=73" rel='nofollow'>
+    				View Blog Entries
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/list.php/author/73-Section%20ThirtyOne" rel='nofollow'>
+    				View Articles
+    			</a>
+    		</li>
+    		
+    
+    		
+    
+    		
+    		
+    	</ul>
+    </div>
+     
+    					<span class="usertitle">
+    						<font color="#FF6600">Food & Retail Moderator</font>
+    					</span>
+    						<img class="inlineimg onlinestatus" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="Section ThirtyOne is offline" border="0" />
+    
+     
+    					
+    					</div>
+    					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+    						From Waterloo, ON |  Member Since Feb 2010 | 216 Posts
+    					</div>
+                                            
+    				</div>
+    			</div>
+    
+    			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+    			<div style="padding: 6px 10px 3px 0;">
+                            
+                                    <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                            
+                                                    <a name="post24350" href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24350#post24350" class="postcounter">#1</a><a id="postcount24350" name="1"></a>
+                                            
+                                            
+                                            
+                                    </span>
+                                    <div style="margin-top: 6px;">
+                                   <span class="postdate old">
+                                            
+                                                    <span class="date">01-31-2011&nbsp;<span class="time">10:06 PM</span></span>
+                                            
+                                    </span>
+                                    </div>
+                            
+    			</div>
+    			</div>
+    
+    		</div>
+    	</div>
+    
+    	<div class="postbody">
+    		
+    		<div class="postrow">
+    		
+    		
+    				
+    				
+    		<div class="content">
+    			<div id="post_message_24350">
+    				<blockquote class="postcontent restore">
+    					<div class="bbcode_container">
+    	<div class="bbcode_quote">
+    		<div class="quote_container">
+    			<div class="bbcode_quote_container"></div>
+    			
+    				<div class="bbcode_postedby">
+    					<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/quote_icon2.png" alt="Quote" /> Originally Posted by <strong>Waterlooer</strong>
+    					<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php?p=24322#post24322" rel="nofollow"><img class="inlineimg" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/buttons/viewpost-right.png" alt="View Post" /></a>
+    				</div>
+    				<div class="message">Ah yes, I saw those maps this afternoon as well... I think AccuWeather is WAY more accurate than the Weather Network.</div>
+    			
+    		</div>
+    	</div>
+    </div>
+     They base their forecasts on a generally more accurate model, the <a href="/web/20110209235054/http://en.wikipedia.org/wiki/Global_Forecast_System" target="_blank">GFS</a> where as Environment Canada and The Weather Network use the Canadian model.<br />
+    <br />
+    That and the blogger I linked to (Brett) is very good at interpreting the output of the various models and coming to his own conclusions. Those &quot;weather guys&quot; you see on TV (with a few exceptions) generally read from the EC forecasts almost verbatim.
+    				</blockquote>
+    			</div>
+    
+    			
+    
+    
+    		</div>
+    			
+    
+                            	
+    		        
+    			
+    
+    			
+    		</div>
+    	</div>
+    	<div class="postfoot">
+    		<div class="textcontrols floatcontainer">
+    			<span class="postcontrols">
+    				<img style="display:none" id="progress_24350" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+    				
+    				
+    				
+    					<a id="qrwq_24350" class="newreply" href="/web/20110209235054/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=24350" rel="nofollow" ><img id="quoteimg_24350" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+    					
+    				
+    				
+    			</span>
+    
+    			<span class="postlinking">
+    				
+    					
+    				
+    				
+    
+    				 
+    				
+    
+    					
+    
+    					
+    					 
+    
+    					
+    					
+    					
+    					
+    
+    				
+    			</span>
+    		</div>
+    	</div>
+    	<hr />
+    </li>
+    <li class="postbit postbitim" id="post_thanks_box_24350" style="display:none">
+    	
+    </li>
+       <li class="postbit postbitim postcontainer" id="post_24429">
+    	<div class="postdetails_noavatar">
+    		<div class="userinfo">
+    			<div class="contact">
+    				
+    					<a class="postuseravatarlink" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/284-Waterlooer" title="Waterlooer is offline">
+    						
+    							<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/image.php?u=284&amp;dateline=1288713241" alt="Waterlooer's Avatar" style="max-height: 45px" />
+    						
+    					</a>
+    				
+    				<div class="username_container">
+    					<div>
+    					
+    						<div class="popupmenu memberaction">
+    	<a class="username offline popupctrl" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/284-Waterlooer" title="Waterlooer is offline"><strong>Waterlooer</strong></a>
+    	<ul class="popupbody popuphover memberaction_body">
+    		<li class="left">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/284-Waterlooer">
+    				View Profile
+    			</a>
+    		</li>
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=284&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+    				View Forum Posts
+    			</a>
+    		</li>
+    		
+    		
+    		<li class="left">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=284" rel='nofollow'>
+    				Private Message
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/blog.php?u=284" rel='nofollow'>
+    				View Blog Entries
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/list.php/author/284-Waterlooer" rel='nofollow'>
+    				View Articles
+    			</a>
+    		</li>
+    		
+    
+    		
+    
+    		
+    		
+    	</ul>
+    </div>
+     
+    					<span class="usertitle">
+    						City Member
+    					</span>
+    						<img class="inlineimg onlinestatus" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="Waterlooer is offline" border="0" />
+    
+     
+    					
+    					</div>
+    					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+    						From Waterloo, ON |  Member Since Apr 2010 | 502 Posts
+    					</div>
+                                            
+    				</div>
+    			</div>
+    
+    			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+    			<div style="padding: 6px 10px 3px 0;">
+                            
+                                    <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                            
+                                                    <a name="post24429" href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24429#post24429" class="postcounter">#2</a><a id="postcount24429" name="2"></a>
+                                            
+                                            
+                                            
+                                    </span>
+                                    <div style="margin-top: 6px;">
+                                   <span class="postdate old">
+                                            
+                                                    <span class="date">02-01-2011&nbsp;<span class="time">11:38 AM</span></span>
+                                            
+                                    </span>
+                                    </div>
+                            
+    			</div>
+    			</div>
+    
+    		</div>
+    	</div>
+    
+    	<div class="postbody">
+    		
+    		<div class="postrow">
+    		
+    		
+    				
+    				
+    		<div class="content">
+    			<div id="post_message_24429">
+    				<blockquote class="postcontent restore">
+    					We are now under a <a href="/web/20110209235054/http://www.ontarioweather.com/current/warnings/currentwarning.asp?location=on38+specificlocation=Waterloo%20-%20Wellington" target="_blank">Winter Storm Warning</a>. I was also looking at the <a href="/web/20110209235054/http://www.weather.com/weather/map/interactive/" target="_blank">radar</a> and I see a lot of snow on its way! (I recommend using this weather radar: <a href="/web/20110209235054/http://www.weather.com/weather/map/interactive/" target="_blank">http://www.weather.com/weather/map/interactive/</a>.
+    				</blockquote>
+    			</div>
+    
+    			
+    
+    
+    		</div>
+    			
+    
+                            	
+    		        
+    			
+    			<blockquote class="signature restore"><div class="signaturecontainer"><i>Home Sweet Region...</i><b>Waterloo</b></div></blockquote>
+    			
+    
+    			
+    		</div>
+    	</div>
+    	<div class="postfoot">
+    		<div class="textcontrols floatcontainer">
+    			<span class="postcontrols">
+    				<img style="display:none" id="progress_24429" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+    				
+    				
+    				
+    					<a id="qrwq_24429" class="newreply" href="/web/20110209235054/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=24429" rel="nofollow" ><img id="quoteimg_24429" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+    					
+    				
+    				
+    			</span>
+    
+    			<span class="postlinking">
+    				
+    					
+    				
+    				
+    
+    				 
+    				
+    
+    					
+    
+    					
+    					 
+    
+    					
+    					
+    					
+    					
+    
+    				
+    			</span>
+    		</div>
+    	</div>
+    	<hr />
+    </li>
+    <li class="postbit postbitim" id="post_thanks_box_24429" style="display:none">
+    	
+    </li>
+       <li class="postbit postbitim postcontainer" id="post_24448">
+    	<div class="postdetails_noavatar">
+    		<div class="userinfo">
+    			<div class="contact">
+    				
+    					<a class="postuseravatarlink" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/99-Urbanomicon" title="Urbanomicon is offline">
+    						
+    							<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/image.php?u=99&amp;dateline=1266346234" alt="Urbanomicon's Avatar" style="max-height: 45px" />
+    						
+    					</a>
+    				
+    				<div class="username_container">
+    					<div>
+    					
+    						<div class="popupmenu memberaction">
+    	<a class="username offline popupctrl" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/99-Urbanomicon" title="Urbanomicon is offline"><strong>Urbanomicon</strong></a>
+    	<ul class="popupbody popuphover memberaction_body">
+    		<li class="left">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/99-Urbanomicon">
+    				View Profile
+    			</a>
+    		</li>
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=99&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+    				View Forum Posts
+    			</a>
+    		</li>
+    		
+    		
+    		<li class="left">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=99" rel='nofollow'>
+    				Private Message
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/blog.php?u=99" rel='nofollow'>
+    				View Blog Entries
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/list.php/author/99-Urbanomicon" rel='nofollow'>
+    				View Articles
+    			</a>
+    		</li>
+    		
+    
+    		
+    
+    		
+    		
+    	</ul>
+    </div>
+     
+    					<span class="usertitle">
+    						<font color="#FF6600">Senior Moderator</font>
+    					</span>
+    						<img class="inlineimg onlinestatus" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="Urbanomicon is offline" border="0" />
+    
+     
+    					
+    					</div>
+    					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+    						From Kitchener, Ontario |  Member Since Feb 2010 | 1,020 Posts
+    					</div>
+                                            
+    				</div>
+    			</div>
+    
+    			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+    			<div style="padding: 6px 10px 3px 0;">
+                            
+                                    <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                            
+                                                    <a name="post24448" href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24448#post24448" class="postcounter">#3</a><a id="postcount24448" name="3"></a>
+                                            
+                                            
+                                            
+                                    </span>
+                                    <div style="margin-top: 6px;">
+                                   <span class="postdate old">
+                                            
+                                                    <span class="date">02-01-2011&nbsp;<span class="time">12:32 PM</span></span>
+                                            
+                                    </span>
+                                    </div>
+                            
+    			</div>
+    			</div>
+    
+    		</div>
+    	</div>
+    
+    	<div class="postbody">
+    		
+    		<div class="postrow">
+    		
+    		
+    				
+    				
+    		<div class="content">
+    			<div id="post_message_24448">
+    				<blockquote class="postcontent restore">
+    					I use: <a href="/web/20110209235054/http://radar.weather.gov/ridge/Conus/full_loop.php" target="_blank">http://radar.weather.gov/ridge/Conus/full_loop.php</a><br />
+     <br />
+    It uses the much higher resolution U.S. Nexrad doppler radar system. Thanks to Buffalo and Detroit however, Southern Ontario is covered.<br />
+     <br />
+    You can also the National Weather Services' site for their Buffalo (or Detroit) Radar. Doppler data can be viewed here as well, among other things.<br />
+     <br />
+    <a href="/web/20110209235054/http://radar.weather.gov/radar.php?rid=buf&amp;product=N0R&amp;overlay=11101111&amp;loop=no" target="_blank">http://radar.weather.gov/radar.php?r...101111&amp;loop=no</a>
+    				</blockquote>
+    			</div>
+    
+    			
+    
+    
+    		</div>
+    			
+    
+                            	
+    		        
+    			
+    			<blockquote class="signature restore"><div class="signaturecontainer">&quot;Only the insane have the strength enough to prosper. Only those that prosper may truly judge what is sane.&quot;</div></blockquote>
+    			
+    
+    			
+    		</div>
+    	</div>
+    	<div class="postfoot">
+    		<div class="textcontrols floatcontainer">
+    			<span class="postcontrols">
+    				<img style="display:none" id="progress_24448" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+    				
+    				
+    				
+    					<a id="qrwq_24448" class="newreply" href="/web/20110209235054/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=24448" rel="nofollow" ><img id="quoteimg_24448" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+    					
+    				
+    				
+    			</span>
+    
+    			<span class="postlinking">
+    				
+    					
+    				
+    				
+    
+    				 
+    				
+    
+    					
+    
+    					
+    					 
+    
+    					
+    					
+    					
+    					
+    
+    				
+    			</span>
+    		</div>
+    	</div>
+    	<hr />
+    </li>
+    <li class="postbit postbitim" id="post_thanks_box_24448" style="display:none">
+    	
+    </li>
+       <li class="postbit postbitim postcontainer" id="post_24452">
+    	<div class="postdetails_noavatar">
+    		<div class="userinfo">
+    			<div class="contact">
+    				
+    					<a class="postuseravatarlink" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">
+    						
+    							<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo's Avatar" style="max-height: 45px" />
+    						
+    					</a>
+    				
+    				<div class="username_container">
+    					<div>
+    					
+    						<div class="popupmenu memberaction">
+    	<a class="username offline popupctrl" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>
+    	<ul class="popupbody popuphover memberaction_body">
+    		<li class="left">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">
+    				View Profile
+    			</a>
+    		</li>
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+    				View Forum Posts
+    			</a>
+    		</li>
+    		
+    		
+    		<li class="left">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=2" rel='nofollow'>
+    				Private Message
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/blog.php?u=2" rel='nofollow'>
+    				View Blog Entries
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/list.php/author/2-UrbanWaterloo" rel='nofollow'>
+    				View Articles
+    			</a>
+    		</li>
+    		
+    
+    		
+    
+    		
+    		
+    	</ul>
+    </div>
+     
+    					<span class="usertitle">
+    						<font color="#FF6600">Senior Moderator</font>
+    					</span>
+    						<img class="inlineimg onlinestatus" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />
+    
+     
+    					
+    					</div>
+    					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+    						From Kitchener-Waterloo |  Member Since Dec 2009 | 3,581 Posts
+    					</div>
+                                            
+    				</div>
+    			</div>
+    
+    			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+    			<div style="padding: 6px 10px 3px 0;">
+                            
+                                    <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                            
+                                                    <a name="post24452" href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24452#post24452" class="postcounter">#4</a><a id="postcount24452" name="4"></a>
+                                            
+                                            
+                                            
+                                    </span>
+                                    <div style="margin-top: 6px;">
+                                   <span class="postdate old">
+                                            
+                                                    <span class="date">02-01-2011&nbsp;<span class="time">12:50 PM</span></span>
+                                            
+                                    </span>
+                                    </div>
+                            
+    			</div>
+    			</div>
+    
+    		</div>
+    	</div>
+    
+    	<div class="postbody">
+    		
+    		<div class="postrow">
+    		
+    		
+    				
+    				
+    		<div class="content">
+    			<div id="post_message_24452">
+    				<blockquote class="postcontent restore">
+    					<b><font size="4"><font color="blue">Snow Event to start at 11:59 PM on Feb. 1</font></font><br />
+    City of Kitchener | February 1, 2011 | <a href="/web/20110209235054/http://www.kitchener.ca/en/newslist/index.aspx?newsId=rR5lA5HmECkXAdznlQHdbJWIxweQuAleQuAl" target="_blank">Link</a></b><br />
+    <br />
+    Based on credible weather forecast information, the City of Kitchener has now declared an official snow event.  Residents have until 11:59 p.m. Tuesday, Feb. 1, 2011 to remove their parked cars from city streets or risk receiving an $80 ticket and being towed at the owner's expense. The parking ban will remain in affect for 24 hours - until 11:59 p.m. Wednesday, Feb. 2, 2011. <br />
+    <br />
+    Notification will be given in advance of that time as to whether or not the city will cancel the snow event or extend it for another 24 hours. That decision will be made based on weather conditions and credible forecasts. <br />
+    <br />
+    <u>Tag-and-Tow Bylaw</u><br />
+    To help city crews clear all streets of snow within 24 hours of the storm ending, under the city's "tag-and-tow" bylaw residents are prohibited from parking their cars on city streets at any time when a snow event has been declared by the city. Snow events are declared when the city anticipates a significant amount of snow to accumulate.<br />
+    Residents should tune into local media for updates, or visit <a href="/web/20110209235054/http://www.kitchener.ca/" target="_blank">www.kitchener.ca</a> to join the city's snow event email distribution list. Members of that email distribution list will receive a direct email when the city declares future snow events and when snow events are extended or declared over. <br />
+    Residents who suspect their car has been towed should call 519-741-2330 to find out where their car has been relocated. <br />
+    <br />
+    <u>Enforcement of the Tag-and-Tow Bylaw</u><br />
+    During snow events, City of Kitchener bylaw enforcement staff will be asked to attend locations where parked vehicles are impeding snow-removal equipment from clearing the street. Enforcement staff will assess the situation and may ticket and tow some of the vehicles on the street to help the plows remove snow from that street. <br />
+    Vehicles will not be ticketed and towed based on calls from the public. <br />
+    Enforcement will only tow the number of vehicles necessary to allow the snow-removal equipment to do its job. It is possible that only a certain number of vehicles on a street will be removed, regardless of how many are actually present and in violation of the bylaw. In the event that some, but not all, vehicles are towed away, the remaining vehicles found in violation will be ticketed. <br />
+    Vehicles will be ticketed and relocated to another area in close proximity when it is possible and practical to do so. Vehicles will be towed at the owners' expense.
+    				</blockquote>
+    			</div>
+    
+    			
+    
+    
+    		</div>
+    			
+    
+                            	
+    		        
+    			
+    			<blockquote class="signature restore"><div class="signaturecontainer"><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/969-Groundhog-Day-Meet-Up" target="_blank"><b><font color="sienna">Groundhog Day Meet-Up | February 2nd 7-9PM @ KW Art Gallery</font></b><br />
+    </a></div></blockquote>
+    			
+    
+    			
+    		</div>
+    	</div>
+    	<div class="postfoot">
+    		<div class="textcontrols floatcontainer">
+    			<span class="postcontrols">
+    				<img style="display:none" id="progress_24452" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+    				
+    				
+    				
+    					<a id="qrwq_24452" class="newreply" href="/web/20110209235054/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=24452" rel="nofollow" ><img id="quoteimg_24452" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+    					
+    				
+    				
+    			</span>
+    
+    			<span class="postlinking">
+    				
+    					
+    				
+    				
+    
+    				 
+    				
+    
+    					
+    
+    					
+    					 
+    
+    					
+    					
+    					
+    					
+    
+    				
+    			</span>
+    		</div>
+    	</div>
+    	<hr />
+    </li>
+    <li class="postbit postbitim" id="post_thanks_box_24452" style="display:none">
+    	
+    </li>
+       <li class="postbit postbitim postcontainer" id="post_24457">
+    	<div class="postdetails_noavatar">
+    		<div class="userinfo_noavatar">
+    			<div class="contact">
+    				
+    				<div class="username_container">
+    					<div>
+    					
+    						<div class="popupmenu memberaction">
+    	<a class="username offline popupctrl" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/744-HillDweller" title="HillDweller is offline"><strong>HillDweller</strong></a>
+    	<ul class="popupbody popuphover memberaction_body">
+    		<li class="left">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/744-HillDweller">
+    				View Profile
+    			</a>
+    		</li>
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=744&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+    				View Forum Posts
+    			</a>
+    		</li>
+    		
+    		
+    		<li class="left">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=744" rel='nofollow'>
+    				Private Message
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/blog.php?u=744" rel='nofollow'>
+    				View Blog Entries
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/list.php/author/744-HillDweller" rel='nofollow'>
+    				View Articles
+    			</a>
+    		</li>
+    		
+    
+    		
+    
+    		
+    		
+    	</ul>
+    </div>
+     
+    					<span class="usertitle">
+    						Hamlet Member
+    					</span>
+    						<img class="inlineimg onlinestatus" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="HillDweller is offline" border="0" />
+    
+     
+    					
+    					</div>
+    					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+    						 Member Since Dec 2010 | 8 Posts
+    					</div>
+                                            
+    				</div>
+    			</div>
+    
+    			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+    			<div style="padding: 6px 10px 3px 0;">
+                            
+                                    <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                            
+                                                    <a name="post24457" href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24457#post24457" class="postcounter">#5</a><a id="postcount24457" name="5"></a>
+                                            
+                                            
+                                            
+                                    </span>
+                                    <div style="margin-top: 6px;">
+                                   <span class="postdate old">
+                                            
+                                                    <span class="date">02-01-2011&nbsp;<span class="time">01:13 PM</span></span>
+                                            
+                                    </span>
+                                    </div>
+                            
+    			</div>
+    			</div>
+    
+    		</div>
+    	</div>
+    
+    	<div class="postbody">
+    		
+    		<div class="postrow">
+    		
+    		<h2 class="posttitle icon">
+    			This shows all of North America
+    		</h2>
+                    
+    				
+    				
+    		<div class="content">
+    			<div id="post_message_24457">
+    				<blockquote class="postcontent restore">
+    					<a href="/web/20110209235054/http://www.intellicast.com/National/Radar/Current.aspx?location=default&amp;region=CAD&amp;animate=true" target="_blank">http://www.intellicast.com/National/...D&amp;animate=true</a><br />
+    <br />
+    You can zero in to the local area.
+    				</blockquote>
+    			</div>
+    
+    			
+    
+    
+    		</div>
+    			
+    
+                            	
+    		        
+    			
+    
+    			
+    		</div>
+    	</div>
+    	<div class="postfoot">
+    		<div class="textcontrols floatcontainer">
+    			<span class="postcontrols">
+    				<img style="display:none" id="progress_24457" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+    				
+    				
+    				
+    					<a id="qrwq_24457" class="newreply" href="/web/20110209235054/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=24457" rel="nofollow" ><img id="quoteimg_24457" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+    					
+    				
+    				
+    			</span>
+    
+    			<span class="postlinking">
+    				
+    					
+    				
+    				
+    
+    				 
+    				
+    
+    					
+    
+    					
+    					 
+    
+    					
+    					
+    					
+    					
+    
+    				
+    			</span>
+    		</div>
+    	</div>
+    	<hr />
+    </li>
+    <li class="postbit postbitim" id="post_thanks_box_24457" style="display:none">
+    	
+    </li>
+       <li class="postbit postbitim postcontainer" id="post_24472">
+    	<div class="postdetails_noavatar">
+    		<div class="userinfo">
+    			<div class="contact">
+    				
+    					<a class="postuseravatarlink" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/284-Waterlooer" title="Waterlooer is offline">
+    						
+    							<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/image.php?u=284&amp;dateline=1288713241" alt="Waterlooer's Avatar" style="max-height: 45px" />
+    						
+    					</a>
+    				
+    				<div class="username_container">
+    					<div>
+    					
+    						<div class="popupmenu memberaction">
+    	<a class="username offline popupctrl" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/284-Waterlooer" title="Waterlooer is offline"><strong>Waterlooer</strong></a>
+    	<ul class="popupbody popuphover memberaction_body">
+    		<li class="left">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/284-Waterlooer">
+    				View Profile
+    			</a>
+    		</li>
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=284&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+    				View Forum Posts
+    			</a>
+    		</li>
+    		
+    		
+    		<li class="left">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=284" rel='nofollow'>
+    				Private Message
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/blog.php?u=284" rel='nofollow'>
+    				View Blog Entries
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/list.php/author/284-Waterlooer" rel='nofollow'>
+    				View Articles
+    			</a>
+    		</li>
+    		
+    
+    		
+    
+    		
+    		
+    	</ul>
+    </div>
+     
+    					<span class="usertitle">
+    						City Member
+    					</span>
+    						<img class="inlineimg onlinestatus" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="Waterlooer is offline" border="0" />
+    
+     
+    					
+    					</div>
+    					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+    						From Waterloo, ON |  Member Since Apr 2010 | 502 Posts
+    					</div>
+                                            
+    				</div>
+    			</div>
+    
+    			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+    			<div style="padding: 6px 10px 3px 0;">
+                            
+                                    <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                            
+                                                    <a name="post24472" href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24472#post24472" class="postcounter">#6</a><a id="postcount24472" name="6"></a>
+                                            
+                                            
+                                            
+                                    </span>
+                                    <div style="margin-top: 6px;">
+                                   <span class="postdate old">
+                                            
+                                                    <span class="date">02-01-2011&nbsp;<span class="time">02:20 PM</span></span>
+                                            
+                                    </span>
+                                    </div>
+                            
+    			</div>
+    			</div>
+    
+    		</div>
+    	</div>
+    
+    	<div class="postbody">
+    		
+    		<div class="postrow">
+    		
+    		
+    				
+    				
+    		<div class="content">
+    			<div id="post_message_24472">
+    				<blockquote class="postcontent restore">
+    					People in Oklahoma got blasted with snow last night, here is a pic of the storm someone sent in from Oklahoma: (from: <a href="/web/20110209235054/http://vortex.accuweather.com/adc2004/pub/includes/columns/newsstory/2011/300x225_02011829_claremoreok.jpg" target="_blank">http://vortex.accuweather.com/adc200...laremoreok.jpg</a>)<br />
+    <br />
+    <img src="/web/20110209235054im_/http://vortex.accuweather.com/adc2004/pub/includes/columns/newsstory/2011/300x225_02011829_claremoreok.jpg" border="0" alt="" />
+    				</blockquote>
+    			</div>
+    
+    			
+    
+    
+    		</div>
+    			
+    
+                            	
+    		        
+    			
+    			<blockquote class="signature restore"><div class="signaturecontainer"><i>Home Sweet Region...</i><b>Waterloo</b></div></blockquote>
+    			
+    
+    			
+    		</div>
+    	</div>
+    	<div class="postfoot">
+    		<div class="textcontrols floatcontainer">
+    			<span class="postcontrols">
+    				<img style="display:none" id="progress_24472" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+    				
+    				
+    				
+    					<a id="qrwq_24472" class="newreply" href="/web/20110209235054/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=24472" rel="nofollow" ><img id="quoteimg_24472" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+    					
+    				
+    				
+    			</span>
+    
+    			<span class="postlinking">
+    				
+    					
+    				
+    				
+    
+    				 
+    				
+    
+    					
+    
+    					
+    					 
+    
+    					
+    					
+    					
+    					
+    
+    				
+    			</span>
+    		</div>
+    	</div>
+    	<hr />
+    </li>
+    <li class="postbit postbitim" id="post_thanks_box_24472" style="display:none">
+    	
+    </li>
+       <li class="postbit postbitim postcontainer" id="post_24473">
+    	<div class="postdetails_noavatar">
+    		<div class="userinfo">
+    			<div class="contact">
+    				
+    					<a class="postuseravatarlink" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/177-IEFBR14" title="IEFBR14 is online now">
+    						
+    							<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/image.php?u=177&amp;dateline=1283110420" alt="IEFBR14's Avatar" style="max-height: 45px" />
+    						
+    					</a>
+    				
+    				<div class="username_container">
+    					<div>
+    					
+    						<div class="popupmenu memberaction">
+    	<a class="username online popupctrl" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/177-IEFBR14" title="IEFBR14 is online now"><strong>IEFBR14</strong></a>
+    	<ul class="popupbody popuphover memberaction_body">
+    		<li class="left">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/177-IEFBR14">
+    				View Profile
+    			</a>
+    		</li>
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=177&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+    				View Forum Posts
+    			</a>
+    		</li>
+    		
+    		
+    		<li class="left">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=177" rel='nofollow'>
+    				Private Message
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/blog.php?u=177" rel='nofollow'>
+    				View Blog Entries
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/list.php/author/177-IEFBR14" rel='nofollow'>
+    				View Articles
+    			</a>
+    		</li>
+    		
+    
+    		
+    
+    		
+    		
+    	</ul>
+    </div>
+     
+    					<span class="usertitle">
+    						<font color="#FF6600">Transportation Moderator</font>
+    					</span>
+    						
+    <img class="inlineimg onlinestatus" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/statusicon/user-online.png" alt="IEFBR14 is online now" border="0" />
+     
+    					
+    					</div>
+    					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+    						From H2OWC |  Member Since Mar 2010 | 973 Posts
+    					</div>
+                                            
+    				</div>
+    			</div>
+    
+    			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+    			<div style="padding: 6px 10px 3px 0;">
+                            
+                                    <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                            
+                                                    <a name="post24473" href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24473#post24473" class="postcounter">#7</a><a id="postcount24473" name="7"></a>
+                                            
+                                            
+                                            
+                                    </span>
+                                    <div style="margin-top: 6px;">
+                                   <span class="postdate old">
+                                            
+                                                    <span class="date">02-01-2011&nbsp;<span class="time">03:04 PM</span></span>
+                                            
+                                    </span>
+                                    </div>
+                            
+    			</div>
+    			</div>
+    
+    		</div>
+    	</div>
+    
+    	<div class="postbody">
+    		
+    		<div class="postrow">
+    		
+    		
+    				
+    				
+    		<div class="content">
+    			<div id="post_message_24473">
+    				<blockquote class="postcontent restore">
+    					<div class="bbcode_container">
+    	<div class="bbcode_quote">
+    		<div class="quote_container">
+    			<div class="bbcode_quote_container"></div>
+    			
+    				<div class="bbcode_postedby">
+    					<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/quote_icon2.png" alt="Quote" /> Originally Posted by <strong>Waterlooer</strong>
+    					<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php?p=24472#post24472" rel="nofollow"><img class="inlineimg" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/buttons/viewpost-right.png" alt="View Post" /></a>
+    				</div>
+    				<div class="message">People in Oklahoma got blasted with snow last night</div>
+    			
+    		</div>
+    	</div>
+    </div>
+     A 23cm snow fall, as is being reported, is unusual in OK. Neither the general public nor the authorities are prepared for something like that. They probably don't have any snow plows and most vehicle drivers don't know how to drive on snow covered roads even if they did. (A friend who works for the DoT in FL once told be about the havoc that a 1&quot; freak snow fall caused in Tallahassee. It wasn't pretty even if it was hilarious.) <br />
+    <br />
+    But 23cm of snow shouldn't be unusual in southern ON, even Toronto. We get them at least once or twice every year. Yet CBC Radio reports that Toronto authorities are recommending that people stay home tomorrow. Maybe that's because all of our troops are currently busy dealing with sand storms in Afghanistan and can't dig them out <img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/smilies/wink.gif" border="0" alt="" title="Wink" class="inlineimg" /> <br />
+    <br />
+    What a bunch of wimps (Torontonians, not our troops.)
+    				</blockquote>
+    			</div>
+    
+    			
+    
+    
+    		</div>
+    			
+    
+                            	
+    		        
+    			
+    
+    			
+    		</div>
+    	</div>
+    	<div class="postfoot">
+    		<div class="textcontrols floatcontainer">
+    			<span class="postcontrols">
+    				<img style="display:none" id="progress_24473" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+    				
+    				
+    				
+    					<a id="qrwq_24473" class="newreply" href="/web/20110209235054/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=24473" rel="nofollow" ><img id="quoteimg_24473" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+    					
+    				
+    				
+    			</span>
+    
+    			<span class="postlinking">
+    				
+    					
+    				
+    				
+    
+    				 
+    				
+    
+    					
+    
+    					
+    					 
+    
+    					
+    					
+    					
+    					
+    
+    				
+    			</span>
+    		</div>
+    	</div>
+    	<hr />
+    </li>
+    <li class="postbit postbitim" id="post_thanks_box_24473" style="display:none">
+    	
+    </li>
+       <li class="postbit postbitim postcontainer" id="post_24493">
+    	<div class="postdetails_noavatar">
+    		<div class="userinfo_noavatar">
+    			<div class="contact">
+    				
+    				<div class="username_container">
+    					<div>
+    					
+    						<div class="popupmenu memberaction">
+    	<a class="username offline popupctrl" href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/341-KevinL" title="KevinL is offline"><strong>KevinL</strong></a>
+    	<ul class="popupbody popuphover memberaction_body">
+    		<li class="left">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/member.php/341-KevinL">
+    				View Profile
+    			</a>
+    		</li>
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=341&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+    				View Forum Posts
+    			</a>
+    		</li>
+    		
+    		
+    		<li class="left">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=341" rel='nofollow'>
+    				Private Message
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/blog.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/blog.php?u=341" rel='nofollow'>
+    				View Blog Entries
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		
+    		
+    		<li class="right">
+    			<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+    			<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/list.php/author/341-KevinL" rel='nofollow'>
+    				View Articles
+    			</a>
+    		</li>
+    		
+    
+    		
+    
+    		
+    		
+    	</ul>
+    </div>
+     
+    					<span class="usertitle">
+    						Town Member
+    					</span>
+    						<img class="inlineimg onlinestatus" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="KevinL is offline" border="0" />
+    
+     
+    					
+    					</div>
+    					<div class="userinfo_extra" style="font-size: 10px; display: block;">
+    						From West-South-West Kitchener |  Member Since May 2010 | 499 Posts
+    					</div>
+                                            
+    				</div>
+    			</div>
+    
+    			<div style="width:35%; display: inline-block; text-align: right; height:45px;">
+    			<div style="padding: 6px 10px 3px 0;">
+                            
+                                    <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                            
+                                                    <a name="post24493" href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24493#post24493" class="postcounter">#8</a><a id="postcount24493" name="8"></a>
+                                            
+                                            
+                                            
+                                    </span>
+                                    <div style="margin-top: 6px;">
+                                   <span class="postdate old">
+                                            
+                                                    <span class="date">02-01-2011&nbsp;<span class="time">04:51 PM</span></span>
+                                            
+                                    </span>
+                                    </div>
+                            
+    			</div>
+    			</div>
+    
+    		</div>
+    	</div>
+    
+    	<div class="postbody">
+    		
+    		<div class="postrow">
+    		
+    		
+    				
+    				
+    		<div class="content">
+    			<div id="post_message_24493">
+    				<blockquote class="postcontent restore">
+    					<div class="bbcode_container">
+    	<div class="bbcode_quote">
+    		<div class="quote_container">
+    			<div class="bbcode_quote_container"></div>
+    			
+    				<div class="bbcode_postedby">
+    					<img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/quote_icon2.png" alt="Quote" /> Originally Posted by <strong>IEFBR14</strong>
+    					<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php?p=24473#post24473" rel="nofollow"><img class="inlineimg" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/buttons/viewpost-right.png" alt="View Post" /></a>
+    				</div>
+    				<div class="message">A 23cm snow fall, as is being reported, is unusual in OK. Neither the general public nor the authorities are prepared for something like that. They probably don't have any snow plows and most vehicle drivers don't know how to drive on snow covered roads even if they did. (A friend who works for the DoT in FL once told be about the havoc that a 1&quot; freak snow fall caused in Tallahassee. It wasn't pretty even if it was hilarious.)</div>
+    			
+    		</div>
+    	</div>
+    </div>
+     No shovels at hand or winter tires on their wheels either. They have an excuse; we don't.
+    				</blockquote>
+    			</div>
+    
+    			
+    
+    
+    		</div>
+    			
+    
+                            	
+    		        
+    			
+    			<blockquote class="signature restore"><div class="signaturecontainer"><a href="/web/20110209235054/http://www.flickr.com/photos/32498743@N05/" target="_blank">My Flickr</a> - <a href="/web/20110209235054/http://www.facebook.com/profile.php?id=100000167709836" target="_blank">My Facebook</a></div></blockquote>
+    			
+    
+    			
+    		</div>
+    	</div>
+    	<div class="postfoot">
+    		<div class="textcontrols floatcontainer">
+    			<span class="postcontrols">
+    				<img style="display:none" id="progress_24493" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+    				
+    				
+    				
+    					<a id="qrwq_24493" class="newreply" href="/web/20110209235054/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=24493" rel="nofollow" ><img id="quoteimg_24493" src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Reply With Quote" /> Reply With Quote</a>
+    					
+    				
+    				
+    			</span>
+    
+    			<span class="postlinking">
+    				
+    					
+    				
+    				
+    
+    				 
+    				
+    
+    					
+    
+    					
+    					 
+    
+    					
+    					
+    					
+    					
+    
+    				
+    			</span>
+    		</div>
+    	</div>
+    	<hr />
+    </li>
+    <li class="postbit postbitim" id="post_thanks_box_24493" style="display:none">
+    	
+    </li>
+       
+    		</ol>
+                    <div class="separator"></div>
+    		<div class="postlistfoot">
+    			
+    		</div>
+    
+    	
+    
+    </div>
+    
+    <div id="below_postlist" class="noinlinemod below_postlist">
+    	
+    		<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/newreply.php?p=24493&amp;noquote=1" 
+    			class="newcontent_textcontrol" id="newreplylink_bottom"
+    			><span>+</span> Reply to Thread</a>
+    	
+    	<div id="pagination_bottom" class="pagination_bottom">
+    	
+    		
+    	</div>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div style="margin-top:0px; height:8px;"></div>
+    
+    <div id="breadcrumb_two" class="breadcrumb" style="margin-bottom: 6px;">
+    	<ul class="floatcontainer">
+    		<li class="navbithome"><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/index.php" ><img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/navbit-home.png" alt="Home" /></a></li>
+    
+    		
+    	<li class="navbit"><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/forum.php">Forum</a></li>
+     
+    	<li class="navbit"><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/forumdisplay.php/22-General">General</a></li>
+     
+    	<li class="navbit"><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/forumdisplay.php/23-General-Discussion">General Discussion</a></li>
+     
+    		
+    	<li class="navbit lastnavbit"><span> The Weather</span></li>
+     
+    	</ul>
+    	<hr />
+    </div>
+     <div id="thread_info" class="thread_info block">
+    	
+    	
+    	
+    
+    	<TABLE width="100%">     
+    	<tr>     
+    	<td width="50%" valign="top">
+    	
+    	<h4 class="threadinfohead blockhead">Tags for this Thread</h4>
+    	<div id="thread_tags_list" class="thread_info_block blockbody formcontrols" style="min-height:58px;">
+    		<div class="inner_block">
+    			
+    			<div id='tag_list_cell' style="font-size:11px;">
+    				
+    	<ul class="commalist" style="margin-top: 5px;">
+    		<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/tags.php?tag=rain">rain</a></li> <li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/tags.php?tag=snow">snow</a></li> <li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/tags.php?tag=sun">sun</a></li> <li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/tags.php?tag=weather">weather</a></li> 
+    	</ul>
+    
+    
+     <img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/11x11progress.gif" id="tag_form_progress" class="inlineimg hidden" alt="" /> 
+    			</div>
+    			<p style="font-size:11px;">
+    				<a href="/web/20110209235054/http://www.wonderfulwaterloo.com/tags.php">View Tag Cloud</a>
+    			</p>
+    		</div>
+    	</div>
+    	
+    	</td>
+    	<td>
+    	<div class="options_block_container">
+    		
+    		<div class="options_block2">
+    			<h4 class="blockhead">Bookmarks</h4>
+    			<div id="social_bookmarks_list" class="thread_info_block blockbody formcontrols floatcontainer">
+    				<h5 class="blocksubhead">Bookmarks</h5>
+    				<DIV style="height:58px;">
+    				<ul class="icon_list" style="font-size:11px;"><li class="smallfont">
+    	
+    		<a href="/web/20110209235054/http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.wonderfulwaterloo.com%2Fshowthread.php%3Ft%3D644&amp;title=The+Weather" target="socialbookmark"><img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/FaceBook-icon.png" alt="" /></a>
+    	
+    	<a href="/web/20110209235054/http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.wonderfulwaterloo.com%2Fshowthread.php%3Ft%3D644&amp;title=The+Weather" target="socialbookmark">Facebook</a>
+    </li> <li class="smallfont">
+    	
+    		<a href="/web/20110209235054/http://twitter.com/home?status=The+Weather+http%3A%2F%2Fwww.wonderfulwaterloo.com%2Fshowthread.php%3Ft%3D644" target="socialbookmark"><img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/Twitter-icon.png" alt="" /></a>
+    	
+    	<a href="/web/20110209235054/http://twitter.com/home?status=The+Weather+http%3A%2F%2Fwww.wonderfulwaterloo.com%2Fshowthread.php%3Ft%3D644" target="socialbookmark">Twitter</a>
+    </li> <li class="smallfont">
+    	
+    		<a href="/web/20110209235054/http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3A%2F%2Fwww.wonderfulwaterloo.com%2Fshowthread.php%3Ft%3D644&amp;title=The+Weather" target="socialbookmark"><img src="/web/20110209235054im_/http://www.wonderfulwaterloo.com/images/misc/bookmarksite_google.gif" alt="" /></a>
+    	
+    	<a href="/web/20110209235054/http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3A%2F%2Fwww.wonderfulwaterloo.com%2Fshowthread.php%3Ft%3D644&amp;title=The+Weather" target="socialbookmark">Google</a>
+    </li> </ul>
+    				</DIV>
+    			</div>
+    		</div>
+    		
+    		<div class="options_block">
+    			<h4 class="blockhead">Posting Permissions</h4>
+    			<div id="posting_rules" class="thread_info_block blockbody formcontrols floatcontainer">
+    				
+    <div id="forumrules" class="info_subblock">
+    
+    	<ul class="youcandoblock" style="FONT-SIZE:9px; margin:0px" >
+    		<li>You <strong>may not</strong> post new threads</li>
+    		<li>You <strong>may not</strong> post replies</li>
+    		<li>You <strong>may not</strong> post attachments</li>
+    		<li>You <strong>may not</strong> edit your posts</li>
+    	</ul>
+    	<div class="bbcodeblock" style="FONT-SIZE:9px; margin:0px">
+    		<ul>
+    			<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/misc.php?do=bbcode" target="_blank">BB code</a> is <strong>On</strong></li>
+    			<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/misc.php?do=showsmilies" target="_blank">Smilies</a> are <strong>On</strong></li>
+    			<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/misc.php?do=bbcode#imgcode" target="_blank">[IMG]</a> code is <strong>On</strong></li>
+    			<li>HTML code is <strong>Off</strong></li>
+    		</ul>
+    	</div>
+    	<p class="rules_link" style="FONT-SIZE:9px; margin:0px; text-align:right"><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/misc.php?do=showrules" target="_blank">Forum Rules</a></p>
+    
+    </div>
+     
+    			</div>
+    		</div>
+    
+    	</div>
+    	</td>
+    	</tr>     
+    	</TABLE>
+    
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    <div style="margin-top:10px;">
+     
+    <div id="ad_global_above_footer">
+    
+    <center>
+    
+    <table>
+      <tr>
+        <th style="padding-right:2px;">
+    
+    <script type="text/javascript">
+    ch_client = "wonderfulwaterloo";
+    ch_width = 468;
+    ch_height = 60;
+    ch_type = "mpu";
+    ch_sid = "Chitika Default";
+    ch_backfill = 1;
+    ch_color_site_link = "#0000CC";
+    ch_color_title = "#0000CC";
+    ch_color_border = "#FFFFFF";
+    ch_color_text = "#000000";
+    ch_color_bg = "#FFFFFF";
+    </script>
+    <script src="/web/20110209235054js_/http://scripts.chitika.net/eminimalls/amm.js" type="text/javascript">
+    </script>
+    
+       </th>
+       <th style="padding-left:2px;">
+    
+    <!-- Begin: adBrite, Generated: 2011-01-13 7:27:31  -->
+    <script type="text/javascript">
+    var AdBrite_Title_Color = '0000FF';
+    var AdBrite_Text_Color = '000000';
+    var AdBrite_Background_Color = 'FFFFFF';
+    var AdBrite_Border_Color = 'FFFFFF';
+    var AdBrite_URL_Color = '0000FF';
+    try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
+    </script>
+    <span style="white-space:nowrap;"><script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="/web/20110209235054/http://ads.adbrite.com/mb/text_group.php?sid=1848292&zs=3436385f3630&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script>
+    <a target="_top" href="/web/20110209235054/http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1848292&amp;afsid=1"><img src="/web/20110209235054im_/http://files.adbrite.com/mb/images/adbrite-your-ad-here-banner.gif" style="background-color:#FFFFFF;border:none;padding:0;margin:0;" alt="Your Ad Here" width="11" height="60" border="0" /></a></span>
+    <!-- End: adBrite -->
+    
+       </th>
+      </tr>
+    </table>
+    
+    </center>
+    
+    </div> 
+    </div>
+    
+    <div id="footer" class="floatcontainer footer">
+    
+    	<form action="/web/20110209235054/http://www.wonderfulwaterloo.com/forum.php" method="get" id="footer_select" class="footer_select">
+    
+    			
+    		
+    			<select name="styleid" onchange="switch_id(this, 'style')">
+    				<optgroup label="Quick Style Chooser">
+    					<option value="2" class="" selected="selected">-- Default Style</option> <option value="17" class="" >---- QRLeft</option> <option value="38" class="" >---- January 10 New Postbit A</option> <option value="45" class="" >---- January 2 New Postbit B</option> <option value="46" class="" >---- testing jan 10 2010 5</option> <option value="47" class="" >---- GroundhogDay</option> <option value="33" class="" >---- LogoTesting</option> 
+    				</optgroup>
+    			</select>	
+    		
+    		
+    		
+    	</form>
+    
+    	<ul id="footer_links" class="footer_links">
+    		<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/sendmessage.php" rel="nofollow" accesskey="9">Contact Us</a></li>
+    		<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/">Home</a></li>
+    		
+    		
+    		<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/archive/index.php">Archive</a></li>
+    		
+    		
+    		
+    		<li><a href="/web/20110209235054/http://www.wonderfulwaterloo.com/showthread.php/644-The-Weather?p=24350#top" onclick="document.location.hash='top'; return false;">Top</a></li>
+    	</ul>
+    	
+    	
+    	
+    	
+    	<script type="text/javascript">
+    	<!--
+    		// Main vBulletin Javascript Initialization
+    		vBulletin_init();
+    	//-->
+    	</script>
+            
+    </div>
+    </div> <!-- closing div for body_wrapper -->
+    
+    <div class="below_body">
+    <div id="footer_time" class="shade footer_time">All times are GMT -5. The time now is <span class="time">06:50 PM</span>.</div>
+    
+    <div id="footer_copyright" class="shade footer_copyright">
+    	<!-- Do not remove this copyright notice -->
+    	Powered by <a href="/web/20110209235054/http://www.vbulletin.com/" id="vbulletinlink">vBulletin&trade;</a> Version 4.1.1 <br />Copyright &copy; 2011 vBulletin Solutions, Inc. All rights reserved. 
+    	<!-- Do not remove this copyright notice -->	
+    </div>
+    <div id="footer_morecopyright" class="shade footer_morecopyright">
+    	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    	
+    	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    	
+    </div>
+    
+    </div> 
+    
+    </body>
+    </html>
+     
+    
+    
+    
+    
+    <!--
+         FILE ARCHIVED ON 23:50:54 Feb 9, 2011 AND RETRIEVED FROM THE
+         INTERNET ARCHIVE ON 1:31:37 Aug 25, 2014.
+         JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+    
+         ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+         SECTION 108(a)(3)).
+    -->

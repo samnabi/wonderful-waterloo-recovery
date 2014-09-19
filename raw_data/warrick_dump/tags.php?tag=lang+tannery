@@ -1,488 +1,488 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-  <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
-  <head>
-  
-  <script type="text/javascript" src="/static/js/analytics.js" ></script>
-  <link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
-  
-  
-  
-  
-  	
-  	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-  <meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.wonderfulwaterloo.com" />
-    <meta name="generator" content="vBulletin 4.0.1" />
-  
-  
-  		<meta name="keywords" content="wonderful,waterloo,ontario,canada,wonderfulwaterloo,forum,post,city,urban,vbulletin,jelsoft,forum,bbs,discussion,bulletin board" />
-  		<meta name="description" content="This is a discussion forum powered by vBulletin. To find out about vBulletin, go to http://www.vbulletin.com/ ." />
-  
-  
-  <script type="text/javascript" src="/web/20100126031235js_/http://www.wonderfulwaterloo.com/clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=401"></script>
-  <script type="text/javascript" src="/web/20100126031235js_/http://www.wonderfulwaterloo.com/clientscript/yui/connection/connection-min.js?v=401"></script>
-  <script type="text/javascript">
-  <!--
-  	var SESSIONURL = "";
-  	var SECURITYTOKEN = "guest";
-  	var IMGDIR_MISC = "images/misc";
-  	var IMGDIR_BUTTON = "images/buttons";
-  	var vb_disable_ajax = parseInt("0", 10);
-  	var SIMPLEVERSION = "401";
-  	var BBURL = "/web/20100126031235/http://www.wonderfulwaterloo.com";
-  // -->
-  </script>
-  <script type="text/javascript" src="/web/20100126031235js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin-core.js?v=401"></script>
-  
-  
-  
-  	<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2" />
-  	
-  
-  
-  
-  	<link rel="stylesheet" type="text/css" href="/web/20100126031235cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1264156300&amp;td=ltr&amp;sheet=bbcode.css,editor.css,popupmenu.css,reset-fonts.css,vbulletin.css,vbulletin-chrome.css,vbulletin-formcontrols.css" />
-  
-  
-  
-   
-  	<title>Search Results - Wonderful Waterloo</title>
-  	
-  	
-  
-  	
-  		<link rel="stylesheet" type="text/css" href="/web/20100126031235cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1264156300&amp;td=ltr&amp;sheet=threadlist.css,forumbits.css,postbit.css,postbit-lite.css,search.css" />
-  	
-  
-  	<!--[if lt IE 8]>
-  	<script type="text/javascript" src="clientscript/vbulletin-threadlist-ie.js?v=401"></script>
-  	<link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1264156300&amp;td=ltr&amp;sheet=threadlist-ie.css" />
-  	<![endif]-->
-  <link rel="stylesheet" type="text/css" href="/web/20100126031235cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1264156300&amp;td=ltr&amp;sheet=additional.css" />
-   
-  </head>
-  <body>
-  
-  
-  	<div class="above_body"> <!-- closing tag is in template navbar -->
-  <div id="header" class="floatcontainer doc_header">
-  	 
-  	<div><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/" class="logo-image"><img src="/web/20100126031235im_/http://www.wonderfulwaterloo.com/images/v1/logo.gif" alt="" /></a></div> 
-  	<div id="toplinks" class="toplinks">
-  		
-  			<ul class="nouser">
-  			
-  				<li><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/register.php" rel="nofollow">Register</a></li>
-  						
-  				<li><a rel="help" href="/web/20100126031235/http://www.wonderfulwaterloo.com/faq.php">Help</a></li>
-  				<li>
-  			<script type="text/javascript" src="/web/20100126031235js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_md5.js?v=401"></script>
-  			<form action="/web/20100126031235/http://www.wonderfulwaterloo.com/login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
-  				<fieldset id="logindetails" class="logindetails">
-  					<div>
-  						<div>
-  					<input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" onfocus="if (this.value == 'User Name'){this.value=''; this.style.color='black';}" onblur="if (this.value == '') {this.value='User Name'; this.style.color='#828282';}"/>
-  					<input type="password" class="textbox default-value" tabindex="102" name="vb_login_password" id="navbar_password" size="10" onfocus="this.style.color='black';" />
-  					<input type="submit" class="loginbutton" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s" />
-  						</div>
-  					</div>
-  				</fieldset>
-  				<div id="remember" class="remember">
-  					<label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" /> Remember Me?</label>
-  				</div>
-  			
-  				<input type="hidden" name="s" value="" />
-  				<input type="hidden" name="securitytoken" value="guest" />
-  				<input type="hidden" name="do" value="login" />
-  				<input type="hidden" name="vb_login_md5password" />
-  				<input type="hidden" name="vb_login_md5password_utf" />
-  			</form>	
-  				</li>
-  			</ul>
-  		
-  	</div>
-  	<div class="ad_global_header">
-  		 
-  		 
-  	</div>
-  	<hr />
-  	 
-  </div> 
-  	<div id="navbar" class="navbar">
-  
-  	<ul id="navtabs" class="navtabs floatcontainer">
-  		
-  	<li><a class="navtab" href="/web/20100126031235/http://www.wonderfulwaterloo.com/content.php">Home</a></li>
-   <li><a class="navtab" href="/web/20100126031235/http://www.wonderfulwaterloo.com/calendar.php" target="_self">Calendar</a></li>
-  
-   
-  		
-  			<li class="selected"><a class="navtab" href="/web/20100126031235/http://www.wonderfulwaterloo.com/forum.php">Forum</a>
-  				<ul class="floatcontainer">
-  					
-  					
-  						
-  						<li><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/search.php?do=getdaily&amp;contenttype=vBForum_Post">Today's Posts</a></li>
-  						
-  					
-  					
-  					
-  					
-  					<li><a rel="help" href="/web/20100126031235/http://www.wonderfulwaterloo.com/faq.php">FAQ</a></li>
-  					
-  					<li><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/calendar.php">Calendar</a></li>
-  					
-  
-  					<li class="popupmenu">
-  						<a href="javascript://" class="popupctrl">Community</a>
-  						<ul class="popupbody popuphover">
-  							
-  							
-  							
-  							
-  							
-  								<li><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/memberlist.php">Member List</a></li>
-  							
-  							
-  						</ul>
-  					</li>
-  					
-  					<li class="popupmenu">
-  						<a href="javascript://" class="popupctrl">Forum Actions</a>
-  						<ul class="popupbody popuphover">
-  							<li>
-  								<a href="/web/20100126031235/http://www.wonderfulwaterloo.com/forumdisplay.php?do=markread">Mark Forums Read</a>
-  							</li>
-                                                          
-  						</ul>
-  					</li>
-  					<li class="popupmenu">
-  						<a href="javascript://" class="popupctrl">Quick Links</a>
-  						<ul class="popupbody popuphover">
-  							
-  							
-  							<li><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/showgroups.php" rel="nofollow">
-  		
-  			View Site Leaders
-  		
-  	</a></li>
-  							
-  							
-  							
-  							
-  							
-  							
-  						</ul>
-  					</li>
-  					
-  				</ul>
-  
-  			</li>
-  		
-  		
-  		
-  			<li><a class="navtab" href="/web/20100126031235/http://www.wonderfulwaterloo.com/search.php?do=getdaily&amp;contenttype=vBForum_Post">What's New?</a></li>
-  		
-  		
-  	</ul>
-  
-  	
-  	<div id="globalsearch" class="globalsearch">
-  		<form action="/web/20100126031235/http://www.wonderfulwaterloo.com/search.php?do=process" method="post" id="navbar_search" class="navbar_search">
-  			<input type="hidden" name="s" value="" />
-  			<input type="hidden" name="securitytoken" value="guest" />
-  			<input type="hidden" name="do" value="process" />
-  			<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
-  			<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="/web/20100126031235im_/http://www.wonderfulwaterloo.com/images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
-  		</form>
-  		<ul class="navbar_advanced_search">
-  			<li><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/search.php">Advanced Search</a></li>
-  		</ul>
-  	</div>
-  	
-  </div>
-  </div><!-- closing div for above_body -->
-  
-  <div class="body_wrapper">
-  <div id="breadcrumb" class="breadcrumb">
-  	<ul class="floatcontainer">
-  		<li class="navbithome"><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/index.php" ><img src="/web/20100126031235im_/http://www.wonderfulwaterloo.com/images/misc/navbit-home.png" alt="Home" /></a></li>
-  
-  		
-  		
-  	<li class="navbit lastnavbit"><span>Search Forums</span></li>
-   
-  	</ul>
-  	<hr />
-  </div>
-  
-   
-   
-  
-  
-  	<form action="/web/20100126031235/http://www.wonderfulwaterloo.com/profile.php?do=dismissnotice" method="post" id="notices" class="notices">
-  		<input type="hidden" name="do" value="dismissnotice" />
-  		<input type="hidden" name="s" value="" />
-  		<input type="hidden" name="securitytoken" value="guest" />
-  		<input type="hidden" id="dismiss_notice_hidden" name="dismiss_noticeid" value="" />
-  		<input type="hidden" name="url" value="" />
-  		<ol>
-  			<li class="restore" id="navbar_notice_1">
-  	
-  	If this is your first visit, be sure to
-  		check out the <a href="/web/20100126031235/http://www.wonderfulwaterloo.com/faq.php" target="_blank"><b>FAQ</b></a> by clicking the
-  		link above. You may have to <a href="/web/20100126031235/http://www.wonderfulwaterloo.com/register.php" target="_blank"><b>register</b></a>
-  		before you can post: click the register link above to proceed. To start viewing messages,
-  		select the forum that you want to visit from the selection below.
-  </li> 
-  		</ol>
-  	</form>
-   
-  
-  	<div id="pagetitle">
-  		<h1>
-  			
-  				<a href="/web/20100126031235/http://www.wonderfulwaterloo.com/tags.php"><strong>Search:</strong></a>
-  			
-  		</h1>
-  		<p class="description">
-  			Tag: <b><u>lang tannery</u></b>		
-  		</p>
-  	</div>
-  	
-  	
-  	
-  	<div id="above_searchresults" class="floatcontainer">
-  		
-  
-  		<ul id="search_popups" class="popupgroup">
-  			
-  		</ul>
-  	</div>
-  	
-  	
-  	
-  	<div class="block" id="">
-  	
-  		<h2 class="searchlisthead">
-  			<div>
-  				<span>
-  				
-  					<a href="/web/20100126031235/http://www.wonderfulwaterloo.com/tags.php"><strong>Search</strong></a>:
-  				
-  				</span>
-  				<span class="mainsearchstats">
-  					
-  						Search took <strong>0.00</strong> seconds.
-  							
-  				</span>
-  			</div>
-  		</h2>
-  		
-  		
-  		<div class="blockbody">
-  			
-  			
-  				<ol id="searchbits" start="1" class="searchbits">
-  					<li class="imodselector threadbit new" id="thread_30">
-  	<div class="icon0 rating0 nonsticky">
-  		<div class="threadinfo thread">
-  			<!--  status icon block -->
-  			<a class="threadstatus" rel="vB::AJAX" title="
-  			
-  			"></a>
-  		
-  			<!-- title / author block -->
-  			<div class="inner">
-  				<h3 class="searchtitle">
-  				
-                      <a href="/web/20100126031235/http://www.wonderfulwaterloo.com/showthread.php/30-Lang-Tannery-Redevelopment-%7C-20-m-%7C-5-fl-%7C-U-C?goto=newpost" id="thread_gotonew_30"><img class="gotonewpost" src="/web/20100126031235im_/http://www.wonderfulwaterloo.com/images/buttons/firstnew.png" alt="Go to first new post" /></a>
-  						
-  						
-  					
-                                          
-  					
-                      <a class="title threadtitle_unread" href="/web/20100126031235/http://www.wonderfulwaterloo.com/showthread.php/30-Lang-Tannery-Redevelopment-%7C-20-m-%7C-5-fl-%7C-U-C" id="thread_title_30" title="The Lang Tannery Redevelopment 
-  Victoria and Charles, Kitchener 
-  http://www.thetannery.ca/ 
-  Developer: Cadan Inc. 
-  Archetect: Roland Rom Colthoff 
-  ...">Lang Tannery Redevelopment | 20 m | 5 fl | U/C</a>
-  				</h3>
-  						
-  
-  				<div class="threadmeta">				
-  					<div class="author">
-  						
-  						
-  						Posted By
-  						
-  						<a href="/web/20100126031235/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username" title="Started by Spokes, Yesterday">Spokes</a>
-  						
-  						in forum <a href="/web/20100126031235/http://www.wonderfulwaterloo.com/forumdisplay.php/2-Downtowns" title="Downtowns">Downtowns</a>
-  						
-  						
-  							<dl class="pagination" id="pagination_threadbit_30">
-  								<dt class="label">2 Pages <span class="separator">&bull;</span></dt>
-  								<dd>
-  									<span class="pagelinks">
-  										 <a href="/web/20100126031235/http://www.wonderfulwaterloo.com/showthread.php/30-Lang-Tannery-Redevelopment-%7C-20-m-%7C-5-fl-%7C-U-C">1</a>  <a href="/web/20100126031235/http://www.wonderfulwaterloo.com/showthread.php/30-Lang-Tannery-Redevelopment-%7C-20-m-%7C-5-fl-%7C-U-C/page2">2</a> 
-  										
-  									</span>
-  								</dd>
-  							</dl>
-  						
-  					</div>
-  					
-  				</div>
-  
-  			</div>				
-  			<!-- iconinfo -->
-  			<div class="threaddetails td">
-  				<div class="threaddetailicons">
-  					
-  						<img src="/web/20100126031235im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="downtown kitchener, lang tannery" />
-  					
-  					
-  					
-  					
-  					
-  					
-  				</div>
-  			</div>
-  		</div>
-  		
-  		
-  		<!-- threadstats -->
-  		
-  		<ul class="threadstats td alt" title="">
-  			<li class="stats"><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=30" onclick="who(30); return false;">Replies</a>: 11</li>
-  			<li class="stats">Views: 123</li>
-  		</ul>
-  							
-  		<!-- lastpost -->
-  		<dl class="threadlastpost td">
-  			<dt class="lastpostby hidden">Last Post By:</dt>
-  			<dd><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/showthread.php/30-Lang-Tannery-Redevelopment-%7C-20-m-%7C-5-fl-%7C-U-C?p=1056#post1056" class="lastpostdate understate" title="Go to last post">Last Post: Yesterday <em class="time">01:36 PM</em></a> </dd>
-  			<dd>
-  			
-  				by <a href="/web/20100126031235/http://www.wonderfulwaterloo.com/member.php/4-Spokes">Spokes</a>
-  			
-   &nbsp;<a href="/web/20100126031235/http://www.wonderfulwaterloo.com/showthread.php/30-Lang-Tannery-Redevelopment-%7C-20-m-%7C-5-fl-%7C-U-C?p=1056#post1056"><img src="/web/20100126031235im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
-  			</dd>
-  		</dl>
-  
-  		
-  		
-  		
-  		
-  	</div>
-  </li> 
-  				</ol>
-  				
-  			
-  		</div>
-  
-  		<div class="blockfoot">
-  			
-  
-  			
-  			<div id="postpagestats">
-  				Results 1 to 1 of 1
-  			</div>
-  			
-  
-  		</div>
-  	</div>
-  	
-  
-  	
-  	
-  	
-  	
-  
-  	
-  	
-  	
-  	
-  	
-  	 
-   
-  <div id="footer" class="floatcontainer footer">
-  
-  	<form action="/web/20100126031235/http://www.wonderfulwaterloo.com/forum.php" method="get" id="footer_select" class="footer_select">
-  
-  			
-  		
-  			<select name="styleid" onchange="switch_id(this, 'style')">
-  				<optgroup label="Quick Style Chooser">
-  					<option value="2" class="" selected="selected">-- vB4 Default Style</option> 
-  				</optgroup>
-  			</select>	
-  		
-  		
-  		
-  			<select name="langid" onchange="switch_id(this, 'lang')">
-  				<optgroup label="Quick Language Chooser">
-  					<option value="1" class="" selected="selected">-- English (US)</option> 
-  				</optgroup>
-  			</select>
-  		
-  	</form>
-  
-  	<ul id="footer_links" class="footer_links">
-  		<li><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/sendmessage.php" rel="nofollow" accesskey="9">Contact Us</a></li>
-  		<li><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/">Wonderful Waterloo</a></li>
-  		
-  		
-  		<li><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/archive/index.php">Archive</a></li>
-  		
-  		
-  		
-  		<li><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/tags.php?tag=lang+tannery#top" onclick="document.location.hash='top'; return false;">Top</a></li>
-  	</ul>
-  	
-  	
-  	
-  	
-  	<script type="text/javascript">
-  	<!--
-  		// Main vBulletin Javascript Initialization
-  		vBulletin_init();
-  	//-->
-  	</script>
-          
-  </div>
-  </div> <!-- closing div for body_wrapper -->
-  
-  <div class="below_body">
-  <div id="footer_time" class="shade footer_time">All times are GMT -5. The time now is <span class="time">10:12 PM</span>.</div>
-  
-  <div id="footer_copyright" class="shade footer_copyright">
-  	<!-- Do not remove this copyright notice -->
-  	Powered by <a href="/web/20100126031235/http://www.vbulletin.com/" id="vbulletinlink">vBulletin&trade;</a> Version 4.0.1 <br />Copyright &copy; 2010 vBulletin Solutions, Inc. All rights reserved. 
-  	<!-- Do not remove this copyright notice -->	
-  </div>
-  <div id="footer_morecopyright" class="shade footer_morecopyright">
-  	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
-  	
-  	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
-  	
-  </div>
-  
+    <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+    <head>
     
-  </div> 
-  
-  </body>
-  </html> 
-  
-  
-  
-  
-  <!--
-       FILE ARCHIVED ON 3:12:35 Jan 26, 2010 AND RETRIEVED FROM THE
-       INTERNET ARCHIVE ON 10:09:41 Aug 25, 2014.
-       JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-  
-       ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-       SECTION 108(a)(3)).
-  -->
+    <script type="text/javascript" src="/static/js/analytics.js" ></script>
+    <link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+    
+    
+    
+    
+    	
+    	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.wonderfulwaterloo.com" />
+      <meta name="generator" content="vBulletin 4.0.1" />
+    
+    
+    		<meta name="keywords" content="wonderful,waterloo,ontario,canada,wonderfulwaterloo,forum,post,city,urban,vbulletin,jelsoft,forum,bbs,discussion,bulletin board" />
+    		<meta name="description" content="This is a discussion forum powered by vBulletin. To find out about vBulletin, go to http://www.vbulletin.com/ ." />
+    
+    
+    <script type="text/javascript" src="/web/20100126031235js_/http://www.wonderfulwaterloo.com/clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=401"></script>
+    <script type="text/javascript" src="/web/20100126031235js_/http://www.wonderfulwaterloo.com/clientscript/yui/connection/connection-min.js?v=401"></script>
+    <script type="text/javascript">
+    <!--
+    	var SESSIONURL = "";
+    	var SECURITYTOKEN = "guest";
+    	var IMGDIR_MISC = "images/misc";
+    	var IMGDIR_BUTTON = "images/buttons";
+    	var vb_disable_ajax = parseInt("0", 10);
+    	var SIMPLEVERSION = "401";
+    	var BBURL = "/web/20100126031235/http://www.wonderfulwaterloo.com";
+    // -->
+    </script>
+    <script type="text/javascript" src="/web/20100126031235js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin-core.js?v=401"></script>
+    
+    
+    
+    	<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2" />
+    	
+    
+    
+    
+    	<link rel="stylesheet" type="text/css" href="/web/20100126031235cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1264156300&amp;td=ltr&amp;sheet=bbcode.css,editor.css,popupmenu.css,reset-fonts.css,vbulletin.css,vbulletin-chrome.css,vbulletin-formcontrols.css" />
+    
+    
+    
+     
+    	<title>Search Results - Wonderful Waterloo</title>
+    	
+    	
+    
+    	
+    		<link rel="stylesheet" type="text/css" href="/web/20100126031235cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1264156300&amp;td=ltr&amp;sheet=threadlist.css,forumbits.css,postbit.css,postbit-lite.css,search.css" />
+    	
+    
+    	<!--[if lt IE 8]>
+    	<script type="text/javascript" src="clientscript/vbulletin-threadlist-ie.js?v=401"></script>
+    	<link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1264156300&amp;td=ltr&amp;sheet=threadlist-ie.css" />
+    	<![endif]-->
+    <link rel="stylesheet" type="text/css" href="/web/20100126031235cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1264156300&amp;td=ltr&amp;sheet=additional.css" />
+     
+    </head>
+    <body>
+    
+    
+    	<div class="above_body"> <!-- closing tag is in template navbar -->
+    <div id="header" class="floatcontainer doc_header">
+    	 
+    	<div><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/" class="logo-image"><img src="/web/20100126031235im_/http://www.wonderfulwaterloo.com/images/v1/logo.gif" alt="" /></a></div> 
+    	<div id="toplinks" class="toplinks">
+    		
+    			<ul class="nouser">
+    			
+    				<li><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/register.php" rel="nofollow">Register</a></li>
+    						
+    				<li><a rel="help" href="/web/20100126031235/http://www.wonderfulwaterloo.com/faq.php">Help</a></li>
+    				<li>
+    			<script type="text/javascript" src="/web/20100126031235js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_md5.js?v=401"></script>
+    			<form action="/web/20100126031235/http://www.wonderfulwaterloo.com/login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+    				<fieldset id="logindetails" class="logindetails">
+    					<div>
+    						<div>
+    					<input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" onfocus="if (this.value == 'User Name'){this.value=''; this.style.color='black';}" onblur="if (this.value == '') {this.value='User Name'; this.style.color='#828282';}"/>
+    					<input type="password" class="textbox default-value" tabindex="102" name="vb_login_password" id="navbar_password" size="10" onfocus="this.style.color='black';" />
+    					<input type="submit" class="loginbutton" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s" />
+    						</div>
+    					</div>
+    				</fieldset>
+    				<div id="remember" class="remember">
+    					<label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" /> Remember Me?</label>
+    				</div>
+    			
+    				<input type="hidden" name="s" value="" />
+    				<input type="hidden" name="securitytoken" value="guest" />
+    				<input type="hidden" name="do" value="login" />
+    				<input type="hidden" name="vb_login_md5password" />
+    				<input type="hidden" name="vb_login_md5password_utf" />
+    			</form>	
+    				</li>
+    			</ul>
+    		
+    	</div>
+    	<div class="ad_global_header">
+    		 
+    		 
+    	</div>
+    	<hr />
+    	 
+    </div> 
+    	<div id="navbar" class="navbar">
+    
+    	<ul id="navtabs" class="navtabs floatcontainer">
+    		
+    	<li><a class="navtab" href="/web/20100126031235/http://www.wonderfulwaterloo.com/content.php">Home</a></li>
+     <li><a class="navtab" href="/web/20100126031235/http://www.wonderfulwaterloo.com/calendar.php" target="_self">Calendar</a></li>
+    
+     
+    		
+    			<li class="selected"><a class="navtab" href="/web/20100126031235/http://www.wonderfulwaterloo.com/forum.php">Forum</a>
+    				<ul class="floatcontainer">
+    					
+    					
+    						
+    						<li><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/search.php?do=getdaily&amp;contenttype=vBForum_Post">Today's Posts</a></li>
+    						
+    					
+    					
+    					
+    					
+    					<li><a rel="help" href="/web/20100126031235/http://www.wonderfulwaterloo.com/faq.php">FAQ</a></li>
+    					
+    					<li><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/calendar.php">Calendar</a></li>
+    					
+    
+    					<li class="popupmenu">
+    						<a href="javascript://" class="popupctrl">Community</a>
+    						<ul class="popupbody popuphover">
+    							
+    							
+    							
+    							
+    							
+    								<li><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/memberlist.php">Member List</a></li>
+    							
+    							
+    						</ul>
+    					</li>
+    					
+    					<li class="popupmenu">
+    						<a href="javascript://" class="popupctrl">Forum Actions</a>
+    						<ul class="popupbody popuphover">
+    							<li>
+    								<a href="/web/20100126031235/http://www.wonderfulwaterloo.com/forumdisplay.php?do=markread">Mark Forums Read</a>
+    							</li>
+                                                            
+    						</ul>
+    					</li>
+    					<li class="popupmenu">
+    						<a href="javascript://" class="popupctrl">Quick Links</a>
+    						<ul class="popupbody popuphover">
+    							
+    							
+    							<li><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/showgroups.php" rel="nofollow">
+    		
+    			View Site Leaders
+    		
+    	</a></li>
+    							
+    							
+    							
+    							
+    							
+    							
+    						</ul>
+    					</li>
+    					
+    				</ul>
+    
+    			</li>
+    		
+    		
+    		
+    			<li><a class="navtab" href="/web/20100126031235/http://www.wonderfulwaterloo.com/search.php?do=getdaily&amp;contenttype=vBForum_Post">What's New?</a></li>
+    		
+    		
+    	</ul>
+    
+    	
+    	<div id="globalsearch" class="globalsearch">
+    		<form action="/web/20100126031235/http://www.wonderfulwaterloo.com/search.php?do=process" method="post" id="navbar_search" class="navbar_search">
+    			<input type="hidden" name="s" value="" />
+    			<input type="hidden" name="securitytoken" value="guest" />
+    			<input type="hidden" name="do" value="process" />
+    			<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
+    			<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="/web/20100126031235im_/http://www.wonderfulwaterloo.com/images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
+    		</form>
+    		<ul class="navbar_advanced_search">
+    			<li><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/search.php">Advanced Search</a></li>
+    		</ul>
+    	</div>
+    	
+    </div>
+    </div><!-- closing div for above_body -->
+    
+    <div class="body_wrapper">
+    <div id="breadcrumb" class="breadcrumb">
+    	<ul class="floatcontainer">
+    		<li class="navbithome"><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/index.php" ><img src="/web/20100126031235im_/http://www.wonderfulwaterloo.com/images/misc/navbit-home.png" alt="Home" /></a></li>
+    
+    		
+    		
+    	<li class="navbit lastnavbit"><span>Search Forums</span></li>
+     
+    	</ul>
+    	<hr />
+    </div>
+    
+     
+     
+    
+    
+    	<form action="/web/20100126031235/http://www.wonderfulwaterloo.com/profile.php?do=dismissnotice" method="post" id="notices" class="notices">
+    		<input type="hidden" name="do" value="dismissnotice" />
+    		<input type="hidden" name="s" value="" />
+    		<input type="hidden" name="securitytoken" value="guest" />
+    		<input type="hidden" id="dismiss_notice_hidden" name="dismiss_noticeid" value="" />
+    		<input type="hidden" name="url" value="" />
+    		<ol>
+    			<li class="restore" id="navbar_notice_1">
+    	
+    	If this is your first visit, be sure to
+    		check out the <a href="/web/20100126031235/http://www.wonderfulwaterloo.com/faq.php" target="_blank"><b>FAQ</b></a> by clicking the
+    		link above. You may have to <a href="/web/20100126031235/http://www.wonderfulwaterloo.com/register.php" target="_blank"><b>register</b></a>
+    		before you can post: click the register link above to proceed. To start viewing messages,
+    		select the forum that you want to visit from the selection below.
+    </li> 
+    		</ol>
+    	</form>
+     
+    
+    	<div id="pagetitle">
+    		<h1>
+    			
+    				<a href="/web/20100126031235/http://www.wonderfulwaterloo.com/tags.php"><strong>Search:</strong></a>
+    			
+    		</h1>
+    		<p class="description">
+    			Tag: <b><u>lang tannery</u></b>		
+    		</p>
+    	</div>
+    	
+    	
+    	
+    	<div id="above_searchresults" class="floatcontainer">
+    		
+    
+    		<ul id="search_popups" class="popupgroup">
+    			
+    		</ul>
+    	</div>
+    	
+    	
+    	
+    	<div class="block" id="">
+    	
+    		<h2 class="searchlisthead">
+    			<div>
+    				<span>
+    				
+    					<a href="/web/20100126031235/http://www.wonderfulwaterloo.com/tags.php"><strong>Search</strong></a>:
+    				
+    				</span>
+    				<span class="mainsearchstats">
+    					
+    						Search took <strong>0.00</strong> seconds.
+    							
+    				</span>
+    			</div>
+    		</h2>
+    		
+    		
+    		<div class="blockbody">
+    			
+    			
+    				<ol id="searchbits" start="1" class="searchbits">
+    					<li class="imodselector threadbit new" id="thread_30">
+    	<div class="icon0 rating0 nonsticky">
+    		<div class="threadinfo thread">
+    			<!--  status icon block -->
+    			<a class="threadstatus" rel="vB::AJAX" title="
+    			
+    			"></a>
+    		
+    			<!-- title / author block -->
+    			<div class="inner">
+    				<h3 class="searchtitle">
+    				
+                        <a href="/web/20100126031235/http://www.wonderfulwaterloo.com/showthread.php/30-Lang-Tannery-Redevelopment-%7C-20-m-%7C-5-fl-%7C-U-C?goto=newpost" id="thread_gotonew_30"><img class="gotonewpost" src="/web/20100126031235im_/http://www.wonderfulwaterloo.com/images/buttons/firstnew.png" alt="Go to first new post" /></a>
+    						
+    						
+    					
+                                            
+    					
+                        <a class="title threadtitle_unread" href="/web/20100126031235/http://www.wonderfulwaterloo.com/showthread.php/30-Lang-Tannery-Redevelopment-%7C-20-m-%7C-5-fl-%7C-U-C" id="thread_title_30" title="The Lang Tannery Redevelopment 
+    Victoria and Charles, Kitchener 
+    http://www.thetannery.ca/ 
+    Developer: Cadan Inc. 
+    Archetect: Roland Rom Colthoff 
+    ...">Lang Tannery Redevelopment | 20 m | 5 fl | U/C</a>
+    				</h3>
+    						
+    
+    				<div class="threadmeta">				
+    					<div class="author">
+    						
+    						
+    						Posted By
+    						
+    						<a href="/web/20100126031235/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username" title="Started by Spokes, Yesterday">Spokes</a>
+    						
+    						in forum <a href="/web/20100126031235/http://www.wonderfulwaterloo.com/forumdisplay.php/2-Downtowns" title="Downtowns">Downtowns</a>
+    						
+    						
+    							<dl class="pagination" id="pagination_threadbit_30">
+    								<dt class="label">2 Pages <span class="separator">&bull;</span></dt>
+    								<dd>
+    									<span class="pagelinks">
+    										 <a href="/web/20100126031235/http://www.wonderfulwaterloo.com/showthread.php/30-Lang-Tannery-Redevelopment-%7C-20-m-%7C-5-fl-%7C-U-C">1</a>  <a href="/web/20100126031235/http://www.wonderfulwaterloo.com/showthread.php/30-Lang-Tannery-Redevelopment-%7C-20-m-%7C-5-fl-%7C-U-C/page2">2</a> 
+    										
+    									</span>
+    								</dd>
+    							</dl>
+    						
+    					</div>
+    					
+    				</div>
+    
+    			</div>				
+    			<!-- iconinfo -->
+    			<div class="threaddetails td">
+    				<div class="threaddetailicons">
+    					
+    						<img src="/web/20100126031235im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="downtown kitchener, lang tannery" />
+    					
+    					
+    					
+    					
+    					
+    					
+    				</div>
+    			</div>
+    		</div>
+    		
+    		
+    		<!-- threadstats -->
+    		
+    		<ul class="threadstats td alt" title="">
+    			<li class="stats"><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=30" onclick="who(30); return false;">Replies</a>: 11</li>
+    			<li class="stats">Views: 123</li>
+    		</ul>
+    							
+    		<!-- lastpost -->
+    		<dl class="threadlastpost td">
+    			<dt class="lastpostby hidden">Last Post By:</dt>
+    			<dd><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/showthread.php/30-Lang-Tannery-Redevelopment-%7C-20-m-%7C-5-fl-%7C-U-C?p=1056#post1056" class="lastpostdate understate" title="Go to last post">Last Post: Yesterday <em class="time">01:36 PM</em></a> </dd>
+    			<dd>
+    			
+    				by <a href="/web/20100126031235/http://www.wonderfulwaterloo.com/member.php/4-Spokes">Spokes</a>
+    			
+     &nbsp;<a href="/web/20100126031235/http://www.wonderfulwaterloo.com/showthread.php/30-Lang-Tannery-Redevelopment-%7C-20-m-%7C-5-fl-%7C-U-C?p=1056#post1056"><img src="/web/20100126031235im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+    			</dd>
+    		</dl>
+    
+    		
+    		
+    		
+    		
+    	</div>
+    </li> 
+    				</ol>
+    				
+    			
+    		</div>
+    
+    		<div class="blockfoot">
+    			
+    
+    			
+    			<div id="postpagestats">
+    				Results 1 to 1 of 1
+    			</div>
+    			
+    
+    		</div>
+    	</div>
+    	
+    
+    	
+    	
+    	
+    	
+    
+    	
+    	
+    	
+    	
+    	
+    	 
+     
+    <div id="footer" class="floatcontainer footer">
+    
+    	<form action="/web/20100126031235/http://www.wonderfulwaterloo.com/forum.php" method="get" id="footer_select" class="footer_select">
+    
+    			
+    		
+    			<select name="styleid" onchange="switch_id(this, 'style')">
+    				<optgroup label="Quick Style Chooser">
+    					<option value="2" class="" selected="selected">-- vB4 Default Style</option> 
+    				</optgroup>
+    			</select>	
+    		
+    		
+    		
+    			<select name="langid" onchange="switch_id(this, 'lang')">
+    				<optgroup label="Quick Language Chooser">
+    					<option value="1" class="" selected="selected">-- English (US)</option> 
+    				</optgroup>
+    			</select>
+    		
+    	</form>
+    
+    	<ul id="footer_links" class="footer_links">
+    		<li><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/sendmessage.php" rel="nofollow" accesskey="9">Contact Us</a></li>
+    		<li><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/">Wonderful Waterloo</a></li>
+    		
+    		
+    		<li><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/archive/index.php">Archive</a></li>
+    		
+    		
+    		
+    		<li><a href="/web/20100126031235/http://www.wonderfulwaterloo.com/tags.php?tag=lang+tannery#top" onclick="document.location.hash='top'; return false;">Top</a></li>
+    	</ul>
+    	
+    	
+    	
+    	
+    	<script type="text/javascript">
+    	<!--
+    		// Main vBulletin Javascript Initialization
+    		vBulletin_init();
+    	//-->
+    	</script>
+            
+    </div>
+    </div> <!-- closing div for body_wrapper -->
+    
+    <div class="below_body">
+    <div id="footer_time" class="shade footer_time">All times are GMT -5. The time now is <span class="time">10:12 PM</span>.</div>
+    
+    <div id="footer_copyright" class="shade footer_copyright">
+    	<!-- Do not remove this copyright notice -->
+    	Powered by <a href="/web/20100126031235/http://www.vbulletin.com/" id="vbulletinlink">vBulletin&trade;</a> Version 4.0.1 <br />Copyright &copy; 2010 vBulletin Solutions, Inc. All rights reserved. 
+    	<!-- Do not remove this copyright notice -->	
+    </div>
+    <div id="footer_morecopyright" class="shade footer_morecopyright">
+    	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    	
+    	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    	
+    </div>
+    
+      
+    </div> 
+    
+    </body>
+    </html> 
+    
+    
+    
+    
+    <!--
+         FILE ARCHIVED ON 3:12:35 Jan 26, 2010 AND RETRIEVED FROM THE
+         INTERNET ARCHIVE ON 10:09:41 Aug 25, 2014.
+         JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+    
+         ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+         SECTION 108(a)(3)).
+    -->

@@ -1,1999 +1,1999 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-  <!-- BEGIN TEMPLATE: SHOWTHREAD -->
-  
-  <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" id="vbulletin_html">
-  <head>
-  
-  <script type="text/javascript" src="/static/js/analytics.js" ></script>
-  <link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
-  
-  
-  
-  
-  	<!-- BEGIN TEMPLATE: headinclude -->
-  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-  <meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.wonderfulwaterloo.com" />
-    <meta http-equiv="X-UA-Compatible" content="IE=9" />
-  
-  	<link rel="Shortcut Icon" href="/web/20130827124336im_/http://www.wonderfulwaterloo.com/favicon.ico" type="image/x-icon" />
-  
-  
-  
-  
-  
-  
-  
-  
-  	
-  		<script type="text/javascript" src="/web/20130827124336js_/http://yui.yahooapis.com/combo?2.9.0/build/yuiloader-dom-event/yuiloader-dom-event.js&amp;2.9.0/build/connection/connection-min.js"></script>
-  	
-  
-  <script type="text/javascript">
-  <!--
-  	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
-  	{
-  		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=421"><\/script>');
-  		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=421"><\/script>');
-  		var yuipath = 'clientscript/yui';
-  		var yuicombopath = '';
-  		var remoteyui = false;
-  	}
-  	else	// Load Rest of YUI remotely (where possible)
-  	{
-  		var yuipath = '/web/20130827124336/http://yui.yahooapis.com/2.9.0/build';
-  		var yuicombopath = '/web/20130827124336/http://yui.yahooapis.com/combo';
-  		var remoteyui = true;
-  		if (!yuicombopath)
-  		{
-  			document.write('<script type="text/javascript" src="/web/20130827124336/http://yui.yahooapis.com/2.9.0/build/connection/connection-min.js?v=421"><\/script>');
-  		}
-  	}
-  	var SESSIONURL = "";
-  	var SECURITYTOKEN = "guest";
-  	var IMGDIR_MISC = "images/misc";
-  	var IMGDIR_BUTTON = "images/buttons";
-  	var vb_disable_ajax = parseInt("0", 10);
-  	var SIMPLEVERSION = "421";
-  	var BBURL = "/web/20130827124336/http://www.wonderfulwaterloo.com";
-  	var LOGGEDIN = 0 > 0 ? true : false;
-  	var THIS_SCRIPT = "showthread";
-  	var RELPATH = "showthread.php?t=934";
-  	var PATHS = {
-  		forum : "",
-  		cms   : "",
-  		blog  : ""
-  	};
-  	var AJAXBASEURL = "/web/20130827124336/http://www.wonderfulwaterloo.com/";
-  // -->
-  </script>
-  <script type="text/javascript" src="/web/20130827124336js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin-core.js?v=421"></script>
-  
-  
-  
-  	<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2" />
-  	
-  		<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo - General Discussion - RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2&amp;forumids=23" />
-  	
-  
-  
-  
-  	<link rel="stylesheet" type="text/css" href="/web/20130827124336cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1373539657&amp;td=ltr&amp;sheet=bbcode.css,editor.css,popupmenu.css,reset-fonts.css,vbulletin.css,vbulletin-chrome.css,vbulletin-formcontrols.css," />
-  
-  	<!--[if lt IE 8]>
-  	<link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1373539657&amp;td=ltr&amp;sheet=popupmenu-ie.css,vbulletin-ie.css,vbulletin-chrome-ie.css,vbulletin-formcontrols-ie.css,editor-ie.css" />
-  	<![endif]-->
-  
-  <!-- END TEMPLATE: headinclude --><!-- BEGIN TEMPLATE: post_thanks_javascript -->
-  <script type="text/javascript" src="/web/20130827124336js_/http://www.wonderfulwaterloo.com/clientscript/post_thanks.js"></script>
-  
-  <style type="text/css">
-  .postbitlegacy .postfoot .textcontrols a.post_thanks_button, .postbit .postfoot .textcontrols a.post_thanks_button  {
-  	background: url(/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/buttons/post_thanks.png) no-repeat transparent left;
-  	padding-left: 20px;
-  }
-  .postbitlegacy .postfoot .textcontrols a.post_thanks_button:hover, .postbit .postfoot .textcontrols a.post_thanks_button:hover  {
-  	background: url(/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/buttons/post_thanks-hover.png) no-repeat transparent left;
-  </style>
-   
-  <!-- END TEMPLATE: post_thanks_javascript -->
-  	<meta name="keywords" content="mall, photo, time, make, santa, major, didn&amp;8217t, buzz, suit, building, kids, rethink, lead, face, nick, generously, saint, cash, e-mails, moment, wishes, season, extends, caught, doling, sprucing, addition, redecorate, cost, cool, dollars, million, quarter, cheap, conestoga, that&amp;8217s, year, learned, lesson, waterloo&amp;8217s, renovation, options, line-breaks, display, news, article, party, translates, posting, guidelines" />
-  	<meta name="description" content="Third Party Article and Photo Posting Guidelines 
-   
-  Articles 
-   
-   
-   
-   
-  Photos" />
-  
-  	<title> Third Party Article and Photo Posting Guidelines</title>
-  	<link rel="canonical" href="showthread.php?t=934" />
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  	
-  
-  	
-  		<link rel="stylesheet" type="text/css" href="/web/20130827124336cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1373539657&amp;td=ltr&amp;sheet=toolsmenu.css,postlist.css,showthread.css,postbit.css,options.css,attachment.css,poll.css,lightbox.css" />
-  	
-  	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1373539657&amp;td=ltr&amp;sheet=toolsmenu-ie.css,postlist-ie.css,showthread-ie.css,postbit-ie.css,poll-ie.css" /><![endif]-->
-  <!-- BEGIN TEMPLATE: headinclude_bottom -->
-  <link rel="stylesheet" type="text/css" href="/web/20130827124336cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1373539657&amp;td=ltr&amp;sheet=additional.css" />
-  
-  <!-- END TEMPLATE: headinclude_bottom -->
-  </head>
-  
-  <body>
-  
-  
-  
-  <!-- BEGIN TEMPLATE: header -->
-  <script src="/web/20130827124336js_/http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  
-  <div style="background:#C6CEDF;">
-  <div class="container">
-  
-  </div>
-  </div>
-  
-  
-  <div id="globaltoolbar" style="background:rgb(66, 90, 148); height:38px;">
-  <div class="container">
-  
-  <!-- advertisement right transparent background strip -->
-  <div style="position: fixed; width: 240px; margin-left: 1002px; height: 100%; background-color: #000000; opacity: .7; z-index:-10;"></div>
-  
-  	<ul id="navtabs" class="navtabs floatcontainer">
-  		
-  		<!-- BEGIN TEMPLATE: navbar_tabs -->
-  <script src="/web/20130827124336js_/http://www.wonderfulwaterloo.com/projects/navtabhover.js"></script>
-  
-  
-  	
-  		<li  id="vbtab_cms">
-  			<a class="navtab" href="/web/20130827124336/http://www.wonderfulwaterloo.com/content.php">Home</a>
-  		</li>
-  		
-  		
-  
-  	
-  		<li class="selected" id="vbtab_forum">
-  			<a class="navtab" href="/web/20130827124336/http://www.wonderfulwaterloo.com/forum.php">Forum</a>
-  		</li>
-  		
-  		
-  
-  	
-  		<li class="popupmenu navtab" id="vbtab_whatsnew">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/activity.php" onClick="location.href = 'activity.php'" class="popupctrl navtab">New
-  			</a>
-  			<ul class="popupbody popuphover">
-  				
-  					<li id="link_nzy5_898"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/activity.php">Activity</a></li>
-  				
-  					<li id="vbnew_newposts"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=getnew&amp;contenttype=vBForum_Post">Posts</a></li>
-  				
-  					<li id="vbnew_events"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=getnew&amp;contenttype=vBForum_Event">Events</a></li>
-  				
-  					<li id="vbnew_mfr"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/forumdisplay.php?do=markread&amp;markreadhash=">Mark Forums Read</a></li>
-  				
-  			</ul>
-  		</li>
-  		
-  		
-  
-  	
-  		<li class="popupmenu navtab" id="tab_otkw_803">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/about.php" onClick="location.href = 'about.php'" class="popupctrl navtab">About
-  			</a>
-  			<ul class="popupbody popuphover">
-  				
-  					<li id="link_otkw_781"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/about.php">Welcome</a></li>
-  				
-  					<li id="link_otkw_346"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/misc.php?do=showrules">Code Of Conduct</a></li>
-  				
-  					<li id="link_otkw_272"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/showthread.php?t=727">WW 'Money'</a></li>
-  				
-  					<li id="link_otkw_476"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/group.php">Groups</a></li>
-  				
-  					<li id="link_otkw_474"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/blog.php">Blogs</a></li>
-  				
-  			</ul>
-  		</li>
-  		
-  		
-  
-  	
-  		<li class="popupmenu navtab" id="tab_otkw_455">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=2" onClick="location.href = 'calendar.php?calendarid=2'" class="popupctrl navtab">Calendars
-  			</a>
-  			<ul class="popupbody popuphover">
-  				
-  					<li id="link_otkw_175"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=1">General Events</a></li>
-  				
-  					<li id="link_otkw_949"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=2">Arts, Culture & Heritage</a></li>
-  				
-  					<li id="link_otkw_510"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=3">Sports & Recreation</a></li>
-  				
-  					<li id="link_otkw_268"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=4">Business</a></li>
-  				
-  					<li id="link_otkw_831"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=6">Food Deals</a></li>
-  				
-  					<li id="link_otkw_926"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=5">Nightlife</a></li>
-  				
-  			</ul>
-  		</li>
-  		
-  		
-  
-  	
-  		<li class="popupmenu navtab" id="tab_otkw_117">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/misc.php?do=page&amp;template=Features" onClick="location.href = '/misc.php?do=page&amp;template=Features'" class="popupctrl navtab">Features
-  			</a>
-  			<ul class="popupbody popuphover">
-  				
-  					<li id="link_otkw_947"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/maps.php">Maps</a></li>
-  				
-  					<li id="link_otkw_469"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/statistics.php">Statistics</a></li>
-  				
-  					<li id="link_otkw_453"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/links.php">Local Links</a></li>
-  				
-  			</ul>
-  		</li>
-  		
-  		
-  
-  	
-  		<li  id="tab_ode1_495">
-  			<a class="navtab" href="/web/20130827124336/http://www.wonderfulwaterloo.com/shop.php">Shop</a>
-  		</li>
-  		
-  		
-  
-  <!-- END TEMPLATE: navbar_tabs -->
-  		
-  	</ul>
-  
-  	
-  		<div id="globalsearch" class="globalsearch">
-  			<form action="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=process" method="post" id="navbar_search" class="navbar_search">
-  				
-  				<input type="hidden" name="securitytoken" value="guest" />
-  				<input type="hidden" name="do" value="process" />
-  				<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
-  				<span class="buttoncontainer" style="position:relative;left: -30px;"><span><input type="image" class="searchbutton" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/buttons/searchblack.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
-  			</form>
-  		</div>
-  	
-  
-  </div>
-  </div>
-  
-  
-  <div class="container"> <!-- making site 990px closing div in footer -->
-  
-  <div class="above_body"> <!-- closing tag is in template navbar -->
-  <div id="header" class="floatcontainer doc_header" >
-  	<div id="toplinks" class="toplinks">
-  		
-  			<ul class="nouser">
-  			
-  				<li><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/register.php" rel="nofollow">Register</a></li>
-  			
-  				<li>
-  			<script type="text/javascript" src="/web/20130827124336js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_md5.js?v=421"></script>
-  			<form id="navbar_loginform" action="/web/20130827124336/http://www.wonderfulwaterloo.com/login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
-  				<div id="remember" class="remember" style="position:absolute; left:-22px; top:3px">
-  					<input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" title="Stay Logged In" />
-  				</div>
-  				<fieldset id="logindetails" class="logindetails">
-  					<div>
-  					<img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/icons/username.png" alt="Username" style="padding-top:2px; padding-right:2px;" /><input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" />
-  					<img style="position: relative; top: 0px;" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/icons/password.png" alt="Password" />
-  					<input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10" />
-  
-  
-  					<input type="text" class="textbox default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Password" style="display:none;" />
-  					<input type="submit" class="loginbutton" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s" />
-  					</div>
-  				</fieldset>
-  				<input type="hidden" name="s" value="" />
-  				<input type="hidden" name="securitytoken" value="guest" />
-  				<input type="hidden" name="do" value="login" />
-  				<input type="hidden" name="vb_login_md5password" />
-  				<input type="hidden" name="vb_login_md5password_utf" />
-  			</form>
-  			<script type="text/javascript">
-  			YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
-  			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
-  			vB_XHTML_Ready.subscribe(function()
-  			{
-  			//
-  				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
-  				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
-  				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
-  				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
-  			});
-  			
-  			function navbar_username_focus(e)
-  			{
-  			//
-  				var textbox = YAHOO.util.Event.getTarget(e);
-  				if (textbox.value == 'User Name')
-  				{
-  				//
-  					textbox.value='';
-  					textbox.style.color='#000000';
-  				}
-  			}
-  
-  			function navbar_username_blur(e)
-  			{
-  			//
-  				var textbox = YAHOO.util.Event.getTarget(e);
-  				if (textbox.value == '')
-  				{
-  				//
-  					textbox.value='User Name';
-  					textbox.style.color='#777777';
-  				}
-  			}
-  			
-  			function navbar_password_hint(e)
-  			{
-  			//
-  				var textbox = YAHOO.util.Event.getTarget(e);
-  				
-  				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
-  				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
-  				YAHOO.util.Dom.get('navbar_password').focus();
-  			}
-  
-  			function navbar_password(e)
-  			{
-  			//
-  				var textbox = YAHOO.util.Event.getTarget(e);
-  				
-  				if (textbox.value == '')
-  				{
-  					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
-  					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
-  				}
-  			}
-  			</script>
-  				</li>
-  				
-  			</ul>
-  		
-  	</div>
-  	<div><a name="top" href="/web/20130827124336/http://www.wonderfulwaterloo.com/forum.php" class="logo-image"><img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/WW/WWLogo.jpg" alt="Wonderful Waterloo - Made in Waterloo Region" width="100%" /></a></div>
-  	<div class="ad_global_header">
-  		<!-- BEGIN TEMPLATE: ad_global_header1 -->
-   
-  <!-- END TEMPLATE: ad_global_header1 -->
-  		<!-- BEGIN TEMPLATE: ad_global_header2 -->
-   
-  <!-- END TEMPLATE: ad_global_header2 -->
-  	</div>
-  	<hr />
-  
-  <script type="text/javascript">
-  
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-20199168-1']);
-    _gaq.push(['_setLocalRemoteServerMode']);
-    _gaq.push(['_trackPageview']);
-  
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? '/web/20130827124336/https://ssl' : '/web/20130827124336/http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  
-  </script>
-  
-  <script type="text/javascript">
-  function toggleMe(a){
-  var e=document.getElementById(a);
-  if(!e)return true;
-  if(e.style.display=="none"){
-  e.style.display="block"
-  }
-  else{
-  e.style.display="none"
-  }
-  return true;
-  }
-  </script>
-  
-  </div>
-  <!-- END TEMPLATE: header -->
-  <!-- BEGIN TEMPLATE: navbar -->
-  <div id="navbar" class="navbar" style="display:none;">
-  	<ul id="navtabs" class="navtabs floatcontainer">
-  		
-  		<!-- BEGIN TEMPLATE: navbar_tabs -->
-  <script src="/web/20130827124336js_/http://www.wonderfulwaterloo.com/projects/navtabhover.js"></script>
-  
-  
-  	
-  		<li  id="vbtab_cms">
-  			<a class="navtab" href="/web/20130827124336/http://www.wonderfulwaterloo.com/content.php">Home</a>
-  		</li>
-  		
-  		
-  
-  	
-  		<li class="selected" id="vbtab_forum">
-  			<a class="navtab" href="/web/20130827124336/http://www.wonderfulwaterloo.com/forum.php">Forum</a>
-  		</li>
-  		
-  		
-  
-  	
-  		<li class="popupmenu navtab" id="vbtab_whatsnew">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/activity.php" onClick="location.href = 'activity.php'" class="popupctrl navtab">New
-  			</a>
-  			<ul class="popupbody popuphover">
-  				
-  					<li id="link_nzy5_898"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/activity.php">Activity</a></li>
-  				
-  					<li id="vbnew_newposts"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=getnew&amp;contenttype=vBForum_Post">Posts</a></li>
-  				
-  					<li id="vbnew_events"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=getnew&amp;contenttype=vBForum_Event">Events</a></li>
-  				
-  					<li id="vbnew_mfr"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/forumdisplay.php?do=markread&amp;markreadhash=">Mark Forums Read</a></li>
-  				
-  			</ul>
-  		</li>
-  		
-  		
-  
-  	
-  		<li class="popupmenu navtab" id="tab_otkw_803">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/about.php" onClick="location.href = 'about.php'" class="popupctrl navtab">About
-  			</a>
-  			<ul class="popupbody popuphover">
-  				
-  					<li id="link_otkw_781"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/about.php">Welcome</a></li>
-  				
-  					<li id="link_otkw_346"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/misc.php?do=showrules">Code Of Conduct</a></li>
-  				
-  					<li id="link_otkw_272"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/showthread.php?t=727">WW 'Money'</a></li>
-  				
-  					<li id="link_otkw_476"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/group.php">Groups</a></li>
-  				
-  					<li id="link_otkw_474"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/blog.php">Blogs</a></li>
-  				
-  			</ul>
-  		</li>
-  		
-  		
-  
-  	
-  		<li class="popupmenu navtab" id="tab_otkw_455">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=2" onClick="location.href = 'calendar.php?calendarid=2'" class="popupctrl navtab">Calendars
-  			</a>
-  			<ul class="popupbody popuphover">
-  				
-  					<li id="link_otkw_175"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=1">General Events</a></li>
-  				
-  					<li id="link_otkw_949"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=2">Arts, Culture & Heritage</a></li>
-  				
-  					<li id="link_otkw_510"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=3">Sports & Recreation</a></li>
-  				
-  					<li id="link_otkw_268"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=4">Business</a></li>
-  				
-  					<li id="link_otkw_831"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=6">Food Deals</a></li>
-  				
-  					<li id="link_otkw_926"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=5">Nightlife</a></li>
-  				
-  			</ul>
-  		</li>
-  		
-  		
-  
-  	
-  		<li class="popupmenu navtab" id="tab_otkw_117">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/misc.php?do=page&amp;template=Features" onClick="location.href = '/misc.php?do=page&amp;template=Features'" class="popupctrl navtab">Features
-  			</a>
-  			<ul class="popupbody popuphover">
-  				
-  					<li id="link_otkw_947"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/maps.php">Maps</a></li>
-  				
-  					<li id="link_otkw_469"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/statistics.php">Statistics</a></li>
-  				
-  					<li id="link_otkw_453"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/links.php">Local Links</a></li>
-  				
-  			</ul>
-  		</li>
-  		
-  		
-  
-  	
-  		<li  id="tab_ode1_495">
-  			<a class="navtab" href="/web/20130827124336/http://www.wonderfulwaterloo.com/shop.php">Shop</a>
-  		</li>
-  		
-  		
-  
-  <!-- END TEMPLATE: navbar_tabs -->
-  		
-  	</ul>
-  	
-  		<div id="globalsearch" class="globalsearch">
-  			<form action="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=process" method="post" id="navbar_search" class="navbar_search">
-  				
-  				<input type="hidden" name="securitytoken" value="guest" />
-  				<input type="hidden" name="do" value="process" />
-  				<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
-  				<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
-  			</form>
-  		</div>
-  	
-  </div>
-  </div><!-- closing div for above_body -->
-  
-  
-  
-  
-  <!-- Local Investing Amy Ad -->
-  <div style="position: fixed;  width: 240px;margin-left: 1002px;"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/showthread.php?t=1434&amp;p=44948#post44948"><img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/advertising/Local-Investing-in-Waterloo-Region-Conference-Amy-Cortese-Ad.gif" width="240px" height="300px" title="Local Investing in Waterloo Region - Amy Cortese - June 25th"></a><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/advertising.php" style="color:#5E5E5E; float: right; padding-right: 5px;">Advertise Here</a></div>
-  
-  
-  <!-- Amy Preview Ad 
-  <div style="position: fixed;  width: 240px;margin-left: 1002px;"><img src="/advertising/amypreview.jpg" width="240px" height="300px" title="Stay Tuned"><a href="/advertising.php" style="color:#5E5E5E; float: right; padding-right: 5px;">Advertise Here</a></div> -->
-  
-  
-  <!-- WW Moderators' Council Ad 
-  <div style="position: fixed;  width: 240px;margin-left: 1002px;"><a href="/moderatorscouncil.php"><img src="/projects/moderatorscouncil/WW Moderators' Council Ad - Extended.png" width="240px" height="300px" title="Click To Learn More"></a><a href="/advertising.php" style="color:#5E5E5E; float: right; padding-right: 5px;">Advertise Here</a></div> -->
-  
-  
-  
-  <div class="body_wrapper">
-  <div id="breadcrumb" class="breadcrumb" style="font-size: 11px; margin-top:-3px;"> 
-          
-  	<ul class="floatcontainer">
-  		<li class="navbithome"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/index.php" accesskey="1"><img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/misc/navbit-home.png" alt="Home" /></a></li>
-  		<!-- BEGIN TEMPLATE: navbar_link -->
-  
-  	<li class="navbit"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/forum.php">Forum</a></li>
-  
-  <!-- END TEMPLATE: navbar_link --><!-- BEGIN TEMPLATE: navbar_link -->
-  
-  	<li class="navbit"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/forumdisplay.php?f=22">General</a></li>
-  
-  <!-- END TEMPLATE: navbar_link --><!-- BEGIN TEMPLATE: navbar_link -->
-  
-  	<li class="navbit"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/forumdisplay.php?f=23">General Discussion</a></li>
-  
-  <!-- END TEMPLATE: navbar_link -->
-  		<!-- BEGIN TEMPLATE: navbar_link -->
-  
-  	<li class="navbit lastnavbit"><span> Third Party Article and Photo Posting Guidelines</span></li>
-  
-  <!-- END TEMPLATE: navbar_link -->
-  	</ul>
-  	<hr />
-  	
-  </div>
-  
-  <!-- notices moved to header template -->
-  
-  
-  <!-- END TEMPLATE: navbar -->
-  
-  <script src="/web/20130827124336js_/http://www.wonderfulwaterloo.com/projects/postfoothover.js"></script>
-  
-  <div id="showthreadsingletoolbar" style="background:#E4E6E7; height:36px;">
-  
-  	<div id="above_postlist" class="above_postlist">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/newreply.php?p=28962&amp;noquote=1" class="newcontent_textcontrol" id="newreplylink_top">Reply</a>
-  			<img style="display:none" id="progress_newreplylink_top" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif" alt="" />
-  
-  <div id="showthreadsingletoolbarrightside" style="float:right; width:500px;">
-  
-  	<div id="thread_controls" class="thread_controls toolsmenu">
-  		<div>
-  		<ul id="postlist_popups" class="postlist_popups popupgroup">
-  			<li class="popupmenu" id="threadtools">
-  				<h6><a class="popupctrl" href="javascript://"><img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/projects/gearblack.png" title="Thread Tools"/></a></h6>
-  				<ul class="popupbody popuphover">
-  					<li><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/printthread.php?t=934&amp;pp=20&amp;page=1" accesskey="3" rel="nofollow">Show Printable Version</a></li>
-  					
-  					<li>
-  						
-  							<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/subscription.php?do=addsubscription&amp;t=934" rel="nofollow">Subscribe to this Thread&hellip;</a>
-  						
-  					</li>
-  					
-  					<li><ul class="blockrow" style="width:100%;"></ul></li>
-  				</ul>
-  			</li>
-  			</ul>
-  		</div>
-  	</div>
-  
-  	<div id="pagination_top" class="pagination_top">
-  		
-  	</div>
-  
-  	<div id="thread_controls" class="thread_controls toolsmenu">
-  		<div>
-  		<ul id="postlist_popups" class="postlist_popups popupgroup">
-  			
-  			
-  			
-  
-  			
-  			
-  				<li class="popupmenu searchthread menusearch" id="searchthread">
-  					<h6><a class="popupctrl" href="javascript://"><img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/buttons/searchblack.png" alt="Search Thread"/></a></h6>
-  					<form action="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php" method="post">
-  						<ul class="popupbody popuphover">
-  							<li>
-  								<input type="text" name="query" class="searchbox" value="Search..." tabindex="13" />
-  								<input type="submit" class="button" value="Search" tabindex="14" />
-  							</li>
-  							<li class="formsubmit" id="popupsearch">
-  								<div class="submitoptions">&nbsp;</div>
-  								<div class="advancedsearchlink"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?search_type=1&amp;searchthreadid=934&amp;contenttype=vBForum_Post">Advanced Search</a></div>
-  							</li>
-  						</ul>
-  						<input type="hidden" name="s" value="" />
-  						<input type="hidden" name="securitytoken" value="guest" />
-  						<input type="hidden" name="do" value="process" />
-  						<input type="hidden" name="searchthreadid" value="934" />
-  						<input type="hidden" name="search_type" value="1" />
-  						<input type="hidden" name="contenttype" value="vBForum_Post" />
-  					</form>
-  				</li>
-  			
-  			</ul>
-  		</div>
-  	</div>
-  
-  	</div>
-  
-  </div>
-  </div>
-  
-  <div id="postlist" class="postlist restrain">
-  	
-  
-  	
-  		<ol id="posts" class="posts" start="1">
-  			<!-- BEGIN TEMPLATE: postbit_wrapper -->
-  <!-- BEGIN TEMPLATE: postbit1 -->
-  
-  
-  <div style="width:796px; float:left;">
-  
-  <li class="postbit postbitim postcontainer" id="post_22050">
-  	<div class="postdetails_noavatar">
-  		<div class="userinfo" style="background:transparent; margin-bottom:-12px;">
-  
-  			<div style="float:right; text-align: right;">
-  			<div style="padding: 0px 6px 0px 0;">
-                          
-                                  <span class="nodecontrols" style="margin-left: 4px; font-size: 10px;">
-                                          
-                                  </span>
-                          
-  			</div>
-  			</div>
-  
-  		</div>
-  	</div>
-  
-  	<div class="postbody" style="clear: both; color: rgb(51, 51, 51); background: transparent none   ; padding-top: 0px; padding-bottom: 10px;">
-  		
-  		<div class="postrow" style="padding: 0px 10px;">
-  				
-  					
-  					
-  				
-  				
-  		<div class="content">
-  			<div id="post_message_22050">
-  				<blockquote class="postcontent restore">
-  					<font size="5"><font color="blue"><b><div style="text-align: center;">Third Party Article and Photo Posting Guidelines</div></b></font></font><br />
-  <br />
-  <b><font size="3">Articles</font></b><br />
-  <br />
-  <!-- BEGIN TEMPLATE: bbcode_quote -->
-  <div class="bbcode_container">
-  	<div class="bbcode_quote">
-  		<div class="quote_container">
-  			<div class="bbcode_quote_container"></div>
-  			
-  				When posting third-party articles in the Wonderful Waterloo forums (newspaper, magazine, etc.) please post only the first four paragraphs of the article or the information that you have deemed important separated by a series of ellipses (...) to a maximum of 25% of the article.<br />
-  <br />
-  Also, when posting, please provide the following things on a above the article (which should appear in a quote box):  <br />
-  <ul><li style="">Headline title (bold, size 4, blue)</li><li style="">Below the headline on a single line:  Publication date | Author name | Publication | A link to the article.</li></ul><br />
-  <br />
-  An article should look like this:<br />
-  <br />
-  <font size="4"><font color="blue"><b>Becoming Santa: Maintaining the myth a goal of modern mall display</b></font></font><br />
-  December 23, 2010 | BOB VRBANAC | WATERLOO CHRONICLE | <a href="/web/20130827124336/http://www.waterloochronicle.ca/news/article/226480" target="_blank">LINK</a><br />
-  <br />
-  <!-- BEGIN TEMPLATE: bbcode_quote -->
-  <div class="bbcode_container">
-  	<div class="bbcode_quote">
-  		<div class="quote_container">
-  			<div class="bbcode_quote_container"></div>
-  			
-  				It isn&#8217;t cheap being one of Santa&#8217;s helpers and extending the global reach of the jolly old elf.<br />
-  <br />
-  Never mind the suit, there&#8217;s also the trappings that come with the office. If you&#8217;re going to be a proxy for the world&#8217;s greatest wish granter you better provide the appropriate whimiscial environment for that type of magic to happen.<br />
-  <br />
-  That&#8217;s the lesson learned at Waterloo&#8217;s Conestoga Mall. A major renovation at the mall last year also lead to a major rethink about the mall Santa and how to make sure that kids got enough face time with the guy in the red suit.<br />
-  <br />
-  But the building of that buzz didn&#8217;t come cheap. To redecorate the whole mall, in addition to sprucing up Santa, cost a cool quarter of million dollars...
-  			
-  		</div>
-  	</div>
-  </div>
-  <!-- END TEMPLATE: bbcode_quote -->Or like this<br />
-  <br />
-  <font size="4"><font color="blue"><b>Becoming Santa: Maintaining the myth a goal of modern mall display</b></font></font><br />
-  December 23, 2010 | BOB VRBANAC | WATERLOO CHRONICLE | <a href="/web/20130827124336/http://www.waterloochronicle.ca/news/article/226480" target="_blank">LINK</a><br />
-  <br />
-  <!-- BEGIN TEMPLATE: bbcode_quote -->
-  <div class="bbcode_container">
-  	<div class="bbcode_quote">
-  		<div class="quote_container">
-  			<div class="bbcode_quote_container"></div>
-  			
-  				That&#8217;s the lesson learned at Waterloo&#8217;s Conestoga Mall. A major renovation at the mall last year also lead to a major rethink about the mall Santa and how to make sure that kids got enough face time with the guy in the red suit.<br />
-  ...<br />
-  But the building of that buzz didn&#8217;t come cheap. To redecorate the whole mall, in addition to sprucing up Santa, cost a cool quarter of million dollars.<br />
-  ...<br />
-  Instead of doling out the cash for a photo with old Saint Nick, the mall generously e-mails a photo of the moment caught in time and extends best wishes for the season.
-  			
-  		</div>
-  	</div>
-  </div>
-  <!-- END TEMPLATE: bbcode_quote -->
-  			
-  		</div>
-  	</div>
-  </div>
-  <!-- END TEMPLATE: bbcode_quote --><br />
-  <b><font size="3">Photos</font></b><br />
-  <br />
-  <!-- BEGIN TEMPLATE: bbcode_quote -->
-  <div class="bbcode_container">
-  	<div class="bbcode_quote">
-  		<div class="quote_container">
-  			<div class="bbcode_quote_container"></div>
-  			
-  				When posting photographs in the Wonderful Waterloo forums, it is important to credit them properly.  Improperly credited photo postings will be deleted by the moderation staff.<br />
-  <br />
-  When posting photos/images, directly above or below the photo list the photographer's name (if available), and if it is from a third party source, provide the source and/or a link to the source.  To avoid broken image links, please upload the images to a personal image account (photobucket, etc.) and link to it from there.<br />
-  <br />
-  Merely citing Google, Flickr, Wikipedia or some other host or search engine is not sufficient for your photo post to qualify. If you don't have the required information about a photograph, then don't post it.<br />
-  <br />
-  For example:<br />
-  <br />
-  <img src="/web/20130827124336im_/http://levittgoodmanarchitects.com/content/chapter/projects/kpl/02.jpg" border="0" alt="" /><br />
-  <font size="1">Source: Levitt Goodman Architects - <a href="/web/20130827124336/http://levittgoodmanarchitects.com/p...ltural&amp;c2=None" target="_blank">Link</a></font>
-  			
-  		</div>
-  	</div>
-  </div>
-  <!-- END TEMPLATE: bbcode_quote -->
-  				</blockquote>
-  			</div>
-  
-  			
-  
-  
-  		</div>
-                          	
-  		        <!-- BEGIN TEMPLATE: ad_showthread_firstpost_sig -->
-   
-  <!-- END TEMPLATE: ad_showthread_firstpost_sig -->
-  			
-  		</div>
-  	</div>
-  	<div class="postfoot" style="visibility:hidden;">
-  		<div class="textcontrols floatcontainer">
-  			<span class="postcontrols">
-  				<img style="display:none" id="progress_22050" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
-  				
-  				
-  					<a id="qr_22050" class='quickreply' href="/web/20130827124336/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=22050" rel="nofollow"><img id="replyimg_22050" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Quick reply to this message" /> Reply</a>
-  					<span class="seperator">&nbsp;</span>
-  				
-  				
-  				
-  			</span>
-  
-  			<span class="postlinking">
-  
-  				
-  
-  				 
-  				
-  
-  					
-  
-  					
-  					 
-  
-  					
-  					
-  					
-  					
-  
-  				
-  			</span>
-  		</div>
-  	</div>
-  </li>
-  <!-- BEGIN TEMPLATE: post_thanks_box -->
-  <li class="postbit postbitim" id="post_thanks_box_22050" style="display:none">
-  	
-  </li> 
-  <!-- END TEMPLATE: post_thanks_box -->
-  </div>
-  
-  <div style="width:180px; float:right;">
-  
-  	<div class="postdetails_noavatar" style="padding-bottom:15px; padding-right:5px; text-align:right;">
-                  <span class="nodecontrols" style="font-size: 10px;">
-                                          
-                                                  <a name="post22050" href="/web/20130827124336/http://www.wonderfulwaterloo.com/showthread.php?t=934&amp;p=22050#post22050" class="postcounter">#1</a><a id="postcount22050" name="1"></a>
-                                          
-                                          
-                  </span>
-  		<div class="userinfo" style="background:transparent;">
-  			<div class="contact">
-  				<div class="username_container" style="position:relative; top: 0px;">
-  					
-  						<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=4" style="font-size:10px;">Spokes</a>
-  					
-                                          
-  				</div>
-  			</div>
-  
-  			<div style="font-size: 10px;">
-                                 <span class="postdate old">
-                                          
-                                                  <span class="date">12-31-2010&nbsp;<span class="time">02:17 PM</span></span>
-                                          
-                                  </span>
-  			</div>
-  
-  		</div>
-  	</div>
-  
-  
-  
-  </div>
-  
-  
-  <!-- END TEMPLATE: postbit1 -->
-  <!-- END TEMPLATE: postbit_wrapper --><!-- BEGIN TEMPLATE: postbit_wrapper -->
-  <!-- BEGIN TEMPLATE: postbit -->
-  
-  <li class="postbit postbitim postcontainer old" id="post_22215">
-  	<div class="postdetails_noavatar">
-  		<div class="userinfo">
-  			<div class="contact">
-  				
-  					<a class="postuseravatarlink" href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=177" title="IEFBR14 is offline">
-  						
-  							<img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/image.php?u=177&amp;dateline=1283110420" alt="IEFBR14's Avatar" style="max-height: 45px" />
-  						
-  					</a>
-  				
-  				<div class="username_container">
-  					<div>
-  					
-  						<!-- BEGIN TEMPLATE: memberaction_dropdown -->
-  <div class="popupmenu memberaction">
-  	<a class="username offline popupctrl" href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=177" title="IEFBR14 is offline" style="font-weight:bold;">IEFBR14</a>
-  	<ul class="popupbody popuphover memberaction_body">
-  		<li class="left">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=177" class="siteicon_profile">
-  				View Profile
-  			</a>
-  		</li>
-  		
-  		<li class="right">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=177&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
-  				View Forum Posts
-  			</a>
-  		</li>
-  		
-  		
-  		<li class="left">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=177" class="siteicon_message" rel="nofollow">
-  				Private Message
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		<li class="right">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/blog.php?u=177" class="siteicon_blog" rel="nofollow">
-  				View Blog Entries
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		
-  		
-  		<li class="right">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/list.php?r=author/177-IEFBR14" class="siteicon_article" rel="nofollow">
-  				View Articles
-  			</a>
-  		</li>
-  		
-  
-  		
-  
-  		
-  		
-  	</ul>
-  </div>
-  <!-- END TEMPLATE: memberaction_dropdown -->
-  					<span class="usertitle" style="font-size:11px;">
-  						Metropolis Member
-  					</span>
-  						<!-- BEGIN TEMPLATE: postbit_onlinestatus -->
-  <img class="inlineimg onlinestatus" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="IEFBR14 is offline" border="0" />
-  
-  <!-- END TEMPLATE: postbit_onlinestatus -->
-  					
-  					</div>
-  					<div class="userinfo_extra" style="font-size: 10px; display: block; margin-top: 5px;">
-  						From H2OWC |  Member Since Mar 2010 | 1,283 Posts
-  					</div>
-                                          
-  				</div>
-  			</div>
-  
-  			<div style="width:34.9%; display: inline-block; text-align: right; height:45px;">
-  			<div style="padding: 6px 10px 3px 0;">
-                          
-                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
-                                          
-                                                  <a name="post22215" href="/web/20130827124336/http://www.wonderfulwaterloo.com/showthread.php?t=934&amp;p=22215#post22215" class="postcounter">#2</a><a id="postcount22215" name="2"></a>
-                                          
-                                          
-                                          
-                                  </span>
-                                  <div style="margin-top: 6px;">
-                                 <span class="postdate old">
-                                          
-                                                  <span class="date">01-04-2011&nbsp;<span class="time">12:19 PM</span></span>
-                                          
-                                  </span>
-                                  </div>
-                          
-  			</div>
-  			</div>
-  
-  		</div>
-  	</div>
-  
-  	<div class="postbody" style="clear: both; color: rgb(51, 51, 51); padding-top: 13px; padding-bottom: 6px; background: transparent none   ;">
-  		
-  		<div class="postrow" style="padding: 0px 8px;">
-  		
-  		
-  				
-  				
-  		<div class="content">
-  			<div id="post_message_22215">
-  				<blockquote class="postcontent restore">
-  					Here's some help for those who may be struggling to conform with our overlords' new Third Party Article and Photo Posting Guidelines.<br />
-  <br />
-  I developed the following for use with Google's Chrome web browser. If you use Firefox or Safari you're on your own. If you use Internet Exploder you have my sympathies.<br />
-  <br />
-  Install the <a href="/web/20130827124336/https://chrome.google.com/extensions/detail/gcmghdmnkfdbncmnmlkkglmnnhagajbm" target="_blank">Create Link</a> Chrome extension. This is useful for easily adding links on other forums using HTML, BBCode, etc. More importantly here, it's also customizable. Once you have Create Link installed and working using standard formats, add the following BBCode as a new format:<br />
-  <br />
-  &lt;B&gt;&lt;SIZE=&quot;4&quot;&gt;&lt;COLOR=&quot;blue&quot;&gt;%text%&lt;/COLOR&gt;&lt;/SIZE&gt;&lt;/B&gt; %newline% DATE | AUTHOR | PUBLICATION | &lt;URL=%url%&gt;Link&lt;/URL&gt; &lt;QUOTE&gt;QUOTE&lt;/QUOTE&gt;<br />
-  <br />
-  I chose to name my special format WWCode for obvious reasons. Note that in the above I've changed the [ and ] to &lt; and &gt; for illustrative purposes only. Otherwise the forum software would have recognized them as BBCode and translated them to what you see below. You'll need to use real square brackets when you create your special format. Anyway here's what you'll see if you do a preview using real [ and ]:<br />
-  <br />
-  <b><font size="4"><font color="blue">%text%</font></font></b> %newline% DATE | AUTHOR | PUBLICATION | <a href="/web/20130827124336/http://%url%" target="_blank">Link</a> <!-- BEGIN TEMPLATE: bbcode_quote -->
-  <div class="bbcode_container">
-  	<div class="bbcode_quote">
-  		<div class="quote_container">
-  			<div class="bbcode_quote_container"></div>
-  			
-  				QUOTE
-  			
-  		</div>
-  	</div>
-  </div>
-  <!-- END TEMPLATE: bbcode_quote -->Note that you'll still need to fill in the date, author, publication and quote stuff manually. There's nothing I can do to help with that without rewriting the extension. (Good luck with that <img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/smilies/wink.gif" border="0" alt="" title="Wink" class="inlineimg" />) But at least the URL and headline gets set up automagically and the overall format gets set up to conform with the new rules.<br />
-  <br />
-  Anyway, once you do that you'll get something like this:<br />
-  <br />
-  <b><font size="4"><font color="blue">Kitchener man charged in crash that killed cyclist</font></font></b> <br />
-   Tue Jan 04 2011 | Record staff | The Record | <a href="/web/20130827124336/http://www.therecord.com/news/local/article/308796--kitchener-man-charged-in-crash-that-killed-cyclist" target="_blank">Link</a> <!-- BEGIN TEMPLATE: bbcode_quote -->
-  <div class="bbcode_container">
-  	<div class="bbcode_quote">
-  		<div class="quote_container">
-  			<div class="bbcode_quote_container"></div>
-  			
-  				A 24-year-old Kitchener man has been charged with careless driving in connection with a September crash that left a cyclist dead...<br />
-  <br />
-  On Dec. 28, police charged Matthew Waltenberry of Kitchener in connection with the crash. In addition to careless driving, Waltenberry is also charged with driving while suspended and obtaining a license under an assumed name.
-  			
-  		</div>
-  	</div>
-  </div>
-  <!-- END TEMPLATE: bbcode_quote -->Enjoy!
-  				</blockquote>
-  			</div>
-  
-  			
-  
-  
-  		</div>
-  			
-  				
-  			
-  			
-  			
-  		</div>
-  	</div>
-  	<div class="postfoot" style="visibility:hidden;">
-  		<div class="textcontrols floatcontainer">
-  			<span class="postcontrols">
-  				<img style="display:none" id="progress_22215" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
-  			
-  					
-  					<a id="qr_22215" class='quickreply' href="/web/20130827124336/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=22215" rel="nofollow"><img id="replyimg_22215" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Quick reply to this message" /> Reply</a>
-  
-  					<span class="seperator">&nbsp;</span>
-  				
-  				
-  				
-  			</span>
-  			<span class="postlinking">
-  
-  				
-  
-  				 
-  				
-  
-  					
-  
-  					
-  					 
-  
-  					
-  					
-  					
-  					
-  					
-  
-  				
-  			</span>
-  		</div>
-  	</div>
-  </li>
-  <!-- BEGIN TEMPLATE: post_thanks_box -->
-  <li class="postbit postbitim" id="post_thanks_box_22215" style="display:none">
-  	
-  </li> 
-  <!-- END TEMPLATE: post_thanks_box -->
-  <!-- END TEMPLATE: postbit -->
-  <!-- END TEMPLATE: postbit_wrapper --><!-- BEGIN TEMPLATE: postbit_wrapper -->
-  <!-- BEGIN TEMPLATE: postbit -->
-  
-  <li class="postbit postbitim postcontainer old" id="post_28815">
-  	<div class="postdetails_noavatar">
-  		<div class="userinfo_noavatar">
-  			<div class="contact">
-  				
-  				<div class="username_container">
-  					<div>
-  					
-  						<!-- BEGIN TEMPLATE: memberaction_dropdown -->
-  <div class="popupmenu memberaction">
-  	<a class="username offline popupctrl" href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=610" title="markster is offline" style="font-weight:bold;">markster</a>
-  	<ul class="popupbody popuphover memberaction_body">
-  		<li class="left">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=610" class="siteicon_profile">
-  				View Profile
-  			</a>
-  		</li>
-  		
-  		<li class="right">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=610&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
-  				View Forum Posts
-  			</a>
-  		</li>
-  		
-  		
-  		<li class="left">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=610" class="siteicon_message" rel="nofollow">
-  				Private Message
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		<li class="right">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/blog.php?u=610" class="siteicon_blog" rel="nofollow">
-  				View Blog Entries
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		
-  		
-  		<li class="right">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/list.php?r=author/610-markster" class="siteicon_article" rel="nofollow">
-  				View Articles
-  			</a>
-  		</li>
-  		
-  
-  		
-  
-  		
-  		
-  	</ul>
-  </div>
-  <!-- END TEMPLATE: memberaction_dropdown -->
-  					<span class="usertitle" style="font-size:11px;">
-  						City Member
-  					</span>
-  						<!-- BEGIN TEMPLATE: postbit_onlinestatus -->
-  <img class="inlineimg onlinestatus" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="markster is offline" border="0" />
-  
-  <!-- END TEMPLATE: postbit_onlinestatus -->
-  					
-  					</div>
-  					<div class="userinfo_extra" style="font-size: 10px; display: block; margin-top: 5px;">
-  						From Kitchener |  Member Since Oct 2010 | 874 Posts
-  					</div>
-                                          
-  				</div>
-  			</div>
-  
-  			<div style="width:34.9%; display: inline-block; text-align: right; height:45px;">
-  			<div style="padding: 6px 10px 3px 0;">
-                          
-                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
-                                          
-                                                  <a name="post28815" href="/web/20130827124336/http://www.wonderfulwaterloo.com/showthread.php?t=934&amp;p=28815#post28815" class="postcounter">#3</a><a id="postcount28815" name="3"></a>
-                                          
-                                          
-                                          
-                                  </span>
-                                  <div style="margin-top: 6px;">
-                                 <span class="postdate old">
-                                          
-                                                  <span class="date">04-15-2011&nbsp;<span class="time">09:18 AM</span></span>
-                                          
-                                  </span>
-                                  </div>
-                          
-  			</div>
-  			</div>
-  
-  		</div>
-  	</div>
-  
-  	<div class="postbody" style="clear: both; color: rgb(51, 51, 51); padding-top: 13px; padding-bottom: 6px; background: transparent none   ;">
-  		
-  		<div class="postrow" style="padding: 0px 8px;">
-  		
-  		
-  				
-  				
-  		<div class="content">
-  			<div id="post_message_28815">
-  				<blockquote class="postcontent restore">
-  					Administrators,<br />
-  Would it be possible for you to create some custom BBCode to help streamline this process?  I'm not familiar with vBulletin, but I know it's possible in phpBB.<br />
-  <br />
-  Something of a format similar to this would be awesome:<br />
-  <br />
-  &#91;newsquote=head,date,auth,pub,url&#93;quoted text&#91;/newsquote&#93;
-  				</blockquote>
-  			</div>
-  
-  			
-  
-  
-  		</div>
-  			
-  			<!-- edit note -->
-  			<blockquote class="postcontent lastedited">
-  				
-  					Last edited by markster; 04-15-2011 at <span class="time">05:17 PM</span>.
-  				
-  				
-  					<span class="reason">Reason:</span> spelling
-  				
-  			</blockquote>
-  			<!-- / edit note -->
-  			
-  				
-  			
-  			
-  			
-  		</div>
-  	</div>
-  	<div class="postfoot" style="visibility:hidden;">
-  		<div class="textcontrols floatcontainer">
-  			<span class="postcontrols">
-  				<img style="display:none" id="progress_28815" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
-  			
-  					
-  					<a id="qr_28815" class='quickreply' href="/web/20130827124336/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=28815" rel="nofollow"><img id="replyimg_28815" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Quick reply to this message" /> Reply</a>
-  
-  					<span class="seperator">&nbsp;</span>
-  				
-  				
-  				
-  			</span>
-  			<span class="postlinking">
-  
-  				
-  
-  				 
-  				
-  
-  					
-  
-  					
-  					 
-  
-  					
-  					
-  					
-  					
-  					
-  
-  				
-  			</span>
-  		</div>
-  	</div>
-  </li>
-  <!-- BEGIN TEMPLATE: post_thanks_box -->
-  <li class="postbit postbitim" id="post_thanks_box_28815" style="display:none">
-  	
-  </li> 
-  <!-- END TEMPLATE: post_thanks_box -->
-  <!-- END TEMPLATE: postbit -->
-  <!-- END TEMPLATE: postbit_wrapper --><!-- BEGIN TEMPLATE: postbit_wrapper -->
-  <!-- BEGIN TEMPLATE: postbit -->
-  
-  <li class="postbit postbitim postcontainer old" id="post_28936">
-  	<div class="postdetails_noavatar">
-  		<div class="userinfo">
-  			<div class="contact">
-  				
-  					<a class="postuseravatarlink" href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=2" title="UrbanWaterloo is offline">
-  						
-  							<img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/image.php?u=2&amp;dateline=1320406213" alt="UrbanWaterloo's Avatar" style="max-height: 45px" />
-  						
-  					</a>
-  				
-  				<div class="username_container">
-  					<div>
-  					
-  						<!-- BEGIN TEMPLATE: memberaction_dropdown -->
-  <div class="popupmenu memberaction">
-  	<a class="username offline popupctrl" href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=2" title="UrbanWaterloo is offline" style="font-weight:bold;">UrbanWaterloo</a>
-  	<ul class="popupbody popuphover memberaction_body">
-  		<li class="left">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=2" class="siteicon_profile">
-  				View Profile
-  			</a>
-  		</li>
-  		
-  		<li class="right">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
-  				View Forum Posts
-  			</a>
-  		</li>
-  		
-  		
-  		<li class="left">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=2" class="siteicon_message" rel="nofollow">
-  				Private Message
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		<li class="right">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/blog.php?u=2" class="siteicon_blog" rel="nofollow">
-  				View Blog Entries
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		
-  		
-  		<li class="right">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/list.php?r=author/2-UrbanWaterloo" class="siteicon_article" rel="nofollow">
-  				View Articles
-  			</a>
-  		</li>
-  		
-  
-  		
-  
-  		
-  		
-  	</ul>
-  </div>
-  <!-- END TEMPLATE: memberaction_dropdown -->
-  					<span class="usertitle" style="font-size:11px;">
-  						Moderator
-  					</span>
-  						<!-- BEGIN TEMPLATE: postbit_onlinestatus -->
-  <img class="inlineimg onlinestatus" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />
-  
-  <!-- END TEMPLATE: postbit_onlinestatus -->
-  					
-  					</div>
-  					<div class="userinfo_extra" style="font-size: 10px; display: block; margin-top: 5px;">
-  						From Kitchener-Waterloo |  Member Since Dec 2009 | 5,693 Posts
-  					</div>
-                                          
-  				</div>
-  			</div>
-  
-  			<div style="width:34.9%; display: inline-block; text-align: right; height:45px;">
-  			<div style="padding: 6px 10px 3px 0;">
-                          
-                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
-                                          
-                                                  <a name="post28936" href="/web/20130827124336/http://www.wonderfulwaterloo.com/showthread.php?t=934&amp;p=28936#post28936" class="postcounter">#4</a><a id="postcount28936" name="4"></a>
-                                          
-                                          
-                                          
-                                  </span>
-                                  <div style="margin-top: 6px;">
-                                 <span class="postdate old">
-                                          
-                                                  <span class="date">04-19-2011&nbsp;<span class="time">07:15 AM</span></span>
-                                          
-                                  </span>
-                                  </div>
-                          
-  			</div>
-  			</div>
-  
-  		</div>
-  	</div>
-  
-  	<div class="postbody" style="clear: both; color: rgb(51, 51, 51); padding-top: 13px; padding-bottom: 6px; background: transparent none   ;">
-  		
-  		<div class="postrow" style="padding: 0px 8px;">
-  		
-  		
-  				
-  				
-  		<div class="content">
-  			<div id="post_message_28936">
-  				<blockquote class="postcontent restore">
-  					<b><font size="4"><font color="blue">News Quote BB Code</font></font></b><br />
-   <br />
-  <ul><li style="">Make sure to use all 5 options, 4 line-breaks ( | ), or it won't display.  If you don't know an option just use a symbol, like a period or underscore.</li><li style="">Make sure to use the full http:// url for it to link properly.</li></ul><br />
-  <br />
-  <div style="text-align: center;"><font color="green"><font size="1">icon</font></font><br />
-  <br />
-  <img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/buttons/newsquoteicon.jpg" border="0" alt="" /><br />
-  <br />
-  <font color="green"><font size="1">format</font></font></div><br />
-  &#91;newsquote="Title | Date | Author | Publication | Full URL"&#93;quoted text&#91;/newsquote&#93;<br />
-  <br />
-  <div style="text-align: center;"><font color="green"><font size="1">example</font></font></div><br />
-  &#91;newsquote="Becoming Santa: Maintaining the myth a goal of modern mall display | December 23, 2010 | BOB VRBANAC | WATERLOO CHRONICLE | http://www.waterloochronicle.ca/news/article/226480"&#93;That&#8217;s the lesson learned at Waterloo&#8217;s Conestoga Mall. A major renovation at the mall last year also lead to a major rethink about the mall Santa and how to make sure that kids got enough face time with the guy in the red suit.<br />
-  ...<br />
-  But the building of that buzz didn&#8217;t come cheap. To redecorate the whole mall, in addition to sprucing up Santa, cost a cool quarter of million dollars.<br />
-  ...<br />
-  Instead of doling out the cash for a photo with old Saint Nick, the mall generously e-mails a photo of the moment caught in time and extends best wishes for the season.&#91;/newsquote&#93;<br />
-  <br />
-  <div style="text-align: center;"><font color="green"><font size="1">translates into</font></font></div><br />
-  <p style="font-weight: bold; font-size:18px; color:blue;">Becoming Santa: Maintaining the myth a goal of modern mall display </p>
-   December 23, 2010  |  BOB VRBANAC  |  WATERLOO CHRONICLE  | <a href="/web/20130827124336/http://www.waterloochronicle.ca/news/article/226480">Link</a>
-  <br><br>
-  <div class="bbcode_container">
-  	<div class="bbcode_quote">
-  		<div class="quote_container">
-  			<div class="bbcode_quote_container"></div>
-  That&#8217;s the lesson learned at Waterloo&#8217;s Conestoga Mall. A major renovation at the mall last year also lead to a major rethink about the mall Santa and how to make sure that kids got enough face time with the guy in the red suit.<br />
-  ...<br />
-  But the building of that buzz didn&#8217;t come cheap. To redecorate the whole mall, in addition to sprucing up Santa, cost a cool quarter of million dollars.<br />
-  ...<br />
-  Instead of doling out the cash for a photo with old Saint Nick, the mall generously e-mails a photo of the moment caught in time and extends best wishes for the season.	</div>
-  	</div>
-  </div>
-  				</blockquote>
-  			</div>
-  
-  			
-  
-  
-  		</div>
-  			
-  				
-  			
-  			
-  			
-  		</div>
-  	</div>
-  	<div class="postfoot" style="visibility:hidden;">
-  		<div class="textcontrols floatcontainer">
-  			<span class="postcontrols">
-  				<img style="display:none" id="progress_28936" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
-  			
-  					
-  					<a id="qr_28936" class='quickreply' href="/web/20130827124336/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=28936" rel="nofollow"><img id="replyimg_28936" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Quick reply to this message" /> Reply</a>
-  
-  					<span class="seperator">&nbsp;</span>
-  				
-  				
-  				
-  			</span>
-  			<span class="postlinking">
-  
-  				
-  
-  				 
-  				
-  
-  					
-  
-  					
-  					 
-  
-  					
-  					
-  					
-  					
-  					
-  
-  				
-  			</span>
-  		</div>
-  	</div>
-  </li>
-  <!-- BEGIN TEMPLATE: post_thanks_box -->
-  <li class="postbit postbitim" id="post_thanks_box_28936" style="display:none">
-  	
-  </li> 
-  <!-- END TEMPLATE: post_thanks_box -->
-  <!-- END TEMPLATE: postbit -->
-  <!-- END TEMPLATE: postbit_wrapper --><!-- BEGIN TEMPLATE: postbit_wrapper -->
-  <!-- BEGIN TEMPLATE: postbit -->
-  
-  <li class="postbit postbitim postcontainer old" id="post_28957">
-  	<div class="postdetails_noavatar">
-  		<div class="userinfo_noavatar">
-  			<div class="contact">
-  				
-  				<div class="username_container">
-  					<div>
-  					
-  						<!-- BEGIN TEMPLATE: memberaction_dropdown -->
-  <div class="popupmenu memberaction">
-  	<a class="username offline popupctrl" href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=35" title="mpd618 is offline" style="font-weight:bold;">mpd618</a>
-  	<ul class="popupbody popuphover memberaction_body">
-  		<li class="left">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=35" class="siteicon_profile">
-  				View Profile
-  			</a>
-  		</li>
-  		
-  		<li class="right">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=35&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
-  				View Forum Posts
-  			</a>
-  		</li>
-  		
-  		
-  		<li class="left">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=35" class="siteicon_message" rel="nofollow">
-  				Private Message
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		<li class="right">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/blog.php?u=35" class="siteicon_blog" rel="nofollow">
-  				View Blog Entries
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		<li class="left">
-  			<a href="/web/20130827124336/http://psystenance.com/" class="siteicon_homepage">
-  				Visit Homepage
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		<li class="right">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/list.php?r=author/35-mpd618" class="siteicon_article" rel="nofollow">
-  				View Articles
-  			</a>
-  		</li>
-  		
-  
-  		
-  
-  		
-  		
-  	</ul>
-  </div>
-  <!-- END TEMPLATE: memberaction_dropdown -->
-  					<span class="usertitle" style="font-size:11px;">
-  						Metropolis Member
-  					</span>
-  						<!-- BEGIN TEMPLATE: postbit_onlinestatus -->
-  <img class="inlineimg onlinestatus" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="mpd618 is offline" border="0" />
-  
-  <!-- END TEMPLATE: postbit_onlinestatus -->
-  					
-  					</div>
-  					<div class="userinfo_extra" style="font-size: 10px; display: block; margin-top: 5px;">
-  						From Waterloo, ON |  Member Since Jan 2010 | 2,068 Posts
-  					</div>
-                                          
-  				</div>
-  			</div>
-  
-  			<div style="width:34.9%; display: inline-block; text-align: right; height:45px;">
-  			<div style="padding: 6px 10px 3px 0;">
-                          
-                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
-                                          
-                                                  <a name="post28957" href="/web/20130827124336/http://www.wonderfulwaterloo.com/showthread.php?t=934&amp;p=28957#post28957" class="postcounter">#5</a><a id="postcount28957" name="5"></a>
-                                          
-                                          
-                                          
-                                  </span>
-                                  <div style="margin-top: 6px;">
-                                 <span class="postdate old">
-                                          
-                                                  <span class="date">04-19-2011&nbsp;<span class="time">12:42 PM</span></span>
-                                          
-                                  </span>
-                                  </div>
-                          
-  			</div>
-  			</div>
-  
-  		</div>
-  	</div>
-  
-  	<div class="postbody" style="clear: both; color: rgb(51, 51, 51); padding-top: 13px; padding-bottom: 6px; background: transparent none   ;">
-  		
-  		<div class="postrow" style="padding: 0px 8px;">
-  		
-  		
-  				
-  				
-  		<div class="content">
-  			<div id="post_message_28957">
-  				<blockquote class="postcontent restore">
-  					Neat! I might actually use this for once.
-  				</blockquote>
-  			</div>
-  
-  			
-  
-  
-  		</div>
-  			
-  				
-  			
-  			
-  			
-  		</div>
-  	</div>
-  	<div class="postfoot" style="visibility:hidden;">
-  		<div class="textcontrols floatcontainer">
-  			<span class="postcontrols">
-  				<img style="display:none" id="progress_28957" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
-  			
-  					
-  					<a id="qr_28957" class='quickreply' href="/web/20130827124336/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=28957" rel="nofollow"><img id="replyimg_28957" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Quick reply to this message" /> Reply</a>
-  
-  					<span class="seperator">&nbsp;</span>
-  				
-  				
-  				
-  			</span>
-  			<span class="postlinking">
-  
-  				
-  
-  				 
-  				
-  
-  					
-  
-  					
-  					 
-  
-  					
-  					
-  					
-  					
-  					
-  
-  				
-  			</span>
-  		</div>
-  	</div>
-  </li>
-  <!-- BEGIN TEMPLATE: post_thanks_box -->
-  <li class="postbit postbitim" id="post_thanks_box_28957" style="display:none">
-  	
-  </li> 
-  <!-- END TEMPLATE: post_thanks_box -->
-  <!-- END TEMPLATE: postbit -->
-  <!-- END TEMPLATE: postbit_wrapper --><!-- BEGIN TEMPLATE: postbit_wrapper -->
-  <!-- BEGIN TEMPLATE: postbit -->
-  
-  <li class="postbit postbitim postcontainer old" id="post_28962">
-  	<div class="postdetails_noavatar">
-  		<div class="userinfo">
-  			<div class="contact">
-  				
-  					<a class="postuseravatarlink" href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=177" title="IEFBR14 is offline">
-  						
-  							<img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/image.php?u=177&amp;dateline=1283110420" alt="IEFBR14's Avatar" style="max-height: 45px" />
-  						
-  					</a>
-  				
-  				<div class="username_container">
-  					<div>
-  					
-  						<!-- BEGIN TEMPLATE: memberaction_dropdown -->
-  <div class="popupmenu memberaction">
-  	<a class="username offline popupctrl" href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=177" title="IEFBR14 is offline" style="font-weight:bold;">IEFBR14</a>
-  	<ul class="popupbody popuphover memberaction_body">
-  		<li class="left">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=177" class="siteicon_profile">
-  				View Profile
-  			</a>
-  		</li>
-  		
-  		<li class="right">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=177&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
-  				View Forum Posts
-  			</a>
-  		</li>
-  		
-  		
-  		<li class="left">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=177" class="siteicon_message" rel="nofollow">
-  				Private Message
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		<li class="right">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/blog.php?u=177" class="siteicon_blog" rel="nofollow">
-  				View Blog Entries
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		
-  		
-  		<li class="right">
-  			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/list.php?r=author/177-IEFBR14" class="siteicon_article" rel="nofollow">
-  				View Articles
-  			</a>
-  		</li>
-  		
-  
-  		
-  
-  		
-  		
-  	</ul>
-  </div>
-  <!-- END TEMPLATE: memberaction_dropdown -->
-  					<span class="usertitle" style="font-size:11px;">
-  						Metropolis Member
-  					</span>
-  						<!-- BEGIN TEMPLATE: postbit_onlinestatus -->
-  <img class="inlineimg onlinestatus" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="IEFBR14 is offline" border="0" />
-  
-  <!-- END TEMPLATE: postbit_onlinestatus -->
-  					
-  					</div>
-  					<div class="userinfo_extra" style="font-size: 10px; display: block; margin-top: 5px;">
-  						From H2OWC |  Member Since Mar 2010 | 1,283 Posts
-  					</div>
-                                          
-  				</div>
-  			</div>
-  
-  			<div style="width:34.9%; display: inline-block; text-align: right; height:45px;">
-  			<div style="padding: 6px 10px 3px 0;">
-                          
-                                  <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
-                                          
-                                                  <a name="post28962" href="/web/20130827124336/http://www.wonderfulwaterloo.com/showthread.php?t=934&amp;p=28962#post28962" class="postcounter">#6</a><a id="postcount28962" name="6"></a>
-                                          
-                                          
-                                          
-                                  </span>
-                                  <div style="margin-top: 6px;">
-                                 <span class="postdate old">
-                                          
-                                                  <span class="date">04-19-2011&nbsp;<span class="time">03:51 PM</span></span>
-                                          
-                                  </span>
-                                  </div>
-                          
-  			</div>
-  			</div>
-  
-  		</div>
-  	</div>
-  
-  	<div class="postbody" style="clear: both; color: rgb(51, 51, 51); padding-top: 13px; padding-bottom: 6px; background: transparent none   ;">
-  		
-  		<div class="postrow" style="padding: 0px 8px;">
-  		
-  		
-  				
-  				
-  					
-  				
-  		<div class="content">
-  			<div id="post_message_28962">
-  				<blockquote class="postcontent restore">
-  					<img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/smilies/Package1/RpS_thumbup.gif" border="0" alt="" title="RpS Thumbup" class="inlineimg" /><br />
-  <br />
-  Would it be possible to prefill the option box with a template so that people don't have to remember the syntax, e.g. like so:<br />
-  <br />
-  <img src="/web/20130827124336im_/http://1dl.us/hHA.jpg" border="0" alt="" />
-  				</blockquote>
-  			</div>
-  
-  			
-  
-  
-  		</div>
-  			
-  				
-  			
-  			
-  			
-  		</div>
-  	</div>
-  	<div class="postfoot" style="visibility:hidden;">
-  		<div class="textcontrols floatcontainer">
-  			<span class="postcontrols">
-  				<img style="display:none" id="progress_28962" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
-  			
-  					
-  					<a id="qr_28962" class='quickreply' href="/web/20130827124336/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=28962" rel="nofollow"><img id="replyimg_28962" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Quick reply to this message" /> Reply</a>
-  
-  					<span class="seperator">&nbsp;</span>
-  				
-  				
-  				
-  			</span>
-  			<span class="postlinking">
-  
-  				
-  
-  				 
-  				
-  
-  					
-  
-  					
-  					 
-  
-  					
-  					
-  					
-  					
-  					
-  
-  				
-  			</span>
-  		</div>
-  	</div>
-  </li>
-  <!-- BEGIN TEMPLATE: post_thanks_box -->
-  <li class="postbit postbitim" id="post_thanks_box_28962" style="display:none">
-  	
-  </li> 
-  <!-- END TEMPLATE: post_thanks_box -->
-  <!-- END TEMPLATE: postbit -->
-  <!-- END TEMPLATE: postbit_wrapper -->
-  		</ol>
-  		<div class="separator"></div>
-  
-  <div id="showthreadsingletoolbarbottom" style="height:36px;background:#E4E6E7;clear:both;">
-  
-  <div id="showthreadsingletoolbarbottomleft" style="width:300px;float:left;margin-left:6px;">
-  <div id="below_postlist" class="noinlinemod below_postlist">
-  		<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/newreply.php?p=28962&amp;noquote=1"class="newcontent_textcontrol" id="newreplylink_bottom">Reply</a>
-  </div>
-  </div>
-  
-  <div id="showthreadsingletoolbarbottomright" style="width:230px;float:right;margin-top:7px;margin-right:6px;">
-  
-  		<div class="postlistfoot">
-  			
-  		</div>
-  
-  		
-  
-  		<div id="below_postlist" class="noinlinemod below_postlist">
-  			<div id="pagination_bottom" class="pagination_bottom">
-  			
-  			
-  			</div>
-  		</div>
-  </div>
-  </div>
-  
-  </div>
-  
-  
-  
-  
-  
-  
-  
-  
-  <div id="thread_info" class="thread_info block">
-  	
-  </div>
-  
-  
-  <div style="margin-top:0px; height:8px;"></div>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <!-- BEGIN TEMPLATE: navbar_breadcrumbs -->
-  <div id="breadcrumb_two" class="breadcrumb" style="margin-bottom: 6px; font-size: 11px;">
-  	<ul class="floatcontainer">
-  		<li class="navbithome"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/index.php" ><img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/misc/navbit-home.png" alt="Home" /></a></li>
-  
-  		<!-- BEGIN TEMPLATE: navbar_link -->
-  
-  	<li class="navbit"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/forum.php">Forum</a></li>
-  
-  <!-- END TEMPLATE: navbar_link --><!-- BEGIN TEMPLATE: navbar_link -->
-  
-  	<li class="navbit"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/forumdisplay.php?f=22">General</a></li>
-  
-  <!-- END TEMPLATE: navbar_link --><!-- BEGIN TEMPLATE: navbar_link -->
-  
-  	<li class="navbit"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/forumdisplay.php?f=23">General Discussion</a></li>
-  
-  <!-- END TEMPLATE: navbar_link -->
-  		<!-- BEGIN TEMPLATE: navbar_link -->
-  
-  	<li class="navbit lastnavbit"><span> Third Party Article and Photo Posting Guidelines</span></li>
-  
-  <!-- END TEMPLATE: navbar_link -->
-  	</ul>
-  	<hr />
-  </div>
-   
-  <!-- END TEMPLATE: navbar_breadcrumbs --> <!-- Lower Breadcumbs -->
-  <!-- BEGIN TEMPLATE: footer -->
-  
-  <div style="margin-bottom:6px;">
-  
-  <div style="clear: left">
-    <!-- BEGIN TEMPLATE: ad_footer_start -->
-   
-  <!-- END TEMPLATE: ad_footer_start -->
-    <!-- BEGIN TEMPLATE: ad_global_above_footer -->
-   
-  <!-- END TEMPLATE: ad_global_above_footer -->
-  </div>
-  
-  </div>
-  
-  
-  <div id="footer" class="floatcontainer footer">
-  
-  	<form action="/web/20130827124336/http://www.wonderfulwaterloo.com/forum.php" method="get" id="footer_select" class="footer_select">
-  
-  		
-  		
-  		
-  	</form>
-  
-  	<ul id="footer_links" class="footer_links">
-  		<li><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/sendmessage.php" rel="nofollow" accesskey="9">Contact Us</a></li>
-  		<li><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/">Home</a></li>
-  		
-  		
-  		<li><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/archive/index.php">Archive</a></li>
-  		
-  		
-  		
-  		<li><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/showthread.php?t=934#top" onclick="document.location.hash='top'; return false;">Top</a></li>
-  	</ul>
-  	
-  	
-  	
-  	
-  	<script type="text/javascript">
-  	<!--
-  		// Main vBulletin Javascript Initialization
-  		vBulletin_init();
-  	//-->
-  	</script>
-          
-  </div>
-  </div> <!-- closing div for body_wrapper -->
-  
-  <div class="below_body">
-  <div id="footer_time" class="shade footer_time">All times are GMT -4. The time now is <span class="time">08:43 AM</span>.</div>
-  
-  <div id="footer_morecopyright" class="shade footer_morecopyright">
-  	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
-  	
-  	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
-  	
-  	
-  </div>
-  <!-- BEGIN TEMPLATE: ad_footer_end -->
-  
-  <!-- END TEMPLATE: ad_footer_end --> 
-  
-  </div>
-  
-  </div> <!-- closing div for container in header -->
-  <!-- END TEMPLATE: footer -->
-  
-  </body>
-  </html>
-  <!-- END TEMPLATE: SHOWTHREAD -->
-  
-  
-  
-  
-  <!--
-       FILE ARCHIVED ON 12:43:36 Aug 27, 2013 AND RETRIEVED FROM THE
-       INTERNET ARCHIVE ON 9:13:18 Aug 25, 2014.
-       JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-  
-       ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-       SECTION 108(a)(3)).
-  -->
+    <!-- BEGIN TEMPLATE: SHOWTHREAD -->
+    
+    <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" id="vbulletin_html">
+    <head>
+    
+    <script type="text/javascript" src="/static/js/analytics.js" ></script>
+    <link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+    
+    
+    
+    
+    	<!-- BEGIN TEMPLATE: headinclude -->
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.wonderfulwaterloo.com" />
+      <meta http-equiv="X-UA-Compatible" content="IE=9" />
+    
+    	<link rel="Shortcut Icon" href="/web/20130827124336im_/http://www.wonderfulwaterloo.com/favicon.ico" type="image/x-icon" />
+    
+    
+    
+    
+    
+    
+    
+    
+    	
+    		<script type="text/javascript" src="/web/20130827124336js_/http://yui.yahooapis.com/combo?2.9.0/build/yuiloader-dom-event/yuiloader-dom-event.js&amp;2.9.0/build/connection/connection-min.js"></script>
+    	
+    
+    <script type="text/javascript">
+    <!--
+    	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+    	{
+    		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=421"><\/script>');
+    		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=421"><\/script>');
+    		var yuipath = 'clientscript/yui';
+    		var yuicombopath = '';
+    		var remoteyui = false;
+    	}
+    	else	// Load Rest of YUI remotely (where possible)
+    	{
+    		var yuipath = '/web/20130827124336/http://yui.yahooapis.com/2.9.0/build';
+    		var yuicombopath = '/web/20130827124336/http://yui.yahooapis.com/combo';
+    		var remoteyui = true;
+    		if (!yuicombopath)
+    		{
+    			document.write('<script type="text/javascript" src="/web/20130827124336/http://yui.yahooapis.com/2.9.0/build/connection/connection-min.js?v=421"><\/script>');
+    		}
+    	}
+    	var SESSIONURL = "";
+    	var SECURITYTOKEN = "guest";
+    	var IMGDIR_MISC = "images/misc";
+    	var IMGDIR_BUTTON = "images/buttons";
+    	var vb_disable_ajax = parseInt("0", 10);
+    	var SIMPLEVERSION = "421";
+    	var BBURL = "/web/20130827124336/http://www.wonderfulwaterloo.com";
+    	var LOGGEDIN = 0 > 0 ? true : false;
+    	var THIS_SCRIPT = "showthread";
+    	var RELPATH = "showthread.php?t=934";
+    	var PATHS = {
+    		forum : "",
+    		cms   : "",
+    		blog  : ""
+    	};
+    	var AJAXBASEURL = "/web/20130827124336/http://www.wonderfulwaterloo.com/";
+    // -->
+    </script>
+    <script type="text/javascript" src="/web/20130827124336js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin-core.js?v=421"></script>
+    
+    
+    
+    	<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2" />
+    	
+    		<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo - General Discussion - RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2&amp;forumids=23" />
+    	
+    
+    
+    
+    	<link rel="stylesheet" type="text/css" href="/web/20130827124336cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1373539657&amp;td=ltr&amp;sheet=bbcode.css,editor.css,popupmenu.css,reset-fonts.css,vbulletin.css,vbulletin-chrome.css,vbulletin-formcontrols.css," />
+    
+    	<!--[if lt IE 8]>
+    	<link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1373539657&amp;td=ltr&amp;sheet=popupmenu-ie.css,vbulletin-ie.css,vbulletin-chrome-ie.css,vbulletin-formcontrols-ie.css,editor-ie.css" />
+    	<![endif]-->
+    
+    <!-- END TEMPLATE: headinclude --><!-- BEGIN TEMPLATE: post_thanks_javascript -->
+    <script type="text/javascript" src="/web/20130827124336js_/http://www.wonderfulwaterloo.com/clientscript/post_thanks.js"></script>
+    
+    <style type="text/css">
+    .postbitlegacy .postfoot .textcontrols a.post_thanks_button, .postbit .postfoot .textcontrols a.post_thanks_button  {
+    	background: url(/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/buttons/post_thanks.png) no-repeat transparent left;
+    	padding-left: 20px;
+    }
+    .postbitlegacy .postfoot .textcontrols a.post_thanks_button:hover, .postbit .postfoot .textcontrols a.post_thanks_button:hover  {
+    	background: url(/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/buttons/post_thanks-hover.png) no-repeat transparent left;
+    </style>
+     
+    <!-- END TEMPLATE: post_thanks_javascript -->
+    	<meta name="keywords" content="mall, photo, time, make, santa, major, didn&amp;8217t, buzz, suit, building, kids, rethink, lead, face, nick, generously, saint, cash, e-mails, moment, wishes, season, extends, caught, doling, sprucing, addition, redecorate, cost, cool, dollars, million, quarter, cheap, conestoga, that&amp;8217s, year, learned, lesson, waterloo&amp;8217s, renovation, options, line-breaks, display, news, article, party, translates, posting, guidelines" />
+    	<meta name="description" content="Third Party Article and Photo Posting Guidelines 
+     
+    Articles 
+     
+     
+     
+     
+    Photos" />
+    
+    	<title> Third Party Article and Photo Posting Guidelines</title>
+    	<link rel="canonical" href="showthread.php?t=934" />
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    
+    	
+    		<link rel="stylesheet" type="text/css" href="/web/20130827124336cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1373539657&amp;td=ltr&amp;sheet=toolsmenu.css,postlist.css,showthread.css,postbit.css,options.css,attachment.css,poll.css,lightbox.css" />
+    	
+    	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1373539657&amp;td=ltr&amp;sheet=toolsmenu-ie.css,postlist-ie.css,showthread-ie.css,postbit-ie.css,poll-ie.css" /><![endif]-->
+    <!-- BEGIN TEMPLATE: headinclude_bottom -->
+    <link rel="stylesheet" type="text/css" href="/web/20130827124336cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1373539657&amp;td=ltr&amp;sheet=additional.css" />
+    
+    <!-- END TEMPLATE: headinclude_bottom -->
+    </head>
+    
+    <body>
+    
+    
+    
+    <!-- BEGIN TEMPLATE: header -->
+    <script src="/web/20130827124336js_/http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    
+    <div style="background:#C6CEDF;">
+    <div class="container">
+    
+    </div>
+    </div>
+    
+    
+    <div id="globaltoolbar" style="background:rgb(66, 90, 148); height:38px;">
+    <div class="container">
+    
+    <!-- advertisement right transparent background strip -->
+    <div style="position: fixed; width: 240px; margin-left: 1002px; height: 100%; background-color: #000000; opacity: .7; z-index:-10;"></div>
+    
+    	<ul id="navtabs" class="navtabs floatcontainer">
+    		
+    		<!-- BEGIN TEMPLATE: navbar_tabs -->
+    <script src="/web/20130827124336js_/http://www.wonderfulwaterloo.com/projects/navtabhover.js"></script>
+    
+    
+    	
+    		<li  id="vbtab_cms">
+    			<a class="navtab" href="/web/20130827124336/http://www.wonderfulwaterloo.com/content.php">Home</a>
+    		</li>
+    		
+    		
+    
+    	
+    		<li class="selected" id="vbtab_forum">
+    			<a class="navtab" href="/web/20130827124336/http://www.wonderfulwaterloo.com/forum.php">Forum</a>
+    		</li>
+    		
+    		
+    
+    	
+    		<li class="popupmenu navtab" id="vbtab_whatsnew">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/activity.php" onClick="location.href = 'activity.php'" class="popupctrl navtab">New
+    			</a>
+    			<ul class="popupbody popuphover">
+    				
+    					<li id="link_nzy5_898"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/activity.php">Activity</a></li>
+    				
+    					<li id="vbnew_newposts"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=getnew&amp;contenttype=vBForum_Post">Posts</a></li>
+    				
+    					<li id="vbnew_events"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=getnew&amp;contenttype=vBForum_Event">Events</a></li>
+    				
+    					<li id="vbnew_mfr"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/forumdisplay.php?do=markread&amp;markreadhash=">Mark Forums Read</a></li>
+    				
+    			</ul>
+    		</li>
+    		
+    		
+    
+    	
+    		<li class="popupmenu navtab" id="tab_otkw_803">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/about.php" onClick="location.href = 'about.php'" class="popupctrl navtab">About
+    			</a>
+    			<ul class="popupbody popuphover">
+    				
+    					<li id="link_otkw_781"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/about.php">Welcome</a></li>
+    				
+    					<li id="link_otkw_346"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/misc.php?do=showrules">Code Of Conduct</a></li>
+    				
+    					<li id="link_otkw_272"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/showthread.php?t=727">WW 'Money'</a></li>
+    				
+    					<li id="link_otkw_476"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/group.php">Groups</a></li>
+    				
+    					<li id="link_otkw_474"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/blog.php">Blogs</a></li>
+    				
+    			</ul>
+    		</li>
+    		
+    		
+    
+    	
+    		<li class="popupmenu navtab" id="tab_otkw_455">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=2" onClick="location.href = 'calendar.php?calendarid=2'" class="popupctrl navtab">Calendars
+    			</a>
+    			<ul class="popupbody popuphover">
+    				
+    					<li id="link_otkw_175"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=1">General Events</a></li>
+    				
+    					<li id="link_otkw_949"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=2">Arts, Culture & Heritage</a></li>
+    				
+    					<li id="link_otkw_510"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=3">Sports & Recreation</a></li>
+    				
+    					<li id="link_otkw_268"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=4">Business</a></li>
+    				
+    					<li id="link_otkw_831"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=6">Food Deals</a></li>
+    				
+    					<li id="link_otkw_926"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=5">Nightlife</a></li>
+    				
+    			</ul>
+    		</li>
+    		
+    		
+    
+    	
+    		<li class="popupmenu navtab" id="tab_otkw_117">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/misc.php?do=page&amp;template=Features" onClick="location.href = '/misc.php?do=page&amp;template=Features'" class="popupctrl navtab">Features
+    			</a>
+    			<ul class="popupbody popuphover">
+    				
+    					<li id="link_otkw_947"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/maps.php">Maps</a></li>
+    				
+    					<li id="link_otkw_469"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/statistics.php">Statistics</a></li>
+    				
+    					<li id="link_otkw_453"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/links.php">Local Links</a></li>
+    				
+    			</ul>
+    		</li>
+    		
+    		
+    
+    	
+    		<li  id="tab_ode1_495">
+    			<a class="navtab" href="/web/20130827124336/http://www.wonderfulwaterloo.com/shop.php">Shop</a>
+    		</li>
+    		
+    		
+    
+    <!-- END TEMPLATE: navbar_tabs -->
+    		
+    	</ul>
+    
+    	
+    		<div id="globalsearch" class="globalsearch">
+    			<form action="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=process" method="post" id="navbar_search" class="navbar_search">
+    				
+    				<input type="hidden" name="securitytoken" value="guest" />
+    				<input type="hidden" name="do" value="process" />
+    				<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
+    				<span class="buttoncontainer" style="position:relative;left: -30px;"><span><input type="image" class="searchbutton" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/buttons/searchblack.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
+    			</form>
+    		</div>
+    	
+    
+    </div>
+    </div>
+    
+    
+    <div class="container"> <!-- making site 990px closing div in footer -->
+    
+    <div class="above_body"> <!-- closing tag is in template navbar -->
+    <div id="header" class="floatcontainer doc_header" >
+    	<div id="toplinks" class="toplinks">
+    		
+    			<ul class="nouser">
+    			
+    				<li><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/register.php" rel="nofollow">Register</a></li>
+    			
+    				<li>
+    			<script type="text/javascript" src="/web/20130827124336js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_md5.js?v=421"></script>
+    			<form id="navbar_loginform" action="/web/20130827124336/http://www.wonderfulwaterloo.com/login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+    				<div id="remember" class="remember" style="position:absolute; left:-22px; top:3px">
+    					<input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" title="Stay Logged In" />
+    				</div>
+    				<fieldset id="logindetails" class="logindetails">
+    					<div>
+    					<img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/icons/username.png" alt="Username" style="padding-top:2px; padding-right:2px;" /><input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" />
+    					<img style="position: relative; top: 0px;" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/icons/password.png" alt="Password" />
+    					<input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10" />
+    
+    
+    					<input type="text" class="textbox default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Password" style="display:none;" />
+    					<input type="submit" class="loginbutton" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s" />
+    					</div>
+    				</fieldset>
+    				<input type="hidden" name="s" value="" />
+    				<input type="hidden" name="securitytoken" value="guest" />
+    				<input type="hidden" name="do" value="login" />
+    				<input type="hidden" name="vb_login_md5password" />
+    				<input type="hidden" name="vb_login_md5password_utf" />
+    			</form>
+    			<script type="text/javascript">
+    			YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+    			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+    			vB_XHTML_Ready.subscribe(function()
+    			{
+    			//
+    				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+    				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+    				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+    				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+    			});
+    			
+    			function navbar_username_focus(e)
+    			{
+    			//
+    				var textbox = YAHOO.util.Event.getTarget(e);
+    				if (textbox.value == 'User Name')
+    				{
+    				//
+    					textbox.value='';
+    					textbox.style.color='#000000';
+    				}
+    			}
+    
+    			function navbar_username_blur(e)
+    			{
+    			//
+    				var textbox = YAHOO.util.Event.getTarget(e);
+    				if (textbox.value == '')
+    				{
+    				//
+    					textbox.value='User Name';
+    					textbox.style.color='#777777';
+    				}
+    			}
+    			
+    			function navbar_password_hint(e)
+    			{
+    			//
+    				var textbox = YAHOO.util.Event.getTarget(e);
+    				
+    				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+    				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+    				YAHOO.util.Dom.get('navbar_password').focus();
+    			}
+    
+    			function navbar_password(e)
+    			{
+    			//
+    				var textbox = YAHOO.util.Event.getTarget(e);
+    				
+    				if (textbox.value == '')
+    				{
+    					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+    					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+    				}
+    			}
+    			</script>
+    				</li>
+    				
+    			</ul>
+    		
+    	</div>
+    	<div><a name="top" href="/web/20130827124336/http://www.wonderfulwaterloo.com/forum.php" class="logo-image"><img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/WW/WWLogo.jpg" alt="Wonderful Waterloo - Made in Waterloo Region" width="100%" /></a></div>
+    	<div class="ad_global_header">
+    		<!-- BEGIN TEMPLATE: ad_global_header1 -->
+     
+    <!-- END TEMPLATE: ad_global_header1 -->
+    		<!-- BEGIN TEMPLATE: ad_global_header2 -->
+     
+    <!-- END TEMPLATE: ad_global_header2 -->
+    	</div>
+    	<hr />
+    
+    <script type="text/javascript">
+    
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-20199168-1']);
+      _gaq.push(['_setLocalRemoteServerMode']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? '/web/20130827124336/https://ssl' : '/web/20130827124336/http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    
+    </script>
+    
+    <script type="text/javascript">
+    function toggleMe(a){
+    var e=document.getElementById(a);
+    if(!e)return true;
+    if(e.style.display=="none"){
+    e.style.display="block"
+    }
+    else{
+    e.style.display="none"
+    }
+    return true;
+    }
+    </script>
+    
+    </div>
+    <!-- END TEMPLATE: header -->
+    <!-- BEGIN TEMPLATE: navbar -->
+    <div id="navbar" class="navbar" style="display:none;">
+    	<ul id="navtabs" class="navtabs floatcontainer">
+    		
+    		<!-- BEGIN TEMPLATE: navbar_tabs -->
+    <script src="/web/20130827124336js_/http://www.wonderfulwaterloo.com/projects/navtabhover.js"></script>
+    
+    
+    	
+    		<li  id="vbtab_cms">
+    			<a class="navtab" href="/web/20130827124336/http://www.wonderfulwaterloo.com/content.php">Home</a>
+    		</li>
+    		
+    		
+    
+    	
+    		<li class="selected" id="vbtab_forum">
+    			<a class="navtab" href="/web/20130827124336/http://www.wonderfulwaterloo.com/forum.php">Forum</a>
+    		</li>
+    		
+    		
+    
+    	
+    		<li class="popupmenu navtab" id="vbtab_whatsnew">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/activity.php" onClick="location.href = 'activity.php'" class="popupctrl navtab">New
+    			</a>
+    			<ul class="popupbody popuphover">
+    				
+    					<li id="link_nzy5_898"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/activity.php">Activity</a></li>
+    				
+    					<li id="vbnew_newposts"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=getnew&amp;contenttype=vBForum_Post">Posts</a></li>
+    				
+    					<li id="vbnew_events"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=getnew&amp;contenttype=vBForum_Event">Events</a></li>
+    				
+    					<li id="vbnew_mfr"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/forumdisplay.php?do=markread&amp;markreadhash=">Mark Forums Read</a></li>
+    				
+    			</ul>
+    		</li>
+    		
+    		
+    
+    	
+    		<li class="popupmenu navtab" id="tab_otkw_803">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/about.php" onClick="location.href = 'about.php'" class="popupctrl navtab">About
+    			</a>
+    			<ul class="popupbody popuphover">
+    				
+    					<li id="link_otkw_781"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/about.php">Welcome</a></li>
+    				
+    					<li id="link_otkw_346"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/misc.php?do=showrules">Code Of Conduct</a></li>
+    				
+    					<li id="link_otkw_272"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/showthread.php?t=727">WW 'Money'</a></li>
+    				
+    					<li id="link_otkw_476"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/group.php">Groups</a></li>
+    				
+    					<li id="link_otkw_474"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/blog.php">Blogs</a></li>
+    				
+    			</ul>
+    		</li>
+    		
+    		
+    
+    	
+    		<li class="popupmenu navtab" id="tab_otkw_455">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=2" onClick="location.href = 'calendar.php?calendarid=2'" class="popupctrl navtab">Calendars
+    			</a>
+    			<ul class="popupbody popuphover">
+    				
+    					<li id="link_otkw_175"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=1">General Events</a></li>
+    				
+    					<li id="link_otkw_949"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=2">Arts, Culture & Heritage</a></li>
+    				
+    					<li id="link_otkw_510"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=3">Sports & Recreation</a></li>
+    				
+    					<li id="link_otkw_268"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=4">Business</a></li>
+    				
+    					<li id="link_otkw_831"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=6">Food Deals</a></li>
+    				
+    					<li id="link_otkw_926"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/calendar.php?calendarid=5">Nightlife</a></li>
+    				
+    			</ul>
+    		</li>
+    		
+    		
+    
+    	
+    		<li class="popupmenu navtab" id="tab_otkw_117">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/misc.php?do=page&amp;template=Features" onClick="location.href = '/misc.php?do=page&amp;template=Features'" class="popupctrl navtab">Features
+    			</a>
+    			<ul class="popupbody popuphover">
+    				
+    					<li id="link_otkw_947"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/maps.php">Maps</a></li>
+    				
+    					<li id="link_otkw_469"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/statistics.php">Statistics</a></li>
+    				
+    					<li id="link_otkw_453"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/links.php">Local Links</a></li>
+    				
+    			</ul>
+    		</li>
+    		
+    		
+    
+    	
+    		<li  id="tab_ode1_495">
+    			<a class="navtab" href="/web/20130827124336/http://www.wonderfulwaterloo.com/shop.php">Shop</a>
+    		</li>
+    		
+    		
+    
+    <!-- END TEMPLATE: navbar_tabs -->
+    		
+    	</ul>
+    	
+    		<div id="globalsearch" class="globalsearch">
+    			<form action="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=process" method="post" id="navbar_search" class="navbar_search">
+    				
+    				<input type="hidden" name="securitytoken" value="guest" />
+    				<input type="hidden" name="do" value="process" />
+    				<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
+    				<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
+    			</form>
+    		</div>
+    	
+    </div>
+    </div><!-- closing div for above_body -->
+    
+    
+    
+    
+    <!-- Local Investing Amy Ad -->
+    <div style="position: fixed;  width: 240px;margin-left: 1002px;"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/showthread.php?t=1434&amp;p=44948#post44948"><img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/advertising/Local-Investing-in-Waterloo-Region-Conference-Amy-Cortese-Ad.gif" width="240px" height="300px" title="Local Investing in Waterloo Region - Amy Cortese - June 25th"></a><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/advertising.php" style="color:#5E5E5E; float: right; padding-right: 5px;">Advertise Here</a></div>
+    
+    
+    <!-- Amy Preview Ad 
+    <div style="position: fixed;  width: 240px;margin-left: 1002px;"><img src="/advertising/amypreview.jpg" width="240px" height="300px" title="Stay Tuned"><a href="/advertising.php" style="color:#5E5E5E; float: right; padding-right: 5px;">Advertise Here</a></div> -->
+    
+    
+    <!-- WW Moderators' Council Ad 
+    <div style="position: fixed;  width: 240px;margin-left: 1002px;"><a href="/moderatorscouncil.php"><img src="/projects/moderatorscouncil/WW Moderators' Council Ad - Extended.png" width="240px" height="300px" title="Click To Learn More"></a><a href="/advertising.php" style="color:#5E5E5E; float: right; padding-right: 5px;">Advertise Here</a></div> -->
+    
+    
+    
+    <div class="body_wrapper">
+    <div id="breadcrumb" class="breadcrumb" style="font-size: 11px; margin-top:-3px;"> 
+            
+    	<ul class="floatcontainer">
+    		<li class="navbithome"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/index.php" accesskey="1"><img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/misc/navbit-home.png" alt="Home" /></a></li>
+    		<!-- BEGIN TEMPLATE: navbar_link -->
+    
+    	<li class="navbit"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/forum.php">Forum</a></li>
+    
+    <!-- END TEMPLATE: navbar_link --><!-- BEGIN TEMPLATE: navbar_link -->
+    
+    	<li class="navbit"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/forumdisplay.php?f=22">General</a></li>
+    
+    <!-- END TEMPLATE: navbar_link --><!-- BEGIN TEMPLATE: navbar_link -->
+    
+    	<li class="navbit"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/forumdisplay.php?f=23">General Discussion</a></li>
+    
+    <!-- END TEMPLATE: navbar_link -->
+    		<!-- BEGIN TEMPLATE: navbar_link -->
+    
+    	<li class="navbit lastnavbit"><span> Third Party Article and Photo Posting Guidelines</span></li>
+    
+    <!-- END TEMPLATE: navbar_link -->
+    	</ul>
+    	<hr />
+    	
+    </div>
+    
+    <!-- notices moved to header template -->
+    
+    
+    <!-- END TEMPLATE: navbar -->
+    
+    <script src="/web/20130827124336js_/http://www.wonderfulwaterloo.com/projects/postfoothover.js"></script>
+    
+    <div id="showthreadsingletoolbar" style="background:#E4E6E7; height:36px;">
+    
+    	<div id="above_postlist" class="above_postlist">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/newreply.php?p=28962&amp;noquote=1" class="newcontent_textcontrol" id="newreplylink_top">Reply</a>
+    			<img style="display:none" id="progress_newreplylink_top" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif" alt="" />
+    
+    <div id="showthreadsingletoolbarrightside" style="float:right; width:500px;">
+    
+    	<div id="thread_controls" class="thread_controls toolsmenu">
+    		<div>
+    		<ul id="postlist_popups" class="postlist_popups popupgroup">
+    			<li class="popupmenu" id="threadtools">
+    				<h6><a class="popupctrl" href="javascript://"><img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/projects/gearblack.png" title="Thread Tools"/></a></h6>
+    				<ul class="popupbody popuphover">
+    					<li><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/printthread.php?t=934&amp;pp=20&amp;page=1" accesskey="3" rel="nofollow">Show Printable Version</a></li>
+    					
+    					<li>
+    						
+    							<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/subscription.php?do=addsubscription&amp;t=934" rel="nofollow">Subscribe to this Thread&hellip;</a>
+    						
+    					</li>
+    					
+    					<li><ul class="blockrow" style="width:100%;"></ul></li>
+    				</ul>
+    			</li>
+    			</ul>
+    		</div>
+    	</div>
+    
+    	<div id="pagination_top" class="pagination_top">
+    		
+    	</div>
+    
+    	<div id="thread_controls" class="thread_controls toolsmenu">
+    		<div>
+    		<ul id="postlist_popups" class="postlist_popups popupgroup">
+    			
+    			
+    			
+    
+    			
+    			
+    				<li class="popupmenu searchthread menusearch" id="searchthread">
+    					<h6><a class="popupctrl" href="javascript://"><img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/buttons/searchblack.png" alt="Search Thread"/></a></h6>
+    					<form action="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php" method="post">
+    						<ul class="popupbody popuphover">
+    							<li>
+    								<input type="text" name="query" class="searchbox" value="Search..." tabindex="13" />
+    								<input type="submit" class="button" value="Search" tabindex="14" />
+    							</li>
+    							<li class="formsubmit" id="popupsearch">
+    								<div class="submitoptions">&nbsp;</div>
+    								<div class="advancedsearchlink"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?search_type=1&amp;searchthreadid=934&amp;contenttype=vBForum_Post">Advanced Search</a></div>
+    							</li>
+    						</ul>
+    						<input type="hidden" name="s" value="" />
+    						<input type="hidden" name="securitytoken" value="guest" />
+    						<input type="hidden" name="do" value="process" />
+    						<input type="hidden" name="searchthreadid" value="934" />
+    						<input type="hidden" name="search_type" value="1" />
+    						<input type="hidden" name="contenttype" value="vBForum_Post" />
+    					</form>
+    				</li>
+    			
+    			</ul>
+    		</div>
+    	</div>
+    
+    	</div>
+    
+    </div>
+    </div>
+    
+    <div id="postlist" class="postlist restrain">
+    	
+    
+    	
+    		<ol id="posts" class="posts" start="1">
+    			<!-- BEGIN TEMPLATE: postbit_wrapper -->
+    <!-- BEGIN TEMPLATE: postbit1 -->
+    
+    
+    <div style="width:796px; float:left;">
+    
+    <li class="postbit postbitim postcontainer" id="post_22050">
+    	<div class="postdetails_noavatar">
+    		<div class="userinfo" style="background:transparent; margin-bottom:-12px;">
+    
+    			<div style="float:right; text-align: right;">
+    			<div style="padding: 0px 6px 0px 0;">
+                            
+                                    <span class="nodecontrols" style="margin-left: 4px; font-size: 10px;">
+                                            
+                                    </span>
+                            
+    			</div>
+    			</div>
+    
+    		</div>
+    	</div>
+    
+    	<div class="postbody" style="clear: both; color: rgb(51, 51, 51); background: transparent none   ; padding-top: 0px; padding-bottom: 10px;">
+    		
+    		<div class="postrow" style="padding: 0px 10px;">
+    				
+    					
+    					
+    				
+    				
+    		<div class="content">
+    			<div id="post_message_22050">
+    				<blockquote class="postcontent restore">
+    					<font size="5"><font color="blue"><b><div style="text-align: center;">Third Party Article and Photo Posting Guidelines</div></b></font></font><br />
+    <br />
+    <b><font size="3">Articles</font></b><br />
+    <br />
+    <!-- BEGIN TEMPLATE: bbcode_quote -->
+    <div class="bbcode_container">
+    	<div class="bbcode_quote">
+    		<div class="quote_container">
+    			<div class="bbcode_quote_container"></div>
+    			
+    				When posting third-party articles in the Wonderful Waterloo forums (newspaper, magazine, etc.) please post only the first four paragraphs of the article or the information that you have deemed important separated by a series of ellipses (...) to a maximum of 25% of the article.<br />
+    <br />
+    Also, when posting, please provide the following things on a above the article (which should appear in a quote box):  <br />
+    <ul><li style="">Headline title (bold, size 4, blue)</li><li style="">Below the headline on a single line:  Publication date | Author name | Publication | A link to the article.</li></ul><br />
+    <br />
+    An article should look like this:<br />
+    <br />
+    <font size="4"><font color="blue"><b>Becoming Santa: Maintaining the myth a goal of modern mall display</b></font></font><br />
+    December 23, 2010 | BOB VRBANAC | WATERLOO CHRONICLE | <a href="/web/20130827124336/http://www.waterloochronicle.ca/news/article/226480" target="_blank">LINK</a><br />
+    <br />
+    <!-- BEGIN TEMPLATE: bbcode_quote -->
+    <div class="bbcode_container">
+    	<div class="bbcode_quote">
+    		<div class="quote_container">
+    			<div class="bbcode_quote_container"></div>
+    			
+    				It isn&#8217;t cheap being one of Santa&#8217;s helpers and extending the global reach of the jolly old elf.<br />
+    <br />
+    Never mind the suit, there&#8217;s also the trappings that come with the office. If you&#8217;re going to be a proxy for the world&#8217;s greatest wish granter you better provide the appropriate whimiscial environment for that type of magic to happen.<br />
+    <br />
+    That&#8217;s the lesson learned at Waterloo&#8217;s Conestoga Mall. A major renovation at the mall last year also lead to a major rethink about the mall Santa and how to make sure that kids got enough face time with the guy in the red suit.<br />
+    <br />
+    But the building of that buzz didn&#8217;t come cheap. To redecorate the whole mall, in addition to sprucing up Santa, cost a cool quarter of million dollars...
+    			
+    		</div>
+    	</div>
+    </div>
+    <!-- END TEMPLATE: bbcode_quote -->Or like this<br />
+    <br />
+    <font size="4"><font color="blue"><b>Becoming Santa: Maintaining the myth a goal of modern mall display</b></font></font><br />
+    December 23, 2010 | BOB VRBANAC | WATERLOO CHRONICLE | <a href="/web/20130827124336/http://www.waterloochronicle.ca/news/article/226480" target="_blank">LINK</a><br />
+    <br />
+    <!-- BEGIN TEMPLATE: bbcode_quote -->
+    <div class="bbcode_container">
+    	<div class="bbcode_quote">
+    		<div class="quote_container">
+    			<div class="bbcode_quote_container"></div>
+    			
+    				That&#8217;s the lesson learned at Waterloo&#8217;s Conestoga Mall. A major renovation at the mall last year also lead to a major rethink about the mall Santa and how to make sure that kids got enough face time with the guy in the red suit.<br />
+    ...<br />
+    But the building of that buzz didn&#8217;t come cheap. To redecorate the whole mall, in addition to sprucing up Santa, cost a cool quarter of million dollars.<br />
+    ...<br />
+    Instead of doling out the cash for a photo with old Saint Nick, the mall generously e-mails a photo of the moment caught in time and extends best wishes for the season.
+    			
+    		</div>
+    	</div>
+    </div>
+    <!-- END TEMPLATE: bbcode_quote -->
+    			
+    		</div>
+    	</div>
+    </div>
+    <!-- END TEMPLATE: bbcode_quote --><br />
+    <b><font size="3">Photos</font></b><br />
+    <br />
+    <!-- BEGIN TEMPLATE: bbcode_quote -->
+    <div class="bbcode_container">
+    	<div class="bbcode_quote">
+    		<div class="quote_container">
+    			<div class="bbcode_quote_container"></div>
+    			
+    				When posting photographs in the Wonderful Waterloo forums, it is important to credit them properly.  Improperly credited photo postings will be deleted by the moderation staff.<br />
+    <br />
+    When posting photos/images, directly above or below the photo list the photographer's name (if available), and if it is from a third party source, provide the source and/or a link to the source.  To avoid broken image links, please upload the images to a personal image account (photobucket, etc.) and link to it from there.<br />
+    <br />
+    Merely citing Google, Flickr, Wikipedia or some other host or search engine is not sufficient for your photo post to qualify. If you don't have the required information about a photograph, then don't post it.<br />
+    <br />
+    For example:<br />
+    <br />
+    <img src="/web/20130827124336im_/http://levittgoodmanarchitects.com/content/chapter/projects/kpl/02.jpg" border="0" alt="" /><br />
+    <font size="1">Source: Levitt Goodman Architects - <a href="/web/20130827124336/http://levittgoodmanarchitects.com/p...ltural&amp;c2=None" target="_blank">Link</a></font>
+    			
+    		</div>
+    	</div>
+    </div>
+    <!-- END TEMPLATE: bbcode_quote -->
+    				</blockquote>
+    			</div>
+    
+    			
+    
+    
+    		</div>
+                            	
+    		        <!-- BEGIN TEMPLATE: ad_showthread_firstpost_sig -->
+     
+    <!-- END TEMPLATE: ad_showthread_firstpost_sig -->
+    			
+    		</div>
+    	</div>
+    	<div class="postfoot" style="visibility:hidden;">
+    		<div class="textcontrols floatcontainer">
+    			<span class="postcontrols">
+    				<img style="display:none" id="progress_22050" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+    				
+    				
+    					<a id="qr_22050" class='quickreply' href="/web/20130827124336/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=22050" rel="nofollow"><img id="replyimg_22050" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Quick reply to this message" /> Reply</a>
+    					<span class="seperator">&nbsp;</span>
+    				
+    				
+    				
+    			</span>
+    
+    			<span class="postlinking">
+    
+    				
+    
+    				 
+    				
+    
+    					
+    
+    					
+    					 
+    
+    					
+    					
+    					
+    					
+    
+    				
+    			</span>
+    		</div>
+    	</div>
+    </li>
+    <!-- BEGIN TEMPLATE: post_thanks_box -->
+    <li class="postbit postbitim" id="post_thanks_box_22050" style="display:none">
+    	
+    </li> 
+    <!-- END TEMPLATE: post_thanks_box -->
+    </div>
+    
+    <div style="width:180px; float:right;">
+    
+    	<div class="postdetails_noavatar" style="padding-bottom:15px; padding-right:5px; text-align:right;">
+                    <span class="nodecontrols" style="font-size: 10px;">
+                                            
+                                                    <a name="post22050" href="/web/20130827124336/http://www.wonderfulwaterloo.com/showthread.php?t=934&amp;p=22050#post22050" class="postcounter">#1</a><a id="postcount22050" name="1"></a>
+                                            
+                                            
+                    </span>
+    		<div class="userinfo" style="background:transparent;">
+    			<div class="contact">
+    				<div class="username_container" style="position:relative; top: 0px;">
+    					
+    						<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=4" style="font-size:10px;">Spokes</a>
+    					
+                                            
+    				</div>
+    			</div>
+    
+    			<div style="font-size: 10px;">
+                                   <span class="postdate old">
+                                            
+                                                    <span class="date">12-31-2010&nbsp;<span class="time">02:17 PM</span></span>
+                                            
+                                    </span>
+    			</div>
+    
+    		</div>
+    	</div>
+    
+    
+    
+    </div>
+    
+    
+    <!-- END TEMPLATE: postbit1 -->
+    <!-- END TEMPLATE: postbit_wrapper --><!-- BEGIN TEMPLATE: postbit_wrapper -->
+    <!-- BEGIN TEMPLATE: postbit -->
+    
+    <li class="postbit postbitim postcontainer old" id="post_22215">
+    	<div class="postdetails_noavatar">
+    		<div class="userinfo">
+    			<div class="contact">
+    				
+    					<a class="postuseravatarlink" href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=177" title="IEFBR14 is offline">
+    						
+    							<img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/image.php?u=177&amp;dateline=1283110420" alt="IEFBR14's Avatar" style="max-height: 45px" />
+    						
+    					</a>
+    				
+    				<div class="username_container">
+    					<div>
+    					
+    						<!-- BEGIN TEMPLATE: memberaction_dropdown -->
+    <div class="popupmenu memberaction">
+    	<a class="username offline popupctrl" href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=177" title="IEFBR14 is offline" style="font-weight:bold;">IEFBR14</a>
+    	<ul class="popupbody popuphover memberaction_body">
+    		<li class="left">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=177" class="siteicon_profile">
+    				View Profile
+    			</a>
+    		</li>
+    		
+    		<li class="right">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=177&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+    				View Forum Posts
+    			</a>
+    		</li>
+    		
+    		
+    		<li class="left">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=177" class="siteicon_message" rel="nofollow">
+    				Private Message
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		<li class="right">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/blog.php?u=177" class="siteicon_blog" rel="nofollow">
+    				View Blog Entries
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		
+    		
+    		<li class="right">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/list.php?r=author/177-IEFBR14" class="siteicon_article" rel="nofollow">
+    				View Articles
+    			</a>
+    		</li>
+    		
+    
+    		
+    
+    		
+    		
+    	</ul>
+    </div>
+    <!-- END TEMPLATE: memberaction_dropdown -->
+    					<span class="usertitle" style="font-size:11px;">
+    						Metropolis Member
+    					</span>
+    						<!-- BEGIN TEMPLATE: postbit_onlinestatus -->
+    <img class="inlineimg onlinestatus" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="IEFBR14 is offline" border="0" />
+    
+    <!-- END TEMPLATE: postbit_onlinestatus -->
+    					
+    					</div>
+    					<div class="userinfo_extra" style="font-size: 10px; display: block; margin-top: 5px;">
+    						From H2OWC |  Member Since Mar 2010 | 1,283 Posts
+    					</div>
+                                            
+    				</div>
+    			</div>
+    
+    			<div style="width:34.9%; display: inline-block; text-align: right; height:45px;">
+    			<div style="padding: 6px 10px 3px 0;">
+                            
+                                    <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                            
+                                                    <a name="post22215" href="/web/20130827124336/http://www.wonderfulwaterloo.com/showthread.php?t=934&amp;p=22215#post22215" class="postcounter">#2</a><a id="postcount22215" name="2"></a>
+                                            
+                                            
+                                            
+                                    </span>
+                                    <div style="margin-top: 6px;">
+                                   <span class="postdate old">
+                                            
+                                                    <span class="date">01-04-2011&nbsp;<span class="time">12:19 PM</span></span>
+                                            
+                                    </span>
+                                    </div>
+                            
+    			</div>
+    			</div>
+    
+    		</div>
+    	</div>
+    
+    	<div class="postbody" style="clear: both; color: rgb(51, 51, 51); padding-top: 13px; padding-bottom: 6px; background: transparent none   ;">
+    		
+    		<div class="postrow" style="padding: 0px 8px;">
+    		
+    		
+    				
+    				
+    		<div class="content">
+    			<div id="post_message_22215">
+    				<blockquote class="postcontent restore">
+    					Here's some help for those who may be struggling to conform with our overlords' new Third Party Article and Photo Posting Guidelines.<br />
+    <br />
+    I developed the following for use with Google's Chrome web browser. If you use Firefox or Safari you're on your own. If you use Internet Exploder you have my sympathies.<br />
+    <br />
+    Install the <a href="/web/20130827124336/https://chrome.google.com/extensions/detail/gcmghdmnkfdbncmnmlkkglmnnhagajbm" target="_blank">Create Link</a> Chrome extension. This is useful for easily adding links on other forums using HTML, BBCode, etc. More importantly here, it's also customizable. Once you have Create Link installed and working using standard formats, add the following BBCode as a new format:<br />
+    <br />
+    &lt;B&gt;&lt;SIZE=&quot;4&quot;&gt;&lt;COLOR=&quot;blue&quot;&gt;%text%&lt;/COLOR&gt;&lt;/SIZE&gt;&lt;/B&gt; %newline% DATE | AUTHOR | PUBLICATION | &lt;URL=%url%&gt;Link&lt;/URL&gt; &lt;QUOTE&gt;QUOTE&lt;/QUOTE&gt;<br />
+    <br />
+    I chose to name my special format WWCode for obvious reasons. Note that in the above I've changed the [ and ] to &lt; and &gt; for illustrative purposes only. Otherwise the forum software would have recognized them as BBCode and translated them to what you see below. You'll need to use real square brackets when you create your special format. Anyway here's what you'll see if you do a preview using real [ and ]:<br />
+    <br />
+    <b><font size="4"><font color="blue">%text%</font></font></b> %newline% DATE | AUTHOR | PUBLICATION | <a href="/web/20130827124336/http://%url%" target="_blank">Link</a> <!-- BEGIN TEMPLATE: bbcode_quote -->
+    <div class="bbcode_container">
+    	<div class="bbcode_quote">
+    		<div class="quote_container">
+    			<div class="bbcode_quote_container"></div>
+    			
+    				QUOTE
+    			
+    		</div>
+    	</div>
+    </div>
+    <!-- END TEMPLATE: bbcode_quote -->Note that you'll still need to fill in the date, author, publication and quote stuff manually. There's nothing I can do to help with that without rewriting the extension. (Good luck with that <img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/smilies/wink.gif" border="0" alt="" title="Wink" class="inlineimg" />) But at least the URL and headline gets set up automagically and the overall format gets set up to conform with the new rules.<br />
+    <br />
+    Anyway, once you do that you'll get something like this:<br />
+    <br />
+    <b><font size="4"><font color="blue">Kitchener man charged in crash that killed cyclist</font></font></b> <br />
+     Tue Jan 04 2011 | Record staff | The Record | <a href="/web/20130827124336/http://www.therecord.com/news/local/article/308796--kitchener-man-charged-in-crash-that-killed-cyclist" target="_blank">Link</a> <!-- BEGIN TEMPLATE: bbcode_quote -->
+    <div class="bbcode_container">
+    	<div class="bbcode_quote">
+    		<div class="quote_container">
+    			<div class="bbcode_quote_container"></div>
+    			
+    				A 24-year-old Kitchener man has been charged with careless driving in connection with a September crash that left a cyclist dead...<br />
+    <br />
+    On Dec. 28, police charged Matthew Waltenberry of Kitchener in connection with the crash. In addition to careless driving, Waltenberry is also charged with driving while suspended and obtaining a license under an assumed name.
+    			
+    		</div>
+    	</div>
+    </div>
+    <!-- END TEMPLATE: bbcode_quote -->Enjoy!
+    				</blockquote>
+    			</div>
+    
+    			
+    
+    
+    		</div>
+    			
+    				
+    			
+    			
+    			
+    		</div>
+    	</div>
+    	<div class="postfoot" style="visibility:hidden;">
+    		<div class="textcontrols floatcontainer">
+    			<span class="postcontrols">
+    				<img style="display:none" id="progress_22215" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+    			
+    					
+    					<a id="qr_22215" class='quickreply' href="/web/20130827124336/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=22215" rel="nofollow"><img id="replyimg_22215" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Quick reply to this message" /> Reply</a>
+    
+    					<span class="seperator">&nbsp;</span>
+    				
+    				
+    				
+    			</span>
+    			<span class="postlinking">
+    
+    				
+    
+    				 
+    				
+    
+    					
+    
+    					
+    					 
+    
+    					
+    					
+    					
+    					
+    					
+    
+    				
+    			</span>
+    		</div>
+    	</div>
+    </li>
+    <!-- BEGIN TEMPLATE: post_thanks_box -->
+    <li class="postbit postbitim" id="post_thanks_box_22215" style="display:none">
+    	
+    </li> 
+    <!-- END TEMPLATE: post_thanks_box -->
+    <!-- END TEMPLATE: postbit -->
+    <!-- END TEMPLATE: postbit_wrapper --><!-- BEGIN TEMPLATE: postbit_wrapper -->
+    <!-- BEGIN TEMPLATE: postbit -->
+    
+    <li class="postbit postbitim postcontainer old" id="post_28815">
+    	<div class="postdetails_noavatar">
+    		<div class="userinfo_noavatar">
+    			<div class="contact">
+    				
+    				<div class="username_container">
+    					<div>
+    					
+    						<!-- BEGIN TEMPLATE: memberaction_dropdown -->
+    <div class="popupmenu memberaction">
+    	<a class="username offline popupctrl" href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=610" title="markster is offline" style="font-weight:bold;">markster</a>
+    	<ul class="popupbody popuphover memberaction_body">
+    		<li class="left">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=610" class="siteicon_profile">
+    				View Profile
+    			</a>
+    		</li>
+    		
+    		<li class="right">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=610&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+    				View Forum Posts
+    			</a>
+    		</li>
+    		
+    		
+    		<li class="left">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=610" class="siteicon_message" rel="nofollow">
+    				Private Message
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		<li class="right">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/blog.php?u=610" class="siteicon_blog" rel="nofollow">
+    				View Blog Entries
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		
+    		
+    		<li class="right">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/list.php?r=author/610-markster" class="siteicon_article" rel="nofollow">
+    				View Articles
+    			</a>
+    		</li>
+    		
+    
+    		
+    
+    		
+    		
+    	</ul>
+    </div>
+    <!-- END TEMPLATE: memberaction_dropdown -->
+    					<span class="usertitle" style="font-size:11px;">
+    						City Member
+    					</span>
+    						<!-- BEGIN TEMPLATE: postbit_onlinestatus -->
+    <img class="inlineimg onlinestatus" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="markster is offline" border="0" />
+    
+    <!-- END TEMPLATE: postbit_onlinestatus -->
+    					
+    					</div>
+    					<div class="userinfo_extra" style="font-size: 10px; display: block; margin-top: 5px;">
+    						From Kitchener |  Member Since Oct 2010 | 874 Posts
+    					</div>
+                                            
+    				</div>
+    			</div>
+    
+    			<div style="width:34.9%; display: inline-block; text-align: right; height:45px;">
+    			<div style="padding: 6px 10px 3px 0;">
+                            
+                                    <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                            
+                                                    <a name="post28815" href="/web/20130827124336/http://www.wonderfulwaterloo.com/showthread.php?t=934&amp;p=28815#post28815" class="postcounter">#3</a><a id="postcount28815" name="3"></a>
+                                            
+                                            
+                                            
+                                    </span>
+                                    <div style="margin-top: 6px;">
+                                   <span class="postdate old">
+                                            
+                                                    <span class="date">04-15-2011&nbsp;<span class="time">09:18 AM</span></span>
+                                            
+                                    </span>
+                                    </div>
+                            
+    			</div>
+    			</div>
+    
+    		</div>
+    	</div>
+    
+    	<div class="postbody" style="clear: both; color: rgb(51, 51, 51); padding-top: 13px; padding-bottom: 6px; background: transparent none   ;">
+    		
+    		<div class="postrow" style="padding: 0px 8px;">
+    		
+    		
+    				
+    				
+    		<div class="content">
+    			<div id="post_message_28815">
+    				<blockquote class="postcontent restore">
+    					Administrators,<br />
+    Would it be possible for you to create some custom BBCode to help streamline this process?  I'm not familiar with vBulletin, but I know it's possible in phpBB.<br />
+    <br />
+    Something of a format similar to this would be awesome:<br />
+    <br />
+    &#91;newsquote=head,date,auth,pub,url&#93;quoted text&#91;/newsquote&#93;
+    				</blockquote>
+    			</div>
+    
+    			
+    
+    
+    		</div>
+    			
+    			<!-- edit note -->
+    			<blockquote class="postcontent lastedited">
+    				
+    					Last edited by markster; 04-15-2011 at <span class="time">05:17 PM</span>.
+    				
+    				
+    					<span class="reason">Reason:</span> spelling
+    				
+    			</blockquote>
+    			<!-- / edit note -->
+    			
+    				
+    			
+    			
+    			
+    		</div>
+    	</div>
+    	<div class="postfoot" style="visibility:hidden;">
+    		<div class="textcontrols floatcontainer">
+    			<span class="postcontrols">
+    				<img style="display:none" id="progress_28815" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+    			
+    					
+    					<a id="qr_28815" class='quickreply' href="/web/20130827124336/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=28815" rel="nofollow"><img id="replyimg_28815" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Quick reply to this message" /> Reply</a>
+    
+    					<span class="seperator">&nbsp;</span>
+    				
+    				
+    				
+    			</span>
+    			<span class="postlinking">
+    
+    				
+    
+    				 
+    				
+    
+    					
+    
+    					
+    					 
+    
+    					
+    					
+    					
+    					
+    					
+    
+    				
+    			</span>
+    		</div>
+    	</div>
+    </li>
+    <!-- BEGIN TEMPLATE: post_thanks_box -->
+    <li class="postbit postbitim" id="post_thanks_box_28815" style="display:none">
+    	
+    </li> 
+    <!-- END TEMPLATE: post_thanks_box -->
+    <!-- END TEMPLATE: postbit -->
+    <!-- END TEMPLATE: postbit_wrapper --><!-- BEGIN TEMPLATE: postbit_wrapper -->
+    <!-- BEGIN TEMPLATE: postbit -->
+    
+    <li class="postbit postbitim postcontainer old" id="post_28936">
+    	<div class="postdetails_noavatar">
+    		<div class="userinfo">
+    			<div class="contact">
+    				
+    					<a class="postuseravatarlink" href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=2" title="UrbanWaterloo is offline">
+    						
+    							<img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/image.php?u=2&amp;dateline=1320406213" alt="UrbanWaterloo's Avatar" style="max-height: 45px" />
+    						
+    					</a>
+    				
+    				<div class="username_container">
+    					<div>
+    					
+    						<!-- BEGIN TEMPLATE: memberaction_dropdown -->
+    <div class="popupmenu memberaction">
+    	<a class="username offline popupctrl" href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=2" title="UrbanWaterloo is offline" style="font-weight:bold;">UrbanWaterloo</a>
+    	<ul class="popupbody popuphover memberaction_body">
+    		<li class="left">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=2" class="siteicon_profile">
+    				View Profile
+    			</a>
+    		</li>
+    		
+    		<li class="right">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+    				View Forum Posts
+    			</a>
+    		</li>
+    		
+    		
+    		<li class="left">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=2" class="siteicon_message" rel="nofollow">
+    				Private Message
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		<li class="right">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/blog.php?u=2" class="siteicon_blog" rel="nofollow">
+    				View Blog Entries
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		
+    		
+    		<li class="right">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/list.php?r=author/2-UrbanWaterloo" class="siteicon_article" rel="nofollow">
+    				View Articles
+    			</a>
+    		</li>
+    		
+    
+    		
+    
+    		
+    		
+    	</ul>
+    </div>
+    <!-- END TEMPLATE: memberaction_dropdown -->
+    					<span class="usertitle" style="font-size:11px;">
+    						Moderator
+    					</span>
+    						<!-- BEGIN TEMPLATE: postbit_onlinestatus -->
+    <img class="inlineimg onlinestatus" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />
+    
+    <!-- END TEMPLATE: postbit_onlinestatus -->
+    					
+    					</div>
+    					<div class="userinfo_extra" style="font-size: 10px; display: block; margin-top: 5px;">
+    						From Kitchener-Waterloo |  Member Since Dec 2009 | 5,693 Posts
+    					</div>
+                                            
+    				</div>
+    			</div>
+    
+    			<div style="width:34.9%; display: inline-block; text-align: right; height:45px;">
+    			<div style="padding: 6px 10px 3px 0;">
+                            
+                                    <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                            
+                                                    <a name="post28936" href="/web/20130827124336/http://www.wonderfulwaterloo.com/showthread.php?t=934&amp;p=28936#post28936" class="postcounter">#4</a><a id="postcount28936" name="4"></a>
+                                            
+                                            
+                                            
+                                    </span>
+                                    <div style="margin-top: 6px;">
+                                   <span class="postdate old">
+                                            
+                                                    <span class="date">04-19-2011&nbsp;<span class="time">07:15 AM</span></span>
+                                            
+                                    </span>
+                                    </div>
+                            
+    			</div>
+    			</div>
+    
+    		</div>
+    	</div>
+    
+    	<div class="postbody" style="clear: both; color: rgb(51, 51, 51); padding-top: 13px; padding-bottom: 6px; background: transparent none   ;">
+    		
+    		<div class="postrow" style="padding: 0px 8px;">
+    		
+    		
+    				
+    				
+    		<div class="content">
+    			<div id="post_message_28936">
+    				<blockquote class="postcontent restore">
+    					<b><font size="4"><font color="blue">News Quote BB Code</font></font></b><br />
+     <br />
+    <ul><li style="">Make sure to use all 5 options, 4 line-breaks ( | ), or it won't display.  If you don't know an option just use a symbol, like a period or underscore.</li><li style="">Make sure to use the full http:// url for it to link properly.</li></ul><br />
+    <br />
+    <div style="text-align: center;"><font color="green"><font size="1">icon</font></font><br />
+    <br />
+    <img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/buttons/newsquoteicon.jpg" border="0" alt="" /><br />
+    <br />
+    <font color="green"><font size="1">format</font></font></div><br />
+    &#91;newsquote="Title | Date | Author | Publication | Full URL"&#93;quoted text&#91;/newsquote&#93;<br />
+    <br />
+    <div style="text-align: center;"><font color="green"><font size="1">example</font></font></div><br />
+    &#91;newsquote="Becoming Santa: Maintaining the myth a goal of modern mall display | December 23, 2010 | BOB VRBANAC | WATERLOO CHRONICLE | http://www.waterloochronicle.ca/news/article/226480"&#93;That&#8217;s the lesson learned at Waterloo&#8217;s Conestoga Mall. A major renovation at the mall last year also lead to a major rethink about the mall Santa and how to make sure that kids got enough face time with the guy in the red suit.<br />
+    ...<br />
+    But the building of that buzz didn&#8217;t come cheap. To redecorate the whole mall, in addition to sprucing up Santa, cost a cool quarter of million dollars.<br />
+    ...<br />
+    Instead of doling out the cash for a photo with old Saint Nick, the mall generously e-mails a photo of the moment caught in time and extends best wishes for the season.&#91;/newsquote&#93;<br />
+    <br />
+    <div style="text-align: center;"><font color="green"><font size="1">translates into</font></font></div><br />
+    <p style="font-weight: bold; font-size:18px; color:blue;">Becoming Santa: Maintaining the myth a goal of modern mall display </p>
+     December 23, 2010  |  BOB VRBANAC  |  WATERLOO CHRONICLE  | <a href="/web/20130827124336/http://www.waterloochronicle.ca/news/article/226480">Link</a>
+    <br><br>
+    <div class="bbcode_container">
+    	<div class="bbcode_quote">
+    		<div class="quote_container">
+    			<div class="bbcode_quote_container"></div>
+    That&#8217;s the lesson learned at Waterloo&#8217;s Conestoga Mall. A major renovation at the mall last year also lead to a major rethink about the mall Santa and how to make sure that kids got enough face time with the guy in the red suit.<br />
+    ...<br />
+    But the building of that buzz didn&#8217;t come cheap. To redecorate the whole mall, in addition to sprucing up Santa, cost a cool quarter of million dollars.<br />
+    ...<br />
+    Instead of doling out the cash for a photo with old Saint Nick, the mall generously e-mails a photo of the moment caught in time and extends best wishes for the season.	</div>
+    	</div>
+    </div>
+    				</blockquote>
+    			</div>
+    
+    			
+    
+    
+    		</div>
+    			
+    				
+    			
+    			
+    			
+    		</div>
+    	</div>
+    	<div class="postfoot" style="visibility:hidden;">
+    		<div class="textcontrols floatcontainer">
+    			<span class="postcontrols">
+    				<img style="display:none" id="progress_28936" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+    			
+    					
+    					<a id="qr_28936" class='quickreply' href="/web/20130827124336/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=28936" rel="nofollow"><img id="replyimg_28936" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Quick reply to this message" /> Reply</a>
+    
+    					<span class="seperator">&nbsp;</span>
+    				
+    				
+    				
+    			</span>
+    			<span class="postlinking">
+    
+    				
+    
+    				 
+    				
+    
+    					
+    
+    					
+    					 
+    
+    					
+    					
+    					
+    					
+    					
+    
+    				
+    			</span>
+    		</div>
+    	</div>
+    </li>
+    <!-- BEGIN TEMPLATE: post_thanks_box -->
+    <li class="postbit postbitim" id="post_thanks_box_28936" style="display:none">
+    	
+    </li> 
+    <!-- END TEMPLATE: post_thanks_box -->
+    <!-- END TEMPLATE: postbit -->
+    <!-- END TEMPLATE: postbit_wrapper --><!-- BEGIN TEMPLATE: postbit_wrapper -->
+    <!-- BEGIN TEMPLATE: postbit -->
+    
+    <li class="postbit postbitim postcontainer old" id="post_28957">
+    	<div class="postdetails_noavatar">
+    		<div class="userinfo_noavatar">
+    			<div class="contact">
+    				
+    				<div class="username_container">
+    					<div>
+    					
+    						<!-- BEGIN TEMPLATE: memberaction_dropdown -->
+    <div class="popupmenu memberaction">
+    	<a class="username offline popupctrl" href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=35" title="mpd618 is offline" style="font-weight:bold;">mpd618</a>
+    	<ul class="popupbody popuphover memberaction_body">
+    		<li class="left">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=35" class="siteicon_profile">
+    				View Profile
+    			</a>
+    		</li>
+    		
+    		<li class="right">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=35&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+    				View Forum Posts
+    			</a>
+    		</li>
+    		
+    		
+    		<li class="left">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=35" class="siteicon_message" rel="nofollow">
+    				Private Message
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		<li class="right">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/blog.php?u=35" class="siteicon_blog" rel="nofollow">
+    				View Blog Entries
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		<li class="left">
+    			<a href="/web/20130827124336/http://psystenance.com/" class="siteicon_homepage">
+    				Visit Homepage
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		<li class="right">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/list.php?r=author/35-mpd618" class="siteicon_article" rel="nofollow">
+    				View Articles
+    			</a>
+    		</li>
+    		
+    
+    		
+    
+    		
+    		
+    	</ul>
+    </div>
+    <!-- END TEMPLATE: memberaction_dropdown -->
+    					<span class="usertitle" style="font-size:11px;">
+    						Metropolis Member
+    					</span>
+    						<!-- BEGIN TEMPLATE: postbit_onlinestatus -->
+    <img class="inlineimg onlinestatus" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="mpd618 is offline" border="0" />
+    
+    <!-- END TEMPLATE: postbit_onlinestatus -->
+    					
+    					</div>
+    					<div class="userinfo_extra" style="font-size: 10px; display: block; margin-top: 5px;">
+    						From Waterloo, ON |  Member Since Jan 2010 | 2,068 Posts
+    					</div>
+                                            
+    				</div>
+    			</div>
+    
+    			<div style="width:34.9%; display: inline-block; text-align: right; height:45px;">
+    			<div style="padding: 6px 10px 3px 0;">
+                            
+                                    <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                            
+                                                    <a name="post28957" href="/web/20130827124336/http://www.wonderfulwaterloo.com/showthread.php?t=934&amp;p=28957#post28957" class="postcounter">#5</a><a id="postcount28957" name="5"></a>
+                                            
+                                            
+                                            
+                                    </span>
+                                    <div style="margin-top: 6px;">
+                                   <span class="postdate old">
+                                            
+                                                    <span class="date">04-19-2011&nbsp;<span class="time">12:42 PM</span></span>
+                                            
+                                    </span>
+                                    </div>
+                            
+    			</div>
+    			</div>
+    
+    		</div>
+    	</div>
+    
+    	<div class="postbody" style="clear: both; color: rgb(51, 51, 51); padding-top: 13px; padding-bottom: 6px; background: transparent none   ;">
+    		
+    		<div class="postrow" style="padding: 0px 8px;">
+    		
+    		
+    				
+    				
+    		<div class="content">
+    			<div id="post_message_28957">
+    				<blockquote class="postcontent restore">
+    					Neat! I might actually use this for once.
+    				</blockquote>
+    			</div>
+    
+    			
+    
+    
+    		</div>
+    			
+    				
+    			
+    			
+    			
+    		</div>
+    	</div>
+    	<div class="postfoot" style="visibility:hidden;">
+    		<div class="textcontrols floatcontainer">
+    			<span class="postcontrols">
+    				<img style="display:none" id="progress_28957" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+    			
+    					
+    					<a id="qr_28957" class='quickreply' href="/web/20130827124336/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=28957" rel="nofollow"><img id="replyimg_28957" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Quick reply to this message" /> Reply</a>
+    
+    					<span class="seperator">&nbsp;</span>
+    				
+    				
+    				
+    			</span>
+    			<span class="postlinking">
+    
+    				
+    
+    				 
+    				
+    
+    					
+    
+    					
+    					 
+    
+    					
+    					
+    					
+    					
+    					
+    
+    				
+    			</span>
+    		</div>
+    	</div>
+    </li>
+    <!-- BEGIN TEMPLATE: post_thanks_box -->
+    <li class="postbit postbitim" id="post_thanks_box_28957" style="display:none">
+    	
+    </li> 
+    <!-- END TEMPLATE: post_thanks_box -->
+    <!-- END TEMPLATE: postbit -->
+    <!-- END TEMPLATE: postbit_wrapper --><!-- BEGIN TEMPLATE: postbit_wrapper -->
+    <!-- BEGIN TEMPLATE: postbit -->
+    
+    <li class="postbit postbitim postcontainer old" id="post_28962">
+    	<div class="postdetails_noavatar">
+    		<div class="userinfo">
+    			<div class="contact">
+    				
+    					<a class="postuseravatarlink" href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=177" title="IEFBR14 is offline">
+    						
+    							<img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/image.php?u=177&amp;dateline=1283110420" alt="IEFBR14's Avatar" style="max-height: 45px" />
+    						
+    					</a>
+    				
+    				<div class="username_container">
+    					<div>
+    					
+    						<!-- BEGIN TEMPLATE: memberaction_dropdown -->
+    <div class="popupmenu memberaction">
+    	<a class="username offline popupctrl" href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=177" title="IEFBR14 is offline" style="font-weight:bold;">IEFBR14</a>
+    	<ul class="popupbody popuphover memberaction_body">
+    		<li class="left">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/member.php?u=177" class="siteicon_profile">
+    				View Profile
+    			</a>
+    		</li>
+    		
+    		<li class="right">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=177&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+    				View Forum Posts
+    			</a>
+    		</li>
+    		
+    		
+    		<li class="left">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=177" class="siteicon_message" rel="nofollow">
+    				Private Message
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		<li class="right">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/blog.php?u=177" class="siteicon_blog" rel="nofollow">
+    				View Blog Entries
+    			</a>
+    		</li>
+    		
+    		
+    		
+    		
+    		
+    		<li class="right">
+    			<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/list.php?r=author/177-IEFBR14" class="siteicon_article" rel="nofollow">
+    				View Articles
+    			</a>
+    		</li>
+    		
+    
+    		
+    
+    		
+    		
+    	</ul>
+    </div>
+    <!-- END TEMPLATE: memberaction_dropdown -->
+    					<span class="usertitle" style="font-size:11px;">
+    						Metropolis Member
+    					</span>
+    						<!-- BEGIN TEMPLATE: postbit_onlinestatus -->
+    <img class="inlineimg onlinestatus" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="IEFBR14 is offline" border="0" />
+    
+    <!-- END TEMPLATE: postbit_onlinestatus -->
+    					
+    					</div>
+    					<div class="userinfo_extra" style="font-size: 10px; display: block; margin-top: 5px;">
+    						From H2OWC |  Member Since Mar 2010 | 1,283 Posts
+    					</div>
+                                            
+    				</div>
+    			</div>
+    
+    			<div style="width:34.9%; display: inline-block; text-align: right; height:45px;">
+    			<div style="padding: 6px 10px 3px 0;">
+                            
+                                    <span class="nodecontrols" style="font-size: 11px; font-weight: normal;">
+                                            
+                                                    <a name="post28962" href="/web/20130827124336/http://www.wonderfulwaterloo.com/showthread.php?t=934&amp;p=28962#post28962" class="postcounter">#6</a><a id="postcount28962" name="6"></a>
+                                            
+                                            
+                                            
+                                    </span>
+                                    <div style="margin-top: 6px;">
+                                   <span class="postdate old">
+                                            
+                                                    <span class="date">04-19-2011&nbsp;<span class="time">03:51 PM</span></span>
+                                            
+                                    </span>
+                                    </div>
+                            
+    			</div>
+    			</div>
+    
+    		</div>
+    	</div>
+    
+    	<div class="postbody" style="clear: both; color: rgb(51, 51, 51); padding-top: 13px; padding-bottom: 6px; background: transparent none   ;">
+    		
+    		<div class="postrow" style="padding: 0px 8px;">
+    		
+    		
+    				
+    				
+    					
+    				
+    		<div class="content">
+    			<div id="post_message_28962">
+    				<blockquote class="postcontent restore">
+    					<img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/smilies/Package1/RpS_thumbup.gif" border="0" alt="" title="RpS Thumbup" class="inlineimg" /><br />
+    <br />
+    Would it be possible to prefill the option box with a template so that people don't have to remember the syntax, e.g. like so:<br />
+    <br />
+    <img src="/web/20130827124336im_/http://1dl.us/hHA.jpg" border="0" alt="" />
+    				</blockquote>
+    			</div>
+    
+    			
+    
+    
+    		</div>
+    			
+    				
+    			
+    			
+    			
+    		</div>
+    	</div>
+    	<div class="postfoot" style="visibility:hidden;">
+    		<div class="textcontrols floatcontainer">
+    			<span class="postcontrols">
+    				<img style="display:none" id="progress_28962" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+    			
+    					
+    					<a id="qr_28962" class='quickreply' href="/web/20130827124336/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=28962" rel="nofollow"><img id="replyimg_28962" src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/clear.gif" alt="Quick reply to this message" /> Reply</a>
+    
+    					<span class="seperator">&nbsp;</span>
+    				
+    				
+    				
+    			</span>
+    			<span class="postlinking">
+    
+    				
+    
+    				 
+    				
+    
+    					
+    
+    					
+    					 
+    
+    					
+    					
+    					
+    					
+    					
+    
+    				
+    			</span>
+    		</div>
+    	</div>
+    </li>
+    <!-- BEGIN TEMPLATE: post_thanks_box -->
+    <li class="postbit postbitim" id="post_thanks_box_28962" style="display:none">
+    	
+    </li> 
+    <!-- END TEMPLATE: post_thanks_box -->
+    <!-- END TEMPLATE: postbit -->
+    <!-- END TEMPLATE: postbit_wrapper -->
+    		</ol>
+    		<div class="separator"></div>
+    
+    <div id="showthreadsingletoolbarbottom" style="height:36px;background:#E4E6E7;clear:both;">
+    
+    <div id="showthreadsingletoolbarbottomleft" style="width:300px;float:left;margin-left:6px;">
+    <div id="below_postlist" class="noinlinemod below_postlist">
+    		<a href="/web/20130827124336/http://www.wonderfulwaterloo.com/newreply.php?p=28962&amp;noquote=1"class="newcontent_textcontrol" id="newreplylink_bottom">Reply</a>
+    </div>
+    </div>
+    
+    <div id="showthreadsingletoolbarbottomright" style="width:230px;float:right;margin-top:7px;margin-right:6px;">
+    
+    		<div class="postlistfoot">
+    			
+    		</div>
+    
+    		
+    
+    		<div id="below_postlist" class="noinlinemod below_postlist">
+    			<div id="pagination_bottom" class="pagination_bottom">
+    			
+    			
+    			</div>
+    		</div>
+    </div>
+    </div>
+    
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    <div id="thread_info" class="thread_info block">
+    	
+    </div>
+    
+    
+    <div style="margin-top:0px; height:8px;"></div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <!-- BEGIN TEMPLATE: navbar_breadcrumbs -->
+    <div id="breadcrumb_two" class="breadcrumb" style="margin-bottom: 6px; font-size: 11px;">
+    	<ul class="floatcontainer">
+    		<li class="navbithome"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/index.php" ><img src="/web/20130827124336im_/http://www.wonderfulwaterloo.com/images/misc/navbit-home.png" alt="Home" /></a></li>
+    
+    		<!-- BEGIN TEMPLATE: navbar_link -->
+    
+    	<li class="navbit"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/forum.php">Forum</a></li>
+    
+    <!-- END TEMPLATE: navbar_link --><!-- BEGIN TEMPLATE: navbar_link -->
+    
+    	<li class="navbit"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/forumdisplay.php?f=22">General</a></li>
+    
+    <!-- END TEMPLATE: navbar_link --><!-- BEGIN TEMPLATE: navbar_link -->
+    
+    	<li class="navbit"><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/forumdisplay.php?f=23">General Discussion</a></li>
+    
+    <!-- END TEMPLATE: navbar_link -->
+    		<!-- BEGIN TEMPLATE: navbar_link -->
+    
+    	<li class="navbit lastnavbit"><span> Third Party Article and Photo Posting Guidelines</span></li>
+    
+    <!-- END TEMPLATE: navbar_link -->
+    	</ul>
+    	<hr />
+    </div>
+     
+    <!-- END TEMPLATE: navbar_breadcrumbs --> <!-- Lower Breadcumbs -->
+    <!-- BEGIN TEMPLATE: footer -->
+    
+    <div style="margin-bottom:6px;">
+    
+    <div style="clear: left">
+      <!-- BEGIN TEMPLATE: ad_footer_start -->
+     
+    <!-- END TEMPLATE: ad_footer_start -->
+      <!-- BEGIN TEMPLATE: ad_global_above_footer -->
+     
+    <!-- END TEMPLATE: ad_global_above_footer -->
+    </div>
+    
+    </div>
+    
+    
+    <div id="footer" class="floatcontainer footer">
+    
+    	<form action="/web/20130827124336/http://www.wonderfulwaterloo.com/forum.php" method="get" id="footer_select" class="footer_select">
+    
+    		
+    		
+    		
+    	</form>
+    
+    	<ul id="footer_links" class="footer_links">
+    		<li><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/sendmessage.php" rel="nofollow" accesskey="9">Contact Us</a></li>
+    		<li><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/">Home</a></li>
+    		
+    		
+    		<li><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/archive/index.php">Archive</a></li>
+    		
+    		
+    		
+    		<li><a href="/web/20130827124336/http://www.wonderfulwaterloo.com/showthread.php?t=934#top" onclick="document.location.hash='top'; return false;">Top</a></li>
+    	</ul>
+    	
+    	
+    	
+    	
+    	<script type="text/javascript">
+    	<!--
+    		// Main vBulletin Javascript Initialization
+    		vBulletin_init();
+    	//-->
+    	</script>
+            
+    </div>
+    </div> <!-- closing div for body_wrapper -->
+    
+    <div class="below_body">
+    <div id="footer_time" class="shade footer_time">All times are GMT -4. The time now is <span class="time">08:43 AM</span>.</div>
+    
+    <div id="footer_morecopyright" class="shade footer_morecopyright">
+    	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    	
+    	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    	
+    	
+    </div>
+    <!-- BEGIN TEMPLATE: ad_footer_end -->
+    
+    <!-- END TEMPLATE: ad_footer_end --> 
+    
+    </div>
+    
+    </div> <!-- closing div for container in header -->
+    <!-- END TEMPLATE: footer -->
+    
+    </body>
+    </html>
+    <!-- END TEMPLATE: SHOWTHREAD -->
+    
+    
+    
+    
+    <!--
+         FILE ARCHIVED ON 12:43:36 Aug 27, 2013 AND RETRIEVED FROM THE
+         INTERNET ARCHIVE ON 9:13:18 Aug 25, 2014.
+         JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+    
+         ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+         SECTION 108(a)(3)).
+    -->

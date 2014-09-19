@@ -1,0 +1,35 @@
+Logging output to /Users/sam/Sites/aso/public_html/demo/wonderful-waterloo-recovery/logfile.o
+
+in directory: /Users/sam/Sites/aso/public_html/demo/warrick2
+
+Warrick version 2.0.0 by Frank McCown, adapted by Justin F. Brunelle
+PID = 3469
+Machine name = Manilla.local
+
+Setting up: Download to directory: /Users/sam/Sites/aso/public_html/demo/wonderful-waterloo-recovery/raw_data/warrick_dump
+
+Starting recovery at position 2835
+ of 12015
+
+My frontier at 2835
+: http://www.wonderfulwaterloo.com/list.php?r=author/5-jay
+Getting out of the get_memento function with http://www.wonderfulwaterloo.com/list.php?r=author/5-jay
+
+My memento to get: |http://www.wonderfulwaterloo.com/list.php?r=author/5-jay|
+
+Host comparison: wonderfulwaterloo.com vs wonderfulwaterloo.com
+
+
+
+
+removing duplicate paths 1: list.php =>targetpath: list.php
+
+appending query string r=author/5-jay
+
+No clobber defined...we can continue, even with no clobber because /Users/sam/Sites/aso/public_html/demo/wonderful-waterloo-recovery/raw_data/warrick_dump/list.php?r=author/5-jay does not exist
+
+
+ mcurling: /Users/sam/Sites/aso/public_html/demo/warrick2//mcurl.pl -D "/Users/sam/Sites/aso/public_html/demo/wonderful-waterloo-recovery/raw_data/warrick_dump/logfile.o"  -tg "http://mementoproxy.cs.odu.edu/aggr/timegate" -L -o "/Users/sam/Sites/aso/public_html/demo/wonderful-waterloo-recovery/raw_data/warrick_dump/list.php?r=author/5-jay" "http://www.wonderfulwaterloo.com/list.php?r=author/5-jay"
+
+isInCache -- not using the cache.
+

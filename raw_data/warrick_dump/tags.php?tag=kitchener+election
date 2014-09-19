@@ -1,1429 +1,1429 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-  <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
-  <head>
-  
-  <script type="text/javascript" src="/static/js/analytics.js" ></script>
-  <link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
-  
-  
-  
-  
-  	
-  	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-  <meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.wonderfulwaterloo.com" />
-    <meta name="generator" content="vBulletin 4.0.5" />
-  
-  
-  		<meta name="keywords" content="wonderful,waterloo,ontario,canada,wonderfulwaterloo,forum,post,city,urban,vbulletin,jelsoft,forum,bbs,discussion,bulletin board" />
-  		<meta name="description" content="This is a discussion forum powered by vBulletin. To find out about vBulletin, go to http://www.vbulletin.com/ ." />
-  
-  
-  
-  
-  <script type="text/javascript" src="/web/20100920001500js_/http://www.wonderfulwaterloo.com/clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=405"></script>
-  <script type="text/javascript" src="/web/20100920001500js_/http://www.wonderfulwaterloo.com/clientscript/yui/connection/connection-min.js?v=405"></script>
-  <script type="text/javascript">
-  <!--
-  	var SESSIONURL = "";
-  	var SECURITYTOKEN = "guest";
-  	var IMGDIR_MISC = "images/misc";
-  	var IMGDIR_BUTTON = "images/buttons";
-  	var vb_disable_ajax = parseInt("0", 10);
-  	var SIMPLEVERSION = "405";
-  	var BBURL = "/web/20100920001500/http://www.wonderfulwaterloo.com";
-  	var LOGGEDIN = 0 > 0 ? true : false;
-  	var THIS_SCRIPT = "tags";
-          var RELPATH = "tags.php?tag=kitchener+election";
-  // -->
-  </script>
-  <script type="text/javascript" src="/web/20100920001500js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin-core.js?v=405"></script>
-  
-  
-  
-  	<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2" />
-  	
-  
-  
-  
-  	<link rel="stylesheet" type="text/css" href="/web/20100920001500cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1284779099&amp;td=ltr&amp;sheet=bbcode.css,editor.css,popupmenu.css,reset-fonts.css,vbulletin.css,vbulletin-chrome.css,vbulletin-formcontrols.css," />
-  
-  
-   
-  	<title>Search Results - Wonderful Waterloo</title>
-  	
-  	
-  	
-  
-  	
-  		<link rel="stylesheet" type="text/css" href="/web/20100920001500cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1284779099&amp;td=ltr&amp;sheet=threadlist.css,forumbits.css,postbit.css,postbit-lite.css,search.css" />
-  	
-  
-  	<!--[if lt IE 8]>
-  	<script type="text/javascript" src="clientscript/vbulletin-threadlist-ie.js?v=405"></script>
-  	<link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1284779099&amp;td=ltr&amp;sheet=threadlist-ie.css" />
-  	<![endif]-->
-  <link rel="stylesheet" type="text/css" href="/web/20100920001500cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1284779099&amp;td=ltr&amp;sheet=additional.css" />
-  <!--[if lt IE 8]>
-  <link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1284779099&amp;td=ltr&amp;sheet=replacement-vbulletin-ie.css" />
-  <![endif]-->
-   
-  </head>
-  <body>
-  
-  
-  	<div class="above_body"> <!-- closing tag is in template navbar -->
-  <div id="header" class="floatcontainer doc_header">
-  	<div><a name="top" href="/web/20100920001500/http://www.wonderfulwaterloo.com/forum.php" class="logo-image"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/v1/logo.gif" alt="Wonderful Waterloo - Powered by the Citizens of Waterloo Region" /></a></div>
-  	<div id="toplinks" class="toplinks">
-  		
-  			<ul class="nouser">
-  			
-  				<li><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/register.php" rel="nofollow">Register</a></li>
-  			
-  				<li><a rel="help" href="/web/20100920001500/http://www.wonderfulwaterloo.com/faq.php">Help</a></li>
-  				<li>
-  			<script type="text/javascript" src="/web/20100920001500js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_md5.js?v=405"></script>
-  			<form id="navbar_loginform" action="/web/20100920001500/http://www.wonderfulwaterloo.com/login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
-  				<fieldset id="logindetails" class="logindetails">
-  					<div>
-  						<div>
-  					<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/icons/username.png" alt="Username" />
-  					<input type="text" class="textbox" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" />
-  					<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/icons/password.png" alt="Password" />
-  					<input type="text" class="textbox default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Password" style="display:none;" />
-  					<input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10" />
-  					<input type="submit" class="loginbutton" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s" />
-  						</div>
-  					</div>
-  				</fieldset>
-  				<div id="remember" class="remember">
-  					<label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" /> Remember Me?</label>
-  				</div>
-  
-  				<input type="hidden" name="s" value="" />
-  				<input type="hidden" name="securitytoken" value="guest" />
-  				<input type="hidden" name="do" value="login" />
-  				<input type="hidden" name="vb_login_md5password" />
-  				<input type="hidden" name="vb_login_md5password_utf" />
-  			</form>
-  			<script type="text/javascript">
-  			YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
-  			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
-  			YAHOO.util.Dom.setStyle('navbar_username', "color", "#828282");
-  			vB_XHTML_Ready.subscribe(function()
-  			{
-  			//
-  				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
-  				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
-  				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
-  				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
-  			});
-  			
-  			function navbar_username_focus(e)
-  			{
-  			//
-  				var textbox = YAHOO.util.Event.getTarget(e);
-  				if (textbox.value == 'User Name')
-  				{
-  				//
-  					textbox.value='';
-  					textbox.style.color='black';
-  				}
-  			}
-  
-  			function navbar_username_blur(e)
-  			{
-  			//
-  				var textbox = YAHOO.util.Event.getTarget(e);
-  				if (textbox.value == '')
-  				{
-  				//
-  					textbox.value='User Name';
-  					textbox.style.color='#828282';
-  				}
-  			}
-  			
-  			function navbar_password_hint(e)
-  			{
-  			//
-  				var textbox = YAHOO.util.Event.getTarget(e);
-  				
-  				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
-  				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
-  				YAHOO.util.Dom.get('navbar_password').focus();
-  			}
-  
-  			function navbar_password(e)
-  			{
-  			//
-  				var textbox = YAHOO.util.Event.getTarget(e);
-  				
-  				if (textbox.value == '')
-  				{
-  					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
-  					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
-  				}
-  			}
-  			</script>
-  				</li>
-  				
-  			</ul>
-  		
-  	</div>
-  	<div class="ad_global_header">
-  		 
-  		 
-  	</div>
-  	<hr />
-  </div> 
-  	<div id="navbar" class="navbar">
-  
-  	<ul id="navtabs" class="navtabs floatcontainer">
-  		
-  	<li>
-  	
-  		<a class="navtab" href="/web/20100920001500/http://www.wonderfulwaterloo.com/content.php">Home</a>
-  	
-  	</li>
-   
-  		
-  			<li class="selected"><a class="navtab" href="/web/20100920001500/http://www.wonderfulwaterloo.com/forum.php">Forum</a>
-  				<ul class="floatcontainer">
-  					
-  					
-  						
-  						<li><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/search.php?do=getdaily&amp;contenttype=vBForum_Post">Today's Posts</a></li>
-  						
-  					
-  					
-  					
-  					
-  					<li><a rel="help" href="/web/20100920001500/http://www.wonderfulwaterloo.com/faq.php" accesskey="5">FAQ</a></li>
-  					
-  					<li><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/calendar.php">Calendar</a></li>
-  					
-  
-  					
-  					<li class="popupmenu">
-  						<a href="javascript://" class="popupctrl" accesskey="6">Community</a>
-  						<ul class="popupbody popuphover">
-  							
-  							
-  							
-  							
-  							
-  								<li><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/memberlist.php">Member List</a></li>
-  							
-  							
-  						</ul>
-  					</li>
-  					
-  					
-  					<li class="popupmenu">
-  						<a href="javascript://" class="popupctrl">Forum Actions</a>
-  						<ul class="popupbody popuphover">
-  							<li>
-  								<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php?do=markread&amp;markreadhash=guest">Mark Forums Read</a>
-  							</li>
-                                                          
-  						</ul>
-  					</li>
-  					<li class="popupmenu">
-  						<a href="javascript://" class="popupctrl" accesskey="3">Quick Links</a>
-  						<ul class="popupbody popuphover">
-  							
-  							
-  							<li><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showgroups.php" rel="nofollow">
-  		
-  			View Site Leaders
-  		
-  	</a></li>
-  							
-  							
-  							
-  							
-  							
-  							
-  						</ul>
-  					</li>
-  					
-  				</ul>
-  
-  			</li>
-  		
-  		
-  		
-  			<li><a class="navtab" href="/web/20100920001500/http://www.wonderfulwaterloo.com/search.php?do=getdaily&amp;contenttype=vBForum_Post" accesskey="2">What's New?</a></li>
-  		
-  		<li><a class="navtab" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/506" target="_self">About</a></li>
-  
-   <li><a class="navtab" href="/web/20100920001500/http://www.wonderfulwaterloo.com/calendar.php" target="_self">Calendar</a></li>
-  
-   <li><a class="navtab" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/206-Maps" target="_self">Maps</a></li>
-  
-   <li><a class="navtab" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/423-Waterloo-Region-Statistics" target="_self">Stats</a></li>
-  
-   <li><a class="navtab" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/314-Links" target="_self">Links</a></li>
-  
-   <li><a class="navtab" href="/web/20100920001500/http://www.wonderfulwaterloo.com/WDrive" target="_self">W: Drive</a></li>
-  
-   <li><a class="navtab" href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-%7C-October-25-2010" target="_self">Election 2010</a></li>
-  
-   
-  	</ul>
-  
-  	
-  	<div id="globalsearch" class="globalsearch">
-  		<form action="/web/20100920001500/http://www.wonderfulwaterloo.com/search.php?do=process" method="post" id="navbar_search" class="navbar_search">
-  			
-  			<input type="hidden" name="securitytoken" value="guest" />
-  			<input type="hidden" name="do" value="process" />
-  			<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
-  			<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
-  		</form>
-  		<ul class="navbar_advanced_search">
-  			<li><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/search.php" accesskey="4">Advanced Search</a></li>
-  		</ul>
-  	</div>
-  	
-  </div>
-  </div><!-- closing div for above_body -->
-  
-  <div class="body_wrapper">
-  
-  <div id="breadcrumb" class="breadcrumb">
-          
-  	<ul class="floatcontainer">
-  		<li class="navbithome"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/index.php" accesskey="1"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/navbit-home.png" alt="Home" /></a></li>
-  
-  		
-  		
-  	<li class="navbit lastnavbit"><span>Search Forums</span></li>
-   
-  	</ul>
-  	<hr />
-          
-  </div>
-  
-   
-   
-  
-  
-  	<form action="/web/20100920001500/http://www.wonderfulwaterloo.com/profile.php?do=dismissnotice" method="post" id="notices" class="notices">
-  		<input type="hidden" name="do" value="dismissnotice" />
-  		<input type="hidden" name="s" value="" />
-  		<input type="hidden" name="securitytoken" value="guest" />
-  		<input type="hidden" id="dismiss_notice_hidden" name="dismiss_noticeid" value="" />
-  		<input type="hidden" name="url" value="" />
-  		<ol>
-  			<li class="restore" id="navbar_notice_1">
-  	
-  	You have to <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/register.php" target="_blank"><b>Register</b></a>
-  		before you can post. To start viewing messages,
-  		select the <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forum.php"><b>Forum</b></a> you want to visit or check out <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/search.php?do=getdaily&amp;contenttype=vBForum_Post"><b>What's New</b></a>.
-  </li> 
-  		</ol>
-  	</form>
-   
-  
-  	<div id="pagetitle">
-  		<h1>
-  			
-  				<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/tags.php"><strong>Search:</strong></a> Tag: <b><u>kitchener election</u></b>
-  			
-  		</h1>
-  	</div>
-  	
-  	
-  	
-  	<div id="above_searchresults" class="floatcontainer">
-  		
-                  
-  	</div>
-  	
-  	
-  	
-  	<div class="block searchresults" >
-  	
-  		<h2 class="searchlisthead">
-  			<span>
-  				
-  					<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/tags.php"><strong>Search</strong></a>:
-  				
-  			</span>
-  			<span class="mainsearchstats">
-  				
-  					Search took <strong>0.00</strong> seconds.
-  						
-  			</span>
-  		</h2>
-  		
-  		
-  		<div class="blockbody">
-  			
-  			
-  				<ol id="searchbits" start="1" class="searchbits">
-  					<li class="imodselector threadbit hot" id="thread_37" title="Waterloo (City) Election Talk 2010  
-  Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
-   
-   
-   
-  Candidates 
-   
-  Mayor | Southwest Ward 1 |...">
-  	<div class="icon0 rating0 nonsticky">
-  		<div class="threadinfo thread">
-  			<!--  status icon block -->
-  			<a class="threadstatus" rel="vB::AJAX" ></a>
-  		
-  			<!-- title / author block -->
-  			<div class="inner">
-  				<h3 class="searchtitle">
-  				
-                      	
-  						
-  					
-                                          
-  					
-                      <a class="title" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/37-Waterloo-(City)-Election-Talk" id="thread_title_37" title="Waterloo (City) Election Talk 2010  
-  Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
-   
-   
-   
-  Candidates 
-   
-  Mayor | Southwest Ward 1 |...">Waterloo (City) Election Talk</a>
-  				</h3>
-  						
-  
-  				<div class="threadmeta">				
-  					<div class="author">
-  						<span class="label">Started by&nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username understate" title="Started by Spokes on 12-29-2009 12:05 AM">Spokes</a>,&nbsp;12-29-2009&nbsp;12:05 AM</span>
-  						
-  						
-  							<dl class="pagination" id="pagination_threadbit_37">
-  								<dt class="label">3 Pages <span class="separator">&bull;</span></dt>
-  								<dd>
-  										 <span><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/37-Waterloo-(City)-Election-Talk">1</a></span>  <span><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/37-Waterloo-(City)-Election-Talk/page2">2</a></span>  <span><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/37-Waterloo-(City)-Election-Talk/page3">3</a></span> 
-  										
-  								</dd>
-  							</dl>
-  						
-  					</div>
-  					
-  				</div>
-  
-  			</div>				
-  			<!-- iconinfo -->
-  			<div class="threaddetails td">
-  				<div class="threaddetailicons">
-  					
-  						<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="2010 municipal election, cambridge election, kitchener election, mayor, municipal politics, waterloo election, waterloo region election" />
-  					
-  					
-  					
-  					
-  					
-  					
-  				</div>
-  			</div>
-  		</div>
-  		
-  		
-  		<!-- threadstats -->
-  		
-  		<ul class="threadstats td alt" title="">
-  			<li class="stats"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=37" onclick="who(37); return false;">Replies</a>: 50</li>
-  			<li class="stats">Views: 4,450</li>
-  		</ul>
-  							
-  		
-  		<!-- lastpost -->
-  		<dl class="threadlastpost td">
-  			<dt class="lastpostby hidden">Last Post By:</dt>
-  			<dd>Last Post: Yesterday <em class="time">03:48 PM</em></dd>
-  			<dd>
-  			
-  				by <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/177-IEFBR14">IEFBR14</a>
-  			
-   &nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/37-Waterloo-(City)-Election-Talk?p=14838#post14838"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
-  			</dd>
-  		</dl>
-  		
-  
-  		<div class="threadpostedin td alt">
-  			<p>
-  				Forum:<br /><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-October-25-2010" title="Municipal Election | October 25, 2010">Municipal Election | October 25, 2010</a>
-  			</p>
-  			
-  		</div>
-  
-  		
-  		
-  		
-  		
-  	</div>
-  </li> <li class="imodselector threadbit hot" id="thread_641" title="General Election Information  
-   
-   
-   
-  New for Municipal Elections 2010 Guide 
-  http://www.mah.gov.on.ca/Page7042.aspx 
-  Nominations must by filed by 2 p.m. on the second Friday...">
-  	<div class="icon0 rating0 sticky">
-  		<div class="threadinfo thread">
-  			<!--  status icon block -->
-  			<a class="threadstatus" rel="vB::AJAX" ></a>
-  		
-  			<!-- title / author block -->
-  			<div class="inner">
-  				<h3 class="searchtitle">
-  				
-                      	
-  						
-  					
-  					 	<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/sticky.gif" alt="Sticky Thread" />
-  					
-                                          
-  					
-  						<span class="prefix understate">
-  							
-  							Sticky: 
-  							
-  							
-  						</span>
-  					
-                      <a class="title" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/641-General-Election-Information" id="thread_title_641" title="General Election Information  
-   
-   
-   
-  New for Municipal Elections 2010 Guide 
-  http://www.mah.gov.on.ca/Page7042.aspx 
-  Nominations must by filed by 2 p.m. on the second Friday...">General Election Information</a>
-  				</h3>
-  						
-  
-  				<div class="threadmeta">				
-  					<div class="author">
-  						<span class="label">Started by&nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username understate" title="Started by Spokes on 12-29-2009 12:05 AM">Spokes</a>,&nbsp;12-29-2009&nbsp;12:05 AM</span>
-  						
-  						
-  					</div>
-  					
-  				</div>
-  
-  			</div>				
-  			<!-- iconinfo -->
-  			<div class="threaddetails td">
-  				<div class="threaddetailicons">
-  					
-  						<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="2010 municipal election, cambridge election, kitchener election, mayor, municipal politics, waterloo election, waterloo region election" />
-  					
-  					
-  					
-  					
-  					
-  					
-  				</div>
-  			</div>
-  		</div>
-  		
-  		
-  		<!-- threadstats -->
-  		
-  		<ul class="threadstats td alt" title="">
-  			<li class="stats"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=641" onclick="who(641); return false;">Replies</a>: 3</li>
-  			<li class="stats">Views: 2,404</li>
-  		</ul>
-  							
-  		
-  		<!-- lastpost -->
-  		<dl class="threadlastpost td">
-  			<dt class="lastpostby hidden">Last Post By:</dt>
-  			<dd>Last Post: 09-09-2010 <em class="time">10:14 AM</em></dd>
-  			<dd>
-  			
-  				by <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/326-DRK_Kitchener">DRK_Kitchener</a>
-  			
-   &nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/641-General-Election-Information?p=14150#post14150"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
-  			</dd>
-  		</dl>
-  		
-  
-  		<div class="threadpostedin td alt">
-  			<p>
-  				Forum:<br /><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-October-25-2010" title="Municipal Election | October 25, 2010">Municipal Election | October 25, 2010</a>
-  			</p>
-  			
-  		</div>
-  
-  		
-  		
-  		
-  		
-  	</div>
-  </li> <li class="imodselector threadbit hot" id="thread_575" title="Cambridge Election Talk 2010  
-  Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
-   
-   
-   
-  Candidates 
-   
-  Mayor | Ward 1 | Ward 2  
-   
-  Doug...">
-  	<div class="icon0 rating0 nonsticky">
-  		<div class="threadinfo thread">
-  			<!--  status icon block -->
-  			<a class="threadstatus" rel="vB::AJAX" ></a>
-  		
-  			<!-- title / author block -->
-  			<div class="inner">
-  				<h3 class="searchtitle">
-  				
-                      	
-  						
-  					
-                                          
-  					
-                      <a class="title" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/575-Cambridge-Election-Talk" id="thread_title_575" title="Cambridge Election Talk 2010  
-  Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
-   
-   
-   
-  Candidates 
-   
-  Mayor | Ward 1 | Ward 2  
-   
-  Doug...">Cambridge Election Talk</a>
-  				</h3>
-  						
-  
-  				<div class="threadmeta">				
-  					<div class="author">
-  						<span class="label">Started by&nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username understate" title="Started by Spokes on 12-29-2009 12:05 AM">Spokes</a>,&nbsp;12-29-2009&nbsp;12:05 AM</span>
-  						
-  						
-  					</div>
-  					
-  				</div>
-  
-  			</div>				
-  			<!-- iconinfo -->
-  			<div class="threaddetails td">
-  				<div class="threaddetailicons">
-  					
-  						<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="2010 municipal election, cambridge election, kitchener election, mayor, municipal politics, waterloo election, waterloo region election" />
-  					
-  					
-  					
-  					
-  					
-  					
-  				</div>
-  			</div>
-  		</div>
-  		
-  		
-  		<!-- threadstats -->
-  		
-  		<ul class="threadstats td alt" title="">
-  			<li class="stats"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=575" onclick="who(575); return false;">Replies</a>: 17</li>
-  			<li class="stats">Views: 2,658</li>
-  		</ul>
-  							
-  		
-  		<!-- lastpost -->
-  		<dl class="threadlastpost td">
-  			<dt class="lastpostby hidden">Last Post By:</dt>
-  			<dd>Last Post: 09-14-2010 <em class="time">11:28 PM</em></dd>
-  			<dd>
-  			
-  				by <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/540-cambridgecitizen">cambridgecitizen</a>
-  			
-   &nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/575-Cambridge-Election-Talk?p=14551#post14551"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
-  			</dd>
-  		</dl>
-  		
-  
-  		<div class="threadpostedin td alt">
-  			<p>
-  				Forum:<br /><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-October-25-2010" title="Municipal Election | October 25, 2010">Municipal Election | October 25, 2010</a>
-  			</p>
-  			
-  		</div>
-  
-  		
-  		
-  		
-  		
-  	</div>
-  </li> <li class="imodselector threadbit hot" id="thread_574" title="Waterloo (Region) Election Talk 2010  
-  Voting Day is October 25, 2010.  Campaigns have started.  This is a place to discuss them. 
-   
-   
-   
-  Candidates 
-   
-  Chair | Cambridge (2) |...">
-  	<div class="icon0 rating0 nonsticky">
-  		<div class="threadinfo thread">
-  			<!--  status icon block -->
-  			<a class="threadstatus" rel="vB::AJAX" ></a>
-  		
-  			<!-- title / author block -->
-  			<div class="inner">
-  				<h3 class="searchtitle">
-  				
-                      	
-  						
-  					
-                                          
-  					
-                      <a class="title" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/574-Waterloo-(Region)-Election-Talk" id="thread_title_574" title="Waterloo (Region) Election Talk 2010  
-  Voting Day is October 25, 2010.  Campaigns have started.  This is a place to discuss them. 
-   
-   
-   
-  Candidates 
-   
-  Chair | Cambridge (2) |...">Waterloo (Region) Election Talk</a>
-  				</h3>
-  						
-  
-  				<div class="threadmeta">				
-  					<div class="author">
-  						<span class="label">Started by&nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username understate" title="Started by Spokes on 12-29-2009 12:05 AM">Spokes</a>,&nbsp;12-29-2009&nbsp;12:05 AM</span>
-  						
-  						
-  							<dl class="pagination" id="pagination_threadbit_574">
-  								<dt class="label">2 Pages <span class="separator">&bull;</span></dt>
-  								<dd>
-  										 <span><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/574-Waterloo-(Region)-Election-Talk">1</a></span>  <span><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/574-Waterloo-(Region)-Election-Talk/page2">2</a></span> 
-  										
-  								</dd>
-  							</dl>
-  						
-  					</div>
-  					
-  				</div>
-  
-  			</div>				
-  			<!-- iconinfo -->
-  			<div class="threaddetails td">
-  				<div class="threaddetailicons">
-  					
-  						<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="2010 municipal election, cambridge election, kitchener election, mayor, municipal politics, waterloo election, waterloo region election" />
-  					
-  					
-  					
-  					
-  					
-  					
-  				</div>
-  			</div>
-  		</div>
-  		
-  		
-  		<!-- threadstats -->
-  		
-  		<ul class="threadstats td alt" title="">
-  			<li class="stats"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=574" onclick="who(574); return false;">Replies</a>: 27</li>
-  			<li class="stats">Views: 2,993</li>
-  		</ul>
-  							
-  		
-  		<!-- lastpost -->
-  		<dl class="threadlastpost td">
-  			<dt class="lastpostby hidden">Last Post By:</dt>
-  			<dd>Last Post: Yesterday <em class="time">01:11 PM</em></dd>
-  			<dd>
-  			
-  				by <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/24-Duke-of-Waterloo">Duke-of-Waterloo</a>
-  			
-   &nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/574-Waterloo-(Region)-Election-Talk?p=14833#post14833"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
-  			</dd>
-  		</dl>
-  		
-  
-  		<div class="threadpostedin td alt">
-  			<p>
-  				Forum:<br /><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-October-25-2010" title="Municipal Election | October 25, 2010">Municipal Election | October 25, 2010</a>
-  			</p>
-  			
-  		</div>
-  
-  		
-  		
-  		
-  		
-  	</div>
-  </li> <li class="imodselector threadbit hot" id="thread_573" title="North Dumfries Election Talk 2010  
-  Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
-   
-   
-   
-  Candidates 
-   
-  Mayor | Ward 1 | Ward 2   
-  ...">
-  	<div class="icon0 rating0 nonsticky">
-  		<div class="threadinfo thread">
-  			<!--  status icon block -->
-  			<a class="threadstatus" rel="vB::AJAX" ></a>
-  		
-  			<!-- title / author block -->
-  			<div class="inner">
-  				<h3 class="searchtitle">
-  				
-                      	
-  						
-  					
-                                          
-  					
-                      <a class="title" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/573-North-Dumfries-Election-Talk" id="thread_title_573" title="North Dumfries Election Talk 2010  
-  Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
-   
-   
-   
-  Candidates 
-   
-  Mayor | Ward 1 | Ward 2   
-  ...">North Dumfries Election Talk</a>
-  				</h3>
-  						
-  
-  				<div class="threadmeta">				
-  					<div class="author">
-  						<span class="label">Started by&nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username understate" title="Started by Spokes on 12-29-2009 12:05 AM">Spokes</a>,&nbsp;12-29-2009&nbsp;12:05 AM</span>
-  						
-  						
-  					</div>
-  					
-  				</div>
-  
-  			</div>				
-  			<!-- iconinfo -->
-  			<div class="threaddetails td">
-  				<div class="threaddetailicons">
-  					
-  						<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="2010 municipal election, cambridge election, kitchener election, mayor, municipal politics, waterloo election, waterloo region election" />
-  					
-  					
-  					
-  					
-  					
-  					
-  				</div>
-  			</div>
-  		</div>
-  		
-  		
-  		<!-- threadstats -->
-  		
-  		<ul class="threadstats td alt" title="">
-  			<li class="stats"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=573" onclick="who(573); return false;">Replies</a>: 4</li>
-  			<li class="stats">Views: 2,440</li>
-  		</ul>
-  							
-  		
-  		<!-- lastpost -->
-  		<dl class="threadlastpost td">
-  			<dt class="lastpostby hidden">Last Post By:</dt>
-  			<dd>Last Post: 09-10-2010 <em class="time">04:03 PM</em></dd>
-  			<dd>
-  			
-  				by <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">UrbanWaterloo</a>
-  			
-   &nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/573-North-Dumfries-Election-Talk?p=14271#post14271"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
-  			</dd>
-  		</dl>
-  		
-  
-  		<div class="threadpostedin td alt">
-  			<p>
-  				Forum:<br /><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-October-25-2010" title="Municipal Election | October 25, 2010">Municipal Election | October 25, 2010</a>
-  			</p>
-  			
-  		</div>
-  
-  		
-  		
-  		
-  		
-  	</div>
-  </li> <li class="imodselector threadbit hot" id="thread_572" title="Wellesley Election 2010  
-  Voting Day is October 25, 2010. 
-   
-   
-   
-  Candidates 
-   
-  Mayor | Ward 1 | Ward 2   
-   
-  Ross Kelterborn | Shelley Wagner | Herb Neher">
-  	<div class="icon0 rating0 nonsticky">
-  		<div class="threadinfo thread">
-  			<!--  status icon block -->
-  			<a class="threadstatus" rel="vB::AJAX" ></a>
-  		
-  			<!-- title / author block -->
-  			<div class="inner">
-  				<h3 class="searchtitle">
-  				
-                      	
-  						
-  					
-                                          
-  					
-                      <a class="title" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/572-Wellesley-Election-Uncontested" id="thread_title_572" title="Wellesley Election 2010  
-  Voting Day is October 25, 2010. 
-   
-   
-   
-  Candidates 
-   
-  Mayor | Ward 1 | Ward 2   
-   
-  Ross Kelterborn | Shelley Wagner | Herb Neher">Wellesley Election | Uncontested</a>
-  				</h3>
-  						
-  
-  				<div class="threadmeta">				
-  					<div class="author">
-  						<span class="label">Started by&nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username understate" title="Started by Spokes on 12-29-2009 12:05 AM">Spokes</a>,&nbsp;12-29-2009&nbsp;12:05 AM</span>
-  						
-  						
-  					</div>
-  					
-  				</div>
-  
-  			</div>				
-  			<!-- iconinfo -->
-  			<div class="threaddetails td">
-  				<div class="threaddetailicons">
-  					
-  						<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="2010 municipal election, cambridge election, kitchener election, mayor, municipal politics, waterloo election, waterloo region election" />
-  					
-  					
-  					
-  					
-  					
-  					
-  				</div>
-  			</div>
-  		</div>
-  		
-  		
-  		<!-- threadstats -->
-  		
-  		<ul class="threadstats td alt" title="">
-  			<li class="stats"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=572" onclick="who(572); return false;">Replies</a>: 3</li>
-  			<li class="stats">Views: 2,337</li>
-  		</ul>
-  							
-  		
-  		<!-- lastpost -->
-  		<dl class="threadlastpost td">
-  			<dt class="lastpostby hidden">Last Post By:</dt>
-  			<dd>Last Post: 09-10-2010 <em class="time">03:24 PM</em></dd>
-  			<dd>
-  			
-  				by <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">UrbanWaterloo</a>
-  			
-   &nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/572-Wellesley-Election-Uncontested?p=14265#post14265"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
-  			</dd>
-  		</dl>
-  		
-  
-  		<div class="threadpostedin td alt">
-  			<p>
-  				Forum:<br /><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-October-25-2010" title="Municipal Election | October 25, 2010">Municipal Election | October 25, 2010</a>
-  			</p>
-  			
-  		</div>
-  
-  		
-  		
-  		
-  		
-  	</div>
-  </li> <li class="imodselector threadbit hot" id="thread_571" title="Wilmot Election Talk 2010  
-  Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
-   
-   
-   
-  Candidates 
-   
-  Mayor | Ward 1 | Ward 2   
-   
-  Les...">
-  	<div class="icon0 rating0 nonsticky">
-  		<div class="threadinfo thread">
-  			<!--  status icon block -->
-  			<a class="threadstatus" rel="vB::AJAX" ></a>
-  		
-  			<!-- title / author block -->
-  			<div class="inner">
-  				<h3 class="searchtitle">
-  				
-                      	
-  						
-  					
-                                          
-  					
-                      <a class="title" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/571-Wilmot-Election-Talk" id="thread_title_571" title="Wilmot Election Talk 2010  
-  Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
-   
-   
-   
-  Candidates 
-   
-  Mayor | Ward 1 | Ward 2   
-   
-  Les...">Wilmot Election Talk</a>
-  				</h3>
-  						
-  
-  				<div class="threadmeta">				
-  					<div class="author">
-  						<span class="label">Started by&nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username understate" title="Started by Spokes on 12-29-2009 12:05 AM">Spokes</a>,&nbsp;12-29-2009&nbsp;12:05 AM</span>
-  						
-  						
-  					</div>
-  					
-  				</div>
-  
-  			</div>				
-  			<!-- iconinfo -->
-  			<div class="threaddetails td">
-  				<div class="threaddetailicons">
-  					
-  						<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="2010 municipal election, cambridge election, kitchener election, mayor, municipal politics, waterloo election, waterloo region election" />
-  					
-  					
-  					
-  					
-  					
-  					
-  				</div>
-  			</div>
-  		</div>
-  		
-  		
-  		<!-- threadstats -->
-  		
-  		<ul class="threadstats td alt" title="">
-  			<li class="stats"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=571" onclick="who(571); return false;">Replies</a>: 6</li>
-  			<li class="stats">Views: 2,462</li>
-  		</ul>
-  							
-  		
-  		<!-- lastpost -->
-  		<dl class="threadlastpost td">
-  			<dt class="lastpostby hidden">Last Post By:</dt>
-  			<dd>Last Post: 09-10-2010 <em class="time">03:38 PM</em></dd>
-  			<dd>
-  			
-  				by <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">UrbanWaterloo</a>
-  			
-   &nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/571-Wilmot-Election-Talk?p=14266#post14266"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
-  			</dd>
-  		</dl>
-  		
-  
-  		<div class="threadpostedin td alt">
-  			<p>
-  				Forum:<br /><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-October-25-2010" title="Municipal Election | October 25, 2010">Municipal Election | October 25, 2010</a>
-  			</p>
-  			
-  		</div>
-  
-  		
-  		
-  		
-  		
-  	</div>
-  </li> <li class="imodselector threadbit hot" id="thread_570" title="Woolwich Election Talk 2010  
-  Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
-   
-   
-   
-  Candidates 
-   
-  Mayor | Ward 1 | Ward 2 | Ward 3  ...">
-  	<div class="icon0 rating0 nonsticky">
-  		<div class="threadinfo thread">
-  			<!--  status icon block -->
-  			<a class="threadstatus" rel="vB::AJAX" ></a>
-  		
-  			<!-- title / author block -->
-  			<div class="inner">
-  				<h3 class="searchtitle">
-  				
-                      	
-  						
-  					
-                                          
-  					
-                      <a class="title" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/570-Woolwich-Election-Talk" id="thread_title_570" title="Woolwich Election Talk 2010  
-  Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
-   
-   
-   
-  Candidates 
-   
-  Mayor | Ward 1 | Ward 2 | Ward 3  ...">Woolwich Election Talk</a>
-  				</h3>
-  						
-  
-  				<div class="threadmeta">				
-  					<div class="author">
-  						<span class="label">Started by&nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username understate" title="Started by Spokes on 12-29-2009 12:05 AM">Spokes</a>,&nbsp;12-29-2009&nbsp;12:05 AM</span>
-  						
-  						
-  					</div>
-  					
-  				</div>
-  
-  			</div>				
-  			<!-- iconinfo -->
-  			<div class="threaddetails td">
-  				<div class="threaddetailicons">
-  					
-  						<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="2010 municipal election, cambridge election, kitchener election, mayor, municipal politics, waterloo election, waterloo region election" />
-  					
-  					
-  					
-  					
-  					
-  					
-  				</div>
-  			</div>
-  		</div>
-  		
-  		
-  		<!-- threadstats -->
-  		
-  		<ul class="threadstats td alt" title="">
-  			<li class="stats"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=570" onclick="who(570); return false;">Replies</a>: 6</li>
-  			<li class="stats">Views: 2,478</li>
-  		</ul>
-  							
-  		
-  		<!-- lastpost -->
-  		<dl class="threadlastpost td">
-  			<dt class="lastpostby hidden">Last Post By:</dt>
-  			<dd>Last Post: 09-15-2010 <em class="time">02:39 PM</em></dd>
-  			<dd>
-  			
-  				by <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/46-Shawn">Shawn</a>
-  			
-   &nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/570-Woolwich-Election-Talk?p=14587#post14587"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
-  			</dd>
-  		</dl>
-  		
-  
-  		<div class="threadpostedin td alt">
-  			<p>
-  				Forum:<br /><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-October-25-2010" title="Municipal Election | October 25, 2010">Municipal Election | October 25, 2010</a>
-  			</p>
-  			
-  		</div>
-  
-  		
-  		
-  		
-  		
-  	</div>
-  </li> <li class="imodselector threadbit hot" id="thread_569" title="Kitchener Election Talk 2010  
-  Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
-   
-   
-   
-  Candidates 
-   
-  Mayor | Ward 1 | Ward 2 | Ward 3 ...">
-  	<div class="icon0 rating0 nonsticky">
-  		<div class="threadinfo thread">
-  			<!--  status icon block -->
-  			<a class="threadstatus" rel="vB::AJAX" ></a>
-  		
-  			<!-- title / author block -->
-  			<div class="inner">
-  				<h3 class="searchtitle">
-  				
-                      	
-  						
-  					
-                                          
-  					
-                      <a class="title" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/569-Kitchener-Election-Talk" id="thread_title_569" title="Kitchener Election Talk 2010  
-  Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
-   
-   
-   
-  Candidates 
-   
-  Mayor | Ward 1 | Ward 2 | Ward 3 ...">Kitchener Election Talk</a>
-  				</h3>
-  						
-  
-  				<div class="threadmeta">				
-  					<div class="author">
-  						<span class="label">Started by&nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username understate" title="Started by Spokes on 12-29-2009 12:05 AM">Spokes</a>,&nbsp;12-29-2009&nbsp;12:05 AM</span>
-  						
-  						
-  							<dl class="pagination" id="pagination_threadbit_569">
-  								<dt class="label">4 Pages <span class="separator">&bull;</span></dt>
-  								<dd>
-  										 <span><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/569-Kitchener-Election-Talk">1</a></span>  <span><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/569-Kitchener-Election-Talk/page2">2</a></span>  <span><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/569-Kitchener-Election-Talk/page3">3</a></span> 
-  										 <span class="separator">...</span> <span><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/569-Kitchener-Election-Talk/page4">4</a></span>
-  								</dd>
-  							</dl>
-  						
-  					</div>
-  					
-  				</div>
-  
-  			</div>				
-  			<!-- iconinfo -->
-  			<div class="threaddetails td">
-  				<div class="threaddetailicons">
-  					
-  						<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="2010 municipal election, cambridge election, kitchener election, mayor, municipal politics, waterloo election, waterloo region election" />
-  					
-  					
-  					
-  					
-  					
-  					
-  				</div>
-  			</div>
-  		</div>
-  		
-  		
-  		<!-- threadstats -->
-  		
-  		<ul class="threadstats td alt" title="">
-  			<li class="stats"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=569" onclick="who(569); return false;">Replies</a>: 74</li>
-  			<li class="stats">Views: 5,302</li>
-  		</ul>
-  							
-  		
-  		<!-- lastpost -->
-  		<dl class="threadlastpost td">
-  			<dt class="lastpostby hidden">Last Post By:</dt>
-  			<dd>Last Post: 09-16-2010 <em class="time">11:38 PM</em></dd>
-  			<dd>
-  			
-  				by <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/461-Jamie-Vasey">Jamie Vasey</a>
-  			
-   &nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/569-Kitchener-Election-Talk?p=14717#post14717"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
-  			</dd>
-  		</dl>
-  		
-  
-  		<div class="threadpostedin td alt">
-  			<p>
-  				Forum:<br /><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-October-25-2010" title="Municipal Election | October 25, 2010">Municipal Election | October 25, 2010</a>
-  			</p>
-  			
-  		</div>
-  
-  		
-  		
-  		
-  		
-  	</div>
-  </li> <li class="imodselector threadbit hot" id="thread_663" title="School Board Elections 2010 
-  Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
-   
-  Kitchener Candidates 
-   
-  Waterloo Region District...">
-  	<div class="icon0 rating0 nonsticky">
-  		<div class="threadinfo thread">
-  			<!--  status icon block -->
-  			<a class="threadstatus" rel="vB::AJAX" ></a>
-  		
-  			<!-- title / author block -->
-  			<div class="inner">
-  				<h3 class="searchtitle">
-  				
-                      	
-  						
-  					
-                                          
-  					
-                      <a class="title" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/663-School-Board-Election-Talk" id="thread_title_663" title="School Board Elections 2010 
-  Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
-   
-  Kitchener Candidates 
-   
-  Waterloo Region District...">School Board Election Talk</a>
-  				</h3>
-  						
-  
-  				<div class="threadmeta">				
-  					<div class="author">
-  						<span class="label">Started by&nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username understate" title="Started by Spokes on 12-29-2009 12:05 AM">Spokes</a>,&nbsp;12-29-2009&nbsp;12:05 AM</span>
-  						
-  						
-  					</div>
-  					
-  				</div>
-  
-  			</div>				
-  			<!-- iconinfo -->
-  			<div class="threaddetails td">
-  				<div class="threaddetailicons">
-  					
-  						<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="2010 municipal election, cambridge election, kitchener election, mayor, municipal politics, waterloo election, waterloo region election" />
-  					
-  					
-  					
-  					
-  					
-  					
-  				</div>
-  			</div>
-  		</div>
-  		
-  		
-  		<!-- threadstats -->
-  		
-  		<ul class="threadstats td alt" title="">
-  			<li class="stats"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=663" onclick="who(663); return false;">Replies</a>: 6</li>
-  			<li class="stats">Views: 2,354</li>
-  		</ul>
-  							
-  		
-  		<!-- lastpost -->
-  		<dl class="threadlastpost td">
-  			<dt class="lastpostby hidden">Last Post By:</dt>
-  			<dd>Last Post: 09-09-2010 <em class="time">07:06 PM</em></dd>
-  			<dd>
-  			
-  				by <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">UrbanWaterloo</a>
-  			
-   &nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/663-School-Board-Election-Talk?p=14441#post14441"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
-  			</dd>
-  		</dl>
-  		
-  
-  		<div class="threadpostedin td alt">
-  			<p>
-  				Forum:<br /><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-October-25-2010" title="Municipal Election | October 25, 2010">Municipal Election | October 25, 2010</a>
-  			</p>
-  			
-  		</div>
-  
-  		
-  		
-  		
-  		
-  	</div>
-  </li> 
-  				</ol>
-  				
-  			
-  		</div>
-  
-  		<div class="blockfoot">
-  			
-  
-  			
-  			<div id="postpagestats">
-  				Results 1 to 10 of 10
-  			</div>
-  			
-  
-  		</div>
-  	</div>
-  	
-  
-  	
-  	
-  	
-  	
-  
-  	
-  	
-  	
-  	
-  	
-  	 
-   
-  <div id="footer" class="floatcontainer footer">
-  
-  	<form action="/web/20100920001500/http://www.wonderfulwaterloo.com/forum.php" method="get" id="footer_select" class="footer_select">
-  
-  			
-  		
-  			<select name="styleid" onchange="switch_id(this, 'style')">
-  				<optgroup label="Quick Style Chooser">
-  					<option value="2" class="" selected="selected">-- Default Style</option> <option value="17" class="" >---- QRLeft</option> <option value="20" class="" >---- ReplyRight</option> <option value="7" class="" >---- Red</option> <option value="8" class="" >---- Aqua</option> <option value="9" class="" >---- Green</option> <option value="13" class="" >---- Politics</option> 
-  				</optgroup>
-  			</select>	
-  		
-  		
-  		
-  	</form>
-  
-  	<ul id="footer_links" class="footer_links">
-  		<li><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/sendmessage.php" rel="nofollow" accesskey="9">Contact Us</a></li>
-  		<li><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/">Home</a></li>
-  		
-  		
-  		<li><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/archive/index.php">Archive</a></li>
-  		
-  		
-  		
-  		<li><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/tags.php?tag=kitchener+election#top" onclick="document.location.hash='top'; return false;">Top</a></li>
-  	</ul>
-  	
-  	
-  	
-  	
-  	<script type="text/javascript">
-  	<!--
-  		// Main vBulletin Javascript Initialization
-  		vBulletin_init();
-  	//-->
-  	</script>
-          
-  </div>
-  </div> <!-- closing div for body_wrapper -->
-  
-  <div class="below_body">
-  <div id="footer_time" class="shade footer_time">All times are GMT -4. The time now is <span class="time">08:14 PM</span>.</div>
-  
-  <div id="footer_copyright" class="shade footer_copyright">
-  	<!-- Do not remove this copyright notice -->
-  	Powered by <a href="/web/20100920001500/http://www.vbulletin.com/" id="vbulletinlink">vBulletin&trade;</a> Version 4.0.5 <br />Copyright &copy; 2010 vBulletin Solutions, Inc. All rights reserved. 
-  	<!-- Do not remove this copyright notice -->	
-  </div>
-  <div id="footer_morecopyright" class="shade footer_morecopyright">
-  	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
-  	
-  	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
-  	
-  </div>
-  
-  </div> 
-  
-  </body>
-  </html> 
-  
-  
-  
-  
-  <!--
-       FILE ARCHIVED ON 0:15:00 Sep 20, 2010 AND RETRIEVED FROM THE
-       INTERNET ARCHIVE ON 10:08:23 Aug 25, 2014.
-       JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-  
-       ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-       SECTION 108(a)(3)).
-  -->
+    <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+    <head>
+    
+    <script type="text/javascript" src="/static/js/analytics.js" ></script>
+    <link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+    
+    
+    
+    
+    	
+    	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.wonderfulwaterloo.com" />
+      <meta name="generator" content="vBulletin 4.0.5" />
+    
+    
+    		<meta name="keywords" content="wonderful,waterloo,ontario,canada,wonderfulwaterloo,forum,post,city,urban,vbulletin,jelsoft,forum,bbs,discussion,bulletin board" />
+    		<meta name="description" content="This is a discussion forum powered by vBulletin. To find out about vBulletin, go to http://www.vbulletin.com/ ." />
+    
+    
+    
+    
+    <script type="text/javascript" src="/web/20100920001500js_/http://www.wonderfulwaterloo.com/clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=405"></script>
+    <script type="text/javascript" src="/web/20100920001500js_/http://www.wonderfulwaterloo.com/clientscript/yui/connection/connection-min.js?v=405"></script>
+    <script type="text/javascript">
+    <!--
+    	var SESSIONURL = "";
+    	var SECURITYTOKEN = "guest";
+    	var IMGDIR_MISC = "images/misc";
+    	var IMGDIR_BUTTON = "images/buttons";
+    	var vb_disable_ajax = parseInt("0", 10);
+    	var SIMPLEVERSION = "405";
+    	var BBURL = "/web/20100920001500/http://www.wonderfulwaterloo.com";
+    	var LOGGEDIN = 0 > 0 ? true : false;
+    	var THIS_SCRIPT = "tags";
+            var RELPATH = "tags.php?tag=kitchener+election";
+    // -->
+    </script>
+    <script type="text/javascript" src="/web/20100920001500js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin-core.js?v=405"></script>
+    
+    
+    
+    	<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2" />
+    	
+    
+    
+    
+    	<link rel="stylesheet" type="text/css" href="/web/20100920001500cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1284779099&amp;td=ltr&amp;sheet=bbcode.css,editor.css,popupmenu.css,reset-fonts.css,vbulletin.css,vbulletin-chrome.css,vbulletin-formcontrols.css," />
+    
+    
+     
+    	<title>Search Results - Wonderful Waterloo</title>
+    	
+    	
+    	
+    
+    	
+    		<link rel="stylesheet" type="text/css" href="/web/20100920001500cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1284779099&amp;td=ltr&amp;sheet=threadlist.css,forumbits.css,postbit.css,postbit-lite.css,search.css" />
+    	
+    
+    	<!--[if lt IE 8]>
+    	<script type="text/javascript" src="clientscript/vbulletin-threadlist-ie.js?v=405"></script>
+    	<link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1284779099&amp;td=ltr&amp;sheet=threadlist-ie.css" />
+    	<![endif]-->
+    <link rel="stylesheet" type="text/css" href="/web/20100920001500cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1284779099&amp;td=ltr&amp;sheet=additional.css" />
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1284779099&amp;td=ltr&amp;sheet=replacement-vbulletin-ie.css" />
+    <![endif]-->
+     
+    </head>
+    <body>
+    
+    
+    	<div class="above_body"> <!-- closing tag is in template navbar -->
+    <div id="header" class="floatcontainer doc_header">
+    	<div><a name="top" href="/web/20100920001500/http://www.wonderfulwaterloo.com/forum.php" class="logo-image"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/v1/logo.gif" alt="Wonderful Waterloo - Powered by the Citizens of Waterloo Region" /></a></div>
+    	<div id="toplinks" class="toplinks">
+    		
+    			<ul class="nouser">
+    			
+    				<li><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/register.php" rel="nofollow">Register</a></li>
+    			
+    				<li><a rel="help" href="/web/20100920001500/http://www.wonderfulwaterloo.com/faq.php">Help</a></li>
+    				<li>
+    			<script type="text/javascript" src="/web/20100920001500js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_md5.js?v=405"></script>
+    			<form id="navbar_loginform" action="/web/20100920001500/http://www.wonderfulwaterloo.com/login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+    				<fieldset id="logindetails" class="logindetails">
+    					<div>
+    						<div>
+    					<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/icons/username.png" alt="Username" />
+    					<input type="text" class="textbox" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" />
+    					<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/icons/password.png" alt="Password" />
+    					<input type="text" class="textbox default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Password" style="display:none;" />
+    					<input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10" />
+    					<input type="submit" class="loginbutton" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s" />
+    						</div>
+    					</div>
+    				</fieldset>
+    				<div id="remember" class="remember">
+    					<label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" /> Remember Me?</label>
+    				</div>
+    
+    				<input type="hidden" name="s" value="" />
+    				<input type="hidden" name="securitytoken" value="guest" />
+    				<input type="hidden" name="do" value="login" />
+    				<input type="hidden" name="vb_login_md5password" />
+    				<input type="hidden" name="vb_login_md5password_utf" />
+    			</form>
+    			<script type="text/javascript">
+    			YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+    			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+    			YAHOO.util.Dom.setStyle('navbar_username', "color", "#828282");
+    			vB_XHTML_Ready.subscribe(function()
+    			{
+    			//
+    				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+    				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+    				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+    				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+    			});
+    			
+    			function navbar_username_focus(e)
+    			{
+    			//
+    				var textbox = YAHOO.util.Event.getTarget(e);
+    				if (textbox.value == 'User Name')
+    				{
+    				//
+    					textbox.value='';
+    					textbox.style.color='black';
+    				}
+    			}
+    
+    			function navbar_username_blur(e)
+    			{
+    			//
+    				var textbox = YAHOO.util.Event.getTarget(e);
+    				if (textbox.value == '')
+    				{
+    				//
+    					textbox.value='User Name';
+    					textbox.style.color='#828282';
+    				}
+    			}
+    			
+    			function navbar_password_hint(e)
+    			{
+    			//
+    				var textbox = YAHOO.util.Event.getTarget(e);
+    				
+    				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+    				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+    				YAHOO.util.Dom.get('navbar_password').focus();
+    			}
+    
+    			function navbar_password(e)
+    			{
+    			//
+    				var textbox = YAHOO.util.Event.getTarget(e);
+    				
+    				if (textbox.value == '')
+    				{
+    					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+    					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+    				}
+    			}
+    			</script>
+    				</li>
+    				
+    			</ul>
+    		
+    	</div>
+    	<div class="ad_global_header">
+    		 
+    		 
+    	</div>
+    	<hr />
+    </div> 
+    	<div id="navbar" class="navbar">
+    
+    	<ul id="navtabs" class="navtabs floatcontainer">
+    		
+    	<li>
+    	
+    		<a class="navtab" href="/web/20100920001500/http://www.wonderfulwaterloo.com/content.php">Home</a>
+    	
+    	</li>
+     
+    		
+    			<li class="selected"><a class="navtab" href="/web/20100920001500/http://www.wonderfulwaterloo.com/forum.php">Forum</a>
+    				<ul class="floatcontainer">
+    					
+    					
+    						
+    						<li><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/search.php?do=getdaily&amp;contenttype=vBForum_Post">Today's Posts</a></li>
+    						
+    					
+    					
+    					
+    					
+    					<li><a rel="help" href="/web/20100920001500/http://www.wonderfulwaterloo.com/faq.php" accesskey="5">FAQ</a></li>
+    					
+    					<li><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/calendar.php">Calendar</a></li>
+    					
+    
+    					
+    					<li class="popupmenu">
+    						<a href="javascript://" class="popupctrl" accesskey="6">Community</a>
+    						<ul class="popupbody popuphover">
+    							
+    							
+    							
+    							
+    							
+    								<li><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/memberlist.php">Member List</a></li>
+    							
+    							
+    						</ul>
+    					</li>
+    					
+    					
+    					<li class="popupmenu">
+    						<a href="javascript://" class="popupctrl">Forum Actions</a>
+    						<ul class="popupbody popuphover">
+    							<li>
+    								<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php?do=markread&amp;markreadhash=guest">Mark Forums Read</a>
+    							</li>
+                                                            
+    						</ul>
+    					</li>
+    					<li class="popupmenu">
+    						<a href="javascript://" class="popupctrl" accesskey="3">Quick Links</a>
+    						<ul class="popupbody popuphover">
+    							
+    							
+    							<li><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showgroups.php" rel="nofollow">
+    		
+    			View Site Leaders
+    		
+    	</a></li>
+    							
+    							
+    							
+    							
+    							
+    							
+    						</ul>
+    					</li>
+    					
+    				</ul>
+    
+    			</li>
+    		
+    		
+    		
+    			<li><a class="navtab" href="/web/20100920001500/http://www.wonderfulwaterloo.com/search.php?do=getdaily&amp;contenttype=vBForum_Post" accesskey="2">What's New?</a></li>
+    		
+    		<li><a class="navtab" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/506" target="_self">About</a></li>
+    
+     <li><a class="navtab" href="/web/20100920001500/http://www.wonderfulwaterloo.com/calendar.php" target="_self">Calendar</a></li>
+    
+     <li><a class="navtab" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/206-Maps" target="_self">Maps</a></li>
+    
+     <li><a class="navtab" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/423-Waterloo-Region-Statistics" target="_self">Stats</a></li>
+    
+     <li><a class="navtab" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/314-Links" target="_self">Links</a></li>
+    
+     <li><a class="navtab" href="/web/20100920001500/http://www.wonderfulwaterloo.com/WDrive" target="_self">W: Drive</a></li>
+    
+     <li><a class="navtab" href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-%7C-October-25-2010" target="_self">Election 2010</a></li>
+    
+     
+    	</ul>
+    
+    	
+    	<div id="globalsearch" class="globalsearch">
+    		<form action="/web/20100920001500/http://www.wonderfulwaterloo.com/search.php?do=process" method="post" id="navbar_search" class="navbar_search">
+    			
+    			<input type="hidden" name="securitytoken" value="guest" />
+    			<input type="hidden" name="do" value="process" />
+    			<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
+    			<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
+    		</form>
+    		<ul class="navbar_advanced_search">
+    			<li><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/search.php" accesskey="4">Advanced Search</a></li>
+    		</ul>
+    	</div>
+    	
+    </div>
+    </div><!-- closing div for above_body -->
+    
+    <div class="body_wrapper">
+    
+    <div id="breadcrumb" class="breadcrumb">
+            
+    	<ul class="floatcontainer">
+    		<li class="navbithome"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/index.php" accesskey="1"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/navbit-home.png" alt="Home" /></a></li>
+    
+    		
+    		
+    	<li class="navbit lastnavbit"><span>Search Forums</span></li>
+     
+    	</ul>
+    	<hr />
+            
+    </div>
+    
+     
+     
+    
+    
+    	<form action="/web/20100920001500/http://www.wonderfulwaterloo.com/profile.php?do=dismissnotice" method="post" id="notices" class="notices">
+    		<input type="hidden" name="do" value="dismissnotice" />
+    		<input type="hidden" name="s" value="" />
+    		<input type="hidden" name="securitytoken" value="guest" />
+    		<input type="hidden" id="dismiss_notice_hidden" name="dismiss_noticeid" value="" />
+    		<input type="hidden" name="url" value="" />
+    		<ol>
+    			<li class="restore" id="navbar_notice_1">
+    	
+    	You have to <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/register.php" target="_blank"><b>Register</b></a>
+    		before you can post. To start viewing messages,
+    		select the <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forum.php"><b>Forum</b></a> you want to visit or check out <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/search.php?do=getdaily&amp;contenttype=vBForum_Post"><b>What's New</b></a>.
+    </li> 
+    		</ol>
+    	</form>
+     
+    
+    	<div id="pagetitle">
+    		<h1>
+    			
+    				<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/tags.php"><strong>Search:</strong></a> Tag: <b><u>kitchener election</u></b>
+    			
+    		</h1>
+    	</div>
+    	
+    	
+    	
+    	<div id="above_searchresults" class="floatcontainer">
+    		
+                    
+    	</div>
+    	
+    	
+    	
+    	<div class="block searchresults" >
+    	
+    		<h2 class="searchlisthead">
+    			<span>
+    				
+    					<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/tags.php"><strong>Search</strong></a>:
+    				
+    			</span>
+    			<span class="mainsearchstats">
+    				
+    					Search took <strong>0.00</strong> seconds.
+    						
+    			</span>
+    		</h2>
+    		
+    		
+    		<div class="blockbody">
+    			
+    			
+    				<ol id="searchbits" start="1" class="searchbits">
+    					<li class="imodselector threadbit hot" id="thread_37" title="Waterloo (City) Election Talk 2010  
+    Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
+     
+     
+     
+    Candidates 
+     
+    Mayor | Southwest Ward 1 |...">
+    	<div class="icon0 rating0 nonsticky">
+    		<div class="threadinfo thread">
+    			<!--  status icon block -->
+    			<a class="threadstatus" rel="vB::AJAX" ></a>
+    		
+    			<!-- title / author block -->
+    			<div class="inner">
+    				<h3 class="searchtitle">
+    				
+                        	
+    						
+    					
+                                            
+    					
+                        <a class="title" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/37-Waterloo-(City)-Election-Talk" id="thread_title_37" title="Waterloo (City) Election Talk 2010  
+    Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
+     
+     
+     
+    Candidates 
+     
+    Mayor | Southwest Ward 1 |...">Waterloo (City) Election Talk</a>
+    				</h3>
+    						
+    
+    				<div class="threadmeta">				
+    					<div class="author">
+    						<span class="label">Started by&nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username understate" title="Started by Spokes on 12-29-2009 12:05 AM">Spokes</a>,&nbsp;12-29-2009&nbsp;12:05 AM</span>
+    						
+    						
+    							<dl class="pagination" id="pagination_threadbit_37">
+    								<dt class="label">3 Pages <span class="separator">&bull;</span></dt>
+    								<dd>
+    										 <span><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/37-Waterloo-(City)-Election-Talk">1</a></span>  <span><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/37-Waterloo-(City)-Election-Talk/page2">2</a></span>  <span><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/37-Waterloo-(City)-Election-Talk/page3">3</a></span> 
+    										
+    								</dd>
+    							</dl>
+    						
+    					</div>
+    					
+    				</div>
+    
+    			</div>				
+    			<!-- iconinfo -->
+    			<div class="threaddetails td">
+    				<div class="threaddetailicons">
+    					
+    						<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="2010 municipal election, cambridge election, kitchener election, mayor, municipal politics, waterloo election, waterloo region election" />
+    					
+    					
+    					
+    					
+    					
+    					
+    				</div>
+    			</div>
+    		</div>
+    		
+    		
+    		<!-- threadstats -->
+    		
+    		<ul class="threadstats td alt" title="">
+    			<li class="stats"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=37" onclick="who(37); return false;">Replies</a>: 50</li>
+    			<li class="stats">Views: 4,450</li>
+    		</ul>
+    							
+    		
+    		<!-- lastpost -->
+    		<dl class="threadlastpost td">
+    			<dt class="lastpostby hidden">Last Post By:</dt>
+    			<dd>Last Post: Yesterday <em class="time">03:48 PM</em></dd>
+    			<dd>
+    			
+    				by <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/177-IEFBR14">IEFBR14</a>
+    			
+     &nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/37-Waterloo-(City)-Election-Talk?p=14838#post14838"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+    			</dd>
+    		</dl>
+    		
+    
+    		<div class="threadpostedin td alt">
+    			<p>
+    				Forum:<br /><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-October-25-2010" title="Municipal Election | October 25, 2010">Municipal Election | October 25, 2010</a>
+    			</p>
+    			
+    		</div>
+    
+    		
+    		
+    		
+    		
+    	</div>
+    </li> <li class="imodselector threadbit hot" id="thread_641" title="General Election Information  
+     
+     
+     
+    New for Municipal Elections 2010 Guide 
+    http://www.mah.gov.on.ca/Page7042.aspx 
+    Nominations must by filed by 2 p.m. on the second Friday...">
+    	<div class="icon0 rating0 sticky">
+    		<div class="threadinfo thread">
+    			<!--  status icon block -->
+    			<a class="threadstatus" rel="vB::AJAX" ></a>
+    		
+    			<!-- title / author block -->
+    			<div class="inner">
+    				<h3 class="searchtitle">
+    				
+                        	
+    						
+    					
+    					 	<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/sticky.gif" alt="Sticky Thread" />
+    					
+                                            
+    					
+    						<span class="prefix understate">
+    							
+    							Sticky: 
+    							
+    							
+    						</span>
+    					
+                        <a class="title" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/641-General-Election-Information" id="thread_title_641" title="General Election Information  
+     
+     
+     
+    New for Municipal Elections 2010 Guide 
+    http://www.mah.gov.on.ca/Page7042.aspx 
+    Nominations must by filed by 2 p.m. on the second Friday...">General Election Information</a>
+    				</h3>
+    						
+    
+    				<div class="threadmeta">				
+    					<div class="author">
+    						<span class="label">Started by&nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username understate" title="Started by Spokes on 12-29-2009 12:05 AM">Spokes</a>,&nbsp;12-29-2009&nbsp;12:05 AM</span>
+    						
+    						
+    					</div>
+    					
+    				</div>
+    
+    			</div>				
+    			<!-- iconinfo -->
+    			<div class="threaddetails td">
+    				<div class="threaddetailicons">
+    					
+    						<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="2010 municipal election, cambridge election, kitchener election, mayor, municipal politics, waterloo election, waterloo region election" />
+    					
+    					
+    					
+    					
+    					
+    					
+    				</div>
+    			</div>
+    		</div>
+    		
+    		
+    		<!-- threadstats -->
+    		
+    		<ul class="threadstats td alt" title="">
+    			<li class="stats"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=641" onclick="who(641); return false;">Replies</a>: 3</li>
+    			<li class="stats">Views: 2,404</li>
+    		</ul>
+    							
+    		
+    		<!-- lastpost -->
+    		<dl class="threadlastpost td">
+    			<dt class="lastpostby hidden">Last Post By:</dt>
+    			<dd>Last Post: 09-09-2010 <em class="time">10:14 AM</em></dd>
+    			<dd>
+    			
+    				by <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/326-DRK_Kitchener">DRK_Kitchener</a>
+    			
+     &nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/641-General-Election-Information?p=14150#post14150"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+    			</dd>
+    		</dl>
+    		
+    
+    		<div class="threadpostedin td alt">
+    			<p>
+    				Forum:<br /><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-October-25-2010" title="Municipal Election | October 25, 2010">Municipal Election | October 25, 2010</a>
+    			</p>
+    			
+    		</div>
+    
+    		
+    		
+    		
+    		
+    	</div>
+    </li> <li class="imodselector threadbit hot" id="thread_575" title="Cambridge Election Talk 2010  
+    Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
+     
+     
+     
+    Candidates 
+     
+    Mayor | Ward 1 | Ward 2  
+     
+    Doug...">
+    	<div class="icon0 rating0 nonsticky">
+    		<div class="threadinfo thread">
+    			<!--  status icon block -->
+    			<a class="threadstatus" rel="vB::AJAX" ></a>
+    		
+    			<!-- title / author block -->
+    			<div class="inner">
+    				<h3 class="searchtitle">
+    				
+                        	
+    						
+    					
+                                            
+    					
+                        <a class="title" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/575-Cambridge-Election-Talk" id="thread_title_575" title="Cambridge Election Talk 2010  
+    Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
+     
+     
+     
+    Candidates 
+     
+    Mayor | Ward 1 | Ward 2  
+     
+    Doug...">Cambridge Election Talk</a>
+    				</h3>
+    						
+    
+    				<div class="threadmeta">				
+    					<div class="author">
+    						<span class="label">Started by&nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username understate" title="Started by Spokes on 12-29-2009 12:05 AM">Spokes</a>,&nbsp;12-29-2009&nbsp;12:05 AM</span>
+    						
+    						
+    					</div>
+    					
+    				</div>
+    
+    			</div>				
+    			<!-- iconinfo -->
+    			<div class="threaddetails td">
+    				<div class="threaddetailicons">
+    					
+    						<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="2010 municipal election, cambridge election, kitchener election, mayor, municipal politics, waterloo election, waterloo region election" />
+    					
+    					
+    					
+    					
+    					
+    					
+    				</div>
+    			</div>
+    		</div>
+    		
+    		
+    		<!-- threadstats -->
+    		
+    		<ul class="threadstats td alt" title="">
+    			<li class="stats"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=575" onclick="who(575); return false;">Replies</a>: 17</li>
+    			<li class="stats">Views: 2,658</li>
+    		</ul>
+    							
+    		
+    		<!-- lastpost -->
+    		<dl class="threadlastpost td">
+    			<dt class="lastpostby hidden">Last Post By:</dt>
+    			<dd>Last Post: 09-14-2010 <em class="time">11:28 PM</em></dd>
+    			<dd>
+    			
+    				by <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/540-cambridgecitizen">cambridgecitizen</a>
+    			
+     &nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/575-Cambridge-Election-Talk?p=14551#post14551"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+    			</dd>
+    		</dl>
+    		
+    
+    		<div class="threadpostedin td alt">
+    			<p>
+    				Forum:<br /><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-October-25-2010" title="Municipal Election | October 25, 2010">Municipal Election | October 25, 2010</a>
+    			</p>
+    			
+    		</div>
+    
+    		
+    		
+    		
+    		
+    	</div>
+    </li> <li class="imodselector threadbit hot" id="thread_574" title="Waterloo (Region) Election Talk 2010  
+    Voting Day is October 25, 2010.  Campaigns have started.  This is a place to discuss them. 
+     
+     
+     
+    Candidates 
+     
+    Chair | Cambridge (2) |...">
+    	<div class="icon0 rating0 nonsticky">
+    		<div class="threadinfo thread">
+    			<!--  status icon block -->
+    			<a class="threadstatus" rel="vB::AJAX" ></a>
+    		
+    			<!-- title / author block -->
+    			<div class="inner">
+    				<h3 class="searchtitle">
+    				
+                        	
+    						
+    					
+                                            
+    					
+                        <a class="title" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/574-Waterloo-(Region)-Election-Talk" id="thread_title_574" title="Waterloo (Region) Election Talk 2010  
+    Voting Day is October 25, 2010.  Campaigns have started.  This is a place to discuss them. 
+     
+     
+     
+    Candidates 
+     
+    Chair | Cambridge (2) |...">Waterloo (Region) Election Talk</a>
+    				</h3>
+    						
+    
+    				<div class="threadmeta">				
+    					<div class="author">
+    						<span class="label">Started by&nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username understate" title="Started by Spokes on 12-29-2009 12:05 AM">Spokes</a>,&nbsp;12-29-2009&nbsp;12:05 AM</span>
+    						
+    						
+    							<dl class="pagination" id="pagination_threadbit_574">
+    								<dt class="label">2 Pages <span class="separator">&bull;</span></dt>
+    								<dd>
+    										 <span><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/574-Waterloo-(Region)-Election-Talk">1</a></span>  <span><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/574-Waterloo-(Region)-Election-Talk/page2">2</a></span> 
+    										
+    								</dd>
+    							</dl>
+    						
+    					</div>
+    					
+    				</div>
+    
+    			</div>				
+    			<!-- iconinfo -->
+    			<div class="threaddetails td">
+    				<div class="threaddetailicons">
+    					
+    						<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="2010 municipal election, cambridge election, kitchener election, mayor, municipal politics, waterloo election, waterloo region election" />
+    					
+    					
+    					
+    					
+    					
+    					
+    				</div>
+    			</div>
+    		</div>
+    		
+    		
+    		<!-- threadstats -->
+    		
+    		<ul class="threadstats td alt" title="">
+    			<li class="stats"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=574" onclick="who(574); return false;">Replies</a>: 27</li>
+    			<li class="stats">Views: 2,993</li>
+    		</ul>
+    							
+    		
+    		<!-- lastpost -->
+    		<dl class="threadlastpost td">
+    			<dt class="lastpostby hidden">Last Post By:</dt>
+    			<dd>Last Post: Yesterday <em class="time">01:11 PM</em></dd>
+    			<dd>
+    			
+    				by <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/24-Duke-of-Waterloo">Duke-of-Waterloo</a>
+    			
+     &nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/574-Waterloo-(Region)-Election-Talk?p=14833#post14833"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+    			</dd>
+    		</dl>
+    		
+    
+    		<div class="threadpostedin td alt">
+    			<p>
+    				Forum:<br /><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-October-25-2010" title="Municipal Election | October 25, 2010">Municipal Election | October 25, 2010</a>
+    			</p>
+    			
+    		</div>
+    
+    		
+    		
+    		
+    		
+    	</div>
+    </li> <li class="imodselector threadbit hot" id="thread_573" title="North Dumfries Election Talk 2010  
+    Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
+     
+     
+     
+    Candidates 
+     
+    Mayor | Ward 1 | Ward 2   
+    ...">
+    	<div class="icon0 rating0 nonsticky">
+    		<div class="threadinfo thread">
+    			<!--  status icon block -->
+    			<a class="threadstatus" rel="vB::AJAX" ></a>
+    		
+    			<!-- title / author block -->
+    			<div class="inner">
+    				<h3 class="searchtitle">
+    				
+                        	
+    						
+    					
+                                            
+    					
+                        <a class="title" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/573-North-Dumfries-Election-Talk" id="thread_title_573" title="North Dumfries Election Talk 2010  
+    Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
+     
+     
+     
+    Candidates 
+     
+    Mayor | Ward 1 | Ward 2   
+    ...">North Dumfries Election Talk</a>
+    				</h3>
+    						
+    
+    				<div class="threadmeta">				
+    					<div class="author">
+    						<span class="label">Started by&nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username understate" title="Started by Spokes on 12-29-2009 12:05 AM">Spokes</a>,&nbsp;12-29-2009&nbsp;12:05 AM</span>
+    						
+    						
+    					</div>
+    					
+    				</div>
+    
+    			</div>				
+    			<!-- iconinfo -->
+    			<div class="threaddetails td">
+    				<div class="threaddetailicons">
+    					
+    						<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="2010 municipal election, cambridge election, kitchener election, mayor, municipal politics, waterloo election, waterloo region election" />
+    					
+    					
+    					
+    					
+    					
+    					
+    				</div>
+    			</div>
+    		</div>
+    		
+    		
+    		<!-- threadstats -->
+    		
+    		<ul class="threadstats td alt" title="">
+    			<li class="stats"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=573" onclick="who(573); return false;">Replies</a>: 4</li>
+    			<li class="stats">Views: 2,440</li>
+    		</ul>
+    							
+    		
+    		<!-- lastpost -->
+    		<dl class="threadlastpost td">
+    			<dt class="lastpostby hidden">Last Post By:</dt>
+    			<dd>Last Post: 09-10-2010 <em class="time">04:03 PM</em></dd>
+    			<dd>
+    			
+    				by <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">UrbanWaterloo</a>
+    			
+     &nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/573-North-Dumfries-Election-Talk?p=14271#post14271"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+    			</dd>
+    		</dl>
+    		
+    
+    		<div class="threadpostedin td alt">
+    			<p>
+    				Forum:<br /><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-October-25-2010" title="Municipal Election | October 25, 2010">Municipal Election | October 25, 2010</a>
+    			</p>
+    			
+    		</div>
+    
+    		
+    		
+    		
+    		
+    	</div>
+    </li> <li class="imodselector threadbit hot" id="thread_572" title="Wellesley Election 2010  
+    Voting Day is October 25, 2010. 
+     
+     
+     
+    Candidates 
+     
+    Mayor | Ward 1 | Ward 2   
+     
+    Ross Kelterborn | Shelley Wagner | Herb Neher">
+    	<div class="icon0 rating0 nonsticky">
+    		<div class="threadinfo thread">
+    			<!--  status icon block -->
+    			<a class="threadstatus" rel="vB::AJAX" ></a>
+    		
+    			<!-- title / author block -->
+    			<div class="inner">
+    				<h3 class="searchtitle">
+    				
+                        	
+    						
+    					
+                                            
+    					
+                        <a class="title" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/572-Wellesley-Election-Uncontested" id="thread_title_572" title="Wellesley Election 2010  
+    Voting Day is October 25, 2010. 
+     
+     
+     
+    Candidates 
+     
+    Mayor | Ward 1 | Ward 2   
+     
+    Ross Kelterborn | Shelley Wagner | Herb Neher">Wellesley Election | Uncontested</a>
+    				</h3>
+    						
+    
+    				<div class="threadmeta">				
+    					<div class="author">
+    						<span class="label">Started by&nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username understate" title="Started by Spokes on 12-29-2009 12:05 AM">Spokes</a>,&nbsp;12-29-2009&nbsp;12:05 AM</span>
+    						
+    						
+    					</div>
+    					
+    				</div>
+    
+    			</div>				
+    			<!-- iconinfo -->
+    			<div class="threaddetails td">
+    				<div class="threaddetailicons">
+    					
+    						<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="2010 municipal election, cambridge election, kitchener election, mayor, municipal politics, waterloo election, waterloo region election" />
+    					
+    					
+    					
+    					
+    					
+    					
+    				</div>
+    			</div>
+    		</div>
+    		
+    		
+    		<!-- threadstats -->
+    		
+    		<ul class="threadstats td alt" title="">
+    			<li class="stats"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=572" onclick="who(572); return false;">Replies</a>: 3</li>
+    			<li class="stats">Views: 2,337</li>
+    		</ul>
+    							
+    		
+    		<!-- lastpost -->
+    		<dl class="threadlastpost td">
+    			<dt class="lastpostby hidden">Last Post By:</dt>
+    			<dd>Last Post: 09-10-2010 <em class="time">03:24 PM</em></dd>
+    			<dd>
+    			
+    				by <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">UrbanWaterloo</a>
+    			
+     &nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/572-Wellesley-Election-Uncontested?p=14265#post14265"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+    			</dd>
+    		</dl>
+    		
+    
+    		<div class="threadpostedin td alt">
+    			<p>
+    				Forum:<br /><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-October-25-2010" title="Municipal Election | October 25, 2010">Municipal Election | October 25, 2010</a>
+    			</p>
+    			
+    		</div>
+    
+    		
+    		
+    		
+    		
+    	</div>
+    </li> <li class="imodselector threadbit hot" id="thread_571" title="Wilmot Election Talk 2010  
+    Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
+     
+     
+     
+    Candidates 
+     
+    Mayor | Ward 1 | Ward 2   
+     
+    Les...">
+    	<div class="icon0 rating0 nonsticky">
+    		<div class="threadinfo thread">
+    			<!--  status icon block -->
+    			<a class="threadstatus" rel="vB::AJAX" ></a>
+    		
+    			<!-- title / author block -->
+    			<div class="inner">
+    				<h3 class="searchtitle">
+    				
+                        	
+    						
+    					
+                                            
+    					
+                        <a class="title" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/571-Wilmot-Election-Talk" id="thread_title_571" title="Wilmot Election Talk 2010  
+    Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
+     
+     
+     
+    Candidates 
+     
+    Mayor | Ward 1 | Ward 2   
+     
+    Les...">Wilmot Election Talk</a>
+    				</h3>
+    						
+    
+    				<div class="threadmeta">				
+    					<div class="author">
+    						<span class="label">Started by&nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username understate" title="Started by Spokes on 12-29-2009 12:05 AM">Spokes</a>,&nbsp;12-29-2009&nbsp;12:05 AM</span>
+    						
+    						
+    					</div>
+    					
+    				</div>
+    
+    			</div>				
+    			<!-- iconinfo -->
+    			<div class="threaddetails td">
+    				<div class="threaddetailicons">
+    					
+    						<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="2010 municipal election, cambridge election, kitchener election, mayor, municipal politics, waterloo election, waterloo region election" />
+    					
+    					
+    					
+    					
+    					
+    					
+    				</div>
+    			</div>
+    		</div>
+    		
+    		
+    		<!-- threadstats -->
+    		
+    		<ul class="threadstats td alt" title="">
+    			<li class="stats"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=571" onclick="who(571); return false;">Replies</a>: 6</li>
+    			<li class="stats">Views: 2,462</li>
+    		</ul>
+    							
+    		
+    		<!-- lastpost -->
+    		<dl class="threadlastpost td">
+    			<dt class="lastpostby hidden">Last Post By:</dt>
+    			<dd>Last Post: 09-10-2010 <em class="time">03:38 PM</em></dd>
+    			<dd>
+    			
+    				by <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">UrbanWaterloo</a>
+    			
+     &nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/571-Wilmot-Election-Talk?p=14266#post14266"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+    			</dd>
+    		</dl>
+    		
+    
+    		<div class="threadpostedin td alt">
+    			<p>
+    				Forum:<br /><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-October-25-2010" title="Municipal Election | October 25, 2010">Municipal Election | October 25, 2010</a>
+    			</p>
+    			
+    		</div>
+    
+    		
+    		
+    		
+    		
+    	</div>
+    </li> <li class="imodselector threadbit hot" id="thread_570" title="Woolwich Election Talk 2010  
+    Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
+     
+     
+     
+    Candidates 
+     
+    Mayor | Ward 1 | Ward 2 | Ward 3  ...">
+    	<div class="icon0 rating0 nonsticky">
+    		<div class="threadinfo thread">
+    			<!--  status icon block -->
+    			<a class="threadstatus" rel="vB::AJAX" ></a>
+    		
+    			<!-- title / author block -->
+    			<div class="inner">
+    				<h3 class="searchtitle">
+    				
+                        	
+    						
+    					
+                                            
+    					
+                        <a class="title" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/570-Woolwich-Election-Talk" id="thread_title_570" title="Woolwich Election Talk 2010  
+    Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
+     
+     
+     
+    Candidates 
+     
+    Mayor | Ward 1 | Ward 2 | Ward 3  ...">Woolwich Election Talk</a>
+    				</h3>
+    						
+    
+    				<div class="threadmeta">				
+    					<div class="author">
+    						<span class="label">Started by&nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username understate" title="Started by Spokes on 12-29-2009 12:05 AM">Spokes</a>,&nbsp;12-29-2009&nbsp;12:05 AM</span>
+    						
+    						
+    					</div>
+    					
+    				</div>
+    
+    			</div>				
+    			<!-- iconinfo -->
+    			<div class="threaddetails td">
+    				<div class="threaddetailicons">
+    					
+    						<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="2010 municipal election, cambridge election, kitchener election, mayor, municipal politics, waterloo election, waterloo region election" />
+    					
+    					
+    					
+    					
+    					
+    					
+    				</div>
+    			</div>
+    		</div>
+    		
+    		
+    		<!-- threadstats -->
+    		
+    		<ul class="threadstats td alt" title="">
+    			<li class="stats"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=570" onclick="who(570); return false;">Replies</a>: 6</li>
+    			<li class="stats">Views: 2,478</li>
+    		</ul>
+    							
+    		
+    		<!-- lastpost -->
+    		<dl class="threadlastpost td">
+    			<dt class="lastpostby hidden">Last Post By:</dt>
+    			<dd>Last Post: 09-15-2010 <em class="time">02:39 PM</em></dd>
+    			<dd>
+    			
+    				by <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/46-Shawn">Shawn</a>
+    			
+     &nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/570-Woolwich-Election-Talk?p=14587#post14587"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+    			</dd>
+    		</dl>
+    		
+    
+    		<div class="threadpostedin td alt">
+    			<p>
+    				Forum:<br /><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-October-25-2010" title="Municipal Election | October 25, 2010">Municipal Election | October 25, 2010</a>
+    			</p>
+    			
+    		</div>
+    
+    		
+    		
+    		
+    		
+    	</div>
+    </li> <li class="imodselector threadbit hot" id="thread_569" title="Kitchener Election Talk 2010  
+    Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
+     
+     
+     
+    Candidates 
+     
+    Mayor | Ward 1 | Ward 2 | Ward 3 ...">
+    	<div class="icon0 rating0 nonsticky">
+    		<div class="threadinfo thread">
+    			<!--  status icon block -->
+    			<a class="threadstatus" rel="vB::AJAX" ></a>
+    		
+    			<!-- title / author block -->
+    			<div class="inner">
+    				<h3 class="searchtitle">
+    				
+                        	
+    						
+    					
+                                            
+    					
+                        <a class="title" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/569-Kitchener-Election-Talk" id="thread_title_569" title="Kitchener Election Talk 2010  
+    Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
+     
+     
+     
+    Candidates 
+     
+    Mayor | Ward 1 | Ward 2 | Ward 3 ...">Kitchener Election Talk</a>
+    				</h3>
+    						
+    
+    				<div class="threadmeta">				
+    					<div class="author">
+    						<span class="label">Started by&nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username understate" title="Started by Spokes on 12-29-2009 12:05 AM">Spokes</a>,&nbsp;12-29-2009&nbsp;12:05 AM</span>
+    						
+    						
+    							<dl class="pagination" id="pagination_threadbit_569">
+    								<dt class="label">4 Pages <span class="separator">&bull;</span></dt>
+    								<dd>
+    										 <span><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/569-Kitchener-Election-Talk">1</a></span>  <span><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/569-Kitchener-Election-Talk/page2">2</a></span>  <span><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/569-Kitchener-Election-Talk/page3">3</a></span> 
+    										 <span class="separator">...</span> <span><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/569-Kitchener-Election-Talk/page4">4</a></span>
+    								</dd>
+    							</dl>
+    						
+    					</div>
+    					
+    				</div>
+    
+    			</div>				
+    			<!-- iconinfo -->
+    			<div class="threaddetails td">
+    				<div class="threaddetailicons">
+    					
+    						<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="2010 municipal election, cambridge election, kitchener election, mayor, municipal politics, waterloo election, waterloo region election" />
+    					
+    					
+    					
+    					
+    					
+    					
+    				</div>
+    			</div>
+    		</div>
+    		
+    		
+    		<!-- threadstats -->
+    		
+    		<ul class="threadstats td alt" title="">
+    			<li class="stats"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=569" onclick="who(569); return false;">Replies</a>: 74</li>
+    			<li class="stats">Views: 5,302</li>
+    		</ul>
+    							
+    		
+    		<!-- lastpost -->
+    		<dl class="threadlastpost td">
+    			<dt class="lastpostby hidden">Last Post By:</dt>
+    			<dd>Last Post: 09-16-2010 <em class="time">11:38 PM</em></dd>
+    			<dd>
+    			
+    				by <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/461-Jamie-Vasey">Jamie Vasey</a>
+    			
+     &nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/569-Kitchener-Election-Talk?p=14717#post14717"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+    			</dd>
+    		</dl>
+    		
+    
+    		<div class="threadpostedin td alt">
+    			<p>
+    				Forum:<br /><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-October-25-2010" title="Municipal Election | October 25, 2010">Municipal Election | October 25, 2010</a>
+    			</p>
+    			
+    		</div>
+    
+    		
+    		
+    		
+    		
+    	</div>
+    </li> <li class="imodselector threadbit hot" id="thread_663" title="School Board Elections 2010 
+    Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
+     
+    Kitchener Candidates 
+     
+    Waterloo Region District...">
+    	<div class="icon0 rating0 nonsticky">
+    		<div class="threadinfo thread">
+    			<!--  status icon block -->
+    			<a class="threadstatus" rel="vB::AJAX" ></a>
+    		
+    			<!-- title / author block -->
+    			<div class="inner">
+    				<h3 class="searchtitle">
+    				
+                        	
+    						
+    					
+                                            
+    					
+                        <a class="title" href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/663-School-Board-Election-Talk" id="thread_title_663" title="School Board Elections 2010 
+    Voting Day is October 25, 2010. Campaigns have started. This is a place to discuss them. 
+     
+    Kitchener Candidates 
+     
+    Waterloo Region District...">School Board Election Talk</a>
+    				</h3>
+    						
+    
+    				<div class="threadmeta">				
+    					<div class="author">
+    						<span class="label">Started by&nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/4-Spokes" class="username understate" title="Started by Spokes on 12-29-2009 12:05 AM">Spokes</a>,&nbsp;12-29-2009&nbsp;12:05 AM</span>
+    						
+    						
+    					</div>
+    					
+    				</div>
+    
+    			</div>				
+    			<!-- iconinfo -->
+    			<div class="threaddetails td">
+    				<div class="threaddetailicons">
+    					
+    						<img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/misc/tag.png" alt="2010 municipal election, cambridge election, kitchener election, mayor, municipal politics, waterloo election, waterloo region election" />
+    					
+    					
+    					
+    					
+    					
+    					
+    				</div>
+    			</div>
+    		</div>
+    		
+    		
+    		<!-- threadstats -->
+    		
+    		<ul class="threadstats td alt" title="">
+    			<li class="stats"><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/misc.php?do=whoposted&amp;t=663" onclick="who(663); return false;">Replies</a>: 6</li>
+    			<li class="stats">Views: 2,354</li>
+    		</ul>
+    							
+    		
+    		<!-- lastpost -->
+    		<dl class="threadlastpost td">
+    			<dt class="lastpostby hidden">Last Post By:</dt>
+    			<dd>Last Post: 09-09-2010 <em class="time">07:06 PM</em></dd>
+    			<dd>
+    			
+    				by <a href="/web/20100920001500/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">UrbanWaterloo</a>
+    			
+     &nbsp;<a href="/web/20100920001500/http://www.wonderfulwaterloo.com/showthread.php/663-School-Board-Election-Talk?p=14441#post14441"><img src="/web/20100920001500im_/http://www.wonderfulwaterloo.com/images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+    			</dd>
+    		</dl>
+    		
+    
+    		<div class="threadpostedin td alt">
+    			<p>
+    				Forum:<br /><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/forumdisplay.php/30-Municipal-Election-October-25-2010" title="Municipal Election | October 25, 2010">Municipal Election | October 25, 2010</a>
+    			</p>
+    			
+    		</div>
+    
+    		
+    		
+    		
+    		
+    	</div>
+    </li> 
+    				</ol>
+    				
+    			
+    		</div>
+    
+    		<div class="blockfoot">
+    			
+    
+    			
+    			<div id="postpagestats">
+    				Results 1 to 10 of 10
+    			</div>
+    			
+    
+    		</div>
+    	</div>
+    	
+    
+    	
+    	
+    	
+    	
+    
+    	
+    	
+    	
+    	
+    	
+    	 
+     
+    <div id="footer" class="floatcontainer footer">
+    
+    	<form action="/web/20100920001500/http://www.wonderfulwaterloo.com/forum.php" method="get" id="footer_select" class="footer_select">
+    
+    			
+    		
+    			<select name="styleid" onchange="switch_id(this, 'style')">
+    				<optgroup label="Quick Style Chooser">
+    					<option value="2" class="" selected="selected">-- Default Style</option> <option value="17" class="" >---- QRLeft</option> <option value="20" class="" >---- ReplyRight</option> <option value="7" class="" >---- Red</option> <option value="8" class="" >---- Aqua</option> <option value="9" class="" >---- Green</option> <option value="13" class="" >---- Politics</option> 
+    				</optgroup>
+    			</select>	
+    		
+    		
+    		
+    	</form>
+    
+    	<ul id="footer_links" class="footer_links">
+    		<li><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/sendmessage.php" rel="nofollow" accesskey="9">Contact Us</a></li>
+    		<li><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/">Home</a></li>
+    		
+    		
+    		<li><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/archive/index.php">Archive</a></li>
+    		
+    		
+    		
+    		<li><a href="/web/20100920001500/http://www.wonderfulwaterloo.com/tags.php?tag=kitchener+election#top" onclick="document.location.hash='top'; return false;">Top</a></li>
+    	</ul>
+    	
+    	
+    	
+    	
+    	<script type="text/javascript">
+    	<!--
+    		// Main vBulletin Javascript Initialization
+    		vBulletin_init();
+    	//-->
+    	</script>
+            
+    </div>
+    </div> <!-- closing div for body_wrapper -->
+    
+    <div class="below_body">
+    <div id="footer_time" class="shade footer_time">All times are GMT -4. The time now is <span class="time">08:14 PM</span>.</div>
+    
+    <div id="footer_copyright" class="shade footer_copyright">
+    	<!-- Do not remove this copyright notice -->
+    	Powered by <a href="/web/20100920001500/http://www.vbulletin.com/" id="vbulletinlink">vBulletin&trade;</a> Version 4.0.5 <br />Copyright &copy; 2010 vBulletin Solutions, Inc. All rights reserved. 
+    	<!-- Do not remove this copyright notice -->	
+    </div>
+    <div id="footer_morecopyright" class="shade footer_morecopyright">
+    	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    	
+    	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    	
+    </div>
+    
+    </div> 
+    
+    </body>
+    </html> 
+    
+    
+    
+    
+    <!--
+         FILE ARCHIVED ON 0:15:00 Sep 20, 2010 AND RETRIEVED FROM THE
+         INTERNET ARCHIVE ON 10:08:23 Aug 25, 2014.
+         JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+    
+         ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+         SECTION 108(a)(3)).
+    -->

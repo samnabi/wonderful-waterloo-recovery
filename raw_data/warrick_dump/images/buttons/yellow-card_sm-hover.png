@@ -1,0 +1,78 @@
+<html>
+<head><title>[ARCHIVED CONTENT]  404 Not Found
+</title></head>
+<body  style="width:993px; margin-left:100px; margin-top:110px!important;background-position:0px 73px!important;position:relative;">
+  <div id="webArchiveInfobox" style="display: block; min-width: 130%; margin-left:-100px; height: 110px; position: absolute; top: -110px; left: -100px; width:1400px; padding: 0px; margin: 0px; background-color: #CC0000; opacity: 1; overflow: hidden;">
+    <script type="text/javascript">
+      BANNER_TNA_VERSION="13/5/2014";
+      function enforceBanner() {
+        thebody = document.getElementsByTagName("body")[0];
+        if (thebody != null && thebody.style != null) {
+          //inject style to override body with id
+          thebody.style.backgroundPosition = "0px 73px";
+          thebody.style.position = "relative";
+          thebody.style.marginTop = "105px";
+          if (thebody.style.width.lastIndexOf("px") == -1)
+            thebody.style.width = "100%";
+        }
+      }
+      enforceBanner();
+    </script>
+
+    <div id="webArchiveLogo" style="display: block; width: 317px; height: 70px; float: left; margin: 15px 0px 5px 0px; background: url(/media/img/TNA_logo_white_201006.gif) no-repeat 2px 20px;">&nbsp;</div>
+
+    <!-- the text content -->
+    <div style="display: block; margin-top: 18px; height: auto; width: 915px; margin-left: 325px; margin-right:0px; color: white !important; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: 14px; text-align: left; color: white;">
+
+    <!-- fake p : snapshot info -->
+    <div style="display: inline; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight:normal; color: white; padding-bottom:5px;">This snapshot, taken on <div style="display: inline; width: auto; height: auto; position: auto; color: white; font-weight: bold;">18/06/2012</div>, shows web content acquired for preservation by The National Archives. External links, forms and search may not work in archived websites and contact details are likely to be out of date.</div>
+
+    <!-- fake link : Find out more -->
+    <div style="display: inline; cursor: pointer; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; color: white; font-size: 12px; line-height: 12px;" onclick="window.location.href = 'http://www.nationalarchives.gov.uk/webarchive/';">
+      <script type="text/javascript">
+        document.write('<div style="display: inline; width: auto; height: auto; position: auto;text-decoration:underline; color: white;" onmouseover="javascript:this.style.textDecoration=\'underline\';" onmouseout="javascript:this.style.textDecoration = \'underline\';">More about the UK Government Web Archive<img src="/media/img/arrow-white-small.gif" width="8" height="14" style="display:inline; border:0;  vertical-align: baseline; margin-left: 6px;" /></div>');
+      </script>
+      <noscript><a style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size:1em; font-weight: normal; text-decoration: underline; color: white;" onmouseout="javascript:this.style.textDecoration = \'underline\';" onmouseover="javascript:this.style.textDecoration = \'underline\';" href='http://www.nationalarchives.gov.uk/webarchive/'>More about the UK Government Web Archive<img src="/media/img/arrow-white-small.gif" width="8" height="14" style="display:inline; padding-top:2px; border:0;  vertical-align: baseline; margin-left: 6px;" /></a></noscript>
+    </div>
+
+    <div style="display: block; height:0; line-height:0">&nbsp;</div>
+
+    <!-- fake link : See all dates -->
+    <div style="display: inline; text-decoration: none; cursor: pointer; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; color: white; font-size: 12px; line-height: 20px;"  onclick="window.location.href = 'http://webarchive.nationalarchives.gov.uk/*/http://www.wonderfulwaterloo.com/images/buttons/yellow-card_sm-hover.png';">
+      <script type="text/javascript">
+        document.write('<div style="display: inline; width: auto; height: auto; position: auto; color: white; text-decoration:underline;" onmouseover="javascript:this.style.textDecoration=\'underline\';" onmouseout="javascript:this.style.textDecoration = \'underline\';">See all dates available for this archived website<div style="display: inline; width: auto; height: auto; position: auto;text-decoration: none;"><img src="/media/img/arrow-white-small.gif" width="8" height="14" style="display:inline; border:0;  vertical-align: baseline; margin-left: 4px;" /></div></div>');
+      </script>
+      <noscript><a href="http://webarchive.nationalarchives.gov.uk/*/http://www.wonderfulwaterloo.com/images/buttons/yellow-card_sm-hover.png" style="font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: underline;  font-weight: normal; color: white; font-size: 12px; line-height: 14px;">See all dates available for this archived website<div style="display: inline; width: auto; height: auto; position: auto; text-decoration: none;"><img src="/media/img/arrow-white-small.gif" width="8" height="14" style="display:inline; padding-top:2px; border:0;  vertical-align: baseline; margin-left: 4px;" /></div></a></noscript>
+    </div>
+
+    <div style="display: block; height: 0; line-height:0">&nbsp;</div>
+
+    <!-- fake p -->
+    <div style="display: inline; cursor: pointer; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; color: white; font-size: 12px; line-height: 15px;" >The UK Government Web Archive does not use cookies but some may be left in your browser from archived websites. </div>
+
+    <!-- fake link : cookies -->
+    <div style="display: inline; text-decoration: none; cursor: pointer; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; color: white; font-size: 12px; line-height: 20px;"  onclick="window.location.href = 'http://www.nationalarchives.gov.uk/legal/cookies.htm';">
+      <script type="text/javascript">
+        document.write('<div style="display: inline; width: auto; height: auto; position: auto; color: white; text-decoration:underline;" onmouseover="javascript:this.style.textDecoration=\'underline\';" onmouseout="javascript:this.style.textDecoration = \'underline\';">More about cookies<div style="display: inline; width: auto; height: auto; position: auto; text-decoration: none;"><img src="/media/img/arrow-white-small.gif" width="8" height="14" style="display:inline; border:0;  vertical-align: baseline; margin-left: 4px;" /></div></div>');
+      </script>
+      <noscript><a href="http://www.nationalarchives.gov.uk/legal/cookies.htm" style="font-size: 1em; font-weight: normal; text-decoration: underline; color: white;" onmouseover="javascript:this.style.textDecoration = \'underline\';" onmouseout="javascript:this.style.textDecoration = \'underline\';">More about cookies<div style="display: inline; width: auto; height: auto; position: auto; text-decoration: none;"><img src="/media/img/arrow-white-small.gif" width="8" height="14" style="display:inline; padding-top:2px; border:0;  vertical-align: baseline; margin-left: 4px;" /></div></a></noscript>
+    </div>
+    <!-- Sorry for any inconvenience -->
+    <!-- <div style="display: inline; margin-top:50px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; color: white; font-weight: bold; font-size: 12px; line-height: 15px;">Due to a maintenance operation, access to Web Archive collections might be partially affected. We apologise for any inconvenience this might cause.</div> -->
+    </div>
+  </div>
+  
+                    <!--[if IE]>
+                    <script>
+                    
+                 wa = document.getElementById('webArchiveInfobox');
+                 if (wa != null) {wa.style.top=0;}
+        
+                    </script>
+                    <![endif]-->
+        
+<h1> 404 Not Found
+</h1>
+The resource requested could not be found on this server!<hr />
+Powered By <a href='http://webarchive.nationalarchives.gov.uk/20120618192056/http://www.litespeedtech.com'>LiteSpeed Web Server</a><br />
+<font face="Verdana, Arial, Helvetica" size=-1>LiteSpeed Technologies is not responsible for administration and contents of this web site!</font></body></html>
