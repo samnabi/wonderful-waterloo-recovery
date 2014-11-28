@@ -1,44 +1,8 @@
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 26 Nov 2014 04:20:12 GMT
-Content-Type: text/html; charset=iso-8859-1
-Content-Length: 373
-Connection: keep-alive
-Location: http://www.mementoweb.org/timegate/http://www.wonderfulwaterloo.com:80/showthread.php/981-Top-Entrepreneurial-Cities-in-2010/page3?s=511dc2b3718b6021451a6c0d986fa8f9
-Set-Cookie: TS01450632=01e65cca598efeaf774ccb836697b8c1237cd8936a75bb1ff0d949421c2273d80da9e97d77; Path=/
-
-HTTP/1.1 302 Moved Temporarily
-Date: Wed, 26 Nov 2014 04:20:14 GMT
+HTTP/1.1 404 Not Found
+Date: Thu, 27 Nov 2014 12:59:28 GMT
+Server: grizzly/1.9.8
+Link: <http://www.wonderfulwaterloo.com/forumdisplay.php/static/css/banner-styles.css>;rel="original"
 Content-Type: text/plain; charset=iso-8859-1
 Content-Length: 0
-Connection: keep-alive
-Location: http://web.archive.org/web/20110316005117/http://www.wonderfulwaterloo.com/showthread.php/981-Top-Entrepreneurial-Cities-in-2010/page3?s=511dc2b3718b6021451a6c0d986fa8f9
-Vary: Accept-Datetime
-Link: <http://www.wonderfulwaterloo.com:80/showthread.php/981-Top-Entrepreneurial-Cities-in-2010/page3?s=511dc2b3718b6021451a6c0d986fa8f9>;rel="original" ,<http://web.archive.org/web/20110316005117/http://www.wonderfulwaterloo.com/showthread.php/981-Top-Entrepreneurial-Cities-in-2010/page3?s=511dc2b3718b6021451a6c0d986fa8f9>;rel="memento first last"; datetime="Wed, 16 Mar 2011 00:51:17 GMT",<http://mementoweb.org/timemap/link/1/http://www.wonderfulwaterloo.com:80/showthread.php/981-Top-Entrepreneurial-Cities-in-2010/page3?s=511dc2b3718b6021451a6c0d986fa8f9>;rel="timemap"; type="application/link-format",<http://mementoweb.org/timegate/http://www.wonderfulwaterloo.com:80/showthread.php/981-Top-Entrepreneurial-Cities-in-2010/page3?s=511dc2b3718b6021451a6c0d986fa8f9>;rel="timegate"
-Access-Control-Allow-Origin: *
-Set-Cookie: TS01450632=01e65cca59a7906dc721e96b8b329c8ee5e268b918c7d4591c525896205eea2a68f3e53075; Path=/
-
-HTTP/1.1 200 OK
-Server: Tengine/2.0.3
-Date: Wed, 26 Nov 2014 04:20:14 GMT
-Content-Type: text/html;charset=utf-8
-Content-Length: 58339
-Connection: keep-alive
-set-cookie: wayback_server=84; Domain=archive.org; Path=/; Expires=Fri, 26-Dec-14 04:20:14 GMT;
-Memento-Datetime: Wed, 16 Mar 2011 00:51:17 GMT
-Link: <http://www.wonderfulwaterloo.com/showthread.php/981-Top-Entrepreneurial-Cities-in-2010/page3?s=511dc2b3718b6021451a6c0d986fa8f9>; rel="original", <http://web.archive.org/web/timemap/link/http://www.wonderfulwaterloo.com/showthread.php/981-Top-Entrepreneurial-Cities-in-2010/page3?s=511dc2b3718b6021451a6c0d986fa8f9>; rel="timemap"; type="application/link-format", <http://web.archive.org/web/http://www.wonderfulwaterloo.com/showthread.php/981-Top-Entrepreneurial-Cities-in-2010/page3?s=511dc2b3718b6021451a6c0d986fa8f9>; rel="timegate", <http://web.archive.org/web/20110316005117/http://www.wonderfulwaterloo.com/showthread.php/981-Top-Entrepreneurial-Cities-in-2010/page3?s=511dc2b3718b6021451a6c0d986fa8f9>; rel="first last memento"; datetime="Wed, 16 Mar 2011 00:51:17 GMT"
-X-Archive-Guessed-Charset: windows-1252
-X-Archive-Orig-vary: Accept-Encoding,User-Agent
-X-Archive-Orig-cache-control: private, max-age=1
-X-Archive-Orig-content-type: text/html; charset=ISO-8859-1
-X-Archive-Orig-server: Apache/2.2.17 (Unix) mod_ssl/2.2.17 OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4 PHP/5.3.4
-X-Archive-Orig-content-length: 49210
-X-Archive-Orig-pragma: private
-X-Archive-Orig-expires: Wed, 16 Mar 2011 00:51:17 GMT
-X-Archive-Orig-x-powered-by: PHP/5.3.4
-X-Archive-Orig-set-cookie: bb_lastactivity=0; expires=Thu, 15-Mar-2012 00:51:16 GMT; path=/
-X-Archive-Orig-date: Wed, 16 Mar 2011 00:51:16 GMT
-X-Archive-Orig-connection: close
-X-Archive-Wayback-Perf: {"IndexLoad":44,"IndexQueryTotal":44,"RobotsFetchTotal":3,"RobotsRedis":3,"RobotsTotal":3,"Total":161,"WArcResource":115}
-X-Archive-Playback: 1
-X-Page-Cache: MISS
+Connection: close
 
