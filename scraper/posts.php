@@ -1,8 +1,11 @@
 <?php
 // Scrape posts/threads, and convert it to JSON
 
+// Override default time limit to one hour
+set_time_limit(3600);
+
 // include Simple HTML DOM library
-include_once('../vendor/simple_html_dom.php');
+include_once('simple_html_dom.php');
 
 // Initialize the forums, threads, and posts arrays. These are the main structural divisions.
 $forums = array();
