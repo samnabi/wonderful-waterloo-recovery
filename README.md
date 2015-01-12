@@ -1,9 +1,21 @@
 WonderfulWaterloo.com data recovery
 ===========================
 
-WonderfulWaterloo.com, a thriving, vibrant community for urban issues in Waterloo Region, has been taken offline. Its future is uncertain. But archived copies of its content are scattered around the web. Hopefully we can rebuild some of what was lost.
+WonderfulWaterloo.com, a thriving, vibrant community for urban issues in Waterloo Region, has been taken offline. It contained a huge amount of discussion and context that offers important historical context during a period of transformational change for the Region of Waterloo. It's a shame that it disappeared so abruptly. But archived copies of its content are scattered around the web, and hopefully we can rebuild some of what was lost.
 
-How can I help?
+So far, 5955 individual posts across 126 threads have been recovered from the forums, along with 471 images.
+
+Contents of this repo
+=========================
+
+- **raw_data**
+	- **warrick_dump** — the unadulterated recovered content. Keep these files untouched so they can serve as a messy blob of source material.
+	- **subset_posts** — a subset of the *warrick_dump* files that only includes HTML files of forum posts
+	- **subset_images** — a subset of the *warrick_dump* files that only includes images (minus GUI images)
+- **scraper** — a script that turns the content of *subset_posts* into a nicely formatted single JSON file
+- **json** — contains the output from the *scraper* script
+
+How can I help recover archived material?
 ===============
 
 **Upload pages/images from your local cache**. If you visited WonderfulWaterloo.com recently before it was taken offline, you may have local copies of those pages saved in your browser's cache. Use one of the methods below to save *anything you can* related to `wonderfulwaterloo.com`. Even if it seems irrelevant, don't delete it.
@@ -17,6 +29,4 @@ How can I help?
 
 **Use Warrick to scrape various web archives**. [Warrick](https://code.google.com/p/warrick/wiki/About_Warrick) is a command-line Perl utility for recovering websites from your local cache, archive.org, Google cache, Bing cache, et al. I have already used this tool with some success, but multiple attempts by different machines may deliver more results.
 
-> Please submit a pull request for any data you recover with Warrick. There will be a lot of duplicates, but we can cross that bridge when we get there. No need to filter stuff out on your end.
-
-**Clean up and sort this mess of data**. I haven't come up with a solution to this part of the process yet. I'd like to have forum posts accessible as JSON objects or plain text files that are easily readable by machines. Any other suggestions? We're not at this stage yet.
+Please submit a pull request for any data you manage to recover with Warrick. No need to filter anything out, we want as complete a record as possible even if some content seems irrelevant.
