@@ -1,797 +1,797 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-  <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" id="vbulletin_html">
-  <head>
-  
-  <script type="text/javascript" src="/static/js/analytics.js" ></script>
-  <link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
-  
-  
-  
-  
-  	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-  <meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.wonderfulwaterloo.com" />
-    <meta name="generator" content="vBulletin 4.0.1" />
-  
-  
-  
-  
-  
-  <script type="text/javascript" src="/web/20100203145002js_/http://www.wonderfulwaterloo.com/clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=401"></script>
-  <script type="text/javascript" src="/web/20100203145002js_/http://www.wonderfulwaterloo.com/clientscript/yui/connection/connection-min.js?v=401"></script>
-  <script type="text/javascript">
-  <!--
-  	var SESSIONURL = "";
-  	var SECURITYTOKEN = "guest";
-  	var IMGDIR_MISC = "images/misc";
-  	var IMGDIR_BUTTON = "images/buttons";
-  	var vb_disable_ajax = parseInt("0", 10);
-  	var SIMPLEVERSION = "401";
-  	var BBURL = "/web/20100203145002/http://www.wonderfulwaterloo.com";
-  // -->
-  </script>
-  <script type="text/javascript" src="/web/20100203145002js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin-core.js?v=401"></script>
-  
-  
-  
-  	<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2" />
-  	
-  		<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo - Transportation and Infrastructure - RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2&amp;forumids=14" />
-  	
-  
-  
-  
-  	<link rel="stylesheet" type="text/css" href="/web/20100203145002cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1264156300&amp;td=ltr&amp;sheet=bbcode.css,editor.css,popupmenu.css,reset-fonts.css,vbulletin.css,vbulletin-chrome.css,vbulletin-formcontrols.css" />
-  
-  
-  
-   
-  	<meta name="keywords" content="cycling,regional,region,2004,waterloo,report,http://chd.region.waterloo.on.ca/web/region.nsf/0/bba9f35e6e019ada8525760f0055ac05/$file/cycling_master_plan_2004.pdf?openelement,staff,http://www.region.waterloo.on.ca/web/region.nsf/0/bba9f35e6e019ada8525760f0055ac05/$file/cmpp04127.pdf?openelement,update,http://www.region.waterloo.on.ca/web/region.nsf/0/bba9f35e6e019ada8525760f0055ac05/$file/map4.pdf?openelement,november,council,plan,agendas,committee,advisory,http://www.bj08.asia/images/sports/cyc_road_cycling.png,minutes,site,master,http://region.waterloo.on.ca/web/region.nsf/afedf1d73f0791a185256af00073fa7c/d13090671ea5d6fc85256b05005a49a8opendocument,http://www.region.waterloo.on.ca/web/region.nsf/0/bba9f35e6e019ada8525760f0055ac05?opendocument" />
-  	<meta name="description" content="Cycling in Waterloo Region  
-   
-  http://www.bj08.asia/images/sports/cyc_road_cycling.png 
-  http://www.bj08.asia/images/sports/cyc_road_cycling.png 
-   
-  Regional Cycling Advisory Committee Agendas and Minutes: http://region.waterloo.on.ca/web/region.nsf/afedf1d73f0791a185256af00073fa7c/d13090671ea5d6fc85256b05005a49a8!OpenDocument 
-   
-  Regional Cycling Master Plan Site: http://www.region.waterloo.on.ca/web/Region.nsf/0/bba9f35e6e019ada8525760f0055ac05?OpenDocument 
-  2004 PDF:" />
-  
-  	<title> Cycling in Waterloo Region</title>
-  
-  	
-  	<script type="text/javascript" src="/web/20100203145002js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_textedit.js?v=401"></script>
-  	<script type="text/javascript" src="/web/20100203145002js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_post_loader.js?v=401"></script>
-  	
-  	
-  	
-  	
-  	
-  	
-  
-  	
-  			<link rel="stylesheet" type="text/css" href="/web/20100203145002cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1264156300&amp;td=ltr&amp;sheet=postlist.css,showthread.css,postbit.css,attachment.css,poll.css,lightbox.css" />
-  	
-  
-  <link rel="stylesheet" type="text/css" href="/web/20100203145002cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1264156300&amp;td=ltr&amp;sheet=additional.css" />
-   
-  </head>
-  
-  <body>
-  
-  
-  
-  <div class="above_body"> <!-- closing tag is in template navbar -->
-  <div id="header" class="floatcontainer doc_header">
-  	 
-  	<div><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/" class="logo-image"><img src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/v1/logo.gif" alt="" /></a></div> 
-  	<div id="toplinks" class="toplinks">
-  		
-  			<ul class="nouser">
-  			
-  				<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/register.php" rel="nofollow">Register</a></li>
-  						
-  				<li><a rel="help" href="/web/20100203145002/http://www.wonderfulwaterloo.com/faq.php">Help</a></li>
-  				<li>
-  			<script type="text/javascript" src="/web/20100203145002js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_md5.js?v=401"></script>
-  			<form action="/web/20100203145002/http://www.wonderfulwaterloo.com/login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
-  				<fieldset id="logindetails" class="logindetails">
-  					<div>
-  						<div>
-  					<input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" onfocus="if (this.value == 'User Name'){this.value=''; this.style.color='black';}" onblur="if (this.value == '') {this.value='User Name'; this.style.color='#828282';}"/>
-  					<input type="password" class="textbox default-value" tabindex="102" name="vb_login_password" id="navbar_password" size="10" onfocus="this.style.color='black';" />
-  					<input type="submit" class="loginbutton" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s" />
-  						</div>
-  					</div>
-  				</fieldset>
-  				<div id="remember" class="remember">
-  					<label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" /> Remember Me?</label>
-  				</div>
-  			
-  				<input type="hidden" name="s" value="" />
-  				<input type="hidden" name="securitytoken" value="guest" />
-  				<input type="hidden" name="do" value="login" />
-  				<input type="hidden" name="vb_login_md5password" />
-  				<input type="hidden" name="vb_login_md5password_utf" />
-  			</form>	
-  				</li>
-  			</ul>
-  		
-  	</div>
-  	<div class="ad_global_header">
-  		 
-  		 
-  	</div>
-  	<hr />
-  	 
-  </div> 
-  <div id="navbar" class="navbar">
-  
-  	<ul id="navtabs" class="navtabs floatcontainer">
-  		
-  	<li><a class="navtab" href="/web/20100203145002/http://www.wonderfulwaterloo.com/content.php">Home</a></li>
-   <li><a class="navtab" href="/web/20100203145002/http://www.wonderfulwaterloo.com/calendar.php" target="_self">Calendar</a></li>
-  
-   <li><a class="navtab" href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php/206-Maps" target="_self">Maps (U/C)</a></li>
-  
-   
-  		
-  			<li class="selected"><a class="navtab" href="/web/20100203145002/http://www.wonderfulwaterloo.com/forum.php">Forum</a>
-  				<ul class="floatcontainer">
-  					
-  					
-  						
-  						<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/search.php?do=getdaily&amp;contenttype=vBForum_Post">Today's Posts</a></li>
-  						
-  					
-  					
-  					
-  					
-  					<li><a rel="help" href="/web/20100203145002/http://www.wonderfulwaterloo.com/faq.php">FAQ</a></li>
-  					
-  					<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/calendar.php">Calendar</a></li>
-  					
-  
-  					<li class="popupmenu">
-  						<a href="javascript://" class="popupctrl">Community</a>
-  						<ul class="popupbody popuphover">
-  							
-  							
-  							
-  							
-  							
-  								<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/memberlist.php">Member List</a></li>
-  							
-  							
-  						</ul>
-  					</li>
-  					
-  					<li class="popupmenu">
-  						<a href="javascript://" class="popupctrl">Forum Actions</a>
-  						<ul class="popupbody popuphover">
-  							<li>
-  								<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php?do=markread">Mark Forums Read</a>
-  							</li>
-                                                          
-  						</ul>
-  					</li>
-  					<li class="popupmenu">
-  						<a href="javascript://" class="popupctrl">Quick Links</a>
-  						<ul class="popupbody popuphover">
-  							
-  							
-  							<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showgroups.php" rel="nofollow">
-  		
-  			View Site Leaders
-  		
-  	</a></li>
-  							
-  							
-  							
-  							
-  							
-  							
-  						</ul>
-  					</li>
-  					
-  				</ul>
-  
-  			</li>
-  		
-  		
-  		
-  			<li><a class="navtab" href="/web/20100203145002/http://www.wonderfulwaterloo.com/search.php?do=getdaily&amp;contenttype=vBForum_Post">What's New?</a></li>
-  		
-  		
-  	</ul>
-  
-  	
-  	<div id="globalsearch" class="globalsearch">
-  		<form action="/web/20100203145002/http://www.wonderfulwaterloo.com/search.php?do=process" method="post" id="navbar_search" class="navbar_search">
-  			<input type="hidden" name="s" value="" />
-  			<input type="hidden" name="securitytoken" value="guest" />
-  			<input type="hidden" name="do" value="process" />
-  			<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
-  			<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
-  		</form>
-  		<ul class="navbar_advanced_search">
-  			<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/search.php">Advanced Search</a></li>
-  		</ul>
-  	</div>
-  	
-  </div>
-  </div><!-- closing div for above_body -->
-  
-  <div class="body_wrapper">
-  <div id="breadcrumb" class="breadcrumb">
-  	<ul class="floatcontainer">
-  		<li class="navbithome"><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/index.php" ><img src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/misc/navbit-home.png" alt="Home" /></a></li>
-  
-  		
-  	<li class="navbit"><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forum.php">Forum</a></li>
-   
-  	<li class="navbit"><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/11-Regional-Economy-and-Politics">Regional Economy and Politics</a></li>
-   
-  	<li class="navbit"><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/14-Transportation-and-Infrastructure">Transportation and Infrastructure</a></li>
-   
-  		
-  	<li class="navbit lastnavbit"><span> Cycling in Waterloo Region</span></li>
-   
-  	</ul>
-  	<hr />
-  </div>
-  
-   
-   
-  
-  
-  	<form action="/web/20100203145002/http://www.wonderfulwaterloo.com/profile.php?do=dismissnotice" method="post" id="notices" class="notices">
-  		<input type="hidden" name="do" value="dismissnotice" />
-  		<input type="hidden" name="s" value="" />
-  		<input type="hidden" name="securitytoken" value="guest" />
-  		<input type="hidden" id="dismiss_notice_hidden" name="dismiss_noticeid" value="" />
-  		<input type="hidden" name="url" value="" />
-  		<ol>
-  			<li class="restore" id="navbar_notice_1">
-  	
-  	If this is your first visit, be sure to
-  		check out the <a href="/web/20100203145002/http://www.wonderfulwaterloo.com/faq.php" target="_blank"><b>FAQ</b></a> by clicking the
-  		link above. You may have to <a href="/web/20100203145002/http://www.wonderfulwaterloo.com/register.php" target="_blank"><b>register</b></a>
-  		before you can post: click the register link above to proceed. To start viewing messages,
-  		select the forum that you want to visit from the selection below.
-  </li> 
-  		</ol>
-  	</form>
-   
-  
-  
-  
-  	<div id="above_postlist" class="above_postlist">
-  		
-  
-  		<div id="pagination_top" class="pagination_top">
-  		
-  			<div id="postpagestats_above" class="postpagestats">
-  				Results 1 to 5 of 5
-  			</div>
-  		</div>
-  	</div>
-  <div id="pagetitle" class="pagetitle">
-  	<h1>Thread: <span class="threadtitle"><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php/65-Cycling-in-Waterloo-Region" title="Reload this Page">Cycling in Waterloo Region</a></span></h1>
-  </div>
-  	<div id="thread_controls" class="thread_controls">
-  		<div>
-  		<ul id="postlist_popups" class="postlist_popups popupgroup">
-  			
-  			<li class="popupmenu nohovermenu" id="threadtools">
-  				<h6><a class="popupctrl" href="javascript://">Thread Tools</a></h6>
-  				<ul class="popupbody popuphover">
-  					<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/printthread.php?t=65&amp;pp=10&amp;page=1" accesskey="3" 
-  						rel="nofollow">Show Printable Version</a></li>
-  					<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/sendmessage.php?do=sendtofriend&amp;t=65"
-  						rel="nofollow">Email this Page&hellip;</a></li>
-  					<li>
-  						
-  							<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/subscription.php?do=addsubscription&amp;t=65" 
-  								rel="nofollow">Subscribe to this Thread&hellip;</a>
-  											
-  					</li>
-  					
-  				</ul>
-  			</li>
-  
-  			
-  
-  			
-  
-  			
-  
-  			
-  				<li class="popupmenu" id="displaymodes">
-  					<h6><a class="popupctrl" href="javascript://">Display</a></h6>
-  					<ul class="popupbody popuphover">
-  						<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php/65-Cycling-in-Waterloo-Region?p=286&amp;mode=linear#post286"> Switch to Linear Mode</a></label></li>
-  						<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php/65-Cycling-in-Waterloo-Region?mode=hybrid"> Switch to Hybrid Mode</a></li>
-  						<li><label>Threaded Mode</label></li>
-  					</ul>
-  				</li>
-  			
-  
-  			
-  		</ul>
-  		</div>
-  	</div>
-  
-  <div id="postlist" class="postlist restrain">
-  	
-  		<script type="text/javascript">
-  <!--
-  var imgdir_statusicon = "images/statusicon";
-  var imgdir_misc = "images/misc";
-  var cleargifurl = "clear.gif";
-  var guestphrase = "Guest";
-  var morephrase = "More replies below current depth...";
-  var highlightwords = "";
-  //-->
-  </script>
-  
-  <script type="text/javascript" src="/web/20100203145002js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_thrdpostlist.js?v=401"></script>
-  
-  <script type="text/javascript">
-  <!--
-  // initialize some variables
-  var curpostid = 286;
-  var quickreply = false;
-  
-  // cached posts (no page reload required to view)
-  pd[286] = '<li class="postbit postbitim postcontainer" id="post_286">\r\n	<div class="postdetails_noavatar">\r\n		<div class="posthead">\r\n			<label for="post_imod_checkbox_286">\r\n			<span class="postdate old">\r\n			\r\n			<span class="date">01-03-2010&nbsp;<span class="time">02:09 AM</span></span>\r\n			\r\n			</span>\r\n			<span class="nodecontrols">\r\n				<span class="postcontrols_top">\r\n					\r\n						<a name="post286"></a>\r\n						<a href="showthread.php/65-Cycling-in-Waterloo-Region?p=286#post286" class="postcounter" id="postcount286" title="1">#1</a>\r\n					\r\n					\r\n				</span>\r\n			</span>\r\n			</label>\r\n		</div>\r\n\r\n		<div class="userinfo">\r\n			<div class="contact">\r\n				\r\n					<a class="postuseravatarlink" href="member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">\r\n						\r\n							<img src="image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo\'s Avatar" />\r\n						\r\n					</a>\r\n				\r\n				<div class="username_container">\r\n					\r\n						<div class="popupmenu memberaction">\r\n	<a class="username offline popupctrl" href="member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>\r\n	<ul class="popupbody popuphover memberaction_body">\r\n		<li class="left">\r\n			<a href="member.php/2-UrbanWaterloo">\r\n				<img src="images/site_icons/profile.png" alt="" />\r\n				View Profile\r\n			</a>\r\n		</li>\r\n		\r\n		<li class="right">\r\n			<a href="search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel=\'nofollow\'>\r\n				<img src="images/site_icons/forum.png" alt="" />\r\n				View Forum Posts\r\n			</a>\r\n		</li>\r\n		\r\n		\r\n		<li class="left">\r\n			<a href="private.php?do=newpm&amp;u=2" rel=\'nofollow\'>\r\n				<img src="images/site_icons/message.png" alt="" />\r\n				Private Message\r\n			</a>\r\n		</li>\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		<li class="right">\r\n			<a href="list.php/author/2-UrbanWaterloo" rel=\'nofollow\'>\r\n				<img src="images/site_icons/article.png" alt="" />\r\n				View Articles\r\n			</a>\r\n		</li>\r\n		\r\n\r\n		\r\n\r\n		\r\n		\r\n	</ul>\r\n</div>\r\n \r\n						<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />\r\n\r\n \r\n					\r\n					<span class="usertitle">\r\n						Senior Moderator\r\n					</span>\r\n					\r\n\r\n                                        \r\n					\r\n					\r\n						<div class="imlinks">\r\n							    \r\n						</div>\r\n					\r\n				</div>\r\n			</div>\r\n			\r\n				<div class="userinfo_extra">\r\n					<dl class="userstats">\r\n						<dt>Join Date</dt> <dd>Dec 2009</dd>\r\n						<dt>Location</dt> <dd>Kitchener-Waterloo</dd>\r\n						\r\n						<dt>Posts</dt> <dd>454</dd>	\r\n						\r\n					</dl>\r\n					\r\n					\r\n				</div>\r\n			\r\n		</div>\r\n	</div>\r\n\r\n	<div class="postbody">\r\n		\r\n		<div class="postrow">\r\n		\r\n		<h2 class="posttitle icon icon0">\r\n			Cycling in Waterloo Region\r\n		</h2>\r\n		\r\n				\r\n				\r\n		<div class="content<!-' + '-' + '-' + '->">\r\n			<div id="post_message_286">\r\n				<blockquote class="postcontent restore">\r\n					<div align="center"><b><font size="4"><font color="green">Cycling in Waterloo Region </font></font></b><br />\r\n<br />\r\n<img src="/web/20100203145002/http://www.bj08.asia/images/sports/cyc_road_cycling.png" border="0" alt="" /><br />\r\n<a href="/web/20100203145002/http://www.bj08.asia/images/sports/cyc_road_cycling.png" target="_blank">/web/20100203145002/http://www.bj08.asia/images/sports/cyc_road_cycling.png</a></div><br />\r\n<b>Regional Cycling Advisory Committee Agendas and Minutes:</b> <a href="/web/20100203145002/http://region.waterloo.on.ca/web/region.nsf/afedf1d73f0791a185256af00073fa7c/d13090671ea5d6fc85256b05005a49a8!OpenDocument" target="_blank">/web/20100203145002/http://region.waterloo.on.ca/web/reg...8!OpenDocument</a><br />\r\n<br />\r\n<b>Regional Cycling Master Plan Site:</b> <a href="/web/20100203145002/http://www.region.waterloo.on.ca/web/Region.nsf/0/bba9f35e6e019ada8525760f0055ac05?OpenDocument" target="_blank">/web/20100203145002/http://www.region.waterloo.on.ca/web...5?OpenDocument</a><br />\r\n2004 PDF: /web/20100203145002/http://chd.region.waterloo.on.ca/web/Region.nsf/0/BBA9F35E6E019ADA8525760F0055AC05/$file/CYCLING_MASTER_PLAN_2004.pdf?OpenElement<br />\r\nStaff Report To Regional Council November 2004: /web/20100203145002/http://www.region.waterloo.on.ca/web/Region.nsf/0/BBA9F35E6E019ADA8525760F0055AC05/$file/CMPP04127.pdf?OpenElement<br />\r\nMap Update: /web/20100203145002/http://www.region.waterloo.on.ca/web/Region.nsf/0/BBA9F35E6E019ADA8525760F0055AC05/$file/Map4.pdf?OpenElement\r\n				</blockquote>\r\n			</div>\r\n\r\n			\r\n\r\n\r\n		</div>\r\n			\r\n			<!-' + '- edit note -' + '->\r\n			<blockquote class="postcontent lastedited">\r\n<!-' + '-						<img src="images/buttons/edit_40b.png" alt="" /> -' + '->\r\n				\r\n					Last edited by UrbanWaterloo; 01-03-2010 at <span class="time">02:18 AM</span>.\r\n				\r\n				\r\n			</blockquote>\r\n			<!-' + '- / edit note -' + '->\r\n			\r\n\r\n                        	\r\n		        \r\n			\r\n			<blockquote class="signature restore"><div class="signaturecontainer"><a href="showthread.php?t=116" rel="nofollow" title="Wonderful Waterloo - Thread 116"><font color="Green"><font size="2"><b>Canadian Monopoly - Vote for Kitchener &amp; Nominate our Other Municipalities </b></font></font></a></div></blockquote>\r\n			\r\n\r\n			\r\n		</div>\r\n	</div>\r\n	<div class="postfoot">\r\n		<div class="textcontrols">\r\n			<span class="postcontrols">\r\n				<img style="display:none" id="progress_286" src="images/misc/progress.gif"  alt="" />\r\n				\r\n\r\n				\r\n				\r\n					<a id="qrwq_286" class="newreply" href="newreply.php?do=newreply&amp;p=286" rel="nofollow" ><img id="quoteimg_286" src="images/buttons/trans_40b.png" alt="Reply With Quote" /> Reply With Quote</a>\r\n					<span class="seperator">&nbsp;</span>\r\n				\r\n				\r\n			</span>\r\n\r\n			<span class="postlinking">\r\n				\r\n					\r\n				\r\n				\r\n\r\n				 \r\n				\r\n\r\n					\r\n\r\n					\r\n					 \r\n\r\n					\r\n					\r\n					\r\n					\r\n			</span>\r\n		</div>\r\n	</div>\r\n	<hr />\r\n</li>\r\n  ';
-  pd[287] = '<li class="postbit postbitim postcontainer" id="post_287">\r\n	<div class="postdetails_noavatar">\r\n		<div class="posthead">\r\n			<label for="post_imod_checkbox_287">\r\n			<span class="postdate old">\r\n			\r\n			<span class="date">01-03-2010&nbsp;<span class="time">02:09 AM</span></span>\r\n			\r\n			</span>\r\n			<span class="nodecontrols">\r\n				<span class="postcontrols_top">\r\n					\r\n						<a name="post287"></a>\r\n						<a href="showthread.php/65-Cycling-in-Waterloo-Region?p=287#post287" class="postcounter" id="postcount287" title="2">#2</a>\r\n					\r\n					\r\n				</span>\r\n			</span>\r\n			</label>\r\n		</div>\r\n\r\n		<div class="userinfo">\r\n			<div class="contact">\r\n				\r\n					<a class="postuseravatarlink" href="member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">\r\n						\r\n							<img src="image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo\'s Avatar" />\r\n						\r\n					</a>\r\n				\r\n				<div class="username_container">\r\n					\r\n						<div class="popupmenu memberaction">\r\n	<a class="username offline popupctrl" href="member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>\r\n	<ul class="popupbody popuphover memberaction_body">\r\n		<li class="left">\r\n			<a href="member.php/2-UrbanWaterloo">\r\n				<img src="images/site_icons/profile.png" alt="" />\r\n				View Profile\r\n			</a>\r\n		</li>\r\n		\r\n		<li class="right">\r\n			<a href="search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel=\'nofollow\'>\r\n				<img src="images/site_icons/forum.png" alt="" />\r\n				View Forum Posts\r\n			</a>\r\n		</li>\r\n		\r\n		\r\n		<li class="left">\r\n			<a href="private.php?do=newpm&amp;u=2" rel=\'nofollow\'>\r\n				<img src="images/site_icons/message.png" alt="" />\r\n				Private Message\r\n			</a>\r\n		</li>\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		<li class="right">\r\n			<a href="list.php/author/2-UrbanWaterloo" rel=\'nofollow\'>\r\n				<img src="images/site_icons/article.png" alt="" />\r\n				View Articles\r\n			</a>\r\n		</li>\r\n		\r\n\r\n		\r\n\r\n		\r\n		\r\n	</ul>\r\n</div>\r\n \r\n						<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />\r\n\r\n \r\n					\r\n					<span class="usertitle">\r\n						Senior Moderator\r\n					</span>\r\n					\r\n\r\n                                        \r\n					\r\n					\r\n						<div class="imlinks">\r\n							    \r\n						</div>\r\n					\r\n				</div>\r\n			</div>\r\n			\r\n				<div class="userinfo_extra">\r\n					<dl class="userstats">\r\n						<dt>Join Date</dt> <dd>Dec 2009</dd>\r\n						<dt>Location</dt> <dd>Kitchener-Waterloo</dd>\r\n						\r\n						<dt>Posts</dt> <dd>454</dd>	\r\n						\r\n					</dl>\r\n					\r\n					\r\n				</div>\r\n			\r\n		</div>\r\n	</div>\r\n\r\n	<div class="postbody">\r\n		\r\n		<div class="postrow">\r\n		\r\n		<h2 class="posttitle icon icon0">\r\n			\r\n		</h2>\r\n		\r\n				\r\n				\r\n		<div class="content<!-' + '-' + '-' + '->">\r\n			<div id="post_message_287">\r\n				<blockquote class="postcontent restore">\r\n					<b><u><font size="4"><font color="Blue">A chance to ride with Lance</font></font></u></b><br />\r\nApril 24, 2008 <br />\r\nJohanna Weidner, RECORD STAFF<br />\r\nWATERLOO REGION<br />\r\n<br />\r\n<img src="/web/20100203145002/http://media.therecord.com/images/3a/0f/313084014338a2310a0e3e05f16d.jpeg" border="0" alt="" /><br />\r\nLance Armstrong, shown during the 2005 Tour de France, will be biking with Jim Balsillie and 50 other cyclists who can each raise $25,000 for cancer centres.<br />\r\n<br />\r\n<br />\r\n<b><font color="Red">RIM billionaire Jim Balsillie and cycling star Lance Armstrong will team up for a local bicycle tour to raise money for cancer treatment.</font></b><br />\r\n<br />\r\nA select few will take to the backroads of Waterloo Region with Armstrong in the Ride with Lance fundraiser on <font color="red"><b>June 14</b></font>.<br />\r\n<br />\r\n<b><font color="red">Money raised will go to the Grand River Regional Cancer Centre and the Odette Cancer Centre at Sunnybrook hospital in Toronto.</font></b><br />\r\n<br />\r\nBalsillie, co-chief executive officer of Research In Motion, is a driving force behind the event. Armstrong is a seven-time Tour de France winner and a cancer survivor.<br />\r\n<br />\r\nRiders who want to join the pack will need to raise at least $25,000, including a $1,500 registration fee. Only 50 people can join.<br />\r\n<br />\r\n<b><font color="red">The route is being designed by Canadian cycling legend Steve Bauer. </font></b>The Olympic silver medallist and Tour de France competitor cycled with Balsillie and Armstrong at a Lake Louise cancer fundraiser in June.<br />\r\n<br />\r\n<font color="red"><b>The route will cover about 100 kilometres over country roads around Waterloo Region and take between three and four hours.</b></font><br />\r\n<br />\r\n&quot;It will be rural, rolling terrain,&quot; said Bauer, who owns a St. Catharines company that organizes bike tours around the world.<br />\r\n<br />\r\nThe route will begin and end in the Kitchener area but is not yet finalized.<br />\r\n<br />\r\n&quot;I\'m sure we\'ll get a great route together,&quot; Bauer said. &quot;There\'s so many great roads around there.&quot;<br />\r\n<br />\r\nThe hefty fundraising requirements comes with some perks. Rid<font color="red">ers will enjoy a reception with Armstrong the night before the ride and brunch before they head out Saturday morning. Every rider, decked out in a team jersey and shorts, gets a chance to pedal at the front of the pack next to Armstrong.<br />\r\n<br />\r\nAt a post-ride dinner, the top five fundraisers will dine at Armstrong\'s table.</font><br />\r\n<br />\r\n<br />\r\n<b><u><font size="4"><font color="Blue">Website set up to promote Lance Armstrong fundraiser</font></font></u></b><br />\r\nApril 26, 2008 <br />\r\nRecord staff<br />\r\nWATERLOO REGION<br />\r\n<a href="/web/20100203145002/http://news.therecord.com/article/342148" target="_blank">/web/20100203145002/http://news.therecord.com/article/342148</a><br />\r\n<br />\r\nLearn more about the Ride with Lance on the fundraiser\'s website at <a href="/web/20100203145002/http://www.ridewithlance.ca" target="_blank">www.ridewithlance.ca</a>. On June 14, Lance Armstrong will cycle with an exclusive group of riders on the region\'s rural roads to raise money for cancer treatment. Riders need to raise at least $25,000, including a registration fee of $1,500. Only 50 people can register. The event will benefit the Grand River Regional Cancer Centre and the Odette Cancer Centre at Sunnybrook hospital in Toronto.<br />\r\n<br />\r\n<b><u><font size="4"><font color="Blue">Armstrong, Liggett take a ride</font></font></u></b><br />\r\nJune 10, 2008 <br />\r\nRecord staff, news services<br />\r\nWATERLOO REGION<br />\r\n<a href="/web/20100203145002/http://news.therecord.com/article/364432" target="_blank">/web/20100203145002/http://news.therecord.com/article/364432</a><br />\r\n<br />\r\nOne of the biggest names in cycle sports reporting will be joining one of the biggest names in professional cycling for a 100-kilometre ride in our area on Saturday. Phil Liggett, cycling journalist and longtime commentator of the Tour de France, will join a pack of 40 cyclists led by seven-time Tour de France champion Lance Armstrong through the hills of Waterloo Region. The event is the Ride With Lance, an eastern Canadian version of the annual western Canadian event that raises money for Alberta cancer facilities. For this event, each rider has to raise $25,000 to participate, for a total of $1 million, to be split between Grand River Hospital\'s Regional Cancer Centre and the Odette Cancer Centre at Toronto\'s Sunnybrook Hospital. For more on this event, visit Bill Bean\'s Take the Lane blog at <a href="/web/20100203145002/http://therecord" target="_blank">/web/20100203145002/http://therecord</a>. blogs.com/take_the_lane/<br />\r\n<br />\r\n<br />\r\n<b><u><font size="4"><font color="blue">Dinner with Armstrong spurs fundraising race</font></font></u></b><br />\r\nJune 11, 2008 <br />\r\nJohanna Weidner, RECORD STAFF<br />\r\nWATERLOO REGION<br />\r\n<a href="/web/20100203145002/http://news.therecord.com/article/365073" target="_blank">/web/20100203145002/http://news.therecord.com/article/365073</a><br />\r\n<br />\r\n<img src="/web/20100203145002/http://media.therecord.com/images/e1/04/bffc020c41ff94da4fd883c8c967.jpeg" border="0" alt="" /><br />\r\nCyclist Lance Armstrong, pictured during training in 2005, will be in Waterloo Region this weekend for a fundraising ride for cancer research.<br />\r\n<br />\r\nCycling star Lance Armstrong rolls into Waterloo Region this Saturday to raise money for cancer research.<br />\r\n<br />\r\nArmstrong will be cycling the back roads with a select group of riders, who each raised at least $25,000 for the Ride with Lance fundraiser. Thirty-seven people, including 11 local riders, were registered by Monday. Jim Balsillie, Research In Motion\'s co-chief executive officer, is one of the top five fundraisers, with about $35,000 in pledges.<br />\r\n<br />\r\nBalsillie helped organize the event to benefit the Grand River Regional Cancer Centre and the Odette Cancer Centre at Sunnybrook hospital in Toronto. The fundraiser was started by the Toronto hospital, and Grand River joined when Balsillie got on board and helped recruit Armstrong, said Nancy Hewat, executive director of the Grand River Hospital Foundation.<br />\r\n<br />\r\nBalsillie cycled with Armstrong, a seven-time Tour de France winner and cancer survivor, at a Lake Louise cancer fundraiser last June.<br />\r\n<br />\r\n&quot;He\'s the catalyst to getting us involved,&quot; Hewat said.<br />\r\n<br />\r\nIt hasn\'t been decided how the money will be split between the cancer centres, she said. Local donors can direct their money to the Kitchener hospital.<br />\r\n<br />\r\nOn Friday night, Armstrong will speak to the riders briefly at a reception in Toronto. Each rider gets a chance to pedal side-by-side with Armstrong. The top five fundraisers get to sit with Armstrong at the dinner Saturday night. In the running for a spot at Armstrong\'s table is Ian Cook, president of Waterloo-based Cook Homes.<br />\r\n<br />\r\n&quot;It\'s one thing to be able to ride with Lance. It\'s another to be able to sit down with him,&quot; said Cook, who has raised more than $35,000.<br />\r\n<br />\r\nEven before the 100-kilometre ride begins, the race is underway to raise the most money. &quot;There\'s some competitive juices flowing,&quot; said Cook, 47.<br />\r\n<br />\r\nHe signed up for the event as soon as he read about it. &quot;I pinch myself to think how lucky I am.&quot;<br />\r\n<br />\r\nBeyond meeting Armstrong, Cook was thrilled by the personal challenge and the chance to help a good cause. He has been training on his bike and at the gym.<br />\r\n<br />\r\nDesigned by Canadian cycling legend Steve Bauer, the route is being kept secret by organizers.<br />\r\n<br />\r\nFind out more or make donations at <a href="/web/20100203145002/http://www.ridewithlance.ca" target="_blank">www.ridewithlance.ca</a>.<br />\r\n<br />\r\n<b>THERECORD.COM</b><br />\r\n<br />\r\nFor more details about this ride and other cycling highlights, visit Bill Bean\'s blog, Take The Lane.\r\n				</blockquote>\r\n			</div>\r\n\r\n			\r\n\r\n\r\n		</div>\r\n			\r\n\r\n                        	\r\n		        \r\n			\r\n			<blockquote class="signature restore"><div class="signaturecontainer"><a href="showthread.php?t=116" rel="nofollow" title="Wonderful Waterloo - Thread 116"><font color="Green"><font size="2"><b>Canadian Monopoly - Vote for Kitchener &amp; Nominate our Other Municipalities </b></font></font></a></div></blockquote>\r\n			\r\n\r\n			\r\n		</div>\r\n	</div>\r\n	<div class="postfoot">\r\n		<div class="textcontrols">\r\n			<span class="postcontrols">\r\n				<img style="display:none" id="progress_287" src="images/misc/progress.gif"  alt="" />\r\n				\r\n\r\n				\r\n				\r\n					<a id="qrwq_287" class="newreply" href="newreply.php?do=newreply&amp;p=287" rel="nofollow" ><img id="quoteimg_287" src="images/buttons/trans_40b.png" alt="Reply With Quote" /> Reply With Quote</a>\r\n					<span class="seperator">&nbsp;</span>\r\n				\r\n				\r\n			</span>\r\n\r\n			<span class="postlinking">\r\n				\r\n					\r\n				\r\n				\r\n\r\n				 \r\n				\r\n\r\n					\r\n\r\n					\r\n					 \r\n\r\n					\r\n					\r\n					\r\n					\r\n			</span>\r\n		</div>\r\n	</div>\r\n	<hr />\r\n</li>\r\n  ';
-  pd[288] = '<li class="postbit postbitim postcontainer" id="post_288">\r\n	<div class="postdetails_noavatar">\r\n		<div class="posthead">\r\n			<label for="post_imod_checkbox_288">\r\n			<span class="postdate old">\r\n			\r\n			<span class="date">01-03-2010&nbsp;<span class="time">02:10 AM</span></span>\r\n			\r\n			</span>\r\n			<span class="nodecontrols">\r\n				<span class="postcontrols_top">\r\n					\r\n						<a name="post288"></a>\r\n						<a href="showthread.php/65-Cycling-in-Waterloo-Region?p=288#post288" class="postcounter" id="postcount288" title="3">#3</a>\r\n					\r\n					\r\n				</span>\r\n			</span>\r\n			</label>\r\n		</div>\r\n\r\n		<div class="userinfo">\r\n			<div class="contact">\r\n				\r\n					<a class="postuseravatarlink" href="member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">\r\n						\r\n							<img src="image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo\'s Avatar" />\r\n						\r\n					</a>\r\n				\r\n				<div class="username_container">\r\n					\r\n						<div class="popupmenu memberaction">\r\n	<a class="username offline popupctrl" href="member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>\r\n	<ul class="popupbody popuphover memberaction_body">\r\n		<li class="left">\r\n			<a href="member.php/2-UrbanWaterloo">\r\n				<img src="images/site_icons/profile.png" alt="" />\r\n				View Profile\r\n			</a>\r\n		</li>\r\n		\r\n		<li class="right">\r\n			<a href="search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel=\'nofollow\'>\r\n				<img src="images/site_icons/forum.png" alt="" />\r\n				View Forum Posts\r\n			</a>\r\n		</li>\r\n		\r\n		\r\n		<li class="left">\r\n			<a href="private.php?do=newpm&amp;u=2" rel=\'nofollow\'>\r\n				<img src="images/site_icons/message.png" alt="" />\r\n				Private Message\r\n			</a>\r\n		</li>\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		<li class="right">\r\n			<a href="list.php/author/2-UrbanWaterloo" rel=\'nofollow\'>\r\n				<img src="images/site_icons/article.png" alt="" />\r\n				View Articles\r\n			</a>\r\n		</li>\r\n		\r\n\r\n		\r\n\r\n		\r\n		\r\n	</ul>\r\n</div>\r\n \r\n						<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />\r\n\r\n \r\n					\r\n					<span class="usertitle">\r\n						Senior Moderator\r\n					</span>\r\n					\r\n\r\n                                        \r\n					\r\n					\r\n						<div class="imlinks">\r\n							    \r\n						</div>\r\n					\r\n				</div>\r\n			</div>\r\n			\r\n				<div class="userinfo_extra">\r\n					<dl class="userstats">\r\n						<dt>Join Date</dt> <dd>Dec 2009</dd>\r\n						<dt>Location</dt> <dd>Kitchener-Waterloo</dd>\r\n						\r\n						<dt>Posts</dt> <dd>454</dd>	\r\n						\r\n					</dl>\r\n					\r\n					\r\n				</div>\r\n			\r\n		</div>\r\n	</div>\r\n\r\n	<div class="postbody">\r\n		\r\n		<div class="postrow">\r\n		\r\n		<h2 class="posttitle icon icon0">\r\n			\r\n		</h2>\r\n		\r\n				\r\n				\r\n		<div class="content<!-' + '-' + '-' + '->">\r\n			<div id="post_message_288">\r\n				<blockquote class="postcontent restore">\r\n					<b><u><font size="4"><font color="Blue">Teen to ride with tour de Lance</font></font></u></b><br />\r\nJune 14, 2008 <br />\r\nCharlotte Prong Parkhill, RECORD STAFF<br />\r\nWATERLOO REGION<br />\r\n<a href="/web/20100203145002/http://news.therecord.com/article/366886" target="_blank">/web/20100203145002/http://news.therecord.com/article/366886</a><br />\r\n<br />\r\n<img src="/web/20100203145002/http://media.therecord.com/images/3b/00/07f711534bedae3b61aef0ae90ef.jpeg" border="0" alt="" /><br />\r\nMorgan MacPhee, 13, emulates his hero Lance Armstrong. Morgan will get to ride in the volunteer van for the Ride with Lance Armstrong after he raised thousands for cancer facilities.<br />\r\n<br />\r\n<br />\r\nA privileged few will ride beside Lance Armstrong today on Waterloo Region\'s country roads.<br />\r\n<br />\r\nMorgan MacPhee is one of them, even though he\'s too young and he didn\'t raise quite enough money to Ride with Lance. Still, the 13-year-old Elmira boy will have an insider\'s view of the fundraiser. And he\'ll be wearing his official Ride with Lance cycling jersey and shorts.<br />\r\n<br />\r\nOrganizers invited Morgan to ride in the volunteer van accompanying the cyclists on their top-secret trek. He also attended the kickoff reception in Toronto last night with his mother Jacinta Faries.<br />\r\n<br />\r\nIt\'s a thank you for his extraordinary effort in raising money for cancer facilities in Kitchener and Toronto. Armstrong and a group of elite fundraisers will leave a North Dumfries location this morning and follow a 100-kilometre route.<br />\r\n<br />\r\nMorgan really wanted to be one of the 50 riders, each required to raise a minimum of $25,000, who get the chance to put the pedal to the metal alongside the seven-time Tour de France winner.<br />\r\n<br />\r\nHis mother didn\'t think it was an attainable goal, but Morgan was undaunted.<br />\r\n<br />\r\n&quot;I told him that\'s a lot,&quot; said Faries. &quot;You don\'t have the connections to raise that kind of money.&quot;<br />\r\n<br />\r\nThe connections Morgan did have included staff and students at Park Manor Senior Public School, and the local McDonald\'s and Home Hardware. They helped him rake in almost $10,000.<br />\r\n<br />\r\nThen he found out riders need to be at least 21, a fact left off the application form.<br />\r\n<br />\r\n&quot;I\'m disappointed that I didn\'t reach my goal, but I\'m excited I get to meet him. I want him to autograph my jersey,&quot; Morgan said. &quot;I think it\'s good that he had one of the worst kinds of cancer, and he recovered, and won the Tour de France.&quot;<br />\r\n<br />\r\nHis interest in the ride was inspired by Armstrong\'s biography, and by his grandparents. Morgan\'s grandmother has survived three bouts of cancer, and his grandfather is an avid long-distance cyclist and former racer.<br />\r\n<br />\r\nMorgan hopes he\'ll get another crack at raising money to ride with Lance someday, and has no doubt he\'ll be able to keep up. He regularly cycles over 30 kilometres on a $1,400 bike he bought himself with money he saved from working.<br />\r\n<br />\r\nThe ride is expected to raise over $1 million for two cancer centres, including the Grand River Regional Cancer Centre.<br />\r\n<br />\r\n<br />\r\n<br />\r\n<b><u><font size="4"><font color="Blue">Cyclists ride with Lance for cancer</font></font></u></b><br />\r\nJune 14, 2008 <br />\r\nCharlotte Prong Parkhill<br />\r\nRecord staff<br />\r\n<a href="/web/20100203145002/http://news.therecord.com/article/367210" target="_blank">/web/20100203145002/http://news.therecord.com/article/367210</a><br />\r\n<br />\r\n<img src="/web/20100203145002/http://media.therecord.com/images/0f/9e/e52dcbbd43f29e5b78b926b91252.jpeg" border="0" alt="" /><br />\r\n<br />\r\nFor in depth, behind-the-scenes coverage of this event, check out Bill Bean\'s blog on bicycles: <a href="/web/20100203145002/http://therecord.blogs.com/take_the_lane/" target="_blank">Take the Lane </a> <br />\r\n<br />\r\nWATERLOO REGION -' + '- Local cancer survivor Deb Gemmell is wearing the coveted yellow jersey as she cycles Waterloo Region’s country roads with Lance Armstrong today. <br />\r\n<br />\r\nForty cyclists each raised over $25,000 for the privilege of riding with the seven-time Tour de France winner on a 117 kilometre route today.<br />\r\n<br />\r\nJim Balsillie teamed up with Sunnybrook Hospital to bring cancer survivor Armstrong to the region. The Ride with Lance fundraiser is expected to raise more than $1.2 million, to be split between the Grand River Regional Cancer Centre and the Odette Cancer Centre at Sunnybrook hospital.<br />\r\n<br />\r\nThe yellow jersey is traditionally given to the top fundraiser. But it was presented to Gemmell by Armstrong and Perry Dellelce, who is the top fundraiser and co-chair of the event.<br />\r\n<br />\r\nGemmell, 54, was diagnosed with breast cancer 18 months ago. Since then, she’s undergone surgery, radiation, and chemotherapy. Her treatment ends in September. &quot;And then we’ll be back to normal,&quot; said her husband Jonathan Pearce.<br />\r\n<br />\r\nBeing part of the race at all came as a shock to Gemmell. The cycling enthusiast desperately wanted to participate, but wasn’t able to come up with the required funds. Just a week ago, the Waterloo office of Canaccord Capital surprised her with the news that they had come up with the money and registered her for the event.<br />\r\n<br />\r\n&quot;It’s a dream come true for her,&quot; said Pearce. &quot;Lance Armstrong has always been an inspiration. Your attitude is the most important factor, and she’s really positive.&quot; <br />\r\n<br />\r\nSecurity was tight around the Woerner House estate in Cambridge this morning where the ride begins and ends. Riders and crew arriving in SUVs, limousines and buses crept past the stone gate. Local cycling enthusiasts and friends and family of the riders peered down the leafy drive, hoping to catch a glimpse of their hero at the pre-ride brunch.<br />\r\n<br />\r\nA buzz went through the crowd when Phil Liggett, a Tour de France commentator known as ‘The Voice of Cycling’ appeared outside the gate in his official Ride with Lance jersey.<br />\r\n<br />\r\nHe said Armstrong is an inspiration, and a passionate speaker. &quot;He makes you believe in yourself,&quot; said Liggett. &quot;When you’re fighting a disease like cancer, the best thing is to believe you can beat it, and Lance puts that message out there.&quot;<br />\r\n<br />\r\nPerched on her new bike, Dr. Carolyn Campbell, chief of the Grand River Regional Cancer Centre, said she was undeterred by the length of the ride. <br />\r\n<br />\r\n&quot;I have no doubt I can make it,&quot; said Campbell. &quot;I’m so ready! It’s all about the participation. It’s not a race.&quot;<br />\r\n<br />\r\nCampbell, whose husband, Kitchener oncologist Dr. Bob Stevens, is also riding, said they could not have raised the funds without the generosity of the staff at the cancer clinic.<br />\r\n<br />\r\nMaria Pegg waited patiently outside the gate to see her husband Shane ride by. Also waiting patiently was Pegg’s baby, whose due date was two days ago. &quot;If I go into labour, he’ll have to go up and ask Lance to pick up the pace, and maybe swing by the hospital,&quot; said Pegg.<br />\r\n<br />\r\nShane, a sales manager at RIM, is a huge fan of Armstrong and the son of two cancer survivors.<br />\r\n<br />\r\nCheers went up as a motorcade of police cars and motorcycles left the grounds, followed by the small pack of elite cyclists, and support vehicles. The Ride for Lance route is a closely guarded secret, and is expected to last three to four hours. Riders will have dinner with Lance tonight, with the top five fundraisers sitting at his table.<br />\r\n<br />\r\nGrand River Regional Cancer Centre\'s portion of the proceeds will go toward purchasing a new piece of\' radiation equipment.<br />\r\n<br />\r\n<br />\r\n<b><u><font size="4"><font color="blue">Ride with Lance fundraiser a success</font></font></u></b><br />\r\nJune 14, 2008 <br />\r\nCharlotte Prong Parkhill, RECORD STAFF<br />\r\n<a href="/web/20100203145002/http://news.therecord.com/article/367226" target="_blank">/web/20100203145002/http://news.therecord.com/article/367226</a><br />\r\n<br />\r\n<img src="/web/20100203145002/http://media.therecord.com/images/ee/8f/e241cfb0425cbb46261cc90fee9e.jpeg" border="0" alt="" /><br />\r\nShane Pegg (left), sales manager at RIM, and Jim Balsillie, co-CEO of RIM, and one of the top fund raisers for the event celebrate after the ride. <br />\r\n<br />\r\nWATERLOO REGION -' + '- Moments after completing the Ride with Lance, Jim Balsillie compared the event to a wedding day.<br />\r\n<br />\r\n&quot;I’m thrilled!&quot; he said, gulping from his water bottle. &quot;The weather… it all went great, and everyone is happy. Now I can go relax.&quot;<br />\r\n<br />\r\nJim Balsillie teamed up with Sunnybrook Hospital to bring cancer survivor and celebrity cyclist Lance Armstrong to the region. The Ride with Lance fundraiser is expected to raise more than $1.3 million, to be shared by Grand River Regional Cancer Centre and the Odette Cancer Centre at Sunnybrook hospital.<br />\r\n<br />\r\nForty cyclists each raised over $25,000 for the privilege of riding with the seven-time Tour de France winner on a 117 kilometre route.<br />\r\n<br />\r\nBalsillie was the catalyst that brought Lance to the region. &quot;I know him, because he thinks I’m his tech support for his Blackberry,&quot; he said. <br />\r\n<br />\r\nThe two met when Armstrong used the BlackBerry for his cycling team support. &quot;We just kind of stayed in touch and got to know each other.&quot;<br />\r\n<br />\r\nThe route through Waterloo Region’s country roads was designed by Canadian cyclist Steve Bauer, who also rode today.<br />\r\n<br />\r\n&quot;The pace was tough,&quot; Balsillie admitted as he wiped sweat from his eyes. &quot;You try to stay in the peleton as much as you can, and you pull for a little bit, but it was a really tough.&quot;<br />\r\n<br />\r\nBalsillie said he and his wife Heidi care a lot about health care and social services, among other things, and are happy to be able to help.<br />\r\n<br />\r\n&quot;Part of the fun for me was to fuse Sunnybrook hospital with Grand River, a research hospital with a clinical one,&quot; Balsillie said.<br />\r\n<br />\r\nLocal cancer survivor Deb Gemmell wore the coveted yellow jersey as she cycled in the pack today.<br />\r\n<br />\r\nThe yellow jersey is traditionally given to the top fundraiser. But it was presented to Gemmell by Armstrong and Perry Dellelce, who is the top fundraiser and co-chair of the event.<br />\r\n<br />\r\nGemmell, 54, was diagnosed with breast cancer 18 months ago. Since then, she’s undergone surgery, radiation, and chemotherapy. Her treatment ends in September. &quot;And then we’ll be back to normal,&quot; said her husband Jonathan Pearce.<br />\r\n<br />\r\nBeing part of the race at all came as a shock to Gemmell. The cycling enthusiast desperately wanted to participate, but wasn’t able to come up with the required funds. Just a week ago, the Waterloo office of Canaccord Capital surprised her with the news that they had come up with the money and registered her for the event.<br />\r\n<br />\r\n&quot;It’s a dream come true for her,&quot; said Pearce. &quot;Lance Armstrong has always been an inspiration. Your attitude is the most important factor, and she’s really positive.&quot; <br />\r\n<br />\r\nSecurity was tight around the Woerner House estate in Cambridge this morning where the ride started and ended. Riders and crew arriving in SUVs, limousines and buses crept past the stone gate. Local cycling enthusiasts and friends and family of the riders peered down the leafy drive, hoping to catch a glimpse of their hero at the pre-ride brunch.<br />\r\n<br />\r\nA buzz went through the crowd when Phil Liggett, a Tour de France commentator known as ‘The Voice of Cycling’ appeared outside the gate in his official Ride with Lance jersey.<br />\r\n<br />\r\nHe said Armstrong is an inspiration, and a passionate speaker. &quot;He makes you believe in yourself,&quot; said Liggett. &quot;When you’re fighting a disease like cancer, the best thing is to believe you can beat it, and Lance puts that message out there.&quot;<br />\r\n<br />\r\nPerched on her new bike, Dr. Carolyn Campbell, chief of the Grand River Regional Cancer Centre, said she was undeterred by the length of the ride. &quot;I have no doubt I can make it,&quot; said Campbell. &quot;I’m so ready! It’s all about the participation. It’s not a race.&quot;<br />\r\n<br />\r\nCampbell, whose husband, Kitchener oncologist Dr. Bob Stevens, is also riding, said they could not have raised the funds without the generosity of the staff at the cancer clinic.<br />\r\n<br />\r\nMaria Pegg waited patiently outside the gate to see husband Shane ride by. Also waiting patiently was Pegg’s baby, whose due date was two days ago. &quot;If I go into labour, he’ll have to go up and ask Lance to pick up the pace, and maybe swing by the hospital,&quot; she said.<br />\r\n<br />\r\nShane, a sales manager at RIM, is a huge fan of Armstrong and the son of two cancer survivors.<br />\r\n<br />\r\nA motorcade of police bikes and cars led the pack, followed by support vehicles. The Ride for Lance route was a closely guarded secret. Riders will have dinner with Lance tonight, with the top five fundraisers sitting at his table.<br />\r\n<br />\r\nGrand River’s portion of the proceeds will go toward purchasing a new piece of radiation equipment.<br />\r\n<br />\r\n&quot;This is a huge highlight. When I rode in Calgary, I couldn’t sleep for 2 days. I was like a kid,&quot; Balsillie said after riding with Armstrong. &quot;Gordie Howe would be the only one that would measure up, so for me, it’s massive.&quot;\r\n				</blockquote>\r\n			</div>\r\n\r\n			\r\n\r\n\r\n		</div>\r\n			\r\n\r\n                        	\r\n		        \r\n			\r\n			<blockquote class="signature restore"><div class="signaturecontainer"><a href="showthread.php?t=116" rel="nofollow" title="Wonderful Waterloo - Thread 116"><font color="Green"><font size="2"><b>Canadian Monopoly - Vote for Kitchener &amp; Nominate our Other Municipalities </b></font></font></a></div></blockquote>\r\n			\r\n\r\n			\r\n		</div>\r\n	</div>\r\n	<div class="postfoot">\r\n		<div class="textcontrols">\r\n			<span class="postcontrols">\r\n				<img style="display:none" id="progress_288" src="images/misc/progress.gif"  alt="" />\r\n				\r\n\r\n				\r\n				\r\n					<a id="qrwq_288" class="newreply" href="newreply.php?do=newreply&amp;p=288" rel="nofollow" ><img id="quoteimg_288" src="images/buttons/trans_40b.png" alt="Reply With Quote" /> Reply With Quote</a>\r\n					<span class="seperator">&nbsp;</span>\r\n				\r\n				\r\n			</span>\r\n\r\n			<span class="postlinking">\r\n				\r\n					\r\n				\r\n				\r\n\r\n				 \r\n				\r\n\r\n					\r\n\r\n					\r\n					 \r\n\r\n					\r\n					\r\n					\r\n					\r\n			</span>\r\n		</div>\r\n	</div>\r\n	<hr />\r\n</li>\r\n  ';
-  pd[289] = '<li class="postbit postbitim postcontainer" id="post_289">\r\n	<div class="postdetails_noavatar">\r\n		<div class="posthead">\r\n			<label for="post_imod_checkbox_289">\r\n			<span class="postdate old">\r\n			\r\n			<span class="date">01-03-2010&nbsp;<span class="time">02:11 AM</span></span>\r\n			\r\n			</span>\r\n			<span class="nodecontrols">\r\n				<span class="postcontrols_top">\r\n					\r\n						<a name="post289"></a>\r\n						<a href="showthread.php/65-Cycling-in-Waterloo-Region?p=289#post289" class="postcounter" id="postcount289" title="4">#4</a>\r\n					\r\n					\r\n				</span>\r\n			</span>\r\n			</label>\r\n		</div>\r\n\r\n		<div class="userinfo">\r\n			<div class="contact">\r\n				\r\n					<a class="postuseravatarlink" href="member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">\r\n						\r\n							<img src="image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo\'s Avatar" />\r\n						\r\n					</a>\r\n				\r\n				<div class="username_container">\r\n					\r\n						<div class="popupmenu memberaction">\r\n	<a class="username offline popupctrl" href="member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>\r\n	<ul class="popupbody popuphover memberaction_body">\r\n		<li class="left">\r\n			<a href="member.php/2-UrbanWaterloo">\r\n				<img src="images/site_icons/profile.png" alt="" />\r\n				View Profile\r\n			</a>\r\n		</li>\r\n		\r\n		<li class="right">\r\n			<a href="search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel=\'nofollow\'>\r\n				<img src="images/site_icons/forum.png" alt="" />\r\n				View Forum Posts\r\n			</a>\r\n		</li>\r\n		\r\n		\r\n		<li class="left">\r\n			<a href="private.php?do=newpm&amp;u=2" rel=\'nofollow\'>\r\n				<img src="images/site_icons/message.png" alt="" />\r\n				Private Message\r\n			</a>\r\n		</li>\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		<li class="right">\r\n			<a href="list.php/author/2-UrbanWaterloo" rel=\'nofollow\'>\r\n				<img src="images/site_icons/article.png" alt="" />\r\n				View Articles\r\n			</a>\r\n		</li>\r\n		\r\n\r\n		\r\n\r\n		\r\n		\r\n	</ul>\r\n</div>\r\n \r\n						<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />\r\n\r\n \r\n					\r\n					<span class="usertitle">\r\n						Senior Moderator\r\n					</span>\r\n					\r\n\r\n                                        \r\n					\r\n					\r\n						<div class="imlinks">\r\n							    \r\n						</div>\r\n					\r\n				</div>\r\n			</div>\r\n			\r\n				<div class="userinfo_extra">\r\n					<dl class="userstats">\r\n						<dt>Join Date</dt> <dd>Dec 2009</dd>\r\n						<dt>Location</dt> <dd>Kitchener-Waterloo</dd>\r\n						\r\n						<dt>Posts</dt> <dd>454</dd>	\r\n						\r\n					</dl>\r\n					\r\n					\r\n				</div>\r\n			\r\n		</div>\r\n	</div>\r\n\r\n	<div class="postbody">\r\n		\r\n		<div class="postrow">\r\n		\r\n		<h2 class="posttitle icon icon0">\r\n			\r\n		</h2>\r\n		\r\n				\r\n				\r\n		<div class="content<!-' + '-' + '-' + '->">\r\n			<div id="post_message_289">\r\n				<blockquote class="postcontent restore">\r\n					<b><u><font size="4"><font color="blue">Lance\'s Tour de Région; Lance Armstrong teams up with RIM\'s Jim Balsillie for a bicycle ride in Waterloo Region to raise more than $1.3 million for cancer centres</font></font></u></b><br />\r\nJune 16, 2008 <br />\r\nGreg Mercer and Charlotte Prong Parkhill; RECORD STAFF<br />\r\nNORTH DUMFRIES<br />\r\n<a href="/web/20100203145002/http://news.therecord.com/article/367704" target="_blank">/web/20100203145002/http://news.therecord.com/article/367704</a><br />\r\n<br />\r\n<img src="/web/20100203145002/http://media.therecord.com/images/4a/6b/9f982ad24a97931a5378a0725579.jpeg" border="0" alt="" /><br />\r\nLance Armstrong (left) lent his star power and cycled with RIM&#8217;s Jim Balsillie (right) yesterday to lead a bike ride yesterday that raised more<br />\r\nthan $1.3 million for the Odette Cancer Centre at Sunnybrook Hospital and the Grand River Regional Cancer Centre.<br />\r\n<br />\r\n<img src="/web/20100203145002/http://media.therecord.com/images/41/09/b409dac4410f8fbb4824a256450f.jpeg" border="0" alt="" /><br />\r\nMorgan MacPhee of Elmira, 13, visits with Kate Hudson, left, and Lance Armstrong after the Tour de France champion led a ride through Waterloo Region on Saturday to benefit local cancer treatment. <br />\r\n<br />\r\n<img src="/web/20100203145002/http://media.therecord.com/images/ef/91/4be30a024b66bb756c68df77232f.jpeg" border="0" alt="" /><br />\r\nOn Saturday, Lance Armstrong (centre, in yellow and black) was joined by 40 riders at Ride With Lance, a fundraiser for Sunnybrook Hospital&#8217;s Odette Cancer Centre in Toronto and the Grand River Regional Cancer Centre in Cambridge.<br />\r\n<br />\r\nWith a police motorcade, gushing fans and throngs of photographers, the Lance Armstrong show wound its way through the region\'s back roads Saturday. <br />\r\n<br />\r\nIn his wake, the cycling world\'s biggest celebrity left behind over $1.3 million for local cancer treatment.<br />\r\n<br />\r\nThat was the sum collected by entrepreneurs, doctors, lawyers and teenagers who raised more than $25,000 each for the chance to cycle 117 kilometres with the retired American athlete.<br />\r\n<br />\r\nThis was no Sunday jaunt. The secret route, which wound through North Dumfries\' country roads, took just shy of four hours to complete under beaming sunshine.<br />\r\n<br />\r\nArmstrong, joined at an earlier dinner by actor girlfriend Kate Hudson, lent his star power to an event that sparked a fundraising race for the Grand River Regional Cancer Centre and the Odette Cancer Centre at Toronto\'s Sunnybrook hospital.<br />\r\n<br />\r\nHis name not only attracted money, it drew quite a crowd, too. Dozens lined the road at the ride\'s starting point outside the Woerner House estate on Roseville Road, cheering wildly as the seven-time Tour de France winner bolted out of the gated compound and hit the road with his grinning entourage.<br />\r\n<br />\r\nOne fan arrived wearing a replica jersey of the U.S. Postal Service racing uniform that Armstrong once wore. The crowd peered down the estate\'s leafy drive, hoping to catch a glimpse of Armstrong at the pre-ride brunch.<br />\r\n<br />\r\nAmong those waiting at the gate was a very pregnant Maria Pegg, whose husband Shane, a sales manager and son of two cancer survivors, was riding in the group.<br />\r\n<br />\r\n&quot;If I go into labour, he\'ll have to go up and ask Lance to pick up the pace, and maybe swing by the hospital,&quot; joked Pegg.<br />\r\n<br />\r\nArmstrong stuck with his pack for most of the route, rotating front-runners so everyone could have their photo taken with him. He signed the photos at the end of the ride, which wound back to the country estate on Roseville Road.<br />\r\n<br />\r\nDuring the ride, after a few hours of keeping pace with the group of weekend warriors, Armstrong apparently decided to kick into a higher gear.<br />\r\n<br />\r\n&quot;Lance went by me so fast at one point, I thought he was one of the motorcycle cops,&quot; said Tom Wideman, a 47-year-old Kitchener restaurateur.<br />\r\n<br />\r\nMorgan MacPhee, the 13-year-old Elmira boy who raised more than $10,000, marvelled that he saw Armstrong passing riders going uphill without using his hands -' + '- while text-messaging on his cellphone.<br />\r\n<br />\r\nWideman said he and RIM co-chief executive Jim Balsillie -' + '- a key factor in Armstrong\'s agreeing to do the event -' + '- took 20 minutes to catch up to the group after stopping to fix a broken chain.<br />\r\n<br />\r\nBalsillie had cycled with Armstrong at a Lake Louise cancer fundraiser last June, and used his connection to bring the celebrity here.<br />\r\n<br />\r\nOnly a week ago, 54-year-old rider Deb Gemmell didn\'t think she was going to get to be a part of the ride. The cycling enthusiast, diagnosed with breast cancer 18 months ago, desperately wanted to participate. She couldn\'t come up with the required $25,000.<br />\r\n<br />\r\nThen, the Waterloo office of Canaccord Capital surprised her with the news they had come up with the money and registered her for the event.<br />\r\n<br />\r\nGemmell was honoured with the ride\'s coveted yellow jersey, traditionally given to the top fundraiser. It was presented to her by Armstrong and Perry Dellelce, who was the actual top fundraiser and co-chair of the event.<br />\r\n<br />\r\nGemmell is nearing the end of an exhausting schedule of surgery, radiation treatment and chemotherapy. Her treatment ends in September.<br />\r\n<br />\r\n&quot;Then we\'ll be back to normal,&quot; said her husband Jonathan Pearce.<br />\r\n<br />\r\nThe ride was &quot;a dream come true for her,&quot; he added. &quot;Lance Armstrong has always been an inspiration. Your attitude is the most important factor, and she\'s really positive.&quot;<br />\r\n<br />\r\nOne of the youngest riders was Mildmay\'s Isaac Wilkinson, 18. His mother Jackie was a patient at Grand River before she died of leukemia two months ago at age 48.<br />\r\n<br />\r\nAfter her death, her son read about the Armstrong fundraiser. The teen bought a road bike and collected almost $30,000 around his small town, including money from a seven-year-old who asked for donations to Wilkinson\'s efforts in lieu of birthday presents.<br />\r\n<br />\r\n<br />\r\n<br />\r\n<b><u><font size="4"><font color="Blue">Balsillie gets to share the joy during ride</font></font></u></b><br />\r\nJune 16, 2008 <br />\r\nCharlotte Prong Parkhill,RECORD STAFF<br />\r\nWATERLOO REGION<br />\r\n<a href="/web/20100203145002/http://news.therecord.com/article/367714" target="_blank">/web/20100203145002/http://news.therecord.com/article/367714</a><br />\r\n<br />\r\nMoments after completing the Ride With Lance, Jim Balsillie compared the event to a wedding day.<br />\r\n<br />\r\nExcept this was a marriage of two of his passions -' + '- cycling and philanthropy.<br />\r\n<br />\r\n&quot;I\'m thrilled!&quot; he said, gulping from his water bottle. &quot;It was fun. It was really perfect.&quot;<br />\r\n<br />\r\nThe RIM billionaire and avid cyclist teamed up with Sunnybrook and Grand River hospitals to bring cancer survivor and seven-time Tour de France winner Lance Armstrong to the region.<br />\r\n<br />\r\nThe Grand River cancer clinic is named the Balsillie Family Building in honour of donations he and his wife have made.<br />\r\n<br />\r\n&quot;Heidi and I care a lot about health care and social services among other things . . . and this is a chance to help,&quot; he said. &quot;Part of the fun for me was to fuse Grand River and Sunnybrook a little bit more, a research hospital and a clinical one.&quot;<br />\r\n<br />\r\nBalsillie is connected to Armstrong through biking and BlackBerrys. Armstrong\'s racing team used the RIM Smartphone. Balsillie rode with Armstrong in a Calgary fundraiser. The pair kept in touch and got to know each other.<br />\r\n<br />\r\n&quot;He thinks I\'m his tech support for his BlackBerry,&quot; Balsillie said.<br />\r\n<br />\r\nArmstrong wasn\'t the only celebrity on the route. Tour de France commentator Phil Liggett and Canadian cyclist Steve Bauer also hit the road, on a course Bauer designed.<br />\r\n<br />\r\nBalsillie has done plenty of long-distance rides but still found the day challenging. &quot;The pace is tough. You try to stay in the peloton (main group) as much as you can,&quot; he said, wiping sweat out of his eyes. &quot;Waterloo Region has a tremendous number of great riders.&quot;<br />\r\n<br />\r\nHe said conditions couldn\'t have been better. The weather was good, the countryside was beautiful, spectators along the way were nice and the police did a great job of keeping everyone safe.<br />\r\n<br />\r\nFor Balsillie, the day was one of the highlights in his life.<br />\r\n<br />\r\n&quot;Gordie Howe would be the only one that would measure up,&quot; he said. &quot;So for me it\'s massive, a huge thrill.&quot;<br />\r\n<br />\r\nWhen he was growing up, he always had big dreams for himself.<br />\r\n<br />\r\n&quot;And then when you get a little older, the great joy is doing it together and sharing. Your dreams become a different kind of dream.&quot;\r\n				</blockquote>\r\n			</div>\r\n\r\n			\r\n\r\n\r\n		</div>\r\n			\r\n\r\n                        	\r\n		        \r\n			\r\n			<blockquote class="signature restore"><div class="signaturecontainer"><a href="showthread.php?t=116" rel="nofollow" title="Wonderful Waterloo - Thread 116"><font color="Green"><font size="2"><b>Canadian Monopoly - Vote for Kitchener &amp; Nominate our Other Municipalities </b></font></font></a></div></blockquote>\r\n			\r\n\r\n			\r\n		</div>\r\n	</div>\r\n	<div class="postfoot">\r\n		<div class="textcontrols">\r\n			<span class="postcontrols">\r\n				<img style="display:none" id="progress_289" src="images/misc/progress.gif"  alt="" />\r\n				\r\n\r\n				\r\n				\r\n					<a id="qrwq_289" class="newreply" href="newreply.php?do=newreply&amp;p=289" rel="nofollow" ><img id="quoteimg_289" src="images/buttons/trans_40b.png" alt="Reply With Quote" /> Reply With Quote</a>\r\n					<span class="seperator">&nbsp;</span>\r\n				\r\n				\r\n			</span>\r\n\r\n			<span class="postlinking">\r\n				\r\n					\r\n				\r\n				\r\n\r\n				 \r\n				\r\n\r\n					\r\n\r\n					\r\n					 \r\n\r\n					\r\n					\r\n					\r\n					\r\n			</span>\r\n		</div>\r\n	</div>\r\n	<hr />\r\n</li>\r\n  ';
-  pd[290] = '<li class="postbit postbitim postcontainer" id="post_290">\r\n	<div class="postdetails_noavatar">\r\n		<div class="posthead">\r\n			<label for="post_imod_checkbox_290">\r\n			<span class="postdate old">\r\n			\r\n			<span class="date">01-03-2010&nbsp;<span class="time">02:12 AM</span></span>\r\n			\r\n			</span>\r\n			<span class="nodecontrols">\r\n				<span class="postcontrols_top">\r\n					\r\n						<a name="post290"></a>\r\n						<a href="showthread.php/65-Cycling-in-Waterloo-Region?p=290#post290" class="postcounter" id="postcount290" title="5">#5</a>\r\n					\r\n					\r\n				</span>\r\n			</span>\r\n			</label>\r\n		</div>\r\n\r\n		<div class="userinfo">\r\n			<div class="contact">\r\n				\r\n					<a class="postuseravatarlink" href="member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">\r\n						\r\n							<img src="image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo\'s Avatar" />\r\n						\r\n					</a>\r\n				\r\n				<div class="username_container">\r\n					\r\n						<div class="popupmenu memberaction">\r\n	<a class="username offline popupctrl" href="member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>\r\n	<ul class="popupbody popuphover memberaction_body">\r\n		<li class="left">\r\n			<a href="member.php/2-UrbanWaterloo">\r\n				<img src="images/site_icons/profile.png" alt="" />\r\n				View Profile\r\n			</a>\r\n		</li>\r\n		\r\n		<li class="right">\r\n			<a href="search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel=\'nofollow\'>\r\n				<img src="images/site_icons/forum.png" alt="" />\r\n				View Forum Posts\r\n			</a>\r\n		</li>\r\n		\r\n		\r\n		<li class="left">\r\n			<a href="private.php?do=newpm&amp;u=2" rel=\'nofollow\'>\r\n				<img src="images/site_icons/message.png" alt="" />\r\n				Private Message\r\n			</a>\r\n		</li>\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		<li class="right">\r\n			<a href="list.php/author/2-UrbanWaterloo" rel=\'nofollow\'>\r\n				<img src="images/site_icons/article.png" alt="" />\r\n				View Articles\r\n			</a>\r\n		</li>\r\n		\r\n\r\n		\r\n\r\n		\r\n		\r\n	</ul>\r\n</div>\r\n \r\n						<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />\r\n\r\n \r\n					\r\n					<span class="usertitle">\r\n						Senior Moderator\r\n					</span>\r\n					\r\n\r\n                                        \r\n					\r\n					\r\n						<div class="imlinks">\r\n							    \r\n						</div>\r\n					\r\n				</div>\r\n			</div>\r\n			\r\n				<div class="userinfo_extra">\r\n					<dl class="userstats">\r\n						<dt>Join Date</dt> <dd>Dec 2009</dd>\r\n						<dt>Location</dt> <dd>Kitchener-Waterloo</dd>\r\n						\r\n						<dt>Posts</dt> <dd>454</dd>	\r\n						\r\n					</dl>\r\n					\r\n					\r\n				</div>\r\n			\r\n		</div>\r\n	</div>\r\n\r\n	<div class="postbody">\r\n		\r\n		<div class="postrow">\r\n		\r\n		<h2 class="posttitle icon icon0">\r\n			\r\n		</h2>\r\n		\r\n				\r\n				\r\n		<div class="content<!-' + '-' + '-' + '->">\r\n			<div id="post_message_290">\r\n				<blockquote class="postcontent restore">\r\n					<b><font size="4"><font color="blue">Cycling summits aim to shape policy</font></font></b><br />\r\nAugust 28, 2009 <br />\r\nBy Brent Davis, Record staff<br />\r\n<a href="/web/20100203145002/http://news.therecord.com/article/590759" target="_blank">/web/20100203145002/http://news.therecord.com/article/590759</a><br />\r\n<br />\r\nWATERLOO REGION — Waterloo and Kitchener will be the hub of the provincial cycling world in September, as the cities host a pair of summits for the two-wheeled community.<br />\r\n<br />\r\nThe Waterloo Inn will be the site for the first Ontario Bike Summit from Sept. 20 to 22. Presented by the Share the Road Cycling Coalition, the summit will bring together politicians, planners and advocates with the goal of shaping a provincial cycling policy in the coming years.<br />\r\n<br />\r\nA few days later, the Chicopee Ski and Summer Resort will be the setting for the first Ontario Mountain Bike Summit, which will combine hands-on trail building activities with seminars and networking opportunities.<br />\r\n<br />\r\n“We’ve got a growing and burgeoning interest in cycling here,” said Eleanor McMahon, who founded the Share the Road Cycling Coalition after her husband, Greg Stobbart, an OPP sergeant, was killed in an off-duty cycling collision in 2006.<br />\r\n<br />\r\nMcMahon feels it’s time Ontario developed a comprehensive bicycle policy, similar to ones already adopted by Quebec and British Columbia.<br />\r\n<br />\r\nThe Ontario Bike Summit, she said, “is a beginning of a conversation with government” on making that happen.<br />\r\n<br />\r\nTo that end, she has invited representatives from Ontario’s Liberal, Conservative, New Democratic and Green parties to participate in a panel discussion.<br />\r\n<br />\r\nMcMahon believes the main thing holding back more provinces and municipalities from undertaking cycling master plans is that they don’t know where to begin.<br />\r\n<br />\r\nShe’s hopeful speakers, including Andy Clarke, Executive Director of the League of American Bicyclists, and Cycling England chair Phillip Darnton, will share their ideas and experiences.<br />\r\n<br />\r\n“Most major cities in the world have seized on cycling,” McMahon said, citing its health and environmental advantages. “Why can’t we increase its popularity here?”<br />\r\n<br />\r\nCalling Waterloo an ideal host for the summit, McMahon credited the city with its efforts to incorporate cyclists’ needs and concerns into its planning processes.<br />\r\n<br />\r\nLater that week, the mountain bikers will roll into Kitchener for their own event, which will include group rides and trail work on the Chicopee property.<br />\r\n<br />\r\nBut there’s also a political slant to this summit, hosted by the International Mountain Bicycling Association, as organizers look to create a provincial mountain biking federation that can address the cyclists’ concerns on a wider scale.<br />\r\n<br />\r\n“It can be very locally focused. We can target those issues we’re facing in our areas . . . but every jurisdiction is different,” said Jason Murray, one of the summit’s co-ordinators.<br />\r\n<br />\r\n“We want to get everybody in the room,” said Murray, who will also be speaking at the Ontario Bike Summit.<br />\r\n<br />\r\nTopics will include building bike parks and sustainable trails, organizing clubs and working with land managers. The latest film in the New World Disorder series will also have its Canadian premiere during the event.<br />\r\n<br />\r\nOrganizers chose Kitchener as an “attractive” location, with bike parks at Chicopee and McLennan Park and strong clubs in Waterloo and Guelph.<br />\r\n<br />\r\nMurray said the two summits complement each other. “I think it does speak to the surging popularity (of cycling).<br />\r\n<br />\r\n“We’re worried about rising gas prices, environmental impact, sustainability, childhood and adult obesity . . . They all seem to intersect with ‘Go ride a bike.’”<br />\r\n<br />\r\nRegistration for the Ontario Bike Summit begins at $140 per person, while the mountain bike summit costs $75.<br />\r\n<br />\r\nFor more information, visit the summit websites at <a href="/web/20100203145002/http://www.sharetheroad.ca" target="_blank">www.sharetheroad.ca</a> and <a href="/web/20100203145002/http://go.imba.com/ontariosummit" target="_blank">/web/20100203145002/http://go.imba.com/ontariosummit</a>.\r\n				</blockquote>\r\n			</div>\r\n\r\n			\r\n\r\n\r\n		</div>\r\n			\r\n\r\n                        	\r\n		        \r\n			\r\n			<blockquote class="signature restore"><div class="signaturecontainer"><a href="showthread.php?t=116" rel="nofollow" title="Wonderful Waterloo - Thread 116"><font color="Green"><font size="2"><b>Canadian Monopoly - Vote for Kitchener &amp; Nominate our Other Municipalities </b></font></font></a></div></blockquote>\r\n			\r\n\r\n			\r\n		</div>\r\n	</div>\r\n	<div class="postfoot">\r\n		<div class="textcontrols">\r\n			<span class="postcontrols">\r\n				<img style="display:none" id="progress_290" src="images/misc/progress.gif"  alt="" />\r\n				\r\n\r\n				\r\n				\r\n					<a id="qrwq_290" class="newreply" href="newreply.php?do=newreply&amp;p=290" rel="nofollow" ><img id="quoteimg_290" src="images/buttons/trans_40b.png" alt="Reply With Quote" /> Reply With Quote</a>\r\n					<span class="seperator">&nbsp;</span>\r\n				\r\n				\r\n			</span>\r\n\r\n			<span class="postlinking">\r\n				\r\n					\r\n				\r\n				\r\n\r\n				 \r\n				\r\n\r\n					\r\n\r\n					\r\n					 \r\n\r\n					\r\n					\r\n					\r\n					\r\n			</span>\r\n		</div>\r\n	</div>\r\n	<hr />\r\n</li>\r\n  ';
-  
-  // next/previous post info
-  pn[286] = "290,287";
-  pn[0] = ",286";
-  pn[287] = "286,288";
-  pn[288] = "287,289";
-  pn[289] = "288,290";
-  pn[290] = "289,286";
-  
-  // cached usernames
-  pu[0] = guestphrase;
-  pu[2] = "UrbanWaterloo";
-  
-  // -->
-  </script>
-  
-  
-  <div id="threaded_view">
-  	<h4>Threaded View</h4>
-  
-  	<div id="posttree">
-  		<script type="text/javascript">
-  		<!--
-  			writeLink(286, 0, 0, 2, "", "Cycling in Waterloo Region", "01-03-2010", "02:09 AM", 0, "showthread.php/65-Cycling-in-Waterloo-Region?p=286#post286");
-    writeLink(287, 0, 0, 2, "T", "<i>A chance to ride with Lance...</i>", "01-03-2010", "02:09 AM", 0, "showthread.php/65-Cycling-in-Waterloo-Region?p=287#post287");
-    writeLink(288, 0, 0, 2, "L", "<i>Teen to ride with tour de...</i>", "01-03-2010", "02:10 AM", 0, "showthread.php/65-Cycling-in-Waterloo-Region?p=288#post288");
-      writeLink(289, 0, 0, 2, "1,T", "<i>Lance's Tour de Région; Lance...</i>", "01-03-2010", "02:11 AM", 0, "showthread.php/65-Cycling-in-Waterloo-Region?p=289#post289");
-      writeLink(290, 0, 0, 2, "1,L", "<i>Cycling summits aim to shape...</i>", "01-03-2010", "02:12 AM", 0, "showthread.php/65-Cycling-in-Waterloo-Region?p=290#post290");
-  
-  		//-->
-  		</script>
-  	</div>
-  </div> 
-  	
-  
-  	
-  		<ol id="posts" class="posts" start="1">
-  			<li class="postbit postbitim postcontainer" id="post_286">
-  	<div class="postdetails_noavatar">
-  		<div class="posthead">
-  			<label for="post_imod_checkbox_286">
-  			<span class="postdate old">
-  			
-  			<span class="date">01-03-2010&nbsp;<span class="time">02:09 AM</span></span>
-  			
-  			</span>
-  			<span class="nodecontrols">
-  				<span class="postcontrols_top">
-  					
-  						<a name="post286"></a>
-  						<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php/65-Cycling-in-Waterloo-Region?p=286#post286" class="postcounter" id="postcount286" title="1">#1</a>
-  					
-  					
-  				</span>
-  			</span>
-  			</label>
-  		</div>
-  
-  		<div class="userinfo">
-  			<div class="contact">
-  				
-  					<a class="postuseravatarlink" href="/web/20100203145002/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">
-  						
-  							<img src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo's Avatar" />
-  						
-  					</a>
-  				
-  				<div class="username_container">
-  					
-  						<div class="popupmenu memberaction">
-  	<a class="username offline popupctrl" href="/web/20100203145002/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>
-  	<ul class="popupbody popuphover memberaction_body">
-  		<li class="left">
-  			<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">
-  				<img src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
-  				View Profile
-  			</a>
-  		</li>
-  		
-  		<li class="right">
-  			<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
-  				<img src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
-  				View Forum Posts
-  			</a>
-  		</li>
-  		
-  		
-  		<li class="left">
-  			<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=2" rel='nofollow'>
-  				<img src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
-  				Private Message
-  			</a>
-  		</li>
-  		
-  		
-  		
-  		
-  		
-  		
-  		
-  		<li class="right">
-  			<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/list.php/author/2-UrbanWaterloo" rel='nofollow'>
-  				<img src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
-  				View Articles
-  			</a>
-  		</li>
-  		
-  
-  		
-  
-  		
-  		
-  	</ul>
-  </div>
-   
-  						<img class="inlineimg onlinestatus" src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />
-  
-   
-  					
-  					<span class="usertitle">
-  						Senior Moderator
-  					</span>
-  					
-  
-                                          
-  					
-  					
-  						<div class="imlinks">
-  							    
-  						</div>
-  					
-  				</div>
-  			</div>
-  			
-  				<div class="userinfo_extra">
-  					<dl class="userstats">
-  						<dt>Join Date</dt> <dd>Dec 2009</dd>
-  						<dt>Location</dt> <dd>Kitchener-Waterloo</dd>
-  						
-  						<dt>Posts</dt> <dd>454</dd>	
-  						
-  					</dl>
-  					
-  					
-  				</div>
-  			
-  		</div>
-  	</div>
-  
-  	<div class="postbody">
-  		
-  		<div class="postrow">
-  		
-  		<h2 class="posttitle icon icon0">
-  			Cycling in Waterloo Region
-  		</h2>
-  		
-  				
-  				
-  		<div class="content<!---->">
-  			<div id="post_message_286">
-  				<blockquote class="postcontent restore">
-  					<div align="center"><b><font size="4"><font color="green">Cycling in Waterloo Region </font></font></b><br />
-  <br />
-  <img src="/web/20100203145002im_/http://www.bj08.asia/images/sports/cyc_road_cycling.png" border="0" alt="" /><br />
-  <a href="/web/20100203145002/http://www.bj08.asia/images/sports/cyc_road_cycling.png" target="_blank">http://www.bj08.asia/images/sports/cyc_road_cycling.png</a></div><br />
-  <b>Regional Cycling Advisory Committee Agendas and Minutes:</b> <a href="/web/20100203145002/http://region.waterloo.on.ca/web/region.nsf/afedf1d73f0791a185256af00073fa7c/d13090671ea5d6fc85256b05005a49a8!OpenDocument" target="_blank">http://region.waterloo.on.ca/web/reg...8!OpenDocument</a><br />
-  <br />
-  <b>Regional Cycling Master Plan Site:</b> <a href="/web/20100203145002/http://www.region.waterloo.on.ca/web/Region.nsf/0/bba9f35e6e019ada8525760f0055ac05?OpenDocument" target="_blank">http://www.region.waterloo.on.ca/web...5?OpenDocument</a><br />
-  2004 PDF: http://chd.region.waterloo.on.ca/web/Region.nsf/0/BBA9F35E6E019ADA8525760F0055AC05/$file/CYCLING_MASTER_PLAN_2004.pdf?OpenElement<br />
-  Staff Report To Regional Council November 2004: http://www.region.waterloo.on.ca/web/Region.nsf/0/BBA9F35E6E019ADA8525760F0055AC05/$file/CMPP04127.pdf?OpenElement<br />
-  Map Update: http://www.region.waterloo.on.ca/web/Region.nsf/0/BBA9F35E6E019ADA8525760F0055AC05/$file/Map4.pdf?OpenElement
-  				</blockquote>
-  			</div>
-  
-  			
-  
-  
-  		</div>
-  			
-  			<!-- edit note -->
-  			<blockquote class="postcontent lastedited">
-  <!--						<img src="images/buttons/edit_40b.png" alt="" /> -->
-  				
-  					Last edited by UrbanWaterloo; 01-03-2010 at <span class="time">02:18 AM</span>.
-  				
-  				
-  			</blockquote>
-  			<!-- / edit note -->
-  			
-  
-                          	
-  		        
-  			
-  			<blockquote class="signature restore"><div class="signaturecontainer"><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php?t=116" rel="nofollow" title="Wonderful Waterloo - Thread 116"><font color="Green"><font size="2"><b>Canadian Monopoly - Vote for Kitchener &amp; Nominate our Other Municipalities </b></font></font></a></div></blockquote>
-  			
-  
-  			
-  		</div>
-  	</div>
-  	<div class="postfoot">
-  		<div class="textcontrols">
-  			<span class="postcontrols">
-  				<img style="display:none" id="progress_286" src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
-  				
-  
-  				
-  				
-  					<a id="qrwq_286" class="newreply" href="/web/20100203145002/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=286" rel="nofollow" ><img id="quoteimg_286" src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/buttons/trans_40b.png" alt="Reply With Quote" /> Reply With Quote</a>
-  					<span class="seperator">&nbsp;</span>
-  				
-  				
-  			</span>
-  
-  			<span class="postlinking">
-  				
-  					
-  				
-  				
-  
-  				 
-  				
-  
-  					
-  
-  					
-  					 
-  
-  					
-  					
-  					
-  					
-  			</span>
-  		</div>
-  	</div>
-  	<hr />
-  </li>
-    
-  		</ol>
-                  <div class="separator"></div>
-  		<div class="postlistfoot">
-  			
-  		</div>
-  
-  	
-  
-  </div>
-  
-  <div id="below_postlist" class="below_postlist">
-  	
-  	<div id="pagination_bottom" class="pagination_bottom">
-  	
-  		<div class="clear"></div>
-  <div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
-  	
-  		<span class="shade">Quick Navigation</span>
-  		<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php/65-Cycling-in-Waterloo-Region" class="popupctrl"><span class="ctrlcontainer">Transportation and Infrastructure</span></a>
-  	<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php/65-Cycling-in-Waterloo-Region#top" class="textcontrol" onclick="document.location.hash='top';return false;">Top</a>
-  	
-  	<ul class="navpopupbody popupbody popuphover">
-  		
-  		<li class="optionlabel">Site Areas</li>
-  		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/usercp.php">Settings</a></li>
-  		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/private.php">Private Messages</a></li>
-  		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/subscription.php">Subscriptions</a></li>
-  		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/online.php">Who's Online</a></li>
-  		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/search.php">Search Forums</a></li>
-  		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forum.php">Forums Home</a></li>
-  			
-  		
-  			<li class="optionlabel">Forums</li>
-  			<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/1-Construction-and-Land-Development">Construction and Land Development</a>
-  	<ol class="d1">
-  		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/2-Downtowns">Downtowns</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/5-Suburbs">Suburbs</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/6-Townships">Townships</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/27-Past-Developments">Past Developments</a></li> 
-  	</ol>
-  </li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/7-Urban-Issues">Urban Issues</a>
-  	<ol class="d1">
-  		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/8-Urban-Design">Urban Design</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/9-Urban-Issues">Urban Issues</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/10-Heritage">Heritage</a></li> 
-  	</ol>
-  </li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/11-Regional-Economy-and-Politics">Regional Economy and Politics</a>
-  	<ol class="d1">
-  		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/12-Economy">Economy</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/13-Politics">Politics</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/14-Transportation-and-Infrastructure">Transportation and Infrastructure</a></li> 
-  	</ol>
-  </li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/15-Food-and-Retail">Food and Retail</a>
-  	<ol class="d1">
-  		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/16-Retail-News">Retail News</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/17-Food-and-Dining">Food and Dining</a></li> 
-  	</ol>
-  </li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/18-Entertainment-and-Recreation">Entertainment and Recreation</a>
-  	<ol class="d1">
-  		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/19-Arts-and-Culture">Arts and Culture</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/20-Nightlife">Nightlife</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/21-Sports-and-Recreation">Sports and Recreation</a></li> 
-  	</ol>
-  </li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/22-General">General</a>
-  	<ol class="d1">
-  		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/23-General-Discussion">General Discussion</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/24-Waterloo-Region-Photography">Waterloo Region Photography</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/25-Outside-Waterloo-Region">Outside Waterloo Region</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/26-Forum-Issues">Forum Issues</a></li> 
-  	</ol>
-  </li> 
-  		
-  		
-  	</ul>
-  </div> 
-  	</div>
-  </div>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <!-- next / previous links -->
-  <div class="navlinks">
-  	<strong>&laquo;</strong>
-  	<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php?t=65&amp;goto=nextoldest" rel="nofollow">Previous Thread</a>
-  	|
-  	<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php?t=65&amp;goto=nextnewest" rel="nofollow">Next Thread</a>
-  	<strong>&raquo;</strong>
-  </div>
-  <!-- / next / previous links -->
-  
-  <div id="thread_info" class="thread_info">
-  	
-  	
-  	
-  	
-  	<div class="options_block_container">
-  		
-  		<div class="options_block">
-  			<div class="collapse">
-  				<a class="collapse" id="collapse_posting_rules" href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php/65-Cycling-in-Waterloo-Region#top"><img src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/buttons/collapse_40b.png" alt="" /></a>
-  				<h4><span class="optiontitle">Posting Permissions</span></h4>
-  			</div>
-  			<div id="posting_rules" class="thread_info_block">
-  				
-  <div id="thread_posting_rules" class="info_subblock">
-  	<ul id="thread_rules" class="youcandoblock">
-  		<li>You <strong>may not</strong> post new threads</li>
-  		<li>You <strong>may not</strong> post replies</li>
-  		<li>You <strong>may not</strong> post attachments</li>
-  		<li>You <strong>may not</strong> edit your posts</li>
-  	</ul>
-  	<div id="more_rules" class="bbcodeblock">
-  		<ul>
-  			<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/misc.php?do=bbcode" target="_blank">BB code</a> is <strong>On</strong></li>
-  			<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/misc.php?do=showsmilies" target="_blank">Smilies</a> are <strong>On</strong></li>
-  			<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/misc.php?do=bbcode#imgcode" target="_blank">[IMG]</a> code is <strong>On</strong></li>
-  			<li>HTML code is <strong>Off</strong></li>
-  		</ul>
-  	</div>
-  	<p class="rules_link"><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/misc.php?do=showrules" target="_blank">Forum Rules</a></p>
-  </div>
-   
-  			</div>
-  		</div>
-  
-  	</div>
-  
-  </div>
-  
-  
-  
-  
-  
-  
-  
-   
-   
-  <div id="footer" class="floatcontainer footer">
-  
-  	<form action="/web/20100203145002/http://www.wonderfulwaterloo.com/forum.php" method="get" id="footer_select" class="footer_select">
-  
-  			
-  		
-  			<select name="styleid" onchange="switch_id(this, 'style')">
-  				<optgroup label="Quick Style Chooser">
-  					<option value="2" class="" selected="selected">-- vB4 Default Style</option> 
-  				</optgroup>
-  			</select>	
-  		
-  		
-  		
-  			<select name="langid" onchange="switch_id(this, 'lang')">
-  				<optgroup label="Quick Language Chooser">
-  					<option value="1" class="" selected="selected">-- English (US)</option> 
-  				</optgroup>
-  			</select>
-  		
-  	</form>
-  
-  	<ul id="footer_links" class="footer_links">
-  		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/sendmessage.php" rel="nofollow" accesskey="9">Contact Us</a></li>
-  		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/">Wonderful Waterloo</a></li>
-  		
-  		
-  		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/archive/index.php">Archive</a></li>
-  		
-  		
-  		
-  		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php/65-Cycling-in-Waterloo-Region#top" onclick="document.location.hash='top'; return false;">Top</a></li>
-  	</ul>
-  	
-  	
-  	
-  	
-  	<script type="text/javascript">
-  	<!--
-  		// Main vBulletin Javascript Initialization
-  		vBulletin_init();
-  	//-->
-  	</script>
+        <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" id="vbulletin_html">
+        <head>
+        
+        <script type="text/javascript" src="/static/js/analytics.js" ></script>
+        <link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+        
+        
+        
+        
+        	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.wonderfulwaterloo.com" />
+          <meta name="generator" content="vBulletin 4.0.1" />
+        
+        
+        
+        
+        
+        <script type="text/javascript" src="/web/20100203145002js_/http://www.wonderfulwaterloo.com/clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=401"></script>
+        <script type="text/javascript" src="/web/20100203145002js_/http://www.wonderfulwaterloo.com/clientscript/yui/connection/connection-min.js?v=401"></script>
+        <script type="text/javascript">
+        <!--
+        	var SESSIONURL = "";
+        	var SECURITYTOKEN = "guest";
+        	var IMGDIR_MISC = "images/misc";
+        	var IMGDIR_BUTTON = "images/buttons";
+        	var vb_disable_ajax = parseInt("0", 10);
+        	var SIMPLEVERSION = "401";
+        	var BBURL = "/web/20100203145002/http://www.wonderfulwaterloo.com";
+        // -->
+        </script>
+        <script type="text/javascript" src="/web/20100203145002js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin-core.js?v=401"></script>
+        
+        
+        
+        	<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2" />
+        	
+        		<link rel="alternate" type="application/rss+xml" title="Wonderful Waterloo - Transportation and Infrastructure - RSS Feed" href="http://www.wonderfulwaterloo.com/external.php?type=RSS2&amp;forumids=14" />
+        	
+        
+        
+        
+        	<link rel="stylesheet" type="text/css" href="/web/20100203145002cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1264156300&amp;td=ltr&amp;sheet=bbcode.css,editor.css,popupmenu.css,reset-fonts.css,vbulletin.css,vbulletin-chrome.css,vbulletin-formcontrols.css" />
+        
+        
+        
+         
+        	<meta name="keywords" content="cycling,regional,region,2004,waterloo,report,http://chd.region.waterloo.on.ca/web/region.nsf/0/bba9f35e6e019ada8525760f0055ac05/$file/cycling_master_plan_2004.pdf?openelement,staff,http://www.region.waterloo.on.ca/web/region.nsf/0/bba9f35e6e019ada8525760f0055ac05/$file/cmpp04127.pdf?openelement,update,http://www.region.waterloo.on.ca/web/region.nsf/0/bba9f35e6e019ada8525760f0055ac05/$file/map4.pdf?openelement,november,council,plan,agendas,committee,advisory,http://www.bj08.asia/images/sports/cyc_road_cycling.png,minutes,site,master,http://region.waterloo.on.ca/web/region.nsf/afedf1d73f0791a185256af00073fa7c/d13090671ea5d6fc85256b05005a49a8opendocument,http://www.region.waterloo.on.ca/web/region.nsf/0/bba9f35e6e019ada8525760f0055ac05?opendocument" />
+        	<meta name="description" content="Cycling in Waterloo Region  
+         
+        http://www.bj08.asia/images/sports/cyc_road_cycling.png 
+        http://www.bj08.asia/images/sports/cyc_road_cycling.png 
+         
+        Regional Cycling Advisory Committee Agendas and Minutes: http://region.waterloo.on.ca/web/region.nsf/afedf1d73f0791a185256af00073fa7c/d13090671ea5d6fc85256b05005a49a8!OpenDocument 
+         
+        Regional Cycling Master Plan Site: http://www.region.waterloo.on.ca/web/Region.nsf/0/bba9f35e6e019ada8525760f0055ac05?OpenDocument 
+        2004 PDF:" />
+        
+        	<title> Cycling in Waterloo Region</title>
+        
+        	
+        	<script type="text/javascript" src="/web/20100203145002js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_textedit.js?v=401"></script>
+        	<script type="text/javascript" src="/web/20100203145002js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_post_loader.js?v=401"></script>
+        	
+        	
+        	
+        	
+        	
+        	
+        
+        	
+        			<link rel="stylesheet" type="text/css" href="/web/20100203145002cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1264156300&amp;td=ltr&amp;sheet=postlist.css,showthread.css,postbit.css,attachment.css,poll.css,lightbox.css" />
+        	
+        
+        <link rel="stylesheet" type="text/css" href="/web/20100203145002cs_/http://www.wonderfulwaterloo.com/css.php?styleid=2&amp;langid=1&amp;d=1264156300&amp;td=ltr&amp;sheet=additional.css" />
+         
+        </head>
+        
+        <body>
+        
+        
+        
+        <div class="above_body"> <!-- closing tag is in template navbar -->
+        <div id="header" class="floatcontainer doc_header">
+        	 
+        	<div><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/" class="logo-image"><img src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/v1/logo.gif" alt="" /></a></div> 
+        	<div id="toplinks" class="toplinks">
+        		
+        			<ul class="nouser">
+        			
+        				<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/register.php" rel="nofollow">Register</a></li>
+        						
+        				<li><a rel="help" href="/web/20100203145002/http://www.wonderfulwaterloo.com/faq.php">Help</a></li>
+        				<li>
+        			<script type="text/javascript" src="/web/20100203145002js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_md5.js?v=401"></script>
+        			<form action="/web/20100203145002/http://www.wonderfulwaterloo.com/login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+        				<fieldset id="logindetails" class="logindetails">
+        					<div>
+        						<div>
+        					<input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" onfocus="if (this.value == 'User Name'){this.value=''; this.style.color='black';}" onblur="if (this.value == '') {this.value='User Name'; this.style.color='#828282';}"/>
+        					<input type="password" class="textbox default-value" tabindex="102" name="vb_login_password" id="navbar_password" size="10" onfocus="this.style.color='black';" />
+        					<input type="submit" class="loginbutton" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s" />
+        						</div>
+        					</div>
+        				</fieldset>
+        				<div id="remember" class="remember">
+        					<label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" /> Remember Me?</label>
+        				</div>
+        			
+        				<input type="hidden" name="s" value="" />
+        				<input type="hidden" name="securitytoken" value="guest" />
+        				<input type="hidden" name="do" value="login" />
+        				<input type="hidden" name="vb_login_md5password" />
+        				<input type="hidden" name="vb_login_md5password_utf" />
+        			</form>	
+        				</li>
+        			</ul>
+        		
+        	</div>
+        	<div class="ad_global_header">
+        		 
+        		 
+        	</div>
+        	<hr />
+        	 
+        </div> 
+        <div id="navbar" class="navbar">
+        
+        	<ul id="navtabs" class="navtabs floatcontainer">
+        		
+        	<li><a class="navtab" href="/web/20100203145002/http://www.wonderfulwaterloo.com/content.php">Home</a></li>
+         <li><a class="navtab" href="/web/20100203145002/http://www.wonderfulwaterloo.com/calendar.php" target="_self">Calendar</a></li>
+        
+         <li><a class="navtab" href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php/206-Maps" target="_self">Maps (U/C)</a></li>
+        
+         
+        		
+        			<li class="selected"><a class="navtab" href="/web/20100203145002/http://www.wonderfulwaterloo.com/forum.php">Forum</a>
+        				<ul class="floatcontainer">
+        					
+        					
+        						
+        						<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/search.php?do=getdaily&amp;contenttype=vBForum_Post">Today's Posts</a></li>
+        						
+        					
+        					
+        					
+        					
+        					<li><a rel="help" href="/web/20100203145002/http://www.wonderfulwaterloo.com/faq.php">FAQ</a></li>
+        					
+        					<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/calendar.php">Calendar</a></li>
+        					
+        
+        					<li class="popupmenu">
+        						<a href="javascript://" class="popupctrl">Community</a>
+        						<ul class="popupbody popuphover">
+        							
+        							
+        							
+        							
+        							
+        								<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/memberlist.php">Member List</a></li>
+        							
+        							
+        						</ul>
+        					</li>
+        					
+        					<li class="popupmenu">
+        						<a href="javascript://" class="popupctrl">Forum Actions</a>
+        						<ul class="popupbody popuphover">
+        							<li>
+        								<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php?do=markread">Mark Forums Read</a>
+        							</li>
+                                                                
+        						</ul>
+        					</li>
+        					<li class="popupmenu">
+        						<a href="javascript://" class="popupctrl">Quick Links</a>
+        						<ul class="popupbody popuphover">
+        							
+        							
+        							<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showgroups.php" rel="nofollow">
+        		
+        			View Site Leaders
+        		
+        	</a></li>
+        							
+        							
+        							
+        							
+        							
+        							
+        						</ul>
+        					</li>
+        					
+        				</ul>
+        
+        			</li>
+        		
+        		
+        		
+        			<li><a class="navtab" href="/web/20100203145002/http://www.wonderfulwaterloo.com/search.php?do=getdaily&amp;contenttype=vBForum_Post">What's New?</a></li>
+        		
+        		
+        	</ul>
+        
+        	
+        	<div id="globalsearch" class="globalsearch">
+        		<form action="/web/20100203145002/http://www.wonderfulwaterloo.com/search.php?do=process" method="post" id="navbar_search" class="navbar_search">
+        			<input type="hidden" name="s" value="" />
+        			<input type="hidden" name="securitytoken" value="guest" />
+        			<input type="hidden" name="do" value="process" />
+        			<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
+        			<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
+        		</form>
+        		<ul class="navbar_advanced_search">
+        			<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/search.php">Advanced Search</a></li>
+        		</ul>
+        	</div>
+        	
+        </div>
+        </div><!-- closing div for above_body -->
+        
+        <div class="body_wrapper">
+        <div id="breadcrumb" class="breadcrumb">
+        	<ul class="floatcontainer">
+        		<li class="navbithome"><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/index.php" ><img src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/misc/navbit-home.png" alt="Home" /></a></li>
+        
+        		
+        	<li class="navbit"><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forum.php">Forum</a></li>
+         
+        	<li class="navbit"><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/11-Regional-Economy-and-Politics">Regional Economy and Politics</a></li>
+         
+        	<li class="navbit"><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/14-Transportation-and-Infrastructure">Transportation and Infrastructure</a></li>
+         
+        		
+        	<li class="navbit lastnavbit"><span> Cycling in Waterloo Region</span></li>
+         
+        	</ul>
+        	<hr />
+        </div>
+        
+         
+         
+        
+        
+        	<form action="/web/20100203145002/http://www.wonderfulwaterloo.com/profile.php?do=dismissnotice" method="post" id="notices" class="notices">
+        		<input type="hidden" name="do" value="dismissnotice" />
+        		<input type="hidden" name="s" value="" />
+        		<input type="hidden" name="securitytoken" value="guest" />
+        		<input type="hidden" id="dismiss_notice_hidden" name="dismiss_noticeid" value="" />
+        		<input type="hidden" name="url" value="" />
+        		<ol>
+        			<li class="restore" id="navbar_notice_1">
+        	
+        	If this is your first visit, be sure to
+        		check out the <a href="/web/20100203145002/http://www.wonderfulwaterloo.com/faq.php" target="_blank"><b>FAQ</b></a> by clicking the
+        		link above. You may have to <a href="/web/20100203145002/http://www.wonderfulwaterloo.com/register.php" target="_blank"><b>register</b></a>
+        		before you can post: click the register link above to proceed. To start viewing messages,
+        		select the forum that you want to visit from the selection below.
+        </li> 
+        		</ol>
+        	</form>
+         
+        
+        
+        
+        	<div id="above_postlist" class="above_postlist">
+        		
+        
+        		<div id="pagination_top" class="pagination_top">
+        		
+        			<div id="postpagestats_above" class="postpagestats">
+        				Results 1 to 5 of 5
+        			</div>
+        		</div>
+        	</div>
+        <div id="pagetitle" class="pagetitle">
+        	<h1>Thread: <span class="threadtitle"><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php/65-Cycling-in-Waterloo-Region" title="Reload this Page">Cycling in Waterloo Region</a></span></h1>
+        </div>
+        	<div id="thread_controls" class="thread_controls">
+        		<div>
+        		<ul id="postlist_popups" class="postlist_popups popupgroup">
+        			
+        			<li class="popupmenu nohovermenu" id="threadtools">
+        				<h6><a class="popupctrl" href="javascript://">Thread Tools</a></h6>
+        				<ul class="popupbody popuphover">
+        					<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/printthread.php?t=65&amp;pp=10&amp;page=1" accesskey="3" 
+        						rel="nofollow">Show Printable Version</a></li>
+        					<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/sendmessage.php?do=sendtofriend&amp;t=65"
+        						rel="nofollow">Email this Page&hellip;</a></li>
+        					<li>
+        						
+        							<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/subscription.php?do=addsubscription&amp;t=65" 
+        								rel="nofollow">Subscribe to this Thread&hellip;</a>
+        											
+        					</li>
+        					
+        				</ul>
+        			</li>
+        
+        			
+        
+        			
+        
+        			
+        
+        			
+        				<li class="popupmenu" id="displaymodes">
+        					<h6><a class="popupctrl" href="javascript://">Display</a></h6>
+        					<ul class="popupbody popuphover">
+        						<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php/65-Cycling-in-Waterloo-Region?p=286&amp;mode=linear#post286"> Switch to Linear Mode</a></label></li>
+        						<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php/65-Cycling-in-Waterloo-Region?mode=hybrid"> Switch to Hybrid Mode</a></li>
+        						<li><label>Threaded Mode</label></li>
+        					</ul>
+        				</li>
+        			
+        
+        			
+        		</ul>
+        		</div>
+        	</div>
+        
+        <div id="postlist" class="postlist restrain">
+        	
+        		<script type="text/javascript">
+        <!--
+        var imgdir_statusicon = "images/statusicon";
+        var imgdir_misc = "images/misc";
+        var cleargifurl = "clear.gif";
+        var guestphrase = "Guest";
+        var morephrase = "More replies below current depth...";
+        var highlightwords = "";
+        //-->
+        </script>
+        
+        <script type="text/javascript" src="/web/20100203145002js_/http://www.wonderfulwaterloo.com/clientscript/vbulletin_thrdpostlist.js?v=401"></script>
+        
+        <script type="text/javascript">
+        <!--
+        // initialize some variables
+        var curpostid = 286;
+        var quickreply = false;
+        
+        // cached posts (no page reload required to view)
+        pd[286] = '<li class="postbit postbitim postcontainer" id="post_286">\r\n	<div class="postdetails_noavatar">\r\n		<div class="posthead">\r\n			<label for="post_imod_checkbox_286">\r\n			<span class="postdate old">\r\n			\r\n			<span class="date">01-03-2010&nbsp;<span class="time">02:09 AM</span></span>\r\n			\r\n			</span>\r\n			<span class="nodecontrols">\r\n				<span class="postcontrols_top">\r\n					\r\n						<a name="post286"></a>\r\n						<a href="showthread.php/65-Cycling-in-Waterloo-Region?p=286#post286" class="postcounter" id="postcount286" title="1">#1</a>\r\n					\r\n					\r\n				</span>\r\n			</span>\r\n			</label>\r\n		</div>\r\n\r\n		<div class="userinfo">\r\n			<div class="contact">\r\n				\r\n					<a class="postuseravatarlink" href="member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">\r\n						\r\n							<img src="image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo\'s Avatar" />\r\n						\r\n					</a>\r\n				\r\n				<div class="username_container">\r\n					\r\n						<div class="popupmenu memberaction">\r\n	<a class="username offline popupctrl" href="member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>\r\n	<ul class="popupbody popuphover memberaction_body">\r\n		<li class="left">\r\n			<a href="member.php/2-UrbanWaterloo">\r\n				<img src="images/site_icons/profile.png" alt="" />\r\n				View Profile\r\n			</a>\r\n		</li>\r\n		\r\n		<li class="right">\r\n			<a href="search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel=\'nofollow\'>\r\n				<img src="images/site_icons/forum.png" alt="" />\r\n				View Forum Posts\r\n			</a>\r\n		</li>\r\n		\r\n		\r\n		<li class="left">\r\n			<a href="private.php?do=newpm&amp;u=2" rel=\'nofollow\'>\r\n				<img src="images/site_icons/message.png" alt="" />\r\n				Private Message\r\n			</a>\r\n		</li>\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		<li class="right">\r\n			<a href="list.php/author/2-UrbanWaterloo" rel=\'nofollow\'>\r\n				<img src="images/site_icons/article.png" alt="" />\r\n				View Articles\r\n			</a>\r\n		</li>\r\n		\r\n\r\n		\r\n\r\n		\r\n		\r\n	</ul>\r\n</div>\r\n \r\n						<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />\r\n\r\n \r\n					\r\n					<span class="usertitle">\r\n						Senior Moderator\r\n					</span>\r\n					\r\n\r\n                                        \r\n					\r\n					\r\n						<div class="imlinks">\r\n							    \r\n						</div>\r\n					\r\n				</div>\r\n			</div>\r\n			\r\n				<div class="userinfo_extra">\r\n					<dl class="userstats">\r\n						<dt>Join Date</dt> <dd>Dec 2009</dd>\r\n						<dt>Location</dt> <dd>Kitchener-Waterloo</dd>\r\n						\r\n						<dt>Posts</dt> <dd>454</dd>	\r\n						\r\n					</dl>\r\n					\r\n					\r\n				</div>\r\n			\r\n		</div>\r\n	</div>\r\n\r\n	<div class="postbody">\r\n		\r\n		<div class="postrow">\r\n		\r\n		<h2 class="posttitle icon icon0">\r\n			Cycling in Waterloo Region\r\n		</h2>\r\n		\r\n				\r\n				\r\n		<div class="content<!-' + '-' + '-' + '->">\r\n			<div id="post_message_286">\r\n				<blockquote class="postcontent restore">\r\n					<div align="center"><b><font size="4"><font color="green">Cycling in Waterloo Region </font></font></b><br />\r\n<br />\r\n<img src="/web/20100203145002/http://www.bj08.asia/images/sports/cyc_road_cycling.png" border="0" alt="" /><br />\r\n<a href="/web/20100203145002/http://www.bj08.asia/images/sports/cyc_road_cycling.png" target="_blank">/web/20100203145002/http://www.bj08.asia/images/sports/cyc_road_cycling.png</a></div><br />\r\n<b>Regional Cycling Advisory Committee Agendas and Minutes:</b> <a href="/web/20100203145002/http://region.waterloo.on.ca/web/region.nsf/afedf1d73f0791a185256af00073fa7c/d13090671ea5d6fc85256b05005a49a8!OpenDocument" target="_blank">/web/20100203145002/http://region.waterloo.on.ca/web/reg...8!OpenDocument</a><br />\r\n<br />\r\n<b>Regional Cycling Master Plan Site:</b> <a href="/web/20100203145002/http://www.region.waterloo.on.ca/web/Region.nsf/0/bba9f35e6e019ada8525760f0055ac05?OpenDocument" target="_blank">/web/20100203145002/http://www.region.waterloo.on.ca/web...5?OpenDocument</a><br />\r\n2004 PDF: /web/20100203145002/http://chd.region.waterloo.on.ca/web/Region.nsf/0/BBA9F35E6E019ADA8525760F0055AC05/$file/CYCLING_MASTER_PLAN_2004.pdf?OpenElement<br />\r\nStaff Report To Regional Council November 2004: /web/20100203145002/http://www.region.waterloo.on.ca/web/Region.nsf/0/BBA9F35E6E019ADA8525760F0055AC05/$file/CMPP04127.pdf?OpenElement<br />\r\nMap Update: /web/20100203145002/http://www.region.waterloo.on.ca/web/Region.nsf/0/BBA9F35E6E019ADA8525760F0055AC05/$file/Map4.pdf?OpenElement\r\n				</blockquote>\r\n			</div>\r\n\r\n			\r\n\r\n\r\n		</div>\r\n			\r\n			<!-' + '- edit note -' + '->\r\n			<blockquote class="postcontent lastedited">\r\n<!-' + '-						<img src="images/buttons/edit_40b.png" alt="" /> -' + '->\r\n				\r\n					Last edited by UrbanWaterloo; 01-03-2010 at <span class="time">02:18 AM</span>.\r\n				\r\n				\r\n			</blockquote>\r\n			<!-' + '- / edit note -' + '->\r\n			\r\n\r\n                        	\r\n		        \r\n			\r\n			<blockquote class="signature restore"><div class="signaturecontainer"><a href="showthread.php?t=116" rel="nofollow" title="Wonderful Waterloo - Thread 116"><font color="Green"><font size="2"><b>Canadian Monopoly - Vote for Kitchener &amp; Nominate our Other Municipalities </b></font></font></a></div></blockquote>\r\n			\r\n\r\n			\r\n		</div>\r\n	</div>\r\n	<div class="postfoot">\r\n		<div class="textcontrols">\r\n			<span class="postcontrols">\r\n				<img style="display:none" id="progress_286" src="images/misc/progress.gif"  alt="" />\r\n				\r\n\r\n				\r\n				\r\n					<a id="qrwq_286" class="newreply" href="newreply.php?do=newreply&amp;p=286" rel="nofollow" ><img id="quoteimg_286" src="images/buttons/trans_40b.png" alt="Reply With Quote" /> Reply With Quote</a>\r\n					<span class="seperator">&nbsp;</span>\r\n				\r\n				\r\n			</span>\r\n\r\n			<span class="postlinking">\r\n				\r\n					\r\n				\r\n				\r\n\r\n				 \r\n				\r\n\r\n					\r\n\r\n					\r\n					 \r\n\r\n					\r\n					\r\n					\r\n					\r\n			</span>\r\n		</div>\r\n	</div>\r\n	<hr />\r\n</li>\r\n  ';
+        pd[287] = '<li class="postbit postbitim postcontainer" id="post_287">\r\n	<div class="postdetails_noavatar">\r\n		<div class="posthead">\r\n			<label for="post_imod_checkbox_287">\r\n			<span class="postdate old">\r\n			\r\n			<span class="date">01-03-2010&nbsp;<span class="time">02:09 AM</span></span>\r\n			\r\n			</span>\r\n			<span class="nodecontrols">\r\n				<span class="postcontrols_top">\r\n					\r\n						<a name="post287"></a>\r\n						<a href="showthread.php/65-Cycling-in-Waterloo-Region?p=287#post287" class="postcounter" id="postcount287" title="2">#2</a>\r\n					\r\n					\r\n				</span>\r\n			</span>\r\n			</label>\r\n		</div>\r\n\r\n		<div class="userinfo">\r\n			<div class="contact">\r\n				\r\n					<a class="postuseravatarlink" href="member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">\r\n						\r\n							<img src="image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo\'s Avatar" />\r\n						\r\n					</a>\r\n				\r\n				<div class="username_container">\r\n					\r\n						<div class="popupmenu memberaction">\r\n	<a class="username offline popupctrl" href="member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>\r\n	<ul class="popupbody popuphover memberaction_body">\r\n		<li class="left">\r\n			<a href="member.php/2-UrbanWaterloo">\r\n				<img src="images/site_icons/profile.png" alt="" />\r\n				View Profile\r\n			</a>\r\n		</li>\r\n		\r\n		<li class="right">\r\n			<a href="search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel=\'nofollow\'>\r\n				<img src="images/site_icons/forum.png" alt="" />\r\n				View Forum Posts\r\n			</a>\r\n		</li>\r\n		\r\n		\r\n		<li class="left">\r\n			<a href="private.php?do=newpm&amp;u=2" rel=\'nofollow\'>\r\n				<img src="images/site_icons/message.png" alt="" />\r\n				Private Message\r\n			</a>\r\n		</li>\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		<li class="right">\r\n			<a href="list.php/author/2-UrbanWaterloo" rel=\'nofollow\'>\r\n				<img src="images/site_icons/article.png" alt="" />\r\n				View Articles\r\n			</a>\r\n		</li>\r\n		\r\n\r\n		\r\n\r\n		\r\n		\r\n	</ul>\r\n</div>\r\n \r\n						<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />\r\n\r\n \r\n					\r\n					<span class="usertitle">\r\n						Senior Moderator\r\n					</span>\r\n					\r\n\r\n                                        \r\n					\r\n					\r\n						<div class="imlinks">\r\n							    \r\n						</div>\r\n					\r\n				</div>\r\n			</div>\r\n			\r\n				<div class="userinfo_extra">\r\n					<dl class="userstats">\r\n						<dt>Join Date</dt> <dd>Dec 2009</dd>\r\n						<dt>Location</dt> <dd>Kitchener-Waterloo</dd>\r\n						\r\n						<dt>Posts</dt> <dd>454</dd>	\r\n						\r\n					</dl>\r\n					\r\n					\r\n				</div>\r\n			\r\n		</div>\r\n	</div>\r\n\r\n	<div class="postbody">\r\n		\r\n		<div class="postrow">\r\n		\r\n		<h2 class="posttitle icon icon0">\r\n			\r\n		</h2>\r\n		\r\n				\r\n				\r\n		<div class="content<!-' + '-' + '-' + '->">\r\n			<div id="post_message_287">\r\n				<blockquote class="postcontent restore">\r\n					<b><u><font size="4"><font color="Blue">A chance to ride with Lance</font></font></u></b><br />\r\nApril 24, 2008 <br />\r\nJohanna Weidner, RECORD STAFF<br />\r\nWATERLOO REGION<br />\r\n<br />\r\n<img src="/web/20100203145002/http://media.therecord.com/images/3a/0f/313084014338a2310a0e3e05f16d.jpeg" border="0" alt="" /><br />\r\nLance Armstrong, shown during the 2005 Tour de France, will be biking with Jim Balsillie and 50 other cyclists who can each raise $25,000 for cancer centres.<br />\r\n<br />\r\n<br />\r\n<b><font color="Red">RIM billionaire Jim Balsillie and cycling star Lance Armstrong will team up for a local bicycle tour to raise money for cancer treatment.</font></b><br />\r\n<br />\r\nA select few will take to the backroads of Waterloo Region with Armstrong in the Ride with Lance fundraiser on <font color="red"><b>June 14</b></font>.<br />\r\n<br />\r\n<b><font color="red">Money raised will go to the Grand River Regional Cancer Centre and the Odette Cancer Centre at Sunnybrook hospital in Toronto.</font></b><br />\r\n<br />\r\nBalsillie, co-chief executive officer of Research In Motion, is a driving force behind the event. Armstrong is a seven-time Tour de France winner and a cancer survivor.<br />\r\n<br />\r\nRiders who want to join the pack will need to raise at least $25,000, including a $1,500 registration fee. Only 50 people can join.<br />\r\n<br />\r\n<b><font color="red">The route is being designed by Canadian cycling legend Steve Bauer. </font></b>The Olympic silver medallist and Tour de France competitor cycled with Balsillie and Armstrong at a Lake Louise cancer fundraiser in June.<br />\r\n<br />\r\n<font color="red"><b>The route will cover about 100 kilometres over country roads around Waterloo Region and take between three and four hours.</b></font><br />\r\n<br />\r\n&quot;It will be rural, rolling terrain,&quot; said Bauer, who owns a St. Catharines company that organizes bike tours around the world.<br />\r\n<br />\r\nThe route will begin and end in the Kitchener area but is not yet finalized.<br />\r\n<br />\r\n&quot;I\'m sure we\'ll get a great route together,&quot; Bauer said. &quot;There\'s so many great roads around there.&quot;<br />\r\n<br />\r\nThe hefty fundraising requirements comes with some perks. Rid<font color="red">ers will enjoy a reception with Armstrong the night before the ride and brunch before they head out Saturday morning. Every rider, decked out in a team jersey and shorts, gets a chance to pedal at the front of the pack next to Armstrong.<br />\r\n<br />\r\nAt a post-ride dinner, the top five fundraisers will dine at Armstrong\'s table.</font><br />\r\n<br />\r\n<br />\r\n<b><u><font size="4"><font color="Blue">Website set up to promote Lance Armstrong fundraiser</font></font></u></b><br />\r\nApril 26, 2008 <br />\r\nRecord staff<br />\r\nWATERLOO REGION<br />\r\n<a href="/web/20100203145002/http://news.therecord.com/article/342148" target="_blank">/web/20100203145002/http://news.therecord.com/article/342148</a><br />\r\n<br />\r\nLearn more about the Ride with Lance on the fundraiser\'s website at <a href="/web/20100203145002/http://www.ridewithlance.ca" target="_blank">www.ridewithlance.ca</a>. On June 14, Lance Armstrong will cycle with an exclusive group of riders on the region\'s rural roads to raise money for cancer treatment. Riders need to raise at least $25,000, including a registration fee of $1,500. Only 50 people can register. The event will benefit the Grand River Regional Cancer Centre and the Odette Cancer Centre at Sunnybrook hospital in Toronto.<br />\r\n<br />\r\n<b><u><font size="4"><font color="Blue">Armstrong, Liggett take a ride</font></font></u></b><br />\r\nJune 10, 2008 <br />\r\nRecord staff, news services<br />\r\nWATERLOO REGION<br />\r\n<a href="/web/20100203145002/http://news.therecord.com/article/364432" target="_blank">/web/20100203145002/http://news.therecord.com/article/364432</a><br />\r\n<br />\r\nOne of the biggest names in cycle sports reporting will be joining one of the biggest names in professional cycling for a 100-kilometre ride in our area on Saturday. Phil Liggett, cycling journalist and longtime commentator of the Tour de France, will join a pack of 40 cyclists led by seven-time Tour de France champion Lance Armstrong through the hills of Waterloo Region. The event is the Ride With Lance, an eastern Canadian version of the annual western Canadian event that raises money for Alberta cancer facilities. For this event, each rider has to raise $25,000 to participate, for a total of $1 million, to be split between Grand River Hospital\'s Regional Cancer Centre and the Odette Cancer Centre at Toronto\'s Sunnybrook Hospital. For more on this event, visit Bill Bean\'s Take the Lane blog at <a href="/web/20100203145002/http://therecord" target="_blank">/web/20100203145002/http://therecord</a>. blogs.com/take_the_lane/<br />\r\n<br />\r\n<br />\r\n<b><u><font size="4"><font color="blue">Dinner with Armstrong spurs fundraising race</font></font></u></b><br />\r\nJune 11, 2008 <br />\r\nJohanna Weidner, RECORD STAFF<br />\r\nWATERLOO REGION<br />\r\n<a href="/web/20100203145002/http://news.therecord.com/article/365073" target="_blank">/web/20100203145002/http://news.therecord.com/article/365073</a><br />\r\n<br />\r\n<img src="/web/20100203145002/http://media.therecord.com/images/e1/04/bffc020c41ff94da4fd883c8c967.jpeg" border="0" alt="" /><br />\r\nCyclist Lance Armstrong, pictured during training in 2005, will be in Waterloo Region this weekend for a fundraising ride for cancer research.<br />\r\n<br />\r\nCycling star Lance Armstrong rolls into Waterloo Region this Saturday to raise money for cancer research.<br />\r\n<br />\r\nArmstrong will be cycling the back roads with a select group of riders, who each raised at least $25,000 for the Ride with Lance fundraiser. Thirty-seven people, including 11 local riders, were registered by Monday. Jim Balsillie, Research In Motion\'s co-chief executive officer, is one of the top five fundraisers, with about $35,000 in pledges.<br />\r\n<br />\r\nBalsillie helped organize the event to benefit the Grand River Regional Cancer Centre and the Odette Cancer Centre at Sunnybrook hospital in Toronto. The fundraiser was started by the Toronto hospital, and Grand River joined when Balsillie got on board and helped recruit Armstrong, said Nancy Hewat, executive director of the Grand River Hospital Foundation.<br />\r\n<br />\r\nBalsillie cycled with Armstrong, a seven-time Tour de France winner and cancer survivor, at a Lake Louise cancer fundraiser last June.<br />\r\n<br />\r\n&quot;He\'s the catalyst to getting us involved,&quot; Hewat said.<br />\r\n<br />\r\nIt hasn\'t been decided how the money will be split between the cancer centres, she said. Local donors can direct their money to the Kitchener hospital.<br />\r\n<br />\r\nOn Friday night, Armstrong will speak to the riders briefly at a reception in Toronto. Each rider gets a chance to pedal side-by-side with Armstrong. The top five fundraisers get to sit with Armstrong at the dinner Saturday night. In the running for a spot at Armstrong\'s table is Ian Cook, president of Waterloo-based Cook Homes.<br />\r\n<br />\r\n&quot;It\'s one thing to be able to ride with Lance. It\'s another to be able to sit down with him,&quot; said Cook, who has raised more than $35,000.<br />\r\n<br />\r\nEven before the 100-kilometre ride begins, the race is underway to raise the most money. &quot;There\'s some competitive juices flowing,&quot; said Cook, 47.<br />\r\n<br />\r\nHe signed up for the event as soon as he read about it. &quot;I pinch myself to think how lucky I am.&quot;<br />\r\n<br />\r\nBeyond meeting Armstrong, Cook was thrilled by the personal challenge and the chance to help a good cause. He has been training on his bike and at the gym.<br />\r\n<br />\r\nDesigned by Canadian cycling legend Steve Bauer, the route is being kept secret by organizers.<br />\r\n<br />\r\nFind out more or make donations at <a href="/web/20100203145002/http://www.ridewithlance.ca" target="_blank">www.ridewithlance.ca</a>.<br />\r\n<br />\r\n<b>THERECORD.COM</b><br />\r\n<br />\r\nFor more details about this ride and other cycling highlights, visit Bill Bean\'s blog, Take The Lane.\r\n				</blockquote>\r\n			</div>\r\n\r\n			\r\n\r\n\r\n		</div>\r\n			\r\n\r\n                        	\r\n		        \r\n			\r\n			<blockquote class="signature restore"><div class="signaturecontainer"><a href="showthread.php?t=116" rel="nofollow" title="Wonderful Waterloo - Thread 116"><font color="Green"><font size="2"><b>Canadian Monopoly - Vote for Kitchener &amp; Nominate our Other Municipalities </b></font></font></a></div></blockquote>\r\n			\r\n\r\n			\r\n		</div>\r\n	</div>\r\n	<div class="postfoot">\r\n		<div class="textcontrols">\r\n			<span class="postcontrols">\r\n				<img style="display:none" id="progress_287" src="images/misc/progress.gif"  alt="" />\r\n				\r\n\r\n				\r\n				\r\n					<a id="qrwq_287" class="newreply" href="newreply.php?do=newreply&amp;p=287" rel="nofollow" ><img id="quoteimg_287" src="images/buttons/trans_40b.png" alt="Reply With Quote" /> Reply With Quote</a>\r\n					<span class="seperator">&nbsp;</span>\r\n				\r\n				\r\n			</span>\r\n\r\n			<span class="postlinking">\r\n				\r\n					\r\n				\r\n				\r\n\r\n				 \r\n				\r\n\r\n					\r\n\r\n					\r\n					 \r\n\r\n					\r\n					\r\n					\r\n					\r\n			</span>\r\n		</div>\r\n	</div>\r\n	<hr />\r\n</li>\r\n  ';
+        pd[288] = '<li class="postbit postbitim postcontainer" id="post_288">\r\n	<div class="postdetails_noavatar">\r\n		<div class="posthead">\r\n			<label for="post_imod_checkbox_288">\r\n			<span class="postdate old">\r\n			\r\n			<span class="date">01-03-2010&nbsp;<span class="time">02:10 AM</span></span>\r\n			\r\n			</span>\r\n			<span class="nodecontrols">\r\n				<span class="postcontrols_top">\r\n					\r\n						<a name="post288"></a>\r\n						<a href="showthread.php/65-Cycling-in-Waterloo-Region?p=288#post288" class="postcounter" id="postcount288" title="3">#3</a>\r\n					\r\n					\r\n				</span>\r\n			</span>\r\n			</label>\r\n		</div>\r\n\r\n		<div class="userinfo">\r\n			<div class="contact">\r\n				\r\n					<a class="postuseravatarlink" href="member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">\r\n						\r\n							<img src="image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo\'s Avatar" />\r\n						\r\n					</a>\r\n				\r\n				<div class="username_container">\r\n					\r\n						<div class="popupmenu memberaction">\r\n	<a class="username offline popupctrl" href="member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>\r\n	<ul class="popupbody popuphover memberaction_body">\r\n		<li class="left">\r\n			<a href="member.php/2-UrbanWaterloo">\r\n				<img src="images/site_icons/profile.png" alt="" />\r\n				View Profile\r\n			</a>\r\n		</li>\r\n		\r\n		<li class="right">\r\n			<a href="search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel=\'nofollow\'>\r\n				<img src="images/site_icons/forum.png" alt="" />\r\n				View Forum Posts\r\n			</a>\r\n		</li>\r\n		\r\n		\r\n		<li class="left">\r\n			<a href="private.php?do=newpm&amp;u=2" rel=\'nofollow\'>\r\n				<img src="images/site_icons/message.png" alt="" />\r\n				Private Message\r\n			</a>\r\n		</li>\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		<li class="right">\r\n			<a href="list.php/author/2-UrbanWaterloo" rel=\'nofollow\'>\r\n				<img src="images/site_icons/article.png" alt="" />\r\n				View Articles\r\n			</a>\r\n		</li>\r\n		\r\n\r\n		\r\n\r\n		\r\n		\r\n	</ul>\r\n</div>\r\n \r\n						<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />\r\n\r\n \r\n					\r\n					<span class="usertitle">\r\n						Senior Moderator\r\n					</span>\r\n					\r\n\r\n                                        \r\n					\r\n					\r\n						<div class="imlinks">\r\n							    \r\n						</div>\r\n					\r\n				</div>\r\n			</div>\r\n			\r\n				<div class="userinfo_extra">\r\n					<dl class="userstats">\r\n						<dt>Join Date</dt> <dd>Dec 2009</dd>\r\n						<dt>Location</dt> <dd>Kitchener-Waterloo</dd>\r\n						\r\n						<dt>Posts</dt> <dd>454</dd>	\r\n						\r\n					</dl>\r\n					\r\n					\r\n				</div>\r\n			\r\n		</div>\r\n	</div>\r\n\r\n	<div class="postbody">\r\n		\r\n		<div class="postrow">\r\n		\r\n		<h2 class="posttitle icon icon0">\r\n			\r\n		</h2>\r\n		\r\n				\r\n				\r\n		<div class="content<!-' + '-' + '-' + '->">\r\n			<div id="post_message_288">\r\n				<blockquote class="postcontent restore">\r\n					<b><u><font size="4"><font color="Blue">Teen to ride with tour de Lance</font></font></u></b><br />\r\nJune 14, 2008 <br />\r\nCharlotte Prong Parkhill, RECORD STAFF<br />\r\nWATERLOO REGION<br />\r\n<a href="/web/20100203145002/http://news.therecord.com/article/366886" target="_blank">/web/20100203145002/http://news.therecord.com/article/366886</a><br />\r\n<br />\r\n<img src="/web/20100203145002/http://media.therecord.com/images/3b/00/07f711534bedae3b61aef0ae90ef.jpeg" border="0" alt="" /><br />\r\nMorgan MacPhee, 13, emulates his hero Lance Armstrong. Morgan will get to ride in the volunteer van for the Ride with Lance Armstrong after he raised thousands for cancer facilities.<br />\r\n<br />\r\n<br />\r\nA privileged few will ride beside Lance Armstrong today on Waterloo Region\'s country roads.<br />\r\n<br />\r\nMorgan MacPhee is one of them, even though he\'s too young and he didn\'t raise quite enough money to Ride with Lance. Still, the 13-year-old Elmira boy will have an insider\'s view of the fundraiser. And he\'ll be wearing his official Ride with Lance cycling jersey and shorts.<br />\r\n<br />\r\nOrganizers invited Morgan to ride in the volunteer van accompanying the cyclists on their top-secret trek. He also attended the kickoff reception in Toronto last night with his mother Jacinta Faries.<br />\r\n<br />\r\nIt\'s a thank you for his extraordinary effort in raising money for cancer facilities in Kitchener and Toronto. Armstrong and a group of elite fundraisers will leave a North Dumfries location this morning and follow a 100-kilometre route.<br />\r\n<br />\r\nMorgan really wanted to be one of the 50 riders, each required to raise a minimum of $25,000, who get the chance to put the pedal to the metal alongside the seven-time Tour de France winner.<br />\r\n<br />\r\nHis mother didn\'t think it was an attainable goal, but Morgan was undaunted.<br />\r\n<br />\r\n&quot;I told him that\'s a lot,&quot; said Faries. &quot;You don\'t have the connections to raise that kind of money.&quot;<br />\r\n<br />\r\nThe connections Morgan did have included staff and students at Park Manor Senior Public School, and the local McDonald\'s and Home Hardware. They helped him rake in almost $10,000.<br />\r\n<br />\r\nThen he found out riders need to be at least 21, a fact left off the application form.<br />\r\n<br />\r\n&quot;I\'m disappointed that I didn\'t reach my goal, but I\'m excited I get to meet him. I want him to autograph my jersey,&quot; Morgan said. &quot;I think it\'s good that he had one of the worst kinds of cancer, and he recovered, and won the Tour de France.&quot;<br />\r\n<br />\r\nHis interest in the ride was inspired by Armstrong\'s biography, and by his grandparents. Morgan\'s grandmother has survived three bouts of cancer, and his grandfather is an avid long-distance cyclist and former racer.<br />\r\n<br />\r\nMorgan hopes he\'ll get another crack at raising money to ride with Lance someday, and has no doubt he\'ll be able to keep up. He regularly cycles over 30 kilometres on a $1,400 bike he bought himself with money he saved from working.<br />\r\n<br />\r\nThe ride is expected to raise over $1 million for two cancer centres, including the Grand River Regional Cancer Centre.<br />\r\n<br />\r\n<br />\r\n<br />\r\n<b><u><font size="4"><font color="Blue">Cyclists ride with Lance for cancer</font></font></u></b><br />\r\nJune 14, 2008 <br />\r\nCharlotte Prong Parkhill<br />\r\nRecord staff<br />\r\n<a href="/web/20100203145002/http://news.therecord.com/article/367210" target="_blank">/web/20100203145002/http://news.therecord.com/article/367210</a><br />\r\n<br />\r\n<img src="/web/20100203145002/http://media.therecord.com/images/0f/9e/e52dcbbd43f29e5b78b926b91252.jpeg" border="0" alt="" /><br />\r\n<br />\r\nFor in depth, behind-the-scenes coverage of this event, check out Bill Bean\'s blog on bicycles: <a href="/web/20100203145002/http://therecord.blogs.com/take_the_lane/" target="_blank">Take the Lane </a> <br />\r\n<br />\r\nWATERLOO REGION -' + '- Local cancer survivor Deb Gemmell is wearing the coveted yellow jersey as she cycles Waterloo Region’s country roads with Lance Armstrong today. <br />\r\n<br />\r\nForty cyclists each raised over $25,000 for the privilege of riding with the seven-time Tour de France winner on a 117 kilometre route today.<br />\r\n<br />\r\nJim Balsillie teamed up with Sunnybrook Hospital to bring cancer survivor Armstrong to the region. The Ride with Lance fundraiser is expected to raise more than $1.2 million, to be split between the Grand River Regional Cancer Centre and the Odette Cancer Centre at Sunnybrook hospital.<br />\r\n<br />\r\nThe yellow jersey is traditionally given to the top fundraiser. But it was presented to Gemmell by Armstrong and Perry Dellelce, who is the top fundraiser and co-chair of the event.<br />\r\n<br />\r\nGemmell, 54, was diagnosed with breast cancer 18 months ago. Since then, she’s undergone surgery, radiation, and chemotherapy. Her treatment ends in September. &quot;And then we’ll be back to normal,&quot; said her husband Jonathan Pearce.<br />\r\n<br />\r\nBeing part of the race at all came as a shock to Gemmell. The cycling enthusiast desperately wanted to participate, but wasn’t able to come up with the required funds. Just a week ago, the Waterloo office of Canaccord Capital surprised her with the news that they had come up with the money and registered her for the event.<br />\r\n<br />\r\n&quot;It’s a dream come true for her,&quot; said Pearce. &quot;Lance Armstrong has always been an inspiration. Your attitude is the most important factor, and she’s really positive.&quot; <br />\r\n<br />\r\nSecurity was tight around the Woerner House estate in Cambridge this morning where the ride begins and ends. Riders and crew arriving in SUVs, limousines and buses crept past the stone gate. Local cycling enthusiasts and friends and family of the riders peered down the leafy drive, hoping to catch a glimpse of their hero at the pre-ride brunch.<br />\r\n<br />\r\nA buzz went through the crowd when Phil Liggett, a Tour de France commentator known as ‘The Voice of Cycling’ appeared outside the gate in his official Ride with Lance jersey.<br />\r\n<br />\r\nHe said Armstrong is an inspiration, and a passionate speaker. &quot;He makes you believe in yourself,&quot; said Liggett. &quot;When you’re fighting a disease like cancer, the best thing is to believe you can beat it, and Lance puts that message out there.&quot;<br />\r\n<br />\r\nPerched on her new bike, Dr. Carolyn Campbell, chief of the Grand River Regional Cancer Centre, said she was undeterred by the length of the ride. <br />\r\n<br />\r\n&quot;I have no doubt I can make it,&quot; said Campbell. &quot;I’m so ready! It’s all about the participation. It’s not a race.&quot;<br />\r\n<br />\r\nCampbell, whose husband, Kitchener oncologist Dr. Bob Stevens, is also riding, said they could not have raised the funds without the generosity of the staff at the cancer clinic.<br />\r\n<br />\r\nMaria Pegg waited patiently outside the gate to see her husband Shane ride by. Also waiting patiently was Pegg’s baby, whose due date was two days ago. &quot;If I go into labour, he’ll have to go up and ask Lance to pick up the pace, and maybe swing by the hospital,&quot; said Pegg.<br />\r\n<br />\r\nShane, a sales manager at RIM, is a huge fan of Armstrong and the son of two cancer survivors.<br />\r\n<br />\r\nCheers went up as a motorcade of police cars and motorcycles left the grounds, followed by the small pack of elite cyclists, and support vehicles. The Ride for Lance route is a closely guarded secret, and is expected to last three to four hours. Riders will have dinner with Lance tonight, with the top five fundraisers sitting at his table.<br />\r\n<br />\r\nGrand River Regional Cancer Centre\'s portion of the proceeds will go toward purchasing a new piece of\' radiation equipment.<br />\r\n<br />\r\n<br />\r\n<b><u><font size="4"><font color="blue">Ride with Lance fundraiser a success</font></font></u></b><br />\r\nJune 14, 2008 <br />\r\nCharlotte Prong Parkhill, RECORD STAFF<br />\r\n<a href="/web/20100203145002/http://news.therecord.com/article/367226" target="_blank">/web/20100203145002/http://news.therecord.com/article/367226</a><br />\r\n<br />\r\n<img src="/web/20100203145002/http://media.therecord.com/images/ee/8f/e241cfb0425cbb46261cc90fee9e.jpeg" border="0" alt="" /><br />\r\nShane Pegg (left), sales manager at RIM, and Jim Balsillie, co-CEO of RIM, and one of the top fund raisers for the event celebrate after the ride. <br />\r\n<br />\r\nWATERLOO REGION -' + '- Moments after completing the Ride with Lance, Jim Balsillie compared the event to a wedding day.<br />\r\n<br />\r\n&quot;I’m thrilled!&quot; he said, gulping from his water bottle. &quot;The weather… it all went great, and everyone is happy. Now I can go relax.&quot;<br />\r\n<br />\r\nJim Balsillie teamed up with Sunnybrook Hospital to bring cancer survivor and celebrity cyclist Lance Armstrong to the region. The Ride with Lance fundraiser is expected to raise more than $1.3 million, to be shared by Grand River Regional Cancer Centre and the Odette Cancer Centre at Sunnybrook hospital.<br />\r\n<br />\r\nForty cyclists each raised over $25,000 for the privilege of riding with the seven-time Tour de France winner on a 117 kilometre route.<br />\r\n<br />\r\nBalsillie was the catalyst that brought Lance to the region. &quot;I know him, because he thinks I’m his tech support for his Blackberry,&quot; he said. <br />\r\n<br />\r\nThe two met when Armstrong used the BlackBerry for his cycling team support. &quot;We just kind of stayed in touch and got to know each other.&quot;<br />\r\n<br />\r\nThe route through Waterloo Region’s country roads was designed by Canadian cyclist Steve Bauer, who also rode today.<br />\r\n<br />\r\n&quot;The pace was tough,&quot; Balsillie admitted as he wiped sweat from his eyes. &quot;You try to stay in the peleton as much as you can, and you pull for a little bit, but it was a really tough.&quot;<br />\r\n<br />\r\nBalsillie said he and his wife Heidi care a lot about health care and social services, among other things, and are happy to be able to help.<br />\r\n<br />\r\n&quot;Part of the fun for me was to fuse Sunnybrook hospital with Grand River, a research hospital with a clinical one,&quot; Balsillie said.<br />\r\n<br />\r\nLocal cancer survivor Deb Gemmell wore the coveted yellow jersey as she cycled in the pack today.<br />\r\n<br />\r\nThe yellow jersey is traditionally given to the top fundraiser. But it was presented to Gemmell by Armstrong and Perry Dellelce, who is the top fundraiser and co-chair of the event.<br />\r\n<br />\r\nGemmell, 54, was diagnosed with breast cancer 18 months ago. Since then, she’s undergone surgery, radiation, and chemotherapy. Her treatment ends in September. &quot;And then we’ll be back to normal,&quot; said her husband Jonathan Pearce.<br />\r\n<br />\r\nBeing part of the race at all came as a shock to Gemmell. The cycling enthusiast desperately wanted to participate, but wasn’t able to come up with the required funds. Just a week ago, the Waterloo office of Canaccord Capital surprised her with the news that they had come up with the money and registered her for the event.<br />\r\n<br />\r\n&quot;It’s a dream come true for her,&quot; said Pearce. &quot;Lance Armstrong has always been an inspiration. Your attitude is the most important factor, and she’s really positive.&quot; <br />\r\n<br />\r\nSecurity was tight around the Woerner House estate in Cambridge this morning where the ride started and ended. Riders and crew arriving in SUVs, limousines and buses crept past the stone gate. Local cycling enthusiasts and friends and family of the riders peered down the leafy drive, hoping to catch a glimpse of their hero at the pre-ride brunch.<br />\r\n<br />\r\nA buzz went through the crowd when Phil Liggett, a Tour de France commentator known as ‘The Voice of Cycling’ appeared outside the gate in his official Ride with Lance jersey.<br />\r\n<br />\r\nHe said Armstrong is an inspiration, and a passionate speaker. &quot;He makes you believe in yourself,&quot; said Liggett. &quot;When you’re fighting a disease like cancer, the best thing is to believe you can beat it, and Lance puts that message out there.&quot;<br />\r\n<br />\r\nPerched on her new bike, Dr. Carolyn Campbell, chief of the Grand River Regional Cancer Centre, said she was undeterred by the length of the ride. &quot;I have no doubt I can make it,&quot; said Campbell. &quot;I’m so ready! It’s all about the participation. It’s not a race.&quot;<br />\r\n<br />\r\nCampbell, whose husband, Kitchener oncologist Dr. Bob Stevens, is also riding, said they could not have raised the funds without the generosity of the staff at the cancer clinic.<br />\r\n<br />\r\nMaria Pegg waited patiently outside the gate to see husband Shane ride by. Also waiting patiently was Pegg’s baby, whose due date was two days ago. &quot;If I go into labour, he’ll have to go up and ask Lance to pick up the pace, and maybe swing by the hospital,&quot; she said.<br />\r\n<br />\r\nShane, a sales manager at RIM, is a huge fan of Armstrong and the son of two cancer survivors.<br />\r\n<br />\r\nA motorcade of police bikes and cars led the pack, followed by support vehicles. The Ride for Lance route was a closely guarded secret. Riders will have dinner with Lance tonight, with the top five fundraisers sitting at his table.<br />\r\n<br />\r\nGrand River’s portion of the proceeds will go toward purchasing a new piece of radiation equipment.<br />\r\n<br />\r\n&quot;This is a huge highlight. When I rode in Calgary, I couldn’t sleep for 2 days. I was like a kid,&quot; Balsillie said after riding with Armstrong. &quot;Gordie Howe would be the only one that would measure up, so for me, it’s massive.&quot;\r\n				</blockquote>\r\n			</div>\r\n\r\n			\r\n\r\n\r\n		</div>\r\n			\r\n\r\n                        	\r\n		        \r\n			\r\n			<blockquote class="signature restore"><div class="signaturecontainer"><a href="showthread.php?t=116" rel="nofollow" title="Wonderful Waterloo - Thread 116"><font color="Green"><font size="2"><b>Canadian Monopoly - Vote for Kitchener &amp; Nominate our Other Municipalities </b></font></font></a></div></blockquote>\r\n			\r\n\r\n			\r\n		</div>\r\n	</div>\r\n	<div class="postfoot">\r\n		<div class="textcontrols">\r\n			<span class="postcontrols">\r\n				<img style="display:none" id="progress_288" src="images/misc/progress.gif"  alt="" />\r\n				\r\n\r\n				\r\n				\r\n					<a id="qrwq_288" class="newreply" href="newreply.php?do=newreply&amp;p=288" rel="nofollow" ><img id="quoteimg_288" src="images/buttons/trans_40b.png" alt="Reply With Quote" /> Reply With Quote</a>\r\n					<span class="seperator">&nbsp;</span>\r\n				\r\n				\r\n			</span>\r\n\r\n			<span class="postlinking">\r\n				\r\n					\r\n				\r\n				\r\n\r\n				 \r\n				\r\n\r\n					\r\n\r\n					\r\n					 \r\n\r\n					\r\n					\r\n					\r\n					\r\n			</span>\r\n		</div>\r\n	</div>\r\n	<hr />\r\n</li>\r\n  ';
+        pd[289] = '<li class="postbit postbitim postcontainer" id="post_289">\r\n	<div class="postdetails_noavatar">\r\n		<div class="posthead">\r\n			<label for="post_imod_checkbox_289">\r\n			<span class="postdate old">\r\n			\r\n			<span class="date">01-03-2010&nbsp;<span class="time">02:11 AM</span></span>\r\n			\r\n			</span>\r\n			<span class="nodecontrols">\r\n				<span class="postcontrols_top">\r\n					\r\n						<a name="post289"></a>\r\n						<a href="showthread.php/65-Cycling-in-Waterloo-Region?p=289#post289" class="postcounter" id="postcount289" title="4">#4</a>\r\n					\r\n					\r\n				</span>\r\n			</span>\r\n			</label>\r\n		</div>\r\n\r\n		<div class="userinfo">\r\n			<div class="contact">\r\n				\r\n					<a class="postuseravatarlink" href="member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">\r\n						\r\n							<img src="image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo\'s Avatar" />\r\n						\r\n					</a>\r\n				\r\n				<div class="username_container">\r\n					\r\n						<div class="popupmenu memberaction">\r\n	<a class="username offline popupctrl" href="member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>\r\n	<ul class="popupbody popuphover memberaction_body">\r\n		<li class="left">\r\n			<a href="member.php/2-UrbanWaterloo">\r\n				<img src="images/site_icons/profile.png" alt="" />\r\n				View Profile\r\n			</a>\r\n		</li>\r\n		\r\n		<li class="right">\r\n			<a href="search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel=\'nofollow\'>\r\n				<img src="images/site_icons/forum.png" alt="" />\r\n				View Forum Posts\r\n			</a>\r\n		</li>\r\n		\r\n		\r\n		<li class="left">\r\n			<a href="private.php?do=newpm&amp;u=2" rel=\'nofollow\'>\r\n				<img src="images/site_icons/message.png" alt="" />\r\n				Private Message\r\n			</a>\r\n		</li>\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		<li class="right">\r\n			<a href="list.php/author/2-UrbanWaterloo" rel=\'nofollow\'>\r\n				<img src="images/site_icons/article.png" alt="" />\r\n				View Articles\r\n			</a>\r\n		</li>\r\n		\r\n\r\n		\r\n\r\n		\r\n		\r\n	</ul>\r\n</div>\r\n \r\n						<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />\r\n\r\n \r\n					\r\n					<span class="usertitle">\r\n						Senior Moderator\r\n					</span>\r\n					\r\n\r\n                                        \r\n					\r\n					\r\n						<div class="imlinks">\r\n							    \r\n						</div>\r\n					\r\n				</div>\r\n			</div>\r\n			\r\n				<div class="userinfo_extra">\r\n					<dl class="userstats">\r\n						<dt>Join Date</dt> <dd>Dec 2009</dd>\r\n						<dt>Location</dt> <dd>Kitchener-Waterloo</dd>\r\n						\r\n						<dt>Posts</dt> <dd>454</dd>	\r\n						\r\n					</dl>\r\n					\r\n					\r\n				</div>\r\n			\r\n		</div>\r\n	</div>\r\n\r\n	<div class="postbody">\r\n		\r\n		<div class="postrow">\r\n		\r\n		<h2 class="posttitle icon icon0">\r\n			\r\n		</h2>\r\n		\r\n				\r\n				\r\n		<div class="content<!-' + '-' + '-' + '->">\r\n			<div id="post_message_289">\r\n				<blockquote class="postcontent restore">\r\n					<b><u><font size="4"><font color="blue">Lance\'s Tour de Région; Lance Armstrong teams up with RIM\'s Jim Balsillie for a bicycle ride in Waterloo Region to raise more than $1.3 million for cancer centres</font></font></u></b><br />\r\nJune 16, 2008 <br />\r\nGreg Mercer and Charlotte Prong Parkhill; RECORD STAFF<br />\r\nNORTH DUMFRIES<br />\r\n<a href="/web/20100203145002/http://news.therecord.com/article/367704" target="_blank">/web/20100203145002/http://news.therecord.com/article/367704</a><br />\r\n<br />\r\n<img src="/web/20100203145002/http://media.therecord.com/images/4a/6b/9f982ad24a97931a5378a0725579.jpeg" border="0" alt="" /><br />\r\nLance Armstrong (left) lent his star power and cycled with RIM&#8217;s Jim Balsillie (right) yesterday to lead a bike ride yesterday that raised more<br />\r\nthan $1.3 million for the Odette Cancer Centre at Sunnybrook Hospital and the Grand River Regional Cancer Centre.<br />\r\n<br />\r\n<img src="/web/20100203145002/http://media.therecord.com/images/41/09/b409dac4410f8fbb4824a256450f.jpeg" border="0" alt="" /><br />\r\nMorgan MacPhee of Elmira, 13, visits with Kate Hudson, left, and Lance Armstrong after the Tour de France champion led a ride through Waterloo Region on Saturday to benefit local cancer treatment. <br />\r\n<br />\r\n<img src="/web/20100203145002/http://media.therecord.com/images/ef/91/4be30a024b66bb756c68df77232f.jpeg" border="0" alt="" /><br />\r\nOn Saturday, Lance Armstrong (centre, in yellow and black) was joined by 40 riders at Ride With Lance, a fundraiser for Sunnybrook Hospital&#8217;s Odette Cancer Centre in Toronto and the Grand River Regional Cancer Centre in Cambridge.<br />\r\n<br />\r\nWith a police motorcade, gushing fans and throngs of photographers, the Lance Armstrong show wound its way through the region\'s back roads Saturday. <br />\r\n<br />\r\nIn his wake, the cycling world\'s biggest celebrity left behind over $1.3 million for local cancer treatment.<br />\r\n<br />\r\nThat was the sum collected by entrepreneurs, doctors, lawyers and teenagers who raised more than $25,000 each for the chance to cycle 117 kilometres with the retired American athlete.<br />\r\n<br />\r\nThis was no Sunday jaunt. The secret route, which wound through North Dumfries\' country roads, took just shy of four hours to complete under beaming sunshine.<br />\r\n<br />\r\nArmstrong, joined at an earlier dinner by actor girlfriend Kate Hudson, lent his star power to an event that sparked a fundraising race for the Grand River Regional Cancer Centre and the Odette Cancer Centre at Toronto\'s Sunnybrook hospital.<br />\r\n<br />\r\nHis name not only attracted money, it drew quite a crowd, too. Dozens lined the road at the ride\'s starting point outside the Woerner House estate on Roseville Road, cheering wildly as the seven-time Tour de France winner bolted out of the gated compound and hit the road with his grinning entourage.<br />\r\n<br />\r\nOne fan arrived wearing a replica jersey of the U.S. Postal Service racing uniform that Armstrong once wore. The crowd peered down the estate\'s leafy drive, hoping to catch a glimpse of Armstrong at the pre-ride brunch.<br />\r\n<br />\r\nAmong those waiting at the gate was a very pregnant Maria Pegg, whose husband Shane, a sales manager and son of two cancer survivors, was riding in the group.<br />\r\n<br />\r\n&quot;If I go into labour, he\'ll have to go up and ask Lance to pick up the pace, and maybe swing by the hospital,&quot; joked Pegg.<br />\r\n<br />\r\nArmstrong stuck with his pack for most of the route, rotating front-runners so everyone could have their photo taken with him. He signed the photos at the end of the ride, which wound back to the country estate on Roseville Road.<br />\r\n<br />\r\nDuring the ride, after a few hours of keeping pace with the group of weekend warriors, Armstrong apparently decided to kick into a higher gear.<br />\r\n<br />\r\n&quot;Lance went by me so fast at one point, I thought he was one of the motorcycle cops,&quot; said Tom Wideman, a 47-year-old Kitchener restaurateur.<br />\r\n<br />\r\nMorgan MacPhee, the 13-year-old Elmira boy who raised more than $10,000, marvelled that he saw Armstrong passing riders going uphill without using his hands -' + '- while text-messaging on his cellphone.<br />\r\n<br />\r\nWideman said he and RIM co-chief executive Jim Balsillie -' + '- a key factor in Armstrong\'s agreeing to do the event -' + '- took 20 minutes to catch up to the group after stopping to fix a broken chain.<br />\r\n<br />\r\nBalsillie had cycled with Armstrong at a Lake Louise cancer fundraiser last June, and used his connection to bring the celebrity here.<br />\r\n<br />\r\nOnly a week ago, 54-year-old rider Deb Gemmell didn\'t think she was going to get to be a part of the ride. The cycling enthusiast, diagnosed with breast cancer 18 months ago, desperately wanted to participate. She couldn\'t come up with the required $25,000.<br />\r\n<br />\r\nThen, the Waterloo office of Canaccord Capital surprised her with the news they had come up with the money and registered her for the event.<br />\r\n<br />\r\nGemmell was honoured with the ride\'s coveted yellow jersey, traditionally given to the top fundraiser. It was presented to her by Armstrong and Perry Dellelce, who was the actual top fundraiser and co-chair of the event.<br />\r\n<br />\r\nGemmell is nearing the end of an exhausting schedule of surgery, radiation treatment and chemotherapy. Her treatment ends in September.<br />\r\n<br />\r\n&quot;Then we\'ll be back to normal,&quot; said her husband Jonathan Pearce.<br />\r\n<br />\r\nThe ride was &quot;a dream come true for her,&quot; he added. &quot;Lance Armstrong has always been an inspiration. Your attitude is the most important factor, and she\'s really positive.&quot;<br />\r\n<br />\r\nOne of the youngest riders was Mildmay\'s Isaac Wilkinson, 18. His mother Jackie was a patient at Grand River before she died of leukemia two months ago at age 48.<br />\r\n<br />\r\nAfter her death, her son read about the Armstrong fundraiser. The teen bought a road bike and collected almost $30,000 around his small town, including money from a seven-year-old who asked for donations to Wilkinson\'s efforts in lieu of birthday presents.<br />\r\n<br />\r\n<br />\r\n<br />\r\n<b><u><font size="4"><font color="Blue">Balsillie gets to share the joy during ride</font></font></u></b><br />\r\nJune 16, 2008 <br />\r\nCharlotte Prong Parkhill,RECORD STAFF<br />\r\nWATERLOO REGION<br />\r\n<a href="/web/20100203145002/http://news.therecord.com/article/367714" target="_blank">/web/20100203145002/http://news.therecord.com/article/367714</a><br />\r\n<br />\r\nMoments after completing the Ride With Lance, Jim Balsillie compared the event to a wedding day.<br />\r\n<br />\r\nExcept this was a marriage of two of his passions -' + '- cycling and philanthropy.<br />\r\n<br />\r\n&quot;I\'m thrilled!&quot; he said, gulping from his water bottle. &quot;It was fun. It was really perfect.&quot;<br />\r\n<br />\r\nThe RIM billionaire and avid cyclist teamed up with Sunnybrook and Grand River hospitals to bring cancer survivor and seven-time Tour de France winner Lance Armstrong to the region.<br />\r\n<br />\r\nThe Grand River cancer clinic is named the Balsillie Family Building in honour of donations he and his wife have made.<br />\r\n<br />\r\n&quot;Heidi and I care a lot about health care and social services among other things . . . and this is a chance to help,&quot; he said. &quot;Part of the fun for me was to fuse Grand River and Sunnybrook a little bit more, a research hospital and a clinical one.&quot;<br />\r\n<br />\r\nBalsillie is connected to Armstrong through biking and BlackBerrys. Armstrong\'s racing team used the RIM Smartphone. Balsillie rode with Armstrong in a Calgary fundraiser. The pair kept in touch and got to know each other.<br />\r\n<br />\r\n&quot;He thinks I\'m his tech support for his BlackBerry,&quot; Balsillie said.<br />\r\n<br />\r\nArmstrong wasn\'t the only celebrity on the route. Tour de France commentator Phil Liggett and Canadian cyclist Steve Bauer also hit the road, on a course Bauer designed.<br />\r\n<br />\r\nBalsillie has done plenty of long-distance rides but still found the day challenging. &quot;The pace is tough. You try to stay in the peloton (main group) as much as you can,&quot; he said, wiping sweat out of his eyes. &quot;Waterloo Region has a tremendous number of great riders.&quot;<br />\r\n<br />\r\nHe said conditions couldn\'t have been better. The weather was good, the countryside was beautiful, spectators along the way were nice and the police did a great job of keeping everyone safe.<br />\r\n<br />\r\nFor Balsillie, the day was one of the highlights in his life.<br />\r\n<br />\r\n&quot;Gordie Howe would be the only one that would measure up,&quot; he said. &quot;So for me it\'s massive, a huge thrill.&quot;<br />\r\n<br />\r\nWhen he was growing up, he always had big dreams for himself.<br />\r\n<br />\r\n&quot;And then when you get a little older, the great joy is doing it together and sharing. Your dreams become a different kind of dream.&quot;\r\n				</blockquote>\r\n			</div>\r\n\r\n			\r\n\r\n\r\n		</div>\r\n			\r\n\r\n                        	\r\n		        \r\n			\r\n			<blockquote class="signature restore"><div class="signaturecontainer"><a href="showthread.php?t=116" rel="nofollow" title="Wonderful Waterloo - Thread 116"><font color="Green"><font size="2"><b>Canadian Monopoly - Vote for Kitchener &amp; Nominate our Other Municipalities </b></font></font></a></div></blockquote>\r\n			\r\n\r\n			\r\n		</div>\r\n	</div>\r\n	<div class="postfoot">\r\n		<div class="textcontrols">\r\n			<span class="postcontrols">\r\n				<img style="display:none" id="progress_289" src="images/misc/progress.gif"  alt="" />\r\n				\r\n\r\n				\r\n				\r\n					<a id="qrwq_289" class="newreply" href="newreply.php?do=newreply&amp;p=289" rel="nofollow" ><img id="quoteimg_289" src="images/buttons/trans_40b.png" alt="Reply With Quote" /> Reply With Quote</a>\r\n					<span class="seperator">&nbsp;</span>\r\n				\r\n				\r\n			</span>\r\n\r\n			<span class="postlinking">\r\n				\r\n					\r\n				\r\n				\r\n\r\n				 \r\n				\r\n\r\n					\r\n\r\n					\r\n					 \r\n\r\n					\r\n					\r\n					\r\n					\r\n			</span>\r\n		</div>\r\n	</div>\r\n	<hr />\r\n</li>\r\n  ';
+        pd[290] = '<li class="postbit postbitim postcontainer" id="post_290">\r\n	<div class="postdetails_noavatar">\r\n		<div class="posthead">\r\n			<label for="post_imod_checkbox_290">\r\n			<span class="postdate old">\r\n			\r\n			<span class="date">01-03-2010&nbsp;<span class="time">02:12 AM</span></span>\r\n			\r\n			</span>\r\n			<span class="nodecontrols">\r\n				<span class="postcontrols_top">\r\n					\r\n						<a name="post290"></a>\r\n						<a href="showthread.php/65-Cycling-in-Waterloo-Region?p=290#post290" class="postcounter" id="postcount290" title="5">#5</a>\r\n					\r\n					\r\n				</span>\r\n			</span>\r\n			</label>\r\n		</div>\r\n\r\n		<div class="userinfo">\r\n			<div class="contact">\r\n				\r\n					<a class="postuseravatarlink" href="member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">\r\n						\r\n							<img src="image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo\'s Avatar" />\r\n						\r\n					</a>\r\n				\r\n				<div class="username_container">\r\n					\r\n						<div class="popupmenu memberaction">\r\n	<a class="username offline popupctrl" href="member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>\r\n	<ul class="popupbody popuphover memberaction_body">\r\n		<li class="left">\r\n			<a href="member.php/2-UrbanWaterloo">\r\n				<img src="images/site_icons/profile.png" alt="" />\r\n				View Profile\r\n			</a>\r\n		</li>\r\n		\r\n		<li class="right">\r\n			<a href="search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel=\'nofollow\'>\r\n				<img src="images/site_icons/forum.png" alt="" />\r\n				View Forum Posts\r\n			</a>\r\n		</li>\r\n		\r\n		\r\n		<li class="left">\r\n			<a href="private.php?do=newpm&amp;u=2" rel=\'nofollow\'>\r\n				<img src="images/site_icons/message.png" alt="" />\r\n				Private Message\r\n			</a>\r\n		</li>\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		\r\n		<li class="right">\r\n			<a href="list.php/author/2-UrbanWaterloo" rel=\'nofollow\'>\r\n				<img src="images/site_icons/article.png" alt="" />\r\n				View Articles\r\n			</a>\r\n		</li>\r\n		\r\n\r\n		\r\n\r\n		\r\n		\r\n	</ul>\r\n</div>\r\n \r\n						<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />\r\n\r\n \r\n					\r\n					<span class="usertitle">\r\n						Senior Moderator\r\n					</span>\r\n					\r\n\r\n                                        \r\n					\r\n					\r\n						<div class="imlinks">\r\n							    \r\n						</div>\r\n					\r\n				</div>\r\n			</div>\r\n			\r\n				<div class="userinfo_extra">\r\n					<dl class="userstats">\r\n						<dt>Join Date</dt> <dd>Dec 2009</dd>\r\n						<dt>Location</dt> <dd>Kitchener-Waterloo</dd>\r\n						\r\n						<dt>Posts</dt> <dd>454</dd>	\r\n						\r\n					</dl>\r\n					\r\n					\r\n				</div>\r\n			\r\n		</div>\r\n	</div>\r\n\r\n	<div class="postbody">\r\n		\r\n		<div class="postrow">\r\n		\r\n		<h2 class="posttitle icon icon0">\r\n			\r\n		</h2>\r\n		\r\n				\r\n				\r\n		<div class="content<!-' + '-' + '-' + '->">\r\n			<div id="post_message_290">\r\n				<blockquote class="postcontent restore">\r\n					<b><font size="4"><font color="blue">Cycling summits aim to shape policy</font></font></b><br />\r\nAugust 28, 2009 <br />\r\nBy Brent Davis, Record staff<br />\r\n<a href="/web/20100203145002/http://news.therecord.com/article/590759" target="_blank">/web/20100203145002/http://news.therecord.com/article/590759</a><br />\r\n<br />\r\nWATERLOO REGION — Waterloo and Kitchener will be the hub of the provincial cycling world in September, as the cities host a pair of summits for the two-wheeled community.<br />\r\n<br />\r\nThe Waterloo Inn will be the site for the first Ontario Bike Summit from Sept. 20 to 22. Presented by the Share the Road Cycling Coalition, the summit will bring together politicians, planners and advocates with the goal of shaping a provincial cycling policy in the coming years.<br />\r\n<br />\r\nA few days later, the Chicopee Ski and Summer Resort will be the setting for the first Ontario Mountain Bike Summit, which will combine hands-on trail building activities with seminars and networking opportunities.<br />\r\n<br />\r\n“We’ve got a growing and burgeoning interest in cycling here,” said Eleanor McMahon, who founded the Share the Road Cycling Coalition after her husband, Greg Stobbart, an OPP sergeant, was killed in an off-duty cycling collision in 2006.<br />\r\n<br />\r\nMcMahon feels it’s time Ontario developed a comprehensive bicycle policy, similar to ones already adopted by Quebec and British Columbia.<br />\r\n<br />\r\nThe Ontario Bike Summit, she said, “is a beginning of a conversation with government” on making that happen.<br />\r\n<br />\r\nTo that end, she has invited representatives from Ontario’s Liberal, Conservative, New Democratic and Green parties to participate in a panel discussion.<br />\r\n<br />\r\nMcMahon believes the main thing holding back more provinces and municipalities from undertaking cycling master plans is that they don’t know where to begin.<br />\r\n<br />\r\nShe’s hopeful speakers, including Andy Clarke, Executive Director of the League of American Bicyclists, and Cycling England chair Phillip Darnton, will share their ideas and experiences.<br />\r\n<br />\r\n“Most major cities in the world have seized on cycling,” McMahon said, citing its health and environmental advantages. “Why can’t we increase its popularity here?”<br />\r\n<br />\r\nCalling Waterloo an ideal host for the summit, McMahon credited the city with its efforts to incorporate cyclists’ needs and concerns into its planning processes.<br />\r\n<br />\r\nLater that week, the mountain bikers will roll into Kitchener for their own event, which will include group rides and trail work on the Chicopee property.<br />\r\n<br />\r\nBut there’s also a political slant to this summit, hosted by the International Mountain Bicycling Association, as organizers look to create a provincial mountain biking federation that can address the cyclists’ concerns on a wider scale.<br />\r\n<br />\r\n“It can be very locally focused. We can target those issues we’re facing in our areas . . . but every jurisdiction is different,” said Jason Murray, one of the summit’s co-ordinators.<br />\r\n<br />\r\n“We want to get everybody in the room,” said Murray, who will also be speaking at the Ontario Bike Summit.<br />\r\n<br />\r\nTopics will include building bike parks and sustainable trails, organizing clubs and working with land managers. The latest film in the New World Disorder series will also have its Canadian premiere during the event.<br />\r\n<br />\r\nOrganizers chose Kitchener as an “attractive” location, with bike parks at Chicopee and McLennan Park and strong clubs in Waterloo and Guelph.<br />\r\n<br />\r\nMurray said the two summits complement each other. “I think it does speak to the surging popularity (of cycling).<br />\r\n<br />\r\n“We’re worried about rising gas prices, environmental impact, sustainability, childhood and adult obesity . . . They all seem to intersect with ‘Go ride a bike.’”<br />\r\n<br />\r\nRegistration for the Ontario Bike Summit begins at $140 per person, while the mountain bike summit costs $75.<br />\r\n<br />\r\nFor more information, visit the summit websites at <a href="/web/20100203145002/http://www.sharetheroad.ca" target="_blank">www.sharetheroad.ca</a> and <a href="/web/20100203145002/http://go.imba.com/ontariosummit" target="_blank">/web/20100203145002/http://go.imba.com/ontariosummit</a>.\r\n				</blockquote>\r\n			</div>\r\n\r\n			\r\n\r\n\r\n		</div>\r\n			\r\n\r\n                        	\r\n		        \r\n			\r\n			<blockquote class="signature restore"><div class="signaturecontainer"><a href="showthread.php?t=116" rel="nofollow" title="Wonderful Waterloo - Thread 116"><font color="Green"><font size="2"><b>Canadian Monopoly - Vote for Kitchener &amp; Nominate our Other Municipalities </b></font></font></a></div></blockquote>\r\n			\r\n\r\n			\r\n		</div>\r\n	</div>\r\n	<div class="postfoot">\r\n		<div class="textcontrols">\r\n			<span class="postcontrols">\r\n				<img style="display:none" id="progress_290" src="images/misc/progress.gif"  alt="" />\r\n				\r\n\r\n				\r\n				\r\n					<a id="qrwq_290" class="newreply" href="newreply.php?do=newreply&amp;p=290" rel="nofollow" ><img id="quoteimg_290" src="images/buttons/trans_40b.png" alt="Reply With Quote" /> Reply With Quote</a>\r\n					<span class="seperator">&nbsp;</span>\r\n				\r\n				\r\n			</span>\r\n\r\n			<span class="postlinking">\r\n				\r\n					\r\n				\r\n				\r\n\r\n				 \r\n				\r\n\r\n					\r\n\r\n					\r\n					 \r\n\r\n					\r\n					\r\n					\r\n					\r\n			</span>\r\n		</div>\r\n	</div>\r\n	<hr />\r\n</li>\r\n  ';
+        
+        // next/previous post info
+        pn[286] = "290,287";
+        pn[0] = ",286";
+        pn[287] = "286,288";
+        pn[288] = "287,289";
+        pn[289] = "288,290";
+        pn[290] = "289,286";
+        
+        // cached usernames
+        pu[0] = guestphrase;
+        pu[2] = "UrbanWaterloo";
+        
+        // -->
+        </script>
+        
+        
+        <div id="threaded_view">
+        	<h4>Threaded View</h4>
+        
+        	<div id="posttree">
+        		<script type="text/javascript">
+        		<!--
+        			writeLink(286, 0, 0, 2, "", "Cycling in Waterloo Region", "01-03-2010", "02:09 AM", 0, "showthread.php/65-Cycling-in-Waterloo-Region?p=286#post286");
+          writeLink(287, 0, 0, 2, "T", "<i>A chance to ride with Lance...</i>", "01-03-2010", "02:09 AM", 0, "showthread.php/65-Cycling-in-Waterloo-Region?p=287#post287");
+          writeLink(288, 0, 0, 2, "L", "<i>Teen to ride with tour de...</i>", "01-03-2010", "02:10 AM", 0, "showthread.php/65-Cycling-in-Waterloo-Region?p=288#post288");
+            writeLink(289, 0, 0, 2, "1,T", "<i>Lance's Tour de Région; Lance...</i>", "01-03-2010", "02:11 AM", 0, "showthread.php/65-Cycling-in-Waterloo-Region?p=289#post289");
+            writeLink(290, 0, 0, 2, "1,L", "<i>Cycling summits aim to shape...</i>", "01-03-2010", "02:12 AM", 0, "showthread.php/65-Cycling-in-Waterloo-Region?p=290#post290");
+        
+        		//-->
+        		</script>
+        	</div>
+        </div> 
+        	
+        
+        	
+        		<ol id="posts" class="posts" start="1">
+        			<li class="postbit postbitim postcontainer" id="post_286">
+        	<div class="postdetails_noavatar">
+        		<div class="posthead">
+        			<label for="post_imod_checkbox_286">
+        			<span class="postdate old">
+        			
+        			<span class="date">01-03-2010&nbsp;<span class="time">02:09 AM</span></span>
+        			
+        			</span>
+        			<span class="nodecontrols">
+        				<span class="postcontrols_top">
+        					
+        						<a name="post286"></a>
+        						<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php/65-Cycling-in-Waterloo-Region?p=286#post286" class="postcounter" id="postcount286" title="1">#1</a>
+        					
+        					
+        				</span>
+        			</span>
+        			</label>
+        		</div>
+        
+        		<div class="userinfo">
+        			<div class="contact">
+        				
+        					<a class="postuseravatarlink" href="/web/20100203145002/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline">
+        						
+        							<img src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/image.php?u=2&amp;dateline=1261637798" alt="UrbanWaterloo's Avatar" />
+        						
+        					</a>
+        				
+        				<div class="username_container">
+        					
+        						<div class="popupmenu memberaction">
+        	<a class="username offline popupctrl" href="/web/20100203145002/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo" title="UrbanWaterloo is offline"><strong>UrbanWaterloo</strong></a>
+        	<ul class="popupbody popuphover memberaction_body">
+        		<li class="left">
+        			<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/member.php/2-UrbanWaterloo">
+        				<img src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/site_icons/profile.png" alt="" />
+        				View Profile
+        			</a>
+        		</li>
+        		
+        		<li class="right">
+        			<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/search.php?do=finduser&amp;userid=2&amp;contenttype=vBForum_Post&amp;showposts=1" rel='nofollow'>
+        				<img src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/site_icons/forum.png" alt="" />
+        				View Forum Posts
+        			</a>
+        		</li>
+        		
+        		
+        		<li class="left">
+        			<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/private.php?do=newpm&amp;u=2" rel='nofollow'>
+        				<img src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/site_icons/message.png" alt="" />
+        				Private Message
+        			</a>
+        		</li>
+        		
+        		
+        		
+        		
+        		
+        		
+        		
+        		<li class="right">
+        			<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/list.php/author/2-UrbanWaterloo" rel='nofollow'>
+        				<img src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/site_icons/article.png" alt="" />
+        				View Articles
+        			</a>
+        		</li>
+        		
+        
+        		
+        
+        		
+        		
+        	</ul>
+        </div>
+         
+        						<img class="inlineimg onlinestatus" src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/statusicon/user-offline.png" alt="UrbanWaterloo is offline" border="0" />
+        
+         
+        					
+        					<span class="usertitle">
+        						Senior Moderator
+        					</span>
+        					
+        
+                                                
+        					
+        					
+        						<div class="imlinks">
+        							    
+        						</div>
+        					
+        				</div>
+        			</div>
+        			
+        				<div class="userinfo_extra">
+        					<dl class="userstats">
+        						<dt>Join Date</dt> <dd>Dec 2009</dd>
+        						<dt>Location</dt> <dd>Kitchener-Waterloo</dd>
+        						
+        						<dt>Posts</dt> <dd>454</dd>	
+        						
+        					</dl>
+        					
+        					
+        				</div>
+        			
+        		</div>
+        	</div>
+        
+        	<div class="postbody">
+        		
+        		<div class="postrow">
+        		
+        		<h2 class="posttitle icon icon0">
+        			Cycling in Waterloo Region
+        		</h2>
+        		
+        				
+        				
+        		<div class="content<!---->">
+        			<div id="post_message_286">
+        				<blockquote class="postcontent restore">
+        					<div align="center"><b><font size="4"><font color="green">Cycling in Waterloo Region </font></font></b><br />
+        <br />
+        <img src="/web/20100203145002im_/http://www.bj08.asia/images/sports/cyc_road_cycling.png" border="0" alt="" /><br />
+        <a href="/web/20100203145002/http://www.bj08.asia/images/sports/cyc_road_cycling.png" target="_blank">http://www.bj08.asia/images/sports/cyc_road_cycling.png</a></div><br />
+        <b>Regional Cycling Advisory Committee Agendas and Minutes:</b> <a href="/web/20100203145002/http://region.waterloo.on.ca/web/region.nsf/afedf1d73f0791a185256af00073fa7c/d13090671ea5d6fc85256b05005a49a8!OpenDocument" target="_blank">http://region.waterloo.on.ca/web/reg...8!OpenDocument</a><br />
+        <br />
+        <b>Regional Cycling Master Plan Site:</b> <a href="/web/20100203145002/http://www.region.waterloo.on.ca/web/Region.nsf/0/bba9f35e6e019ada8525760f0055ac05?OpenDocument" target="_blank">http://www.region.waterloo.on.ca/web...5?OpenDocument</a><br />
+        2004 PDF: http://chd.region.waterloo.on.ca/web/Region.nsf/0/BBA9F35E6E019ADA8525760F0055AC05/$file/CYCLING_MASTER_PLAN_2004.pdf?OpenElement<br />
+        Staff Report To Regional Council November 2004: http://www.region.waterloo.on.ca/web/Region.nsf/0/BBA9F35E6E019ADA8525760F0055AC05/$file/CMPP04127.pdf?OpenElement<br />
+        Map Update: http://www.region.waterloo.on.ca/web/Region.nsf/0/BBA9F35E6E019ADA8525760F0055AC05/$file/Map4.pdf?OpenElement
+        				</blockquote>
+        			</div>
+        
+        			
+        
+        
+        		</div>
+        			
+        			<!-- edit note -->
+        			<blockquote class="postcontent lastedited">
+        <!--						<img src="images/buttons/edit_40b.png" alt="" /> -->
+        				
+        					Last edited by UrbanWaterloo; 01-03-2010 at <span class="time">02:18 AM</span>.
+        				
+        				
+        			</blockquote>
+        			<!-- / edit note -->
+        			
+        
+                                	
+        		        
+        			
+        			<blockquote class="signature restore"><div class="signaturecontainer"><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php?t=116" rel="nofollow" title="Wonderful Waterloo - Thread 116"><font color="Green"><font size="2"><b>Canadian Monopoly - Vote for Kitchener &amp; Nominate our Other Municipalities </b></font></font></a></div></blockquote>
+        			
+        
+        			
+        		</div>
+        	</div>
+        	<div class="postfoot">
+        		<div class="textcontrols">
+        			<span class="postcontrols">
+        				<img style="display:none" id="progress_286" src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/misc/progress.gif"  alt="" />
+        				
+        
+        				
+        				
+        					<a id="qrwq_286" class="newreply" href="/web/20100203145002/http://www.wonderfulwaterloo.com/newreply.php?do=newreply&amp;p=286" rel="nofollow" ><img id="quoteimg_286" src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/buttons/trans_40b.png" alt="Reply With Quote" /> Reply With Quote</a>
+        					<span class="seperator">&nbsp;</span>
+        				
+        				
+        			</span>
+        
+        			<span class="postlinking">
+        				
+        					
+        				
+        				
+        
+        				 
+        				
+        
+        					
+        
+        					
+        					 
+        
+        					
+        					
+        					
+        					
+        			</span>
+        		</div>
+        	</div>
+        	<hr />
+        </li>
           
-  </div>
-  </div> <!-- closing div for body_wrapper -->
-  
-  <div class="below_body">
-  <div id="footer_time" class="shade footer_time">All times are GMT -5. The time now is <span class="time">09:50 AM</span>.</div>
-  
-  <div id="footer_copyright" class="shade footer_copyright">
-  	<!-- Do not remove this copyright notice -->
-  	Powered by <a href="/web/20100203145002/http://www.vbulletin.com/" id="vbulletinlink">vBulletin&trade;</a> Version 4.0.1 <br />Copyright &copy; 2010 vBulletin Solutions, Inc. All rights reserved. 
-  	<!-- Do not remove this copyright notice -->	
-  </div>
-  <div id="footer_morecopyright" class="shade footer_morecopyright">
-  	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
-  	<img src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/cron.php?rand=1265208600" alt="" width="1" height="1" border="0" />
-  	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
-  	
-  </div>
-  
-    
-  </div> 
-  </body>
-  </html> 
-  
-  
-  
-  
-  <!--
-       FILE ARCHIVED ON 14:50:02 Feb 3, 2010 AND RETRIEVED FROM THE
-       INTERNET ARCHIVE ON 1:34:28 Aug 25, 2014.
-       JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-  
-       ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-       SECTION 108(a)(3)).
-  -->
+        		</ol>
+                        <div class="separator"></div>
+        		<div class="postlistfoot">
+        			
+        		</div>
+        
+        	
+        
+        </div>
+        
+        <div id="below_postlist" class="below_postlist">
+        	
+        	<div id="pagination_bottom" class="pagination_bottom">
+        	
+        		<div class="clear"></div>
+        <div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
+        	
+        		<span class="shade">Quick Navigation</span>
+        		<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php/65-Cycling-in-Waterloo-Region" class="popupctrl"><span class="ctrlcontainer">Transportation and Infrastructure</span></a>
+        	<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php/65-Cycling-in-Waterloo-Region#top" class="textcontrol" onclick="document.location.hash='top';return false;">Top</a>
+        	
+        	<ul class="navpopupbody popupbody popuphover">
+        		
+        		<li class="optionlabel">Site Areas</li>
+        		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/usercp.php">Settings</a></li>
+        		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/private.php">Private Messages</a></li>
+        		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/subscription.php">Subscriptions</a></li>
+        		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/online.php">Who's Online</a></li>
+        		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/search.php">Search Forums</a></li>
+        		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forum.php">Forums Home</a></li>
+        			
+        		
+        			<li class="optionlabel">Forums</li>
+        			<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/1-Construction-and-Land-Development">Construction and Land Development</a>
+        	<ol class="d1">
+        		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/2-Downtowns">Downtowns</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/5-Suburbs">Suburbs</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/6-Townships">Townships</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/27-Past-Developments">Past Developments</a></li> 
+        	</ol>
+        </li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/7-Urban-Issues">Urban Issues</a>
+        	<ol class="d1">
+        		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/8-Urban-Design">Urban Design</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/9-Urban-Issues">Urban Issues</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/10-Heritage">Heritage</a></li> 
+        	</ol>
+        </li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/11-Regional-Economy-and-Politics">Regional Economy and Politics</a>
+        	<ol class="d1">
+        		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/12-Economy">Economy</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/13-Politics">Politics</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/14-Transportation-and-Infrastructure">Transportation and Infrastructure</a></li> 
+        	</ol>
+        </li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/15-Food-and-Retail">Food and Retail</a>
+        	<ol class="d1">
+        		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/16-Retail-News">Retail News</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/17-Food-and-Dining">Food and Dining</a></li> 
+        	</ol>
+        </li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/18-Entertainment-and-Recreation">Entertainment and Recreation</a>
+        	<ol class="d1">
+        		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/19-Arts-and-Culture">Arts and Culture</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/20-Nightlife">Nightlife</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/21-Sports-and-Recreation">Sports and Recreation</a></li> 
+        	</ol>
+        </li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/22-General">General</a>
+        	<ol class="d1">
+        		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/23-General-Discussion">General Discussion</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/24-Waterloo-Region-Photography">Waterloo Region Photography</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/25-Outside-Waterloo-Region">Outside Waterloo Region</a></li> <li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/forumdisplay.php/26-Forum-Issues">Forum Issues</a></li> 
+        	</ol>
+        </li> 
+        		
+        		
+        	</ul>
+        </div> 
+        	</div>
+        </div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <!-- next / previous links -->
+        <div class="navlinks">
+        	<strong>&laquo;</strong>
+        	<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php?t=65&amp;goto=nextoldest" rel="nofollow">Previous Thread</a>
+        	|
+        	<a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php?t=65&amp;goto=nextnewest" rel="nofollow">Next Thread</a>
+        	<strong>&raquo;</strong>
+        </div>
+        <!-- / next / previous links -->
+        
+        <div id="thread_info" class="thread_info">
+        	
+        	
+        	
+        	
+        	<div class="options_block_container">
+        		
+        		<div class="options_block">
+        			<div class="collapse">
+        				<a class="collapse" id="collapse_posting_rules" href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php/65-Cycling-in-Waterloo-Region#top"><img src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/images/buttons/collapse_40b.png" alt="" /></a>
+        				<h4><span class="optiontitle">Posting Permissions</span></h4>
+        			</div>
+        			<div id="posting_rules" class="thread_info_block">
+        				
+        <div id="thread_posting_rules" class="info_subblock">
+        	<ul id="thread_rules" class="youcandoblock">
+        		<li>You <strong>may not</strong> post new threads</li>
+        		<li>You <strong>may not</strong> post replies</li>
+        		<li>You <strong>may not</strong> post attachments</li>
+        		<li>You <strong>may not</strong> edit your posts</li>
+        	</ul>
+        	<div id="more_rules" class="bbcodeblock">
+        		<ul>
+        			<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/misc.php?do=bbcode" target="_blank">BB code</a> is <strong>On</strong></li>
+        			<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/misc.php?do=showsmilies" target="_blank">Smilies</a> are <strong>On</strong></li>
+        			<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/misc.php?do=bbcode#imgcode" target="_blank">[IMG]</a> code is <strong>On</strong></li>
+        			<li>HTML code is <strong>Off</strong></li>
+        		</ul>
+        	</div>
+        	<p class="rules_link"><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/misc.php?do=showrules" target="_blank">Forum Rules</a></p>
+        </div>
+         
+        			</div>
+        		</div>
+        
+        	</div>
+        
+        </div>
+        
+        
+        
+        
+        
+        
+        
+         
+         
+        <div id="footer" class="floatcontainer footer">
+        
+        	<form action="/web/20100203145002/http://www.wonderfulwaterloo.com/forum.php" method="get" id="footer_select" class="footer_select">
+        
+        			
+        		
+        			<select name="styleid" onchange="switch_id(this, 'style')">
+        				<optgroup label="Quick Style Chooser">
+        					<option value="2" class="" selected="selected">-- vB4 Default Style</option> 
+        				</optgroup>
+        			</select>	
+        		
+        		
+        		
+        			<select name="langid" onchange="switch_id(this, 'lang')">
+        				<optgroup label="Quick Language Chooser">
+        					<option value="1" class="" selected="selected">-- English (US)</option> 
+        				</optgroup>
+        			</select>
+        		
+        	</form>
+        
+        	<ul id="footer_links" class="footer_links">
+        		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/sendmessage.php" rel="nofollow" accesskey="9">Contact Us</a></li>
+        		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/">Wonderful Waterloo</a></li>
+        		
+        		
+        		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/archive/index.php">Archive</a></li>
+        		
+        		
+        		
+        		<li><a href="/web/20100203145002/http://www.wonderfulwaterloo.com/showthread.php/65-Cycling-in-Waterloo-Region#top" onclick="document.location.hash='top'; return false;">Top</a></li>
+        	</ul>
+        	
+        	
+        	
+        	
+        	<script type="text/javascript">
+        	<!--
+        		// Main vBulletin Javascript Initialization
+        		vBulletin_init();
+        	//-->
+        	</script>
+                
+        </div>
+        </div> <!-- closing div for body_wrapper -->
+        
+        <div class="below_body">
+        <div id="footer_time" class="shade footer_time">All times are GMT -5. The time now is <span class="time">09:50 AM</span>.</div>
+        
+        <div id="footer_copyright" class="shade footer_copyright">
+        	<!-- Do not remove this copyright notice -->
+        	Powered by <a href="/web/20100203145002/http://www.vbulletin.com/" id="vbulletinlink">vBulletin&trade;</a> Version 4.0.1 <br />Copyright &copy; 2010 vBulletin Solutions, Inc. All rights reserved. 
+        	<!-- Do not remove this copyright notice -->	
+        </div>
+        <div id="footer_morecopyright" class="shade footer_morecopyright">
+        	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+        	<img src="/web/20100203145002im_/http://www.wonderfulwaterloo.com/cron.php?rand=1265208600" alt="" width="1" height="1" border="0" />
+        	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+        	
+        </div>
+        
+          
+        </div> 
+        </body>
+        </html> 
+        
+        
+        
+        
+        <!--
+             FILE ARCHIVED ON 14:50:02 Feb 3, 2010 AND RETRIEVED FROM THE
+             INTERNET ARCHIVE ON 1:34:28 Aug 25, 2014.
+             JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+        
+             ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+             SECTION 108(a)(3)).
+        -->
