@@ -29,4 +29,8 @@ How can I help recover archived material?
 
 **Use Warrick to scrape various web archives**. [Warrick](https://code.google.com/p/warrick/wiki/About_Warrick) is a command-line Perl utility for recovering websites from your local cache, archive.org, Google cache, Bing cache, et al. I have already used this tool with some success, but multiple attempts by different machines may deliver more results.
 
-Please submit a pull request for any data you manage to recover with Warrick. No need to filter anything out, we want as complete a record as possible even if some content seems irrelevant.
+**Find externally-linked photos that people linked to in their posts**. Some users may have hotlinked photos from photobucket, flickr, or elsewhere on the web. These could still be around. You could scrape the JSON files for references to external photos, and save them to the data dump.
+
+**Fix corrupted files**. There appear to be a lot of corrupted files in the `raw_data` folder. I'm no expert in fixing these kinds of issues, but there could be some content worth recovering there.
+
+Please submit a pull request for any data you manage to recover. No need to filter anything out, we want as complete a record as possible even if some content seems irrelevant.
